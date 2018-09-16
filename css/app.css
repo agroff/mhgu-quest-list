@@ -86,3 +86,35 @@ body {
     padding-top: 8px;
     display: inline-block;
 }
+
+.quest-item:hover,
+.quest-item:focus{
+    background-color: #f7feff;
+}
+
+
+@media (min-width: 768px) {
+    .quest-item .sub-text,
+    .quest-item .header{
+        display:inline-block;
+
+    line-height: 25px;
+    }
+    .quest-item .quest-title .header{
+        width:300px;
+    }
+    .quest-item .quest-monster .header{
+        float: right;
+        width: 140px;
+    }
+    .key-type{
+        width:46px;
+        padding-top:2px;
+    }
+    .key-quest-label{
+        margin-top: 0;
+    }
+    .form-row{
+        padding: 22px 0;
+    }
+}
