@@ -1,0 +1,88 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.form-row{
+    padding:10px 0;
+}
+.form-row select{
+    /* margin:4px; */
+}
+.attribution{
+    padding-top:20px;
+    text-align: center;
+    color:#666;
+    font-size:0.8em;
+}
+
+.quest-item{
+    display:flex;
+    border-top:1px solid #eee;
+    padding:4px;
+}
+.key-type{
+    width:32px;
+    padding-top:10px;
+}
+.key-type.key .key-indicator{
+    background-color: #72c1fa;
+}
+.key-type.urgent .key-indicator{
+    background-color: #cd4c4c;
+}
+.key-indicator{
+    background-color: #BBB;
+    border-radius:50%;
+    width:18px;
+    height:18px;
+    
+    margin:auto
+}
+
+.quest-item .header{
+    display:block;
+    font-size:1.1em;
+}
+.quest-item .sub-text{
+    color:#b4b4b4;
+}
+
+.header.gather{
+    color:#468f46;
+}
+.header.capture{
+    color:#5959ba;
+}
+.header.slay{
+    color:#951414;
+}
+.header.hunt{
+    color:#e97c8f;
+}
+
+.quest-monster{
+    flex:1;
+    text-align: right;
+}
+
+#hubRank,
+#villageRank{
+    display:none;
+}
+
+.key-quest-label{
+    font-weight: normal;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+.toggle.btn{
+    float:right;
+}
+.key-quest-label span{
+    padding-top: 8px;
+    display: inline-block;
+}
