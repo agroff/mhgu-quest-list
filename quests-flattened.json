@@ -229,7 +229,7 @@
     "location": "V. Hills ",
     "monster": "Velocidrome",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "2"
   },
@@ -238,7 +238,7 @@
     "location": "V. Hills ",
     "monster": "",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Slay",
     "rank": "2"
   },
@@ -274,7 +274,7 @@
     "location": "A. Ridge ",
     "monster": "Bulldrome",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "2"
   },
@@ -283,7 +283,7 @@
     "location": "A. Ridge ",
     "monster": "",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Slay",
     "rank": "2"
   },
@@ -319,7 +319,7 @@
     "location": "M. Peaks ",
     "monster": "Arzuros",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "2"
   },
@@ -328,7 +328,7 @@
     "location": "M. Peaks ",
     "monster": "",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Slay",
     "rank": "2"
   },
@@ -553,7 +553,7 @@
     "location": "V. Hills ",
     "monster": "Yian Kut-Ku",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "3"
   },
@@ -562,7 +562,7 @@
     "location": "V. Hills ",
     "monster": "",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Gather",
     "rank": "3"
   },
@@ -571,7 +571,7 @@
     "location": "V. Hills ",
     "monster": "",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Gather",
     "rank": "3"
   },
@@ -598,7 +598,7 @@
     "location": "A. Ridge ",
     "monster": "Khezu",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "3"
   },
@@ -607,7 +607,7 @@
     "location": "A. Ridge ",
     "monster": "",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Gather",
     "rank": "3"
   },
@@ -616,7 +616,7 @@
     "location": "A. Ridge ",
     "monster": "",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Gather",
     "rank": "3"
   },
@@ -643,7 +643,7 @@
     "location": "M. Peaks ",
     "monster": "Royal Ludroth",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "3"
   },
@@ -652,7 +652,7 @@
     "location": "M. Peaks ",
     "monster": "Bulldrome",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "3"
   },
@@ -661,7 +661,7 @@
     "location": "M. Peaks ",
     "monster": "Bulldrome",
     "questType": "Village",
-    "keyType": "urgent",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "3"
   },
@@ -1183,7 +1183,7 @@
     "location": "V. Hills ",
     "monster": "Astalos",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "5"
   },
@@ -1219,7 +1219,7 @@
     "location": "A. Ridge ",
     "monster": "Gammoth",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "5"
   },
@@ -1237,7 +1237,7 @@
     "location": "M. Peaks ",
     "monster": "Mizutsune",
     "questType": "Village",
-    "keyType": "normal",
+    "keyType": "pre-req",
     "huntType": "Hunt",
     "rank": "5"
   },

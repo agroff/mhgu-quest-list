@@ -115,7 +115,11 @@ function applyFilters() {
 
 function renderQuestList(quests) {
     var html = '';
+
+    //Source data has duplicates - We won't display them on the same screen.
+    var duplicateLookup = {};
     $.each(quests, function (i, quest) {
+        const isKeyQuest = quest.keyType === 'key' || quest.keyType === 'pre-req';
         if(quest.questType !== typeFilter){
             return;
         }
@@ -125,9 +129,15 @@ function renderQuestList(quests) {
         if (typeFilter === "Hub" && quest.rank !== hubRankFilter) {
             return;
         }
-        if(onlyShowKey && quest.keyType !== 'key'){
+        if(onlyShowKey && !isKeyQuest){
             return;
         }
+        if(duplicateLookup.hasOwnProperty(quest.title)){
+            return;
+        }
+
+        duplicateLookup[quest.title] = quest.title;
+        
         html += questToHtml(quest);
     });
 

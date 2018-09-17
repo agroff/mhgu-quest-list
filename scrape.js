@@ -3,45 +3,81 @@ const jsdom = require("jsdom");
 const fs = require("fs");
 const url = "https://mhgu.kiranico.com/quest";
 
+const villageKeyTypeOverride = {
+  //Astalos/Kyoto Village
+  "Slay the Velociprey!": "pre-req",
+  "Hunt Down the Velocidrome!": "pre-req",
+  "Local Threat": "pre-req",
+  "Into the Wyvern's Den": "pre-req",
+  "The Thunderclaw Wyvern": "pre-req",
+
+  //Gammoth/Pokke Village
+  "Slay the Giaprey!": "pre-req",
+  "The Mountain Roughrider": "pre-req",
+  "The Shadow in the Mountains": "pre-req",
+  "No Go on the Popo": "pre-req",
+  "The Unwavering Colossus": "pre-req",
+
+  //Mizutsune/Yukumo Village
+  "Bye Bye Jaggia": "pre-req",
+  "Arzuros the Azure Beast": "pre-req",
+  "Royal Spit Take": "pre-req",
+  "A Forest Fracas": "pre-req",
+  "The Entrancing Water Dancer": "pre-req",
+};
+
 let $ = {};
 
+function overwriteKeyType(keyType, title, questType) {
+  if (questType == "Village") {
+    if (villageKeyTypeOverride.hasOwnProperty(title)) {
+      return villageKeyTypeOverride[title];
+    }
+  }
+
+  return keyType;
+}
 
 function getQuestsOfStars(stars, questType, $container) {
   const quests = [];
   const $rows = $("table.table-sm tr", $container);
 
-  $rows.each(function(){
+  $rows.each(function () {
     const $children = $("td", $(this));
     const $firstCell = $children.eq(0);
 
-    if($children.length < 4){
+    if ($children.length < 4) {
       return;
     }
 
     let keyType = "normal";
+    let title = $.trim($children.eq(1).text());
+    let monster = $.trim($children.eq(2).text())
     let huntType = $("div", $firstCell).first().text();
     let location = $("a", $firstCell).text();
 
-    if($(".badge-danger", $firstCell).length > 0){
+    if ($(".badge-danger", $firstCell).length > 0) {
       keyType = "urgent";
     }
-    if($(".badge-success", $firstCell).length > 0){
+    if ($(".badge-success", $firstCell).length > 0) {
       keyType = "key";
     }
 
-    if(stars > 10){
+    keyType = overwriteKeyType(keyType, title, questType);
+
+    if (stars > 10) {
       stars = stars - 10;
       stars = "G " + stars;
     }
 
     quests.push({
-      title : $.trim($children.eq(1).text()),
-      location : location,
-      monster : $.trim($children.eq(2).text()),
-      questType : questType,
-      keyType : keyType,
-      huntType : huntType,
-      rank : stars
+      title: title,
+      location: location,
+      monster: monster,
+      questType: questType,
+      keyType: keyType,
+      huntType: huntType,
+      rank: stars
     });
 
   });
@@ -77,21 +113,21 @@ function getQuests() {
   return quests;
 }
 
-function writeAsJson(file, object){
+function writeAsJson(file, object) {
   const json = JSON.stringify(object, null, 2);
   fs.writeFileSync(file, json);
 }
 
-function writeFlattenedQuests(quests){
+function writeFlattenedQuests(quests) {
   const flattened = [];
-  $.each(quests, function(questType, starList){
-    $.each(starList, function(i, questList){
-      $.each(questList, function(c, quest){
+  $.each(quests, function (questType, starList) {
+    $.each(starList, function (i, questList) {
+      $.each(questList, function (c, quest) {
         //console.log(quest);
-        if(quest.questType === "Village"){
+        if (quest.questType === "Village") {
           flattened.push(quest);
         }
-        if(quest.questType === "Hub"){
+        if (quest.questType === "Hub") {
           flattened.push(quest);
         }
       });

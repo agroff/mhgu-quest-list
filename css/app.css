@@ -33,6 +33,9 @@ body {
 .key-type.urgent .key-indicator{
     background-color: #cd4c4c;
 }
+.key-type.pre-req .key-indicator{
+    background-color: #ffadff;
+}
 .key-indicator{
     background-color: #BBB;
     border-radius:50%;
@@ -66,6 +69,7 @@ body {
 .quest-monster{
     flex:1;
     text-align: right;
+    padding-right: 8px;
 }
 
 #hubRank,
@@ -92,6 +96,34 @@ body {
     background-color: #f7feff;
 }
 
+#indicator-key{
+    margin-top:19px;
+    background-color: #f2f2f2;
+    text-align: center;
+    border-radius: 4px;
+    padding: 4px;
+    padding-bottom: 10px;
+}
+#indicator-key h3{
+    margin: 6px;
+    text-transform: uppercase;
+    font-size: 1.4em;
+    color: #898989;
+    margin-bottom: 0;
+}
+
+#indicator-key .key-type{
+    width:100%;
+    text-align:left;
+}
+
+#indicator-key .key-type .key-indicator{
+    margin: 0px 10px;
+    float: left;
+}
+#indicator-key small{
+    /* display:block; */
+}
 
 @media (min-width: 768px) {
     .quest-item .sub-text,
@@ -116,5 +148,16 @@ body {
     }
     .form-row{
         padding: 22px 0;
+    }
+
+    #indicator-key{
+        max-width:600px;
+        margin:30px auto;
+        min-height: 100px;
+    }
+    #indicator-key .key-type{
+        float:left;
+        width:50%;
+        margin: 5px 0;
     }
 }
