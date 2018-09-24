@@ -5,13 +5,13 @@ var villageRankFilter = "";
 var hubRankFilter = "";
 var onlyShowKey = false;
 
-function fetchQuests(callback){
-    $.getJSON("quests-flattened.json", function(data){
+function fetchQuests(callback) {
+    $.getJSON("json/quests.json", function (data) {
         callback(data);
     });
 }
 
-function questToHtml(quest){
+function questToHtml(quest) {
     var huntClass = quest.huntType.toLowerCase();
 
     return `
@@ -31,21 +31,21 @@ function questToHtml(quest){
     `;
 }
 
-function objectToDropdown(options, dropdownId){
+function objectToDropdown(options, dropdownId) {
     var html = '';
-    $.each(options, function(option, value){
+    $.each(options, function (option, value) {
         html += `<option value="${option}">${value}</option>`;
     });
 
-    $("#"+dropdownId).html(html);
+    $("#" + dropdownId).html(html);
 }
 
-function renderDropdowns(quests){
+function renderDropdowns(quests) {
     var villageRanks = {};
     var hubRanks = {};
 
     $.each(quests, function (i, quest) {
-        if(quest.questType === "Village"){
+        if (quest.questType === "Village") {
             villageRanks[quest.rank] = quest.rank + " ★";
         }
         if (quest.questType === "Hub") {
@@ -58,14 +58,14 @@ function renderDropdowns(quests){
 
 }
 
-function saveFilters(){
+function saveFilters() {
     localStorage.setItem("typeFilter", typeFilter);
     localStorage.setItem("villageRankFilter", villageRankFilter);
     localStorage.setItem("hubRankFilter", hubRankFilter);
     localStorage.setItem("onlyShowKey", onlyShowKey);
 }
 
-function loadFilters(){
+function loadFilters() {
     typeFilter = localStorage.getItem("typeFilter") || "";
     villageRankFilter = localStorage.getItem("villageRankFilter") || "";
     hubRankFilter = localStorage.getItem("hubRankFilter") || "";
@@ -78,17 +78,17 @@ function loadFilters(){
         onlyShowKey = false;
     }
 
-    if(typeFilter !== ""){
+    if (typeFilter !== "") {
         $("#questType").val(typeFilter);
     }
-    if(villageRankFilter !== ""){
+    if (villageRankFilter !== "") {
         $("#villageRank").val(villageRankFilter);
     }
-    if(hubRankFilter !== ""){
+    if (hubRankFilter !== "") {
         $("#hubRank").val(hubRankFilter);
     }
 
-    if(onlyShowKey){
+    if (onlyShowKey) {
         $("#onlyKeyQuests").bootstrapToggle('on')
     }
 }
@@ -103,8 +103,7 @@ function applyFilters() {
     if (typeFilter === "Village") {
         $("#hubRank").hide();
         $("#villageRank").show();
-    }
-    else {
+    } else {
         $("#hubRank").show();
         $("#villageRank").hide();
     }
@@ -120,7 +119,7 @@ function renderQuestList(quests) {
     var duplicateLookup = {};
     $.each(quests, function (i, quest) {
         const isKeyQuest = quest.keyType === 'key' || quest.keyType === 'pre-req';
-        if(quest.questType !== typeFilter){
+        if (quest.questType !== typeFilter) {
             return;
         }
         if (typeFilter === "Village" && quest.rank !== villageRankFilter) {
@@ -129,29 +128,29 @@ function renderQuestList(quests) {
         if (typeFilter === "Hub" && quest.rank !== hubRankFilter) {
             return;
         }
-        if(onlyShowKey && !isKeyQuest){
+        if (onlyShowKey && !isKeyQuest) {
             return;
         }
-        if(duplicateLookup.hasOwnProperty(quest.title)){
+        if (duplicateLookup.hasOwnProperty(quest.title)) {
             return;
         }
 
         duplicateLookup[quest.title] = quest.title;
-        
+
         html += questToHtml(quest);
     });
 
     $("#quest-list").html(html);
 }
 
-function bindInterface(quests){
-    $("select, #onlyKeyQuests").change(function(){
+function bindInterface(quests) {
+    $("select, #onlyKeyQuests").change(function () {
         applyFilters();
         renderQuestList(quests);
     });
 }
 
-fetchQuests(function(quests){
+fetchQuests(function (quests) {
     renderDropdowns(quests);
     loadFilters();
     bindInterface(quests);

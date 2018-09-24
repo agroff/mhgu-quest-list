@@ -1,110 +1,126 @@
 body {
     padding-top: 50px;
 }
+
 .starter-template {
     padding: 40px 15px;
     text-align: center;
 }
-.form-row{
-    padding:10px 0;
+
+.form-row {
+    padding: 10px 0;
 }
-.form-row select{
+
+.form-row select {
     /* margin:4px; */
 }
-.attribution{
-    padding-top:20px;
+
+.attribution {
+    padding-top: 20px;
     text-align: center;
-    color:#666;
-    font-size:0.9em;
+    color: #666;
+    font-size: 0.9em;
 }
 
-.quest-item{
-    display:flex;
-    border-top:1px solid #eee;
-    padding:4px;
+.quest-item {
+    display: flex;
+    border-top: 1px solid #eee;
+    padding: 4px;
 }
-.key-type{
-    width:32px;
-    padding-top:10px;
+
+.key-type {
+    width: 32px;
+    padding-top: 10px;
 }
-.key-type.key .key-indicator{
+
+.key-type.key .key-indicator {
     background-color: #72c1fa;
 }
-.key-type.urgent .key-indicator{
+
+.key-type.urgent .key-indicator {
     background-color: #cd4c4c;
 }
-.key-type.pre-req .key-indicator{
+
+.key-type.pre-req .key-indicator {
     background-color: #ffadff;
 }
-.key-indicator{
+
+.key-indicator {
     background-color: #BBB;
-    border-radius:50%;
-    width:18px;
-    height:18px;
-    
-    margin:auto
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+
+    margin: auto
 }
 
-.quest-item .header{
-    display:block;
-    font-size:1.1em;
-}
-.quest-item .sub-text{
-    color:#b4b4b4;
+.quest-item .header {
+    display: block;
+    font-size: 1.1em;
 }
 
-.header.gather{
-    color:#468f46;
-}
-.header.capture{
-    color:#5959ba;
-}
-.header.slay{
-    color:#951414;
-}
-.header.hunt{
-    color:#e97c8f;
+.quest-item .sub-text {
+    color: #b4b4b4;
 }
 
-.quest-monster{
-    flex:1;
+.header.gather {
+    color: #468f46;
+}
+
+.header.capture {
+    color: #5959ba;
+}
+
+.header.slay {
+    color: #951414;
+}
+
+.header.hunt {
+    color: #e97c8f;
+}
+
+.quest-monster {
+    flex: 1;
     text-align: right;
     padding-right: 8px;
 }
 
 #hubRank,
-#villageRank{
-    display:none;
+#villageRank {
+    display: none;
 }
 
-.key-quest-label{
+.key-quest-label {
     font-weight: normal;
     text-align: center;
     display: block;
     margin-top: 10px;
 }
-.toggle.btn{
-    float:right;
+
+.toggle.btn {
+    float: right;
 }
-.key-quest-label span{
+
+.key-quest-label span {
     padding-top: 8px;
     display: inline-block;
 }
 
 .quest-item:hover,
-.quest-item:focus{
+.quest-item:focus {
     background-color: #f7feff;
 }
 
-#indicator-key{
-    margin-top:19px;
+#indicator-key {
+    margin-top: 19px;
     background-color: #f2f2f2;
     text-align: center;
     border-radius: 4px;
     padding: 4px;
     padding-bottom: 10px;
 }
-#indicator-key h3{
+
+#indicator-key h3 {
     margin: 6px;
     text-transform: uppercase;
     font-size: 1.4em;
@@ -112,52 +128,227 @@ body {
     margin-bottom: 0;
 }
 
-#indicator-key .key-type{
-    width:100%;
-    text-align:left;
+#indicator-key .key-type {
+    width: 100%;
+    text-align: left;
 }
 
-#indicator-key .key-type .key-indicator{
+#indicator-key .key-type .key-indicator {
     margin: 0px 10px;
     float: left;
 }
-#indicator-key small{
+
+#indicator-key small {
     /* display:block; */
 }
 
 @media (min-width: 768px) {
-    .quest-item .sub-text,
-    .quest-item .header{
-        display:inline-block;
 
-    line-height: 25px;
+    .quest-item .sub-text,
+    .quest-item .header {
+        display: inline-block;
+
+        line-height: 25px;
     }
-    .quest-item .quest-title .header{
-        width:300px;
+
+    .quest-item .quest-title .header {
+        width: 300px;
     }
-    .quest-item .quest-monster .header{
+
+    .quest-item .quest-monster .header {
         float: right;
         width: 140px;
     }
-    .key-type{
-        width:46px;
-        padding-top:2px;
+
+    .key-type {
+        width: 46px;
+        padding-top: 2px;
     }
-    .key-quest-label{
+
+    .key-quest-label {
         margin-top: 0;
     }
-    .form-row{
+
+    .form-row {
         padding: 22px 0;
     }
 
-    #indicator-key{
-        max-width:600px;
-        margin:30px auto;
+    #indicator-key {
+        max-width: 600px;
+        margin: 30px auto;
         min-height: 100px;
     }
-    #indicator-key .key-type{
-        float:left;
-        width:50%;
+
+    #indicator-key .key-type {
+        float: left;
+        width: 50%;
         margin: 5px 0;
     }
+}
+
+.navbar-header {
+    display: inline-block;
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+}
+
+.navbar {
+    height: 40px;
+}
+
+.navbar-nav {
+    margin: 0 -15px;
+}
+
+/***************************************
+ * Weapons Stuff
+ ***************************************/
+.weapon-control {
+    height: 38px;
+    position: relative;
+    z-index: 2;
+}
+
+.weapon-control.second {
+    z-index: 1;
+}
+
+.weaponList {
+    border: 1px solid #ddd;
+    background-color: white;
+    display: none;
+}
+
+.weaponOption {
+    background-color: #eff8ff;
+    cursor: pointer;
+    padding: 3px;
+    margin: 2px;
+}
+
+.weaponOption:hover {
+    background-color: #d5e4f1;
+}
+
+.weaponOption span {
+    float: right;
+}
+
+/***************************************
+ * Weapons Box
+ ***************************************/
+#weaponOneBox,
+#weaponTwoBox {
+    font-size: 1.2em;
+    color: white;
+    background: #262624;
+    border: 3px solid #367979;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin: 2px;
+    padding: 0 8px;
+    display: none;
+}
+
+.weapon-icon {
+    background-color: black;
+    padding: 0px;
+    border: 1px solid #696969;
+    margin-bottom: 5px;
+}
+
+.weapon-label,
+.weapon-value {
+    display: inline-block;
+}
+
+.weapon-label {
+    /* color: #2262a2; */
+    /* color: #588abb; */
+    color: #185ea0;
+    width: 28%;
+    font-weight: bold;
+}
+
+.weapon-value {
+    width: 18%;
+}
+
+.weapon-value.last {
+    text-align: right;
+}
+
+.weapon-row {
+    border-bottom: 1px solid #696969;
+    padding-top: 6px;
+}
+
+.slot {
+    border: 2px solid white;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.no-slot {
+    width: 12px;
+    border: 2px solid #eeee;
+    height: 0px;
+    display: inline-block;
+    margin-bottom: 4px;
+    margin-bottom: 4px;
+}
+
+.sharpness {
+    border: 2px solid #696969;
+    display: inline-block;
+    width: 60%;
+    height: 14px;
+}
+
+.sharpness span {
+    height: 10px;
+    width: 7%;
+    display: block;
+    float: left;
+}
+
+.sharpness .red {
+    background-color: #f70211;
+}
+
+.sharpness .orange {
+    background-color: #f89606;
+}
+
+.sharpness .yellow {
+    background-color: #f8f70d;
+}
+
+.sharpness .green {
+    background-color: #03d107;
+}
+
+.sharpness .blue {
+    background-color: #0803d1;
+}
+
+.sharpness .white {
+    background-color: #FFFFFF;
+}
+
+.sharpness .purple {
+    background-color: #7103d1;
+}
+
+.red-row {
+    height: 16px;
+    background-color: #5a1d22;
+    margin: -1px -8px;
 }
