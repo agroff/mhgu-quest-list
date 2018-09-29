@@ -59,6 +59,48 @@ function setHash() {
     window.location.hash = '#' + selectedOne + '|' + selectedTwo;
 }
 
+function getSharpnessModifier(weapon) {
+    var lookup = {
+        red: 0.5,
+        orange: 0.75,
+        yellow: 0.85,
+        green: 1.05,
+        blue: 1.2,
+        white: 1.32,
+        purple: 0.39
+    };
+    var sharpness = weapon.sharpness.normal;
+    var modifier = 0;
+
+    $.each(sharpness, function (color, length) {
+        var mod = lookup[color];
+        if (length < 2) {
+            return;
+        }
+        if (mod > modifier) {
+            modifier = mod;
+        }
+    });
+
+    return modifier;
+}
+
+function getModifiedDamage(weapon) {
+    // normalized = (rawAttack * sharpnessModifier) * (1.25 * affinity/100) + (elemental / 2)
+    var raw = parseInt(weapon.damage, 10);
+    var sharpness = getSharpnessModifier(weapon);
+    var affinity = parseInt(weapon.affinity) / 100;
+    var elemental = weapon.elemental.amount / 5;
+
+    var normalizedAffinity = 1 + (0.25 * affinity);
+
+    console.log(raw, sharpness, affinity, elemental);
+
+    var modified = (raw * sharpness) * normalizedAffinity + elemental;
+
+    return Math.floor(modified);
+}
+
 function renderWeapon(weapon, compareId) {
     var $container = $("#weapon" + compareId + "Box");
 
@@ -76,12 +118,16 @@ function renderWeapon(weapon, compareId) {
     var slots = getSlots(weapon);
     var sharpness = getSharpness(weapon);
 
+    var normalized = getModifiedDamage(weapon);
+    var damageString = weapon.damage;
+
 
     $("#weapon" + compareId).val(weapon.name);
     $(".weaponList").hide();
 
     $(".weapon-title", $container).text(weapon.name);
-    $(".attack-value", $container).text(weapon.damage);
+    $(".attack-value", $container).text(damageString);
+    $(".weapon-damage-normal", $container).text(normalized);
     $(".elem-value", $container).text(elem);
     $(".affinity-value", $container).text(affinity);
 
