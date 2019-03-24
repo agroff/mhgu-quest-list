@@ -1,0 +1,88 @@
+{{include: partials/header.html}}
+
+<!-- Page Content -->
+<div class="container">
+    <div class="row form-row">
+        <div class="col-xs-6 col-sm-4">
+            <select class="form-control" id="questType">
+                <option value="Village">Village</option>
+                <option value="Hub">Hub</option>
+            </select>
+        </div>
+        <div class="col-xs-6 col-sm-4" id="rankColumn">
+            <select class="form-control" id="villageRank">
+
+            </select>
+            <select class="form-control" id="hubRank">
+
+            </select>
+        </div>
+        <div class="col-xs-12 col-sm-4" id="rankColumn">
+            <label class="key-quest-label">
+                <input type="checkbox" id="onlyKeyQuests" data-toggle="toggle">
+                <span>Only Show Key Quests</span>
+            </label>
+        </div>
+    </div>
+
+    <div class="row" id="quest-list">
+
+    </div>
+
+    <div id="indicator-key">
+        <h3>Key</h3>
+        <div class="key-type key">
+            <div class="key-indicator" title="key"></div>
+            Key Quest
+            <small>
+                - Required to advance.
+            </small>
+        </div>
+        <div class="key-type pre-req">
+            <div class="key-indicator" title="key"></div>
+            Pre-requisite
+            <small>
+                - Unlocks key quests.
+            </small>
+        </div>
+        <div class="key-type urgent">
+            <div class="key-indicator" title="urgent"></div>
+            Urgent
+            <small>
+                - Unlocks new rank.
+            </small>
+        </div>
+        <div class="key-type normal">
+            <div class="key-indicator" title="urgent"></div>
+            Normal
+            <small>
+                - Fun but not required!
+            </small>
+        </div>
+    </div>
+
+    <p class="attribution">
+        Data sourced from
+        <a href="https://mhgu.kiranico.com/quest" target="_blank">
+            mhgu.kiranico.com
+        </a>
+    </p>
+
+    <p class="attribution">
+        <a href="https://github.com/agroff/mhgu-quest-list/blob/master/README.md" target="_blank">
+            About this site
+        </a>
+    </p>
+
+    <p class="attribution" style="color: #d63a3a;font-size: 1.2em;">
+        ❤️
+    </p>
+    <br>
+    <!-- /.row -->
+</div>
+
+{{
+    include: partials/footer.html
+    @scripts=
+    <script src="js/app.js?v=3"></script>
+}}

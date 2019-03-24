@@ -186,6 +186,49 @@ body {
     }
 }
 
+#navMenuContainer {
+    margin: auto;
+    height: 50px;
+    position: relative;
+    margin-top: -50px;
+}
+
+#navMenu {
+    position: absolute;
+    top: 40px;
+    z-index: 1031;
+    right: 0px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 3px 3px 10px #b1b1b1;
+    display: none;
+}
+
+#navMenu ul {
+    list-style: none;
+    padding-inline-start: 0px;
+    margin-bottom: 0;
+}
+
+#navMenu ul li {
+    display: block;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+#navMenu ul li:hover {
+    background: #f1f1f1;
+}
+
+#navMenu ul li:last-child {
+    border-bottom: none;
+}
+
+#navMenu ul li a {
+    display: block;
+    padding: 10px 20px;
+}
+
 .navbar-header {
     display: inline-block;
 }
@@ -194,6 +237,7 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
     line-height: 20px;
+    color: white;
 }
 
 .navbar {
@@ -241,8 +285,7 @@ body {
 /***************************************
  * Weapons Box
  ***************************************/
-#weaponOneBox,
-#weaponTwoBox {
+.weapon {
     font-size: 1.2em;
     color: white;
     background: #262624;
@@ -252,6 +295,32 @@ body {
     margin: 2px;
     padding: 0 8px;
     display: none;
+    position: relative;
+}
+
+@media screen and (min-width:700px) {
+    .weapon {
+        width: 49%;
+        float: left;
+        margin: 0.4%;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    .weapon {
+        width: 32.7%;
+        float: left;
+        margin: 0.31%;
+    }
+}
+
+
+
+.close-icon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
 }
 
 .weapon-icon {
@@ -264,6 +333,13 @@ body {
 .weapon-label,
 .weapon-value {
     display: inline-block;
+}
+
+.weapon-label.elem-label{
+    width:50px;
+}
+.weapon-value.elem-value{
+    width:80px;
 }
 
 .weapon-label {
@@ -354,4 +430,41 @@ body {
     font-size: 0.8em;
     text-align: center;
     color: #de7e8e;
+}
+
+/***************************************
+ * Weapons Skill Section
+ ***************************************/
+.new-skill {
+    text-align: center;
+}
+
+.new-skill a {
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+.skill-row {
+    display: flex;
+    font-size: 12px;
+    border-bottom: 1px solid #444;
+}
+
+.skill-row select {
+    border: 1px solid #8e8e8e;
+    font-size: 12px;
+    background: #383838;
+}
+
+.skill-dropdown {
+    padding: 10px 10px 10px 0px;
+}
+
+.skill-details {
+    text-align: right;
+    flex-grow: 1;
+}
+
+.single-skill {
+    display: none;
 }

@@ -1,11 +1,18 @@
 var weapons = [];
+var weaponList = [];
 
-selectedOne = "";
-selectedTwo = "";
+var selectedWeapons = [];
 
+var skillList = {};
 
-function fetchWeapons(callback) {
-    $.getJSON("json/hammer.json", function (data) {
+function fetchWeapons(type, callback) {
+    $.getJSON("json/weapons/" + type + ".json", function (data) {
+        callback(data);
+    });
+}
+
+function fetchWeaponList(callback) {
+    $.getJSON("json/weapons.json", function (data) {
         callback(data);
     });
 }
@@ -30,8 +37,26 @@ function getSlots(weapon) {
     return html;
 }
 
-function getSharpness(weapon) {
+function getModifiedSharpness(weapon, skills){
     var sharp = weapon.sharpness.normal;
+
+    $.each(skills, function(i, skill) {
+        if(skill.type === 'handicraft'){
+            if(skill.level === '1'){
+                sharp = weapon.sharpness.sharper;
+            }
+            if(skill.level === '2'){
+                sharp = weapon.sharpness.sharpest;
+            }
+        }
+    });
+
+    return sharp;
+}
+
+function getSharpness(weapon, skills) {
+    sharp = getModifiedSharpness(weapon, skills);
+    
     var html = '';
     $.each(sharp, function (color, width) {
         html += '<span class="' + color + '" style="width:' + width + '%"></span>';
@@ -42,24 +67,35 @@ function getSharpness(weapon) {
 
 function loadFromHash() {
     var weapons = window.location.hash.substr(1);
-    weapons = weapons.split("|");
+    let segments = weapons.split("@");
 
-    var one = decodeURI(weapons[0]);
-    var two = decodeURI(weapons[1]);
 
-    if (one.length > 2) {
-        selectWeapon(one, "One");
+    if(segments.length < 2){
+        return;
     }
-    if (two.length > 2) {
-        selectWeapon(two, "Two");
-    }
+
+    $("#weaponType").val(segments[0]);
+    loadWeapons(segments[0], function(){
+        weapons = segments[1].split("|");
+
+        for(weapon of weapons){
+            selectWeapon(decodeURI(weapon));
+        }
+    });
 }
 
 function setHash() {
-    window.location.hash = '#' + selectedOne + '|' + selectedTwo;
+    let hash = '#' + $("#weaponType").val() + '@';
+    for(weapon of selectedWeapons){
+        hash += weapon.name + '|';
+    }
+
+    hash = hash.substr(0, hash.length - 1);
+    
+    window.location.hash = hash;
 }
 
-function getSharpnessModifier(weapon) {
+function getSharpnessModifier(weapon, skills) {
     var lookup = {
         red: 0.5,
         orange: 0.75,
@@ -69,7 +105,7 @@ function getSharpnessModifier(weapon) {
         white: 1.32,
         purple: 0.39
     };
-    var sharpness = weapon.sharpness.normal;
+    var sharpness = getModifiedSharpness(weapon, skills);
     var modifier = 0;
 
     $.each(sharpness, function (color, length) {
@@ -85,24 +121,110 @@ function getSharpnessModifier(weapon) {
     return modifier;
 }
 
-function getModifiedDamage(weapon) {
+function getModifiedDamage(weapon, skills) {
     // normalized = (rawAttack * sharpnessModifier) * (1.25 * affinity/100) + (elemental / 2)
     var raw = parseInt(weapon.damage, 10);
-    var sharpness = getSharpnessModifier(weapon);
+    var sharpness = getSharpnessModifier(weapon, skills);
     var affinity = parseInt(weapon.affinity) / 100;
-    var elemental = weapon.elemental.amount / 5;
+    // var elemental = weapon.elemental.amount / 5;
+    var elemental = 0;
 
-    var normalizedAffinity = 1 + (0.25 * affinity);
+    var critModifier = 0.25;
 
-    console.log(raw, sharpness, affinity, elemental);
+    $.each(skills, function(i, skill) {
+        if(skill.type === 'critical-up'){
+            critModifier = 0.4;
+        }
+    });
+
+    var normalizedAffinity = 1 + (critModifier * affinity);
+
+    // console.log(raw, sharpness, affinity, elemental);
 
     var modified = (raw * sharpness) * normalizedAffinity + elemental;
 
     return Math.floor(modified);
 }
 
-function renderWeapon(weapon, compareId) {
-    var $container = $("#weapon" + compareId + "Box");
+function fixSharpness(sharpString){
+    const map = [
+        'red',
+        'orange',
+        'yellow',
+        'green',
+        'blue',
+        'white',
+        'purple',
+    ];
+
+    const sharp = sharpString.split('.').reduce((newMap, value, index) => {
+        const color = map[index];
+        newMap[color] = value * 2;
+
+        return newMap;
+    }, {});
+
+    return sharp;
+}
+
+function getModifiedWeapon(weapon, skills){
+    //make a copy
+    const newWeapon = Object.assign({}, weapon);
+
+    $.each(skills, function(i, skill) {
+        if(skill.type === 'attack-up'){
+            if(skill.level === '1'){
+                newWeapon.damage += 10;
+            }
+            if(skill.level === '2'){
+                newWeapon.damage += 15;
+            }
+            if(skill.level === '3'){
+                newWeapon.damage += 20;
+            }
+        }
+
+        if(skill.type === 'tenderizer'){
+            let modifier = skill.triggerPercent  / 100;
+            newWeapon.affinity +=  Math.round(50 * modifier)
+        }
+
+        if(skill.type === 'expert'){
+            newWeapon.affinity +=  skill.level * 10;
+        }
+
+        if(skill.type === 'spirit'){
+            let modifier = skill.triggerPercent  / 100;
+            let damageUp = 20;
+            let affinityUp = 15;
+            if(skill.level === "1"){
+                damageUp = 10;
+                affinityUp = 10;
+            }
+            newWeapon.damage += Math.round(damageUp * modifier);
+            newWeapon.affinity += Math.round(affinityUp * modifier);
+        }
+    });
+
+    return newWeapon;
+}
+
+function renderWeapon(weapon, index) {
+    var $container = $($("#weaponTemplate").html());
+
+    const skills = skillList[index] || {};
+
+    console.log('rendering ' + weapon.name);
+
+    $container.data("index", index);
+
+    if(weapon.sharpness.normal.split){
+        weapon.sharpness.normal = fixSharpness(weapon.sharpness.normal);
+        weapon.sharpness.sharper = fixSharpness(weapon.sharpness.sharper);
+        weapon.sharpness.sharpest = fixSharpness(weapon.sharpness.sharpest);
+    }
+
+    weapon = getModifiedWeapon(weapon, skills);
 
     var elem = weapon.elemental.type + " " + weapon.elemental.amount;
 
@@ -116,14 +238,14 @@ function renderWeapon(weapon, compareId) {
     }
 
     var slots = getSlots(weapon);
-    var sharpness = getSharpness(weapon);
+    var sharpness = getSharpness(weapon, skills);
 
-    var normalized = getModifiedDamage(weapon);
+    var normalized = getModifiedDamage(weapon, skills);
     var damageString = weapon.damage;
 
 
-    $("#weapon" + compareId).val(weapon.name);
-    $(".weaponList").hide();
+    // $("#weapon" + compareId).val(weapon.name);
+    
 
     $(".weapon-title", $container).text(weapon.name);
     $(".attack-value", $container).text(damageString);
@@ -136,21 +258,61 @@ function renderWeapon(weapon, compareId) {
 
     $container.show();
 
-    if (compareId === "One") {
-        selectedOne = weapon.name;
-    } else {
-        selectedTwo = weapon.name;
-    }
+    $("#renderedWeapons").append($container);
 
-    setHash();
+    
 }
 
-function selectWeapon(name, compareId) {
+function renderWeapons() {
+    $("#renderedWeapons").html("");
+    let index = 0;
+    for(const weapon of selectedWeapons){
+        renderWeapon(weapon, index);
+        index++;
+    }
+    setHash();
+}
+function renderSkill($skillContainer, index){
+    const skills = skillList[index];
+    if(!skills){
+        return;
+    }
+    $skillContainer.html('');
+    let skillIndex = 0;
+    for(const skill of skills){
+        $skillRow = $($("#skill-list").html());
+        $skillRow.data('index', skillIndex);
+        
+
+        $skillContainer.append($skillRow);
+
+        $(".skill-select", $skillRow).val(skill.type);
+        $(".skill-" + skill.type, $skillRow).show();
+        $(".trigger-percent", $skillRow).val(skill.triggerPercent);
+        $(".level", $skillRow).val(skill.level);
+        skillIndex++;
+    }
+}
+function renderSkills(){
+    $('.weapon-skills').each(function(){
+        const $skillContainer = $(this);
+        const index = getWeaponIndex($skillContainer);
+        renderSkill($skillContainer, index);
+    });
+}
+
+function selectWeapon(name) {
     $.each(weapons, function (i, item) {
         if (item.name === name) {
-            renderWeapon(item, compareId);
+            selectedWeapons.push(item);
+            //renderWeapon(item, compareId);
         }
     });
+
+    $("#weaponOne").val('');
+    $(".weaponList").hide();
+
+    renderWeapons();
 }
 
 function renderResults(value, compareId) {
@@ -179,7 +341,7 @@ function renderResults(value, compareId) {
 }
 
 function bindSearch(compareId) {
-    $("#weapon" + compareId).keyup(function () {
+    $("body").on('keyup', "#weapon" + compareId, function () {
         var value = $(this).val();
         renderResults(value, compareId);
     });
@@ -190,11 +352,118 @@ function bindSearch(compareId) {
     });
 }
 
-fetchWeapons(function (result) {
-    weapons = result;
+function loadWeapons(type, callback) {
+    let cb = callback || function(){};
+    fetchWeapons(type, function (result) {
+        weapons = result;
 
-    bindSearch("One");
-    bindSearch("Two");
+        bindSearch("One");
+        $("#weaponOne").show();
+
+        cb();
+    });
+}
+
+function getSkill($select){
+    let $container = $select.closest('.skill-row');
+    
+    let weaponIndex = getWeaponIndex($container);
+    let skillIndex = $container.data("index");
+
+    return skillList[weaponIndex][skillIndex];
+}
+
+function getWeaponIndex($element){
+    var $container = $element.closest('.weapon');
+    var index = $container.data("index");
+    return index;
+}
+
+function calculateDamage(){
+    renderWeapons();
+    renderSkills();
+}
+
+function globalBindings() {
+    $("#renderedWeapons").on('click', '.close-icon', function(){
+        var index = getWeaponIndex($(this));
+        selectedWeapons.splice(index,1);
+        renderWeapons();
+    });
+
+    $("#renderedWeapons").on('click', '.new-skill a', function(){
+        var index = getWeaponIndex($(this));
+        if(!skillList.hasOwnProperty(index)){
+            skillList[index] = [];
+        }
+
+        skillList[index].push({
+            type:'',
+            triggerPercent: '50',
+            level: "1",
+        });
+
+        renderSkills();
+    });
+
+    $("#renderedWeapons").on('change', '.skill-select', function(){
+        let $container = $(this).closest('.skill-row');
+        let value = $(this).val();
+        let weaponIndex = getWeaponIndex($container);
+        let skillIndex = $container.data("index");
+        $(".single-skill", $container).hide();
+        $(".skill-" + value, $container).show();
+
+        skillList[weaponIndex][skillIndex].type = value;
+
+        //console.log("setting skill " + skillIndex + ' to ' + value);
+        //console.log(skillList);
+        calculateDamage();
+    });
+
+    $("#renderedWeapons").on('change', '.level', function(){
+        const skill = getSkill($(this));
+        let value = $(this).val();
+        skill.level = value;
+
+        calculateDamage();
+    });
+    $("#renderedWeapons").on('change', '.trigger-percent', function(){
+        const skill = getSkill($(this));
+        let value = $(this).val();
+        skill.triggerPercent = value;
+
+        calculateDamage();
+    });
+}
+
+
+fetchWeaponList(function (result) {
+    weaponList = result.types;
+
+    $("#weaponOne").hide();
+
+    var html = '<option value="">Select Weapon Type...</option>';
+    for (const weapon of weaponList) {
+        const weaponValue = weapon.toLowerCase().replace(/[^a-z]+/, '-');
+        const weaponName = weapon.endsWith('s') ? weapon : weapon + 's';
+        html += '<option value="' + weaponValue + '">Compare: ' + weaponName + '</option>';
+    }
+
+    $("#weaponType").html(html);
+
+    $("#weaponType").change(function () {
+        const value = $(this).val();
+
+        if(value !== ''){
+            loadWeapons(value);    
+        }
+        else {
+            $("#weaponOne").hide();
+        }
+    });
 
     loadFromHash();
 });
+
+globalBindings();

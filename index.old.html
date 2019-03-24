@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-10831320-10"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-10831320-10');
+    </script>
+
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A simple mobile friendly list of key quests for MHGU" />
+    <meta name="author" content="" />
+
+    <title>MHGU Key Quest List</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css?v=3" />
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">MHGU Quest List</a>
+            </div>
+            <ul class="nav navbar-nav" style="float: right;">
+                <li class="active"><a href="./weapons.html">Compare Weapons</a></li>
+            </ul>
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row form-row">
+            <div class="col-xs-6 col-sm-4">
+                <select class="form-control" id="questType">
+                    <option value="Village">Village</option>
+                    <option value="Hub">Hub</option>
+                </select>
+            </div>
+            <div class="col-xs-6 col-sm-4" id="rankColumn">
+                <select class="form-control" id="villageRank">
+
+                </select>
+                <select class="form-control" id="hubRank">
+
+                </select>
+            </div>
+            <div class="col-xs-12 col-sm-4" id="rankColumn">
+                <label class="key-quest-label">
+                    <input type="checkbox" id="onlyKeyQuests" data-toggle="toggle">
+                    <span>Only Show Key Quests</span>
+                </label>
+            </div>
+        </div>
+
+        <div class="row" id="quest-list">
+
+        </div>
+
+        <div id="indicator-key">
+            <h3>Key</h3>
+            <div class="key-type key">
+                <div class="key-indicator" title="key"></div>
+                Key Quest
+                <small>
+                    - Required to advance.
+                </small>
+            </div>
+            <div class="key-type pre-req">
+                <div class="key-indicator" title="key"></div>
+                Pre-requisite
+                <small>
+                    - Unlocks key quests.
+                </small>
+            </div>
+            <div class="key-type urgent">
+                <div class="key-indicator" title="urgent"></div>
+                Urgent
+                <small>
+                    - Unlocks new rank.
+                </small>
+            </div>
+            <div class="key-type normal">
+                <div class="key-indicator" title="urgent"></div>
+                Normal
+                <small>
+                    - Fun but not required!
+                </small>
+            </div>
+        </div>
+
+        <p class="attribution">
+            Data sourced from
+            <a href="https://mhgu.kiranico.com/quest" target="_blank">
+                mhgu.kiranico.com
+            </a>
+        </p>
+
+        <p class="attribution">
+            <a href="https://github.com/agroff/mhgu-quest-list/blob/master/README.md" target="_blank">
+                About this site
+            </a>
+        </p>
+
+        <p class="attribution" style="color: #d63a3a;font-size: 1.2em;">
+            ❤️
+        </p>
+        <br>
+        <!-- /.row -->
+    </div>
+
+
+    <!-- /.container -->
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+    <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+    <script src="js/app.js?v=3"></script>
+</body>
+
+</html>

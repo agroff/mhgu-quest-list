@@ -1,3 +1,4 @@
+<!-- BEGIN AUTO INCLUDE: `partials/header.html` -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,6 +26,10 @@
 
     <title>MHGU Key Quest List</title>
 
+    <!-- Font Awesome! -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+        crossorigin="anonymous">
+
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css?v=3" />
@@ -37,103 +42,125 @@
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">MHGU Quest List</a>
+                <a class="navbar-brand" href="/">MHGU Helper</a>
             </div>
             <ul class="nav navbar-nav" style="float: right;">
-                <li class="active"><a href="./weapons.html">Compare Weapons</a></li>
+                <li class="active">
+                    <a href="javascript:void(0);">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </li>
             </ul>
         </div>
         <!-- /.container -->
     </nav>
 
-    <!-- Page Content -->
-    <div class="container">
-        <div class="row form-row">
-            <div class="col-xs-6 col-sm-4">
-                <select class="form-control" id="questType">
-                    <option value="Village">Village</option>
-                    <option value="Hub">Hub</option>
-                </select>
-            </div>
-            <div class="col-xs-6 col-sm-4" id="rankColumn">
-                <select class="form-control" id="villageRank">
-
-                </select>
-                <select class="form-control" id="hubRank">
-
-                </select>
-            </div>
-            <div class="col-xs-12 col-sm-4" id="rankColumn">
-                <label class="key-quest-label">
-                    <input type="checkbox" id="onlyKeyQuests" data-toggle="toggle">
-                    <span>Only Show Key Quests</span>
-                </label>
-            </div>
+    <div id="navMenuContainer" class="container">
+        <div id="navMenu">
+            <ul>
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="/weapons.html">Compare Weapons</a>
+                </li>
+            </ul>
         </div>
+    </div>
+<!-- END AUTO INCLUDE: `partials/header.html` -->
 
-        <div class="row" id="quest-list">
 
+<!-- Page Content -->
+<div class="container">
+    <div class="row form-row">
+        <div class="col-xs-6 col-sm-4">
+            <select class="form-control" id="questType">
+                <option value="Village">Village</option>
+                <option value="Hub">Hub</option>
+            </select>
         </div>
+        <div class="col-xs-6 col-sm-4" id="rankColumn">
+            <select class="form-control" id="villageRank">
 
-        <div id="indicator-key">
-            <h3>Key</h3>
-            <div class="key-type key">
-                <div class="key-indicator" title="key"></div>
-                Key Quest
-                <small>
-                    - Required to advance.
-                </small>
-            </div>
-            <div class="key-type pre-req">
-                <div class="key-indicator" title="key"></div>
-                Pre-requisite
-                <small>
-                    - Unlocks key quests.
-                </small>
-            </div>
-            <div class="key-type urgent">
-                <div class="key-indicator" title="urgent"></div>
-                Urgent
-                <small>
-                    - Unlocks new rank.
-                </small>
-            </div>
-            <div class="key-type normal">
-                <div class="key-indicator" title="urgent"></div>
-                Normal
-                <small>
-                    - Fun but not required!
-                </small>
-            </div>
+            </select>
+            <select class="form-control" id="hubRank">
+
+            </select>
         </div>
-
-        <p class="attribution">
-            Data sourced from
-            <a href="https://mhgu.kiranico.com/quest" target="_blank">
-                mhgu.kiranico.com
-            </a>
-        </p>
-
-        <p class="attribution">
-            <a href="https://github.com/agroff/mhgu-quest-list/blob/master/README.md" target="_blank">
-                About this site
-            </a>
-        </p>
-
-        <p class="attribution" style="color: #d63a3a;font-size: 1.2em;">
-            ❤️
-        </p>
-        <br>
-        <!-- /.row -->
+        <div class="col-xs-12 col-sm-4" id="rankColumn">
+            <label class="key-quest-label">
+                <input type="checkbox" id="onlyKeyQuests" data-toggle="toggle">
+                <span>Only Show Key Quests</span>
+            </label>
+        </div>
     </div>
 
+    <div class="row" id="quest-list">
+
+    </div>
+
+    <div id="indicator-key">
+        <h3>Key</h3>
+        <div class="key-type key">
+            <div class="key-indicator" title="key"></div>
+            Key Quest
+            <small>
+                - Required to advance.
+            </small>
+        </div>
+        <div class="key-type pre-req">
+            <div class="key-indicator" title="key"></div>
+            Pre-requisite
+            <small>
+                - Unlocks key quests.
+            </small>
+        </div>
+        <div class="key-type urgent">
+            <div class="key-indicator" title="urgent"></div>
+            Urgent
+            <small>
+                - Unlocks new rank.
+            </small>
+        </div>
+        <div class="key-type normal">
+            <div class="key-indicator" title="urgent"></div>
+            Normal
+            <small>
+                - Fun but not required!
+            </small>
+        </div>
+    </div>
+
+    <p class="attribution">
+        Data sourced from
+        <a href="https://mhgu.kiranico.com/quest" target="_blank">
+            mhgu.kiranico.com
+        </a>
+    </p>
+
+    <p class="attribution">
+        <a href="https://github.com/agroff/mhgu-quest-list/blob/master/README.md" target="_blank">
+            About this site
+        </a>
+    </p>
+
+    <p class="attribution" style="color: #d63a3a;font-size: 1.2em;">
+        ❤️
+    </p>
+    <br>
+    <!-- /.row -->
+</div>
+
+<!-- BEGIN AUTO INCLUDE: `partials/footer.html` -->
 
     <!-- /.container -->
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     <link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
     <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+    <script src="js/global.js?v=4"></script>
     <script src="js/app.js?v=3"></script>
 </body>
 
 </html>
+<!-- END AUTO INCLUDE: `partials/footer.html` -->
