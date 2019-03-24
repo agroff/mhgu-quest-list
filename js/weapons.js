@@ -103,7 +103,7 @@ function getSharpnessModifier(weapon, skills) {
         green: 1.05,
         blue: 1.2,
         white: 1.32,
-        purple: 0.39
+        purple: 1.39
     };
     var sharpness = getModifiedSharpness(weapon, skills);
     var modifier = 0;
