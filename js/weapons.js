@@ -189,6 +189,11 @@ function getModifiedWeapon(weapon, skills){
             newWeapon.affinity +=  Math.round(50 * modifier)
         }
 
+        if(skill.type === 'chain-crit'){
+            let modifier = skill.triggerPercent  / 100;
+            newWeapon.affinity +=  Math.round(30 * modifier)
+        }
+
         if(skill.type === 'expert'){
             newWeapon.affinity +=  skill.level * 10;
         }
@@ -205,6 +210,10 @@ function getModifiedWeapon(weapon, skills){
             newWeapon.affinity += Math.round(affinityUp * modifier);
         }
     });
+
+    if(newWeapon.affinity > 100){
+        newWeapon.affinity = 100;
+    }
 
     return newWeapon;
 }
@@ -313,6 +322,7 @@ function selectWeapon(name) {
     $(".weaponList").hide();
 
     renderWeapons();
+    renderSkills();
 }
 
 function renderResults(value, compareId) {
@@ -389,6 +399,7 @@ function globalBindings() {
         var index = getWeaponIndex($(this));
         selectedWeapons.splice(index,1);
         renderWeapons();
+        renderSkills();
     });
 
     $("#renderedWeapons").on('click', '.new-skill a', function(){
