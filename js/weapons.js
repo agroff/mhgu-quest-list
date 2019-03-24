@@ -367,7 +367,6 @@ function loadWeapons(type, callback) {
     fetchWeapons(type, function (result) {
         weapons = result;
 
-        bindSearch("One");
         $("#weaponOne").show();
 
         cb();
@@ -395,6 +394,9 @@ function calculateDamage(){
 }
 
 function globalBindings() {
+
+    bindSearch("One");
+
     $("#renderedWeapons").on('click', '.close-icon', function(){
         var index = getWeaponIndex($(this));
         selectedWeapons.splice(index,1);
