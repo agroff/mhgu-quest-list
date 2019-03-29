@@ -424,12 +424,24 @@ body {
 }
 
 .red-row {
-    height: 16px;
+    height: 18px;
     background-color: #5a1d22;
     margin: -1px -8px;
     font-size: 0.8em;
     text-align: center;
     color: #de7e8e;
+}
+
+.red-row a{
+    
+    font-size: 10px;
+    padding-left: 10px;
+    /* padding-bottom: 10px; */
+    text-transform: uppercase;
+    /* line-height: 21px; */
+    /* display: inline-block; */
+    text-decoration: underline;
+    /* margin-top: -8px; */
 }
 
 /***************************************
@@ -467,4 +479,58 @@ body {
 
 .single-skill {
     display: none;
+}
+
+
+/***************************************
+ * MODAL
+ ***************************************/
+#modal-container{
+    display:none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000000c7;
+    z-index: 1040;
+}
+
+.damage-modal{
+    background-color: white;
+    max-width: 600px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+    position: relative;
+    margin-top: 20%;
+    border-radius: 4px;
+}
+
+.damage-modal .close-icon{
+    font-size:16px;
+    float: right;
+}
+
+.damage-modal h1{
+    font-size: 32px;
+    color: #656565;
+    margin-top: 0;
+}
+.damage-modal h2{
+    font-size: 16px;
+    color: #8a8a8a;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 400;
+}
+
+#damage-details table tr td{
+    padding:3px;
+}
+
+.table-head{
+    font-weight:bold;
+    text-transform: uppercase;
+    color:#888;
 }

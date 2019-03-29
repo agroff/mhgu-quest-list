@@ -97,11 +97,22 @@
 
 <div style="padding:60px;"></div>
 
+<div id="modal-container">
+    <div class="damage-modal">
+        <div class="close-icon" id="close-modal">
+            <i class="fas fa-times-circle"></i>
+        </div>
+        <h1>Damage Details</h1>
+        <h2 id="modal-title">Awesome Weapon</h2>
+        <div id="damage-details"></div>
+    </div>
+</div>
+
 <script type="text/html" id="weaponTemplate">
     <div class="weapon">
 
         <div class="close-icon">
-                <i class="fas fa-times-circle"></i>
+            <i class="fas fa-times-circle"></i>
         </div>
         <div class="weapon-row">
             <img class="weapon-icon" src="images/hammer.png">
@@ -146,17 +157,18 @@
             </span>
         </div>
         <div class="weapon-skills">
-            
+
         </div>
         <div class="new-skill">
             <a href="javascript:void(0);">+ Add Skill</a>
         </div>
 
         <div class="red-row">
-            Average Damage: <span class="weapon-damage-normal"></span>
+            Average Raw Damage: <span class="weapon-damage-normal"></span>
+
+            <a href="javascript:void">(Details)</a>
         </div>
     </div>
-    
 </script>
 
 
@@ -172,7 +184,7 @@
                 <option value="attack-up">Attack Up</option>
                 <option value="spirit">Spirit</option>
                 <option value="chain-crit">Chain Crit</option>
-                <option value="delete">- DELETE</option>
+                <option value="delete">- REMOVE</option>
             </select>
         </div>
         <div class="skill-details">
@@ -212,36 +224,38 @@
                 <select class="level">
                     <option value="1">Sharpness +1</option>
                     <option value="2">Sharpness +2</option>
+                    <option value="-1">Sharpness -1</option>
                 </select>
             </div>
             <div class="skill-attack-up single-skill">
-                    Which level?
-                    <br>
-                    <select class="level">
-                        <option value="1">Attack Up (S)</option>
-                        <option value="2">Attack Up (M)</option>
-                        <option value="3">Attack Up (L)</option>
-                    </select>
+                Which level?
+                <br>
+                <select class="level">
+                    <option value="1">Attack Up (S)</option>
+                    <option value="2">Attack Up (M)</option>
+                    <option value="3">Attack Up (L)</option>
+                </select>
             </div>
             <div class="skill-spirit single-skill">
-                    
-                    <select class="trigger-percent">
-                        <option value="10">Enraged 10% of the time</option>
-                        <option value="20">Enraged 20% of the time</option>
-                        <option value="30">Enraged 30% of the time</option>
-                        <option value="40">Enraged 40% of the time</option>
-                        <option value="50">Enraged 50% of the time</option>
-                        <option value="60">Enraged 60% of the time</option>
-                        <option value="70">Enraged 70% of the time</option>
-                        <option value="80">Enraged 80% of the time</option>
-                        <option value="90">Enraged 90% of the time</option>
-                        <option value="100">Enraged 100% of the time</option>
-                    </select>
 
-                    <select class="level">
-                        <option value="1">Challenger +1</option>
-                        <option value="2">Challenger +2</option>
-                    </select>
+                <select class="trigger-percent">
+                    <option value="10">Enraged 10% of the time</option>
+                    <option value="20">Enraged 20% of the time</option>
+                    <option value="30">Enraged 30% of the time</option>
+                    <option value="40">Enraged 40% of the time</option>
+                    <option value="50">Enraged 50% of the time</option>
+                    <option value="60">Enraged 60% of the time</option>
+                    <option value="70">Enraged 70% of the time</option>
+                    <option value="80">Enraged 80% of the time</option>
+                    <option value="90">Enraged 90% of the time</option>
+                    <option value="100">Enraged 100% of the time</option>
+                </select>
+                <br>
+
+                <select class="level">
+                    <option value="1">Challenger +1</option>
+                    <option value="2">Challenger +2</option>
+                </select>
             </div>
             <div class="skill-chain-crit single-skill">
                 How often will it be active?
