@@ -14,7 +14,11 @@ class Db {
 
             this.db.each(query, parameters, function (err, row) {
                 results.push(translator(row));
-            }, () => {
+            }, (error, count) => {
+                if(error){
+                    console.log(error);
+                    reject(error);
+                }
                 resolve(results);
             });
         });

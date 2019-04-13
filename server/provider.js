@@ -2,9 +2,112 @@ const Db = require('./db');
 
 class Provider {
 
+    async getSkills() {
+        const skills = {};
+        const query = `
+        SELECT 
+            skills._id, 
+            skills.skill_tree_id,
+            skill_trees.name AS skill_tree_name,
+            skills.required_skill_tree_points,
+            skills.name, 
+            skills.description
+        FROM skills 
+        INNER JOIN skill_trees ON skills.skill_tree_id=skill_trees._id`;
+
+        await Db.query(query, {}, (i) => {
+            const parentId = i.skill_tree_id;
+            if (!skills[parentId]) {
+                skills[parentId] = {
+                    id: i.skill_tree_id,
+                    name: i.skill_tree_name,
+                    skills: []
+                };
+            }
+
+            skills[parentId].skills.push({
+                name: i.name,
+                description: i.description,
+                points: i.required_skill_tree_points,
+            });
+        });
+
+        return skills;
+    }
+
+    async getArmor(type, full = true){
+        const skillList = await this.getSkills();
+        // const armor = [];
+        const query = `
+        SELECT
+        a.*, i.*,
+        group_concat(ist.point_value) AS point_values,
+		group_concat(ist.skill_tree_id) AS skill_trees
+        FROM armor a
+        INNER JOIN items i
+            ON a._id=i._id
+        INNER JOIN item_to_skill_tree ist
+            ON ist.item_id=a._id
+        WHERE i.sub_type='${type}'
+        GROUP BY a._id
+        `;
+
+        const armor = await Db.query(query, {}, (i) => {
+            const values = i.point_values.split(',');
+            const skillTrees = i.skill_trees.split(',');
+
+            const skills = [];
+            for(let i in values){
+                const skillData = skillList[skillTrees[i]] || {};
+                const skill = {
+                    name: skillData.name || '',
+                    points: values[i],
+                    skill_tree: skillTrees[i]
+                }
+
+                if(full === false){
+                    delete skill.name;
+                }
+                skills.push(skill);
+            }
+            
+            i.skills = skills;
+
+            // weaponTypes.push(i.wtype);
+            const languages = [ 'de', 'fr', 'es', 'it', 'ja'];
+            for(const lang of languages){
+                delete i['name_' + lang];
+                delete i['description_' + lang];
+            }
+            delete i.buy;
+            delete i.sell;
+            delete i.description;
+            delete i.icon_name;
+            delete i.icon_color;
+            delete i.account;
+            delete i.carry_capacity;
+            delete i.point_values;
+            delete i.skill_trees;
+
+            if(full === false){
+                return {
+                    _id: i._id,
+                    name: i.name,
+                    num_slots: i.num_slots,
+                    max_defense: i.max_defense,
+                    sub_type: i.sub_type,
+                    skills: skills,
+                }
+            }
 
 
-    async getWeaponsTypes(){
+            return i;
+        });
+
+        return armor;
+    }
+
+    async getWeaponsTypes() {
         const weaponTypes = [];
         const query = "SELECT DISTINCT wtype FROM weapons ORDER BY wtype"
         await Db.query(query, {}, (i) => {
@@ -14,14 +117,14 @@ class Provider {
         return weaponTypes;
     }
 
-    async getWeapons(type){
+    async getWeapons(type) {
         const query = "SELECT * FROM weapons w INNER JOIN items i on w._id=i._id WHERE w.wtype=$type AND w.attack > $minAttack";
         const parameters = {
             $type: type,
             $minAttack: 0
         };
         const weapons = await Db.query(query, parameters, (item) => {
-            if(!item.sharpness){
+            if (!item.sharpness) {
                 item.sharpness = '   ';
                 //console.log(item);
             }

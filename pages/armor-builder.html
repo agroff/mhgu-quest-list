@@ -1,0 +1,40 @@
+{{
+include: partials/header.html
+@title=MHGU Armor Builder
+@description=Enter in the skills you need, the charms you have, and we'll let you know what armor to farm. 
+}}
+
+<!-- Page Content -->
+<div class="container armor">
+    <div class="available-skills">
+        <h1>Available Skills</h1>
+        <div id="skills">
+
+        </div>
+        <br>
+        <br>
+        <br>
+    </div>
+
+    <div class="selected-skills">
+        <h1>Selected Skills</h1>
+        <div id="selectedSkills">
+
+        </div>
+    </div>
+
+    <div class="results">
+        <h1>Results</h1>
+        <a class="button" id="findButton">Find Armor</a>
+        <div id="results">
+            No results...
+        </div>
+    </div>
+
+</div>
+
+{{
+include: partials/footer.html
+@scripts=
+<script src="js/armorBuilder.js?v=6"></script>
+}}

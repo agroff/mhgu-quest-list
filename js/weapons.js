@@ -651,7 +651,7 @@ fetchWeaponList(function (result) {
 
     var html = '<option value="">Select Weapon Type...</option>';
     for (const weapon of weaponList) {
-        const weaponValue = weapon.toLowerCase().replace(/[^a-z]+/, '-');
+        const weaponValue = weapon.toLowerCase().replace(/[^a-z]+/g, '-');
         const weaponName = weapon.endsWith('s') ? weapon : weapon + 's';
         html += '<option value="' + weaponValue + '">Compare: ' + weaponName + '</option>';
     }

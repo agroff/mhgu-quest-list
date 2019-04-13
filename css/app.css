@@ -534,3 +534,34 @@ body {
     text-transform: uppercase;
     color:#888;
 }
+
+.disabled,.disabled:hover{
+    color:#ccc;
+}
+
+.fa-check-circle{
+    color:#fff;
+}
+.fa-check-circle.selected{
+    color:green;
+}
+
+a.button{
+    display: inline-block;
+    padding: 10px 20px;
+    background: #3379b9;
+    color: #fff;
+    border-radius: 4px;
+}
+.container.armor::before{
+    display:none;
+}
+.container.armor{
+    display:grid;
+    grid-template-columns: 260px 260px 1fr;
+}
+.container.armor h1{
+    font-size:18px;
+}
+.container.armor .available-skills{
+}

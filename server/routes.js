@@ -69,7 +69,6 @@ const utils = {
 const routes = {
     weapons: async (request, response) => {
         const weaponTypes = await provider.getWeaponsTypes();
-        
 
         utils.writeJson('weapons', {types: weaponTypes});
 
@@ -83,8 +82,33 @@ const routes = {
 
         response.end(JSON.stringify(weaponTypes));
         return;
-        response.end(JSON.stringify(weapons));
-    }
+    },
+
+    skills: async (request, response) => {
+        const skills = await provider.getSkills();
+
+        utils.writeJson('skills', skills);
+        response.end(JSON.stringify(skills));
+    },
+
+    armor: async (request, response) => {
+        const types = [
+            'Head', 'Body', 'Arms', 'Waist', 'Legs'
+        ];
+        const counts = {};
+        for(let type of types){
+            const armor = await provider.getArmor(type);
+            const light = await provider.getArmor(type, false);
+            const name = type.toLowerCase();
+            counts[name] = light.length;
+            utils.writeJson('armor/'+name, armor);
+            utils.writeJson('armor/'+name + '-light', light);
+        }
+
+
+        //utils.writeJson('', armor){};
+        response.end(JSON.stringify({success:true, counts}));
+    },
 };
 
 module.exports = routes;

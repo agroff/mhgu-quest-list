@@ -1,0 +1,2856 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Poison",
+    "skills": [
+      {
+        "name": "Negate Poison",
+        "description": "Weakens the effects of Deadly Poison and completely prevents lesser Poisons.",
+        "points": 10
+      },
+      {
+        "name": "Double Poison",
+        "description": "Doubles the damage received from Poison.",
+        "points": -10
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Paralysis",
+    "skills": [
+      {
+        "name": "Negate Paralysis",
+        "description": "Prevents Paralysis.",
+        "points": 10
+      },
+      {
+        "name": "Double Paralysis",
+        "description": "Doubles the duration of Paralysis.",
+        "points": -10
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Sleep",
+    "skills": [
+      {
+        "name": "Negate Sleep",
+        "description": "Prevents Sleep.",
+        "points": 10
+      },
+      {
+        "name": "Double Sleep",
+        "description": "Doubles the duration of Sleep.",
+        "points": -10
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Stun",
+    "skills": [
+      {
+        "name": "Negate Stun",
+        "description": "Prevents Stun.",
+        "points": 15
+      },
+      {
+        "name": "Halve Stun",
+        "description": "Reduces the likelihood of being Stunned by 50%.",
+        "points": 10
+      },
+      {
+        "name": "Double Stun",
+        "description": "Makes it harder to recover from being Stunned.",
+        "points": -10
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Hearing",
+    "skills": [
+      {
+        "name": "HG Earplugs",
+        "description": "Negates the effects of all large monsters' roars.",
+        "points": 15
+      },
+      {
+        "name": "Earplugs",
+        "description": "Negates the effects of some large monsters' roars.",
+        "points": 10
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "Wind Res",
+    "skills": [
+      {
+        "name": "Windproof (Hi)",
+        "description": "Negates Wind Pressure from almost all monsters.",
+        "points": 15
+      },
+      {
+        "name": "Windproof (Lo)",
+        "description": "Lessens almost all Wind Pressure.",
+        "points": 10
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Tremor Res",
+    "skills": [
+      {
+        "name": "Tremor Res",
+        "description": "Prevents staggering from tremors created by large monsters.",
+        "points": 10
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Bind Res",
+    "skills": [
+      {
+        "name": "Negate Bind",
+        "description": "Negates the effects of Bind statuses such as Snowman and bubbles that impede movement.",
+        "points": 10
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Heat Res",
+    "skills": [
+      {
+        "name": "Heat Cancel",
+        "description": "Negates the damage incurred from heat and lava.",
+        "points": 10
+      },
+      {
+        "name": "Heat Surge",
+        "description": "Increases the amount of Health lost due to heat.",
+        "points": -10
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Cold Res",
+    "skills": [
+      {
+        "name": "Cold Cancel",
+        "description": "Negates all cold.",
+        "points": 10
+      },
+      {
+        "name": "Cold Surge",
+        "description": "Increases the speed at which your maximum Stamina depletes from cold.",
+        "points": -10
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "ColdBlooded",
+    "skills": [
+      {
+        "name": "Polar Hunter",
+        "description": "Powers you up in the cold. If you drink a Cool Drink...",
+        "points": 10
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "HotBlooded",
+    "skills": [
+      {
+        "name": "Tropic Hunter",
+        "description": "Powers you up in the heat. If you drink a Hot Drink...",
+        "points": 10
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Anti-Theft",
+    "skills": [
+      {
+        "name": "Anti-Theft",
+        "description": "Prevents item theft.",
+        "points": 10
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Def Lock",
+    "skills": [
+      {
+        "name": "Iron Skin",
+        "description": "Negates the effects of Defense Down.",
+        "points": 10
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Frenzy Res",
+    "skills": [
+      {
+        "name": "Antivirus",
+        "description": "Makes it harder to become Frenzied and enhances recovery.",
+        "points": 10
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "Biology",
+    "skills": [
+      {
+        "name": "Bio Master",
+        "description": "Increases Dung Bomb efficacy, prevents Stench and Blastblight, and delays Virus onset.",
+        "points": 15
+      },
+      {
+        "name": "Bio Researcher",
+        "description": "Increases Dung Bomb efficacy, and prevents Stench and Blastblight.",
+        "points": 10
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Bleeding",
+    "skills": [
+      {
+        "name": "Negate Bleeding",
+        "description": "Prevents Bleeding.",
+        "points": 10
+      },
+      {
+        "name": "Double Bleeding",
+        "description": "Doubles the damage received from Bleeding.",
+        "points": -10
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "Attack",
+    "skills": [
+      {
+        "name": "Attack Up (L)",
+        "description": "Greatly increases Attack.",
+        "points": 20
+      },
+      {
+        "name": "Attack Up (M)",
+        "description": "Increases Attack.",
+        "points": 15
+      },
+      {
+        "name": "Attack Up (S)",
+        "description": "Slightly increases Attack.",
+        "points": 10
+      },
+      {
+        "name": "Attack Down (S)",
+        "description": "Slightly decreases Attack.",
+        "points": -10
+      },
+      {
+        "name": "Attack Down (M)",
+        "description": "Decreases Attack.",
+        "points": -15
+      },
+      {
+        "name": "Attack Down (L)",
+        "description": "Greatly decreases Attack.",
+        "points": -20
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "Defense",
+    "skills": [
+      {
+        "name": "Defense Up (L)",
+        "description": "Greatly increases Defense.",
+        "points": 20
+      },
+      {
+        "name": "Defense Up (M)",
+        "description": "Increases Defense.",
+        "points": 15
+      },
+      {
+        "name": "Defense Up (S)",
+        "description": "Slightly increases Defense.",
+        "points": 10
+      },
+      {
+        "name": "Defense Down (S)",
+        "description": "Slightly decreases Defense.",
+        "points": -10
+      },
+      {
+        "name": "Defense Down (M)",
+        "description": "Decreases Defense.",
+        "points": -15
+      },
+      {
+        "name": "Defense Down (L)",
+        "description": "Greatly decreases Defense.",
+        "points": -20
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "Health",
+    "skills": [
+      {
+        "name": "Health +50",
+        "description": "Increases maximum Health by 50.",
+        "points": 15
+      },
+      {
+        "name": "Health +20",
+        "description": "Increases maximum Health by 20.",
+        "points": 10
+      },
+      {
+        "name": "Health -10",
+        "description": "Decreases maximum Health by 10.",
+        "points": -10
+      },
+      {
+        "name": "Health -30",
+        "description": "Decreases maximum Health by 30.",
+        "points": -15
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "Fire Res",
+    "skills": [
+      {
+        "name": "Fire Res +20",
+        "description": "Increases Fire Resistance by 20.",
+        "points": 15
+      },
+      {
+        "name": "Fire Res +15",
+        "description": "Increases Fire Resistance by 15.",
+        "points": 10
+      },
+      {
+        "name": "Fire Res -20",
+        "description": "Decreases Fire Resistance by 20.",
+        "points": -10
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Water Res",
+    "skills": [
+      {
+        "name": "Water Res +20",
+        "description": "Increases Water Resistance by 20.",
+        "points": 15
+      },
+      {
+        "name": "Water Res +15",
+        "description": "Increases Water Resistance by 15.",
+        "points": 10
+      },
+      {
+        "name": "Water Res -20",
+        "description": "Decreases Water Resistance by 20.",
+        "points": -10
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "Thunder Res",
+    "skills": [
+      {
+        "name": "Thunder Res +20",
+        "description": "Increases Thunder Resistance by 20.",
+        "points": 15
+      },
+      {
+        "name": "Thunder Res +15",
+        "description": "Increases Thunder Resistance by 15.",
+        "points": 10
+      },
+      {
+        "name": "Thunder Res -20",
+        "description": "Decreases Thunder Resistance by 20.",
+        "points": -10
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "Ice Res",
+    "skills": [
+      {
+        "name": "Ice Res +20",
+        "description": "Increases Ice Resistance by 20.",
+        "points": 15
+      },
+      {
+        "name": "Ice Res +15",
+        "description": "Increases Ice Resistance by 15.",
+        "points": 10
+      },
+      {
+        "name": "Ice Res -20",
+        "description": "Decreases Ice Resistance by 20.",
+        "points": -10
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "name": "Dragon Res",
+    "skills": [
+      {
+        "name": "Dragon Res +20",
+        "description": "Increases Dragon Resistance by 20.",
+        "points": 15
+      },
+      {
+        "name": "Dragon Res +15",
+        "description": "Increases Dragon Resistance by 15.",
+        "points": 10
+      },
+      {
+        "name": "Dragon Res -20",
+        "description": "Decreases Dragon Resistance by 20.",
+        "points": -10
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "Blight Res",
+    "skills": [
+      {
+        "name": "Blightproof",
+        "description": "Negates all elemental blights (Fire, Water, Thunder, Ice, and Dragon).",
+        "points": 10
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "Fire Atk",
+    "skills": [
+      {
+        "name": "Fire Atk +2",
+        "description": "Greatly increases the power of Fire attacks and Flaming shots (Flaming S).",
+        "points": 15
+      },
+      {
+        "name": "Fire Atk +1",
+        "description": "Increases the power of Fire attacks and Flaming shots (Flaming S).",
+        "points": 10
+      },
+      {
+        "name": "Fire Atk Down",
+        "description": "Decreases the power of Fire attacks and Flaming shots (Flaming S).",
+        "points": -10
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "Water Atk",
+    "skills": [
+      {
+        "name": "Water Atk +2",
+        "description": "Greatly increases the power of Water attacks and Water shots (Water S).",
+        "points": 15
+      },
+      {
+        "name": "Water Atk +1",
+        "description": "Increases the power of Water attacks and Water shots (Water S).",
+        "points": 10
+      },
+      {
+        "name": "Water Atk Down",
+        "description": "Decreases the power of Water attacks and Water shots (Water S).",
+        "points": -10
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "name": "Thunder Atk",
+    "skills": [
+      {
+        "name": "Thunder Atk +2",
+        "description": "Greatly increases the power of Thunder attacks and Thunder shots (Thunder S).",
+        "points": 15
+      },
+      {
+        "name": "Thunder Atk +1",
+        "description": "Increases the power of Thunder attacks and Thunder shots (Thunder S).",
+        "points": 10
+      },
+      {
+        "name": "Thunder Atk Down",
+        "description": "Decreases the power of Thunder attacks and Thunder shots (Thunder S).",
+        "points": -10
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "Ice Atk",
+    "skills": [
+      {
+        "name": "Ice Atk +2",
+        "description": "Greatly increases the power of Ice attacks and Freeze shots (Freeze S).",
+        "points": 15
+      },
+      {
+        "name": "Ice Atk +1",
+        "description": "Increases the power of Ice attacks and Freeze shots (Freeze S).",
+        "points": 10
+      },
+      {
+        "name": "Ice Atk Down",
+        "description": "Decreases the power of Ice attacks and Freeze shots (Freeze S).",
+        "points": -10
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "Dragon Atk",
+    "skills": [
+      {
+        "name": "Dragon Atk +2",
+        "description": "Greatly increases the power of Dragon attacks and Dragon shots (Dragon S).",
+        "points": 15
+      },
+      {
+        "name": "Dragon Atk +1",
+        "description": "Increases the power of Dragon attacks and Dragon shots (Dragon S).",
+        "points": 10
+      },
+      {
+        "name": "Dragon Atk Down",
+        "description": "Decreases the power of Dragon attacks and Dragon shots (Dragon S).",
+        "points": -10
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "Elemental",
+    "skills": [
+      {
+        "name": "Element Atk Up",
+        "description": "Increases the power of elemental attacks.",
+        "points": 10
+      },
+      {
+        "name": "Element Atk Down",
+        "description": "Decreases the power of elemental attacks.",
+        "points": -10
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "Status",
+    "skills": [
+      {
+        "name": "Status Atk +2",
+        "description": "Increases the potency of abnormal status attacks.",
+        "points": 15
+      },
+      {
+        "name": "Status Atk +1",
+        "description": "Slightly increases the potency of abnormal status attacks.",
+        "points": 10
+      },
+      {
+        "name": "Status Atk Down",
+        "description": "Decreases the potency of abnormal status attacks.",
+        "points": -10
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Sharpener",
+    "skills": [
+      {
+        "name": "Speed Sharpening",
+        "description": "Speeds up weapon sharpening.",
+        "points": 10
+      },
+      {
+        "name": "Slow Sharpening",
+        "description": "Slows down weapon sharpening.",
+        "points": -10
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "Handicraft",
+    "skills": [
+      {
+        "name": "Sharpness +2",
+        "description": "Increases the length of your weapon's Sharpness Gauge.",
+        "points": 15
+      },
+      {
+        "name": "Sharpness +1",
+        "description": "Slightly increases the length of your weapon's Sharpness Gauge.",
+        "points": 10
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "Sharpness",
+    "skills": [
+      {
+        "name": "Razor Sharp",
+        "description": "Halves the rate at which your weapon loses Sharpness.",
+        "points": 10
+      },
+      {
+        "name": "Blunt Edge",
+        "description": "Doubles the rate at which your weapon loses Sharpness.",
+        "points": -10
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "name": "Fencing",
+    "skills": [
+      {
+        "name": "Mind's Eye",
+        "description": "Prevents your attacks from being deflected.",
+        "points": 10
+      },
+      {
+        "name": "Blind Eye",
+        "description": "Causes your attacks to be deflected more easily.",
+        "points": -10
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "Grinder",
+    "skills": [
+      {
+        "name": "Heavy Polish",
+        "description": "Use a whetstone to polish a weapon and briefly increase its strength.",
+        "points": 10
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "Blunt",
+    "skills": [
+      {
+        "name": "Bludgeoner",
+        "description": "Increases Attack based on how low the Sharpness of your weapon is.",
+        "points": 10
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "Crit Draw",
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "description": "Increases Affinity for all draw attacks by 100%.",
+        "points": 10
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "name": "Punish Draw",
+    "skills": [
+      {
+        "name": "Punishing Draw",
+        "description": "Can Stun monsters with draw attacks from cutting weapons, and slightly increases Attack.",
+        "points": 10
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "Sheathing",
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "description": "Increases weapon-sheathing speed.",
+        "points": 10
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "Sheathe Sharpen",
+    "skills": [
+      {
+        "name": "Challenge Sheath",
+        "description": "Sheathing when a monster is enraged gives a chance to sharpen your weapon.",
+        "points": 10
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "Bladescale",
+    "skills": [
+      {
+        "name": "Bladescale Hone",
+        "description": "Dodging while weapon is drawn will have various special effects. Improves C.Range Coating for bows.",
+        "points": 10
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "Reload Spd",
+    "skills": [
+      {
+        "name": "Reload Speed +3",
+        "description": "Greatly speeds up Bowgun reloading, and auto-loads Bow coatings.",
+        "points": 20
+      },
+      {
+        "name": "Reload Speed +2",
+        "description": "Speeds up Bowgun reloading, and auto-loads Bow coatings.",
+        "points": 15
+      },
+      {
+        "name": "Reload Speed +1",
+        "description": "Slightly speeds up Bowgun reloading, and speeds up Bow-coating loading.",
+        "points": 10
+      },
+      {
+        "name": "Reload Speed -1",
+        "description": "Slightly slows down Bowgun reloading and Bow-coating loading.",
+        "points": -10
+      },
+      {
+        "name": "Reload Speed -2",
+        "description": "Slows down Bowgun reloading and Bow-coating loading.",
+        "points": -15
+      },
+      {
+        "name": "Reload Speed -3",
+        "description": "Greatly slows down Bowgun reloading and Bow-coating loading.",
+        "points": -20
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "Recoil",
+    "skills": [
+      {
+        "name": "Recoil Down +3",
+        "description": "Greatly reduces Bowgun recoil.",
+        "points": 20
+      },
+      {
+        "name": "Recoil Down +2",
+        "description": "Reduces Bowgun recoil.",
+        "points": 15
+      },
+      {
+        "name": "Recoil Down +1",
+        "description": "Slightly reduces Bowgun recoil.",
+        "points": 10
+      },
+      {
+        "name": "Recoil Down -1",
+        "description": "Slightly increases Bowgun recoil.",
+        "points": -10
+      },
+      {
+        "name": "Recoil Down -2",
+        "description": "Increases Bowgun recoil.",
+        "points": -15
+      },
+      {
+        "name": "Recoil Down -3",
+        "description": "Greatly increases Bowgun recoil.",
+        "points": -20
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "Precision",
+    "skills": [
+      {
+        "name": "Steadiness +2",
+        "description": "Greatly decreases Deviation when firing.",
+        "points": 15
+      },
+      {
+        "name": "Steadiness +1",
+        "description": "Decreases Deviation when firing.",
+        "points": 10
+      },
+      {
+        "name": "Steadiness -1",
+        "description": "Increases Deviation when firing.",
+        "points": -10
+      },
+      {
+        "name": "Steadiness -2",
+        "description": "Greatly increases Deviation when firing.",
+        "points": -15
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "name": "Normal Up",
+    "skills": [
+      {
+        "name": "Normal/Rapid Up",
+        "description": "Increases the power of Normal shots (Normal S) and Rapid-type arrows.",
+        "points": 10
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "Pierce Up",
+    "skills": [
+      {
+        "name": "Pierce/Pierce Up",
+        "description": "Increases the power of Pierce shots (Pierce S) and Pierce-type arrows.",
+        "points": 10
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "Pellet Up",
+    "skills": [
+      {
+        "name": "Pellet/Spread Up",
+        "description": "Increases the power of Pellet shots (Pellet S) and Spread-type arrows.",
+        "points": 10
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "Heavy Up",
+    "skills": [
+      {
+        "name": "Heavy/Heavy Up",
+        "description": "Increases the power of Heavy shots (Heavy S) and Heavy arrows.",
+        "points": 10
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "name": "Normal S+",
+    "skills": [
+      {
+        "name": "Use Any Normal S",
+        "description": "Allows all levels of Normal shots (Normal S) to be loaded.",
+        "points": 10
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "Pierce S+",
+    "skills": [
+      {
+        "name": "Use Any Pierce S",
+        "description": "Allows all levels of Pierce shots (Pierce S) to be loaded.",
+        "points": 15
+      },
+      {
+        "name": "Use Lv1 Pierce S",
+        "description": "Allows Lv1 Pierce shots (Pierce S) to be loaded.",
+        "points": 10
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "name": "Pellet S+",
+    "skills": [
+      {
+        "name": "Use Any Pellet S",
+        "description": "Allows all levels of Pellet shots (Pellet S) to be loaded.",
+        "points": 15
+      },
+      {
+        "name": "Use Lv1 Pellet S",
+        "description": "Allows Lv1 Pellet shots (Pellet S) to be loaded.",
+        "points": 10
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "Crag S+",
+    "skills": [
+      {
+        "name": "Use Any Crag S",
+        "description": "Allows all levels of Crag shots (Crag S) to be loaded.",
+        "points": 15
+      },
+      {
+        "name": "Use Lv1 Crag S",
+        "description": "Allows Lv1 Crag shots (Crag S) to be loaded.",
+        "points": 10
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "name": "Clust S+",
+    "skills": [
+      {
+        "name": "Use Any Clust S",
+        "description": "Allows all levels of Cluster shots (Clust S) to be loaded.",
+        "points": 15
+      },
+      {
+        "name": "Use Lv1 Clust S",
+        "description": "Allows Lv1 Cluster shots (Clust S) to be loaded.",
+        "points": 10
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "Poison C+",
+    "skills": [
+      {
+        "name": "Use Poison Coat",
+        "description": "Allows Poison coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "name": "Para C+",
+    "skills": [
+      {
+        "name": "Use Para Coat",
+        "description": "Allows Paralysis coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "name": "Sleep C+",
+    "skills": [
+      {
+        "name": "Use Sleep Coat",
+        "description": "Allows Sleep coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "name": "Power C+",
+    "skills": [
+      {
+        "name": "Power Phial (All)",
+        "description": "Allows Power coatings of all levels to be set when wielding a Bow.",
+        "points": 15
+      },
+      {
+        "name": "Power Phial (Lv1)",
+        "description": "Allows Lv1 Power coatings to be set when wielding a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "name": "Elem C+",
+    "skills": [
+      {
+        "name": "Element Phial (All)",
+        "description": "Allows Elemental coatings of all levels to be set when wielding a Bow.",
+        "points": 15
+      },
+      {
+        "name": "Element Phial (Lv1)",
+        "description": "Allows Elem Coating Lv1 to be set when wielding a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "name": "C.Range C+",
+    "skills": [
+      {
+        "name": "Use C.Range Coat",
+        "description": "Allows Close-range coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "name": "Exhaust C+",
+    "skills": [
+      {
+        "name": "Use Exhaust Coat",
+        "description": "Allows Exhaust coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "Blast C+",
+    "skills": [
+      {
+        "name": "Use Blast Coat",
+        "description": "Allows Blast coatings to be set when equipped with a Bow.",
+        "points": 10
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "Rapid Fire",
+    "skills": [
+      {
+        "name": "Bonus Shot",
+        "description": "Allows one extra shot to be fired while Rapid Firing.",
+        "points": 10
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "name": "Dead Eye",
+    "skills": [
+      {
+        "name": "Shot Booster",
+        "description": "Prolongs the time window certain ammo and arrows can hit at maximum power.",
+        "points": 10
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "name": "Loading",
+    "skills": [
+      {
+        "name": "Load Up",
+        "description": "Increases Bowgun and Gunlance ammo, Bow charge levels, and Charge Blade energy.",
+        "points": 10
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "name": "Haphazard",
+    "skills": [
+      {
+        "name": "TrueShot Up",
+        "description": "Increases the power of Bowgun Internal Ammo, and the Bow's Arc Shot and Power Shot.",
+        "points": 10
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "name": "Ammo Saver",
+    "skills": [
+      {
+        "name": "Ammo Saver",
+        "description": "Occasionally returns ammo or phials to inventory when firing.",
+        "points": 10
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "Expert",
+    "skills": [
+      {
+        "name": "Critical Eye +3",
+        "description": "Increases Affinity by 30%.",
+        "points": 20
+      },
+      {
+        "name": "Critical Eye +2",
+        "description": "Increases Affinity by 20%.",
+        "points": 15
+      },
+      {
+        "name": "Critical Eye +1",
+        "description": "Increases Affinity by 10%.",
+        "points": 10
+      },
+      {
+        "name": "Critical Eye -1",
+        "description": "Decreases Affinity by 5%.",
+        "points": -10
+      },
+      {
+        "name": "Critical Eye -2",
+        "description": "Decreases Affinity by 10%.",
+        "points": -15
+      },
+      {
+        "name": "Critical Eye -3",
+        "description": "Decreases Affinity by 15%.",
+        "points": -20
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "Tenderizer",
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "description": "Increases Affinity when striking body parts your attacks are highly effective against.",
+        "points": 10
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "name": "Chain Crit",
+    "skills": [
+      {
+        "name": "Repeat Offender",
+        "description": "Increases Affinity following repeated attacks.",
+        "points": 10
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "name": "Crit Status",
+    "skills": [
+      {
+        "name": "Status Crit",
+        "description": "Increases abnormal status attack potency (Paralysis, Poison, Sleep) of your critical hits.",
+        "points": 10
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "name": "Crit Element",
+    "skills": [
+      {
+        "name": "Elemental Crit",
+        "description": "Increases elemental damage (Fire, Water, Thunder, Ice, Dragon) of your critical hits.",
+        "points": 10
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "name": "Critical Up",
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "description": "Increases the damage of critical hits.",
+        "points": 10
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "name": "Negative Crit",
+    "skills": [
+      {
+        "name": "Bitter Affinity",
+        "description": "Negative Affinity attacks have a chance to be strong Affinity attacks.",
+        "points": 10
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "name": "FastCharge",
+    "skills": [
+      {
+        "name": "Focus",
+        "description": "Speeds L.Sword/C.Blade/D.Blades/ S.Axe gauges, L.Bowgun Arts, and G.Sword/Hammer/Bow charge attacks.",
+        "points": 10
+      },
+      {
+        "name": "Distraction",
+        "description": "Slows L.Sword/D.Blades/S.Axe/C.Blade gauges, L.Bowgun Hunter Arts, and G.Sword/Hammer/Bow charge attacks.",
+        "points": -10
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "name": "Stamina",
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "description": "Slows down Stamina depletion for actions which continuously drain Stamina (such as dashing).",
+        "points": 10
+      },
+      {
+        "name": "Short Sprinter",
+        "description": "Speeds up Stamina depletion for actions which continuously drain Stamina (such as dashing).",
+        "points": -10
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "name": "Constitution",
+    "skills": [
+      {
+        "name": "Constitution +2",
+        "description": "Greatly slows down Stamina depletion when evading, blocking, etc.",
+        "points": 15
+      },
+      {
+        "name": "Constitution +1",
+        "description": "Slows down Stamina depletion when evading, blocking, etc.",
+        "points": 10
+      },
+      {
+        "name": "Constitution -1",
+        "description": "Speeds up Stamina depletion when evading, blocking, etc.",
+        "points": -10
+      },
+      {
+        "name": "Constitution -2",
+        "description": "Greatly speeds up Stamina depletion when evading, blocking, etc.",
+        "points": -15
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "name": "Stam Recov",
+    "skills": [
+      {
+        "name": "Stam Recov Up",
+        "description": "Increases Stamina recovery speed.",
+        "points": 10
+      },
+      {
+        "name": "Stam Recov Down",
+        "description": "Decreases Stamina recovery speed.",
+        "points": -10
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "name": "Distance Runner",
+    "skills": [
+      {
+        "name": "Endurance Runner",
+        "description": "Stops Stamina depletion below a certain point while dashing, allowing for a longer dash.",
+        "points": 10
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "name": "Evasion",
+    "skills": [
+      {
+        "name": "Evasion +2",
+        "description": "Extends the invulnerability period when evading.",
+        "points": 15
+      },
+      {
+        "name": "Evasion +1",
+        "description": "Slightly extends the invulnerability period when evading.",
+        "points": 10
+      },
+      {
+        "name": "Evasion Down",
+        "description": "Reduces the invulnerability period when evading.",
+        "points": -10
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "name": "Evade Dist",
+    "skills": [
+      {
+        "name": "Evade Extender",
+        "description": "Increases evade distance.",
+        "points": 10
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "name": "Bubble",
+    "skills": [
+      {
+        "name": "Bubbly Dance",
+        "description": "Evading covers you in bubbles, improving your ability to dodge enemy attacks.",
+        "points": 10
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "Guard",
+    "skills": [
+      {
+        "name": "Guard +2",
+        "description": "Greatly increases the likelihood of standing your ground when blocking an attack.",
+        "points": 15
+      },
+      {
+        "name": "Guard +1",
+        "description": "Increases the likelihood of standing your ground when blocking an attack.",
+        "points": 10
+      },
+      {
+        "name": "Guard -1",
+        "description": "Decreases the likelihood of standing your ground when blocking an attack.",
+        "points": -10
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "name": "Guard Up",
+    "skills": [
+      {
+        "name": "Guard Up",
+        "description": "Causes previously unblockable attacks to become blockable.",
+        "points": 10
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "name": "KO",
+    "skills": [
+      {
+        "name": "Knockout King",
+        "description": "Makes it easier to stun monsters.",
+        "points": 10
+      }
+    ]
+  },
+  "88": {
+    "id": 88,
+    "name": "Stam Drain",
+    "skills": [
+      {
+        "name": "Stamina Thief",
+        "description": "Increases certain attacks' ability to Exhaust monsters.",
+        "points": 10
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "name": "Maestro",
+    "skills": [
+      {
+        "name": "Horn Maestro",
+        "description": "Decreases the likelihood of Horn/Flute items breaking, and increases the effect time of Hunting Horn melodies.",
+        "points": 10
+      }
+    ]
+  },
+  "90": {
+    "id": 90,
+    "name": "Artillery",
+    "skills": [
+      {
+        "name": "Artillery Expert",
+        "description": "Boosts Ballistae, Crag shots, Impact Phials, Shells, etc. Makes the Heat Gauge more manageable.",
+        "points": 15
+      },
+      {
+        "name": "Artillery Novice",
+        "description": "Slightly boosts Ballistae, Crag shots, Impact Phials, Shells, etc. Makes the Heat Gauge more manageable.",
+        "points": 10
+      }
+    ]
+  },
+  "91": {
+    "id": 91,
+    "name": "Destroyer",
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "description": "Makes it easier to break or sever parts of monsters.",
+        "points": 10
+      }
+    ]
+  },
+  "92": {
+    "id": 92,
+    "name": "Bomb Boost",
+    "skills": [
+      {
+        "name": "Bombardier",
+        "description": "Increases bomb damage, and raises the Combination success rate for all bombs to 100%.",
+        "points": 10
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "name": "Gloves Off",
+    "skills": [
+      {
+        "name": "Latent Power +2",
+        "description": "Greatly empowers you for a limited time when certain conditions are met.",
+        "points": 15
+      },
+      {
+        "name": "Latent Power +1",
+        "description": "Empowers you for a limited time when certain conditions are met.",
+        "points": 10
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "name": "Spirit",
+    "skills": [
+      {
+        "name": "Challenger +2",
+        "description": "Greatly increases Attack and Affinity when a large monster in the same area becomes angry.",
+        "points": 15
+      },
+      {
+        "name": "Challenger +1",
+        "description": "Increases Attack and Affinity when a large monster in the same area becomes angry.",
+        "points": 10
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "name": "Unscathed",
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "description": "Increases Attack when your Health Gauge is full.",
+        "points": 10
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "name": "Chance",
+    "skills": [
+      {
+        "name": "Trump Card",
+        "description": "Increases Hunter Art power during fights with large monsters when the chance arises.",
+        "points": 10
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "name": "Dragon Spirit",
+    "skills": [
+      {
+        "name": "Dragonheart",
+        "description": "When Health falls below 2/3, you'll get Dragonblight but elemental resistance and Attack increases.",
+        "points": 10
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "name": "Potential",
+    "skills": [
+      {
+        "name": "Adrenaline +2",
+        "description": "Greatly increases Attack and Defense when Health is below 40% of the maximum amount.",
+        "points": 15
+      },
+      {
+        "name": "Adrenaline +1",
+        "description": "Greatly increases Defense when Health is below 40% of the maximum amount.",
+        "points": 10
+      },
+      {
+        "name": "Worrywart",
+        "description": "Decreases Defense boost and Attack when Health is below 40% of maximum.",
+        "points": -10
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "name": "Survivor",
+    "skills": [
+      {
+        "name": "Fortify",
+        "description": "Increases your Attack and Defense every time you fall in battle.",
+        "points": 10
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "name": "Furor",
+    "skills": [
+      {
+        "name": "Resentment",
+        "description": "Increases Attack when your Health Gauge is in the red.",
+        "points": 10
+      }
+    ]
+  },
+  "101": {
+    "id": 101,
+    "name": "Crisis",
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "description": "Increases Attack when you are suffering from abnormal status.",
+        "points": 10
+      }
+    ]
+  },
+  "102": {
+    "id": 102,
+    "name": "Guts",
+    "skills": [
+      {
+        "name": "Guts",
+        "description": "Prevents fainting a single time if struck with a lethal blow when a certain amount of Health remains.",
+        "points": 10
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "name": "Sense",
+    "skills": [
+      {
+        "name": "Sneak",
+        "description": "Decreases the likelihood of being targeted by monsters.",
+        "points": 10
+      },
+      {
+        "name": "Taunt",
+        "description": "Increases the likelihood of being targeted by monsters.",
+        "points": -10
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "name": "Team Player",
+    "skills": [
+      {
+        "name": "Palico Rally",
+        "description": "Increases the Attack and Defense of Palicoes.",
+        "points": 10
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "name": "TeamLeader",
+    "skills": [
+      {
+        "name": "Palico Cheer",
+        "description": "Allows \"Fist Pump\" gesture to call back fainted/recovering Palicoes. Cannot be used repeatedly.",
+        "points": 10
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "name": "Mounting",
+    "skills": [
+      {
+        "name": "Mounting Master",
+        "description": "Makes it easier to mount and successfully topple a monster.",
+        "points": 10
+      },
+      {
+        "name": "Saddle Sore",
+        "description": "Makes it harder to mount and successfully topple a monster.",
+        "points": -10
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "name": "Vault",
+    "skills": [
+      {
+        "name": "Airborne",
+        "description": "Increases the damage caused by Jumping Attacks.",
+        "points": 10
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "name": "Insight",
+    "skills": [
+      {
+        "name": "Composed",
+        "description": "Makes it easier to fill the Arts Gauge, Valor Gauge, and Alchemy Gauge.",
+        "points": 10
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "name": "Endurance",
+    "skills": [
+      {
+        "name": "Chance Seizer",
+        "description": "Fills the Arts Gauge, Valor Gauge and Alchemy Gauge when damage is received.",
+        "points": 10
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "name": "Prolong SP",
+    "skills": [
+      {
+        "name": "Longer SP",
+        "description": "Extends the effect time of the SP State triggered by SP Hunter Arts.",
+        "points": 10
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "name": "Psychic",
+    "skills": [
+      {
+        "name": "Autotracker",
+        "description": "Large monsters always display on the Map, as if they were marked.",
+        "points": 15
+      },
+      {
+        "name": "Detect",
+        "description": "Increases the information displayed on the Map when large monsters are marked.",
+        "points": 10
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "name": "Perception",
+    "skills": [
+      {
+        "name": "Capture Guru",
+        "description": "Grants knowledge of when a large monster can be captured.",
+        "points": 10
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "name": "Ranger",
+    "skills": [
+      {
+        "name": "Outdoorsman",
+        "description": "Always shows the Map, even if you don't have one. Easier to fish and BBQ meat.",
+        "points": 10
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "name": "Transporter",
+    "skills": [
+      {
+        "name": "Pro Transporter",
+        "description": "Increases your speed while transporting items and decreases the likelihood of dropping them.",
+        "points": 10
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "name": "Protection",
+    "skills": [
+      {
+        "name": "Divine Blessing",
+        "description": "Sometimes decreases damage taken.",
+        "points": 10
+      },
+      {
+        "name": "Demonic Blessing",
+        "description": "Sometimes increases damage taken.",
+        "points": -10
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "name": "Hero Shield",
+    "skills": [
+      {
+        "name": "Hero's Talisman",
+        "description": "Negates the damage from minor enemy attacks.",
+        "points": 10
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "name": "Rec Level",
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "description": "Increases the amount recovered when recovering Health.",
+        "points": 10
+      },
+      {
+        "name": "Recovery Down",
+        "description": "Decreases the amount recovered when recovering Health.",
+        "points": -10
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "name": "Rec Speed",
+    "skills": [
+      {
+        "name": "Recovery Spd +2",
+        "description": "Greatly speeds recovery from temporary damage (the red portion of the Health Gauge).",
+        "points": 15
+      },
+      {
+        "name": "Recovery Spd +1",
+        "description": "Speeds recovery from temporary damage (the red portion of the Health Gauge).",
+        "points": 10
+      },
+      {
+        "name": "Recovery Spd -1",
+        "description": "Slows recovery from temporary damage (the red portion of the Health Gauge).",
+        "points": -10
+      },
+      {
+        "name": "Recovery Spd -2",
+        "description": "Greatly slows recovery from temporary damage (the red portion of the Health Gauge).",
+        "points": -15
+      }
+    ]
+  },
+  "119": {
+    "id": 119,
+    "name": "Lasting Pwr",
+    "skills": [
+      {
+        "name": "Item Use Up",
+        "description": "Increases the effect time of certain items.",
+        "points": 10
+      },
+      {
+        "name": "Item Use Down",
+        "description": "Decreases the effect time of certain items.",
+        "points": -10
+      }
+    ]
+  },
+  "120": {
+    "id": 120,
+    "name": "Wide-Range",
+    "skills": [
+      {
+        "name": "Wide-Range +2",
+        "description": "Transfers the effects of certain items to companions in the same area.",
+        "points": 15
+      },
+      {
+        "name": "Wide-Range +1",
+        "description": "Transfers a portion of the effects of certain items to companions in the same area.",
+        "points": 10
+      }
+    ]
+  },
+  "121": {
+    "id": 121,
+    "name": "Hunger",
+    "skills": [
+      {
+        "name": "Negate Hunger",
+        "description": "Negates maximum Stamina depletion over time.",
+        "points": 15
+      },
+      {
+        "name": "Halve Hunger",
+        "description": "Halves the speed of maximum Stamina depletion over time.",
+        "points": 10
+      },
+      {
+        "name": "Raise Hunger",
+        "description": "Speeds maximum Stamina depletion over time.",
+        "points": -10
+      },
+      {
+        "name": "Double Hunger",
+        "description": "Greatly speeds up maximum Stamina depletion over time.",
+        "points": -15
+      }
+    ]
+  },
+  "122": {
+    "id": 122,
+    "name": "Gluttony",
+    "skills": [
+      {
+        "name": "Scavenger",
+        "description": "Gives any item you eat or drink the potential to also raise your maximum Stamina.",
+        "points": 15
+      },
+      {
+        "name": "Gourmand",
+        "description": "Increases the efficacy of meat that raises maximum Stamina.",
+        "points": 10
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "name": "Eating",
+    "skills": [
+      {
+        "name": "Speed Eating +2",
+        "description": "Increases meat-eating and item-consuming speed.",
+        "points": 15
+      },
+      {
+        "name": "Speed Eating +1",
+        "description": "Increases meat-eating speed.",
+        "points": 10
+      },
+      {
+        "name": "Slow Eater",
+        "description": "Decreases meat-eating speed.",
+        "points": -10
+      }
+    ]
+  },
+  "124": {
+    "id": 124,
+    "name": "Light Eater",
+    "skills": [
+      {
+        "name": "Rationer",
+        "description": "Sometimes allows you to reuse items after you eat and drink them.",
+        "points": 10
+      }
+    ]
+  },
+  "125": {
+    "id": 125,
+    "name": "Carnivore",
+    "skills": [
+      {
+        "name": "Meat Lover",
+        "description": "Raw Meat becomes edible. Rare and Well-done Steaks temporarily grant unlimited Stamina.",
+        "points": 10
+      }
+    ]
+  },
+  "126": {
+    "id": 126,
+    "name": "Mycology",
+    "skills": [
+      {
+        "name": "Mushromancer",
+        "description": "Allows the consumption of mushrooms which grant certain benefits as a result.",
+        "points": 10
+      }
+    ]
+  },
+  "127": {
+    "id": 127,
+    "name": "Botany",
+    "skills": [
+      {
+        "name": "Pro Herbology",
+        "description": "Increases the amount of Health recovered from eating Herbs even more than the Herbology skill.",
+        "points": 15
+      },
+      {
+        "name": "Herbology",
+        "description": "Increases the amount of Health recovered from eating Herbs.",
+        "points": 10
+      }
+    ]
+  },
+  "128": {
+    "id": 128,
+    "name": "Combo Rate",
+    "skills": [
+      {
+        "name": "Combination +45%",
+        "description": "Increases your Combination success rate by 45%.",
+        "points": 15
+      },
+      {
+        "name": "Combination +20%",
+        "description": "Increases your Combination success rate by 20%.",
+        "points": 10
+      },
+      {
+        "name": "Combination -10%",
+        "description": "Decreases your Combination success rate by 10%.",
+        "points": -10
+      },
+      {
+        "name": "Combination -20%",
+        "description": "Decreases your Combination success rate by 20%.",
+        "points": -15
+      }
+    ]
+  },
+  "129": {
+    "id": 129,
+    "name": "Combo Plus",
+    "skills": [
+      {
+        "name": "Combination Pro",
+        "description": "Guarantees maximum results with Combinations that can produce more than one item at a time.",
+        "points": 10
+      }
+    ]
+  },
+  "130": {
+    "id": 130,
+    "name": "Speed Setup",
+    "skills": [
+      {
+        "name": "Trap Master",
+        "description": "Guarantees trap Combinations will succeed, and speeds up trap- and bomb-setting time.",
+        "points": 10
+      }
+    ]
+  },
+  "131": {
+    "id": 131,
+    "name": "Gathering",
+    "skills": [
+      {
+        "name": "Gathering +2",
+        "description": "Often raises the number of times items can be gathered at Gathering Points.",
+        "points": 15
+      },
+      {
+        "name": "Gathering +1",
+        "description": "Sometimes raises the number of times items can be gathered at Gathering Points.",
+        "points": 10
+      },
+      {
+        "name": "Gathering -1",
+        "description": "Sometimes lowers the number of times items can be gathered at Gathering Points.",
+        "points": -10
+      }
+    ]
+  },
+  "132": {
+    "id": 132,
+    "name": "Honey",
+    "skills": [
+      {
+        "name": "Honey Hunter",
+        "description": "Allows you to gather two Honeys or Royal Honeys at once.",
+        "points": 10
+      }
+    ]
+  },
+  "133": {
+    "id": 133,
+    "name": "Charmer",
+    "skills": [
+      {
+        "name": "Charm Chaser",
+        "description": "Allows you to mine two Charms at once... Maybe.",
+        "points": 15
+      },
+      {
+        "name": "Charm Collector",
+        "description": "Allows you to mine two Charms at once... Maaaybe.",
+        "points": 10
+      }
+    ]
+  },
+  "134": {
+    "id": 134,
+    "name": "Whim",
+    "skills": [
+      {
+        "name": "Divine Whim",
+        "description": "Greatly decreases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.",
+        "points": 15
+      },
+      {
+        "name": "Spirit's Whim",
+        "description": "Decreases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.",
+        "points": 10
+      },
+      {
+        "name": "Spectre's Whim",
+        "description": "Increases the likelihood of Pickaxes, Bug Nets, Boomerang, Flutes, and Horns breaking.",
+        "points": -10
+      },
+      {
+        "name": "Devil's Whim",
+        "description": "Greatly increases the likelihood of Pickaxes, Bug Nets, Boomerangs, Flutes, and Horns breaking.",
+        "points": -15
+      }
+    ]
+  },
+  "135": {
+    "id": 135,
+    "name": "Fate",
+    "skills": [
+      {
+        "name": "Miraculous Luck",
+        "description": "Very often increases the number of Reward Items received at the end of a Quest.",
+        "points": 20
+      },
+      {
+        "name": "Great Luck",
+        "description": "Often increases the number of Reward Items received at the end of a Quest.",
+        "points": 15
+      },
+      {
+        "name": "Good Luck",
+        "description": "Sometimes increases the number of Reward Items received at the end of a Quest.",
+        "points": 10
+      },
+      {
+        "name": "Bad Luck",
+        "description": "Sometimes decreases the number of Reward Items received at the end of a Quest.",
+        "points": -10
+      },
+      {
+        "name": "Horrible Luck",
+        "description": "Often decreases the number of Reward Items received at the end of a Quest.",
+        "points": -15
+      }
+    ]
+  },
+  "136": {
+    "id": 136,
+    "name": "Carving",
+    "skills": [
+      {
+        "name": "Carving Celebrity",
+        "description": "Increases the number of carving chances by one and prevents knockbacks while carving.",
+        "points": 15
+      },
+      {
+        "name": "Carving Pro",
+        "description": "Prevents knockbacks from attacks while carving.",
+        "points": 10
+      }
+    ]
+  },
+  "137": {
+    "id": 137,
+    "name": "Capturer",
+    "skills": [
+      {
+        "name": "Capture Master",
+        "description": "Often increases the number of Reward Items received for captures.",
+        "points": 15
+      },
+      {
+        "name": "Capture Expert",
+        "description": "Sometimes increases the number of Reward Items received for captures.",
+        "points": 10
+      }
+    ]
+  },
+  "138": {
+    "id": 138,
+    "name": "Bherna",
+    "skills": [
+      {
+        "name": "Soul of Bherna",
+        "description": "Combines the effects of \"Fire Res +15\" and \"Halve Hunger.\"",
+        "points": 10
+      }
+    ]
+  },
+  "139": {
+    "id": 139,
+    "name": "Kokoto",
+    "skills": [
+      {
+        "name": "Soul of Kokoto",
+        "description": "Combines the effects of \"Spirit's Whim\" and \"Thunder Res +15.\"",
+        "points": 10
+      }
+    ]
+  },
+  "140": {
+    "id": 140,
+    "name": "Pokke",
+    "skills": [
+      {
+        "name": "Soul of Pokke",
+        "description": "Combines the effects of \"Ice Res +15\" and \"Gourmand.\"",
+        "points": 10
+      }
+    ]
+  },
+  "141": {
+    "id": 141,
+    "name": "Yukumo",
+    "skills": [
+      {
+        "name": "Soul of Yukumo",
+        "description": "Combines the effects of \"Honey Hunter\" and \"Water Res +15.\"",
+        "points": 10
+      }
+    ]
+  },
+  "142": {
+    "id": 142,
+    "name": "Soaratorium",
+    "skills": [
+      {
+        "name": "Soaratorium Soul",
+        "description": "Combines the effects of \"Bio Researcher\" and \"Dragon Res +15\".",
+        "points": 10
+      }
+    ]
+  },
+  "143": {
+    "id": 143,
+    "name": "Flying Pub",
+    "skills": [
+      {
+        "name": "Flying Pub Soul",
+        "description": "Combines the effects of \"Knockout King\" and \"Horn Maestro\".",
+        "points": 10
+      }
+    ]
+  },
+  "144": {
+    "id": 144,
+    "name": "Redhelm",
+    "skills": [
+      {
+        "name": "Redhelm Soul",
+        "description": "Combines the effects of \"Focus\" and \"Resentment.\"",
+        "points": 10
+      }
+    ]
+  },
+  "145": {
+    "id": 145,
+    "name": "Snowbaron",
+    "skills": [
+      {
+        "name": "Snowbaron Soul",
+        "description": "Combines the effects of \"Evade Extender\" and \"Stam Recov Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "146": {
+    "id": 146,
+    "name": "Stonefist",
+    "skills": [
+      {
+        "name": "Stonefist Soul",
+        "description": "Combines the effects of \"Razor Sharp,\" \"Recoil Down +2,\" and \"Divine Blessing.\"",
+        "points": 10
+      }
+    ]
+  },
+  "147": {
+    "id": 147,
+    "name": "Drilltusk",
+    "skills": [
+      {
+        "name": "Drilltusk Soul",
+        "description": "Combines the effects of \"Adrenaline +2\" and \"Scavenger.\"",
+        "points": 10
+      }
+    ]
+  },
+  "148": {
+    "id": 148,
+    "name": "Dreadqueen",
+    "skills": [
+      {
+        "name": "Dreadqueen Soul",
+        "description": "Combines the effects of \"Status Atk +2\" and \"Wide-Range +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "149": {
+    "id": 149,
+    "name": "C.beard",
+    "skills": [
+      {
+        "name": "Crystalbeard Soul",
+        "description": "Combines the effects of \"Charm Chaser\" and \"Negate Hunger.\"",
+        "points": 10
+      }
+    ]
+  },
+  "150": {
+    "id": 150,
+    "name": "Silverwind",
+    "skills": [
+      {
+        "name": "Silverwind Soul",
+        "description": "Combines the effects of \"Evasion +2\" and \"Critical Eye +3.\"",
+        "points": 10
+      }
+    ]
+  },
+  "151": {
+    "id": 151,
+    "name": "Deadeye",
+    "skills": [
+      {
+        "name": "Deadeye Soul",
+        "description": "Combines the effects of \"Negate Stun\" and \"Challenger +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "152": {
+    "id": 152,
+    "name": "Dreadking",
+    "skills": [
+      {
+        "name": "Dreadking Soul",
+        "description": "Combines the effects of \"Attack Up (L)\" and \"Windproof (Hi).\"",
+        "points": 10
+      }
+    ]
+  },
+  "153": {
+    "id": 153,
+    "name": "Thunderlord",
+    "skills": [
+      {
+        "name": "Thunderlord Soul",
+        "description": "Combines the effects of \"Latent Power +2\" and \"Constitution +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "154": {
+    "id": 154,
+    "name": "Grimclaw",
+    "skills": [
+      {
+        "name": "Grimclaw Soul",
+        "description": "Combines the effects of \"HG Earplugs\" and \"Speed Eating +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "155": {
+    "id": 155,
+    "name": "Hellblade",
+    "skills": [
+      {
+        "name": "Hellblade Soul",
+        "description": "Combines the effects of \"Sharpness +2,\" \"Shot Booster,\" and \"Speed Sharpening.\"",
+        "points": 10
+      }
+    ]
+  },
+  "156": {
+    "id": 156,
+    "name": "Nightcloak",
+    "skills": [
+      {
+        "name": "Nightcloak Soul",
+        "description": "Combines the effects of \"HG Earplugs,\" \"Reload Speed +3,\" and \"Steady Hand.\"",
+        "points": 10
+      }
+    ]
+  },
+  "157": {
+    "id": 157,
+    "name": "Rustrazor",
+    "skills": [
+      {
+        "name": "Rustrazor Soul",
+        "description": "Combines the effects of \"Guard +2\" and \"Quick Sheath.\"",
+        "points": 10
+      }
+    ]
+  },
+  "158": {
+    "id": 158,
+    "name": "Soulseer",
+    "skills": [
+      {
+        "name": "Soulseer Soul",
+        "description": "Combines the effects of \"Critical Eye +3\" and \"Challenger +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "159": {
+    "id": 159,
+    "name": "Boltreaver",
+    "skills": [
+      {
+        "name": "Boltreaver Soul",
+        "description": "Combines the effects of \"Critical Boost,\" \"Bonus Shot,\" and \"Sharpness +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "160": {
+    "id": 160,
+    "name": "Elderfrost",
+    "skills": [
+      {
+        "name": "Elderfrost Soul",
+        "description": "Combines the effects of \"Marathon Runner,\" \"Bludgeoner,\" and \"Normal/Rapid Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "161": {
+    "id": 161,
+    "name": "Bloodbath",
+    "skills": [
+      {
+        "name": "Bloodbath Soul",
+        "description": "Combines the effects of \"Attack Up (L)\" and \"Evasion +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "162": {
+    "id": 162,
+    "name": "Redhelm X",
+    "skills": [
+      {
+        "name": "Redhelm Soul X",
+        "description": "Combines the effects of \"Resentment,\" \"Focus,\" and \"Marathon Runner.\"",
+        "points": 10
+      }
+    ]
+  },
+  "163": {
+    "id": 163,
+    "name": "Snowbaron X",
+    "skills": [
+      {
+        "name": "Snowbaron Soul X",
+        "description": "Combines the effects of \"Evade Extender,\" \"Mounting Master,\" and \"Stam Recov Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "164": {
+    "id": 164,
+    "name": "Stonefist X",
+    "skills": [
+      {
+        "name": "Stonefist Soul X",
+        "description": "Combines the effects of \"Razor Sharp,\" \"Recoil Down +2,\" \"Divine Blessing,\" and \"Constitution +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "165": {
+    "id": 165,
+    "name": "Drilltusk X",
+    "skills": [
+      {
+        "name": "Drilltusk Soul X",
+        "description": "Combines the effects of \"Adrenaline +2,\" \"Scavenger,\" and \"Artillery Expert.\"",
+        "points": 10
+      }
+    ]
+  },
+  "166": {
+    "id": 166,
+    "name": "Dreadqueen X",
+    "skills": [
+      {
+        "name": "D.queen Soul X",
+        "description": "Combines the effects of \"Status Atk +2,\" \"Wide-Range +2,\" and \"Pro Herbology.\"",
+        "points": 10
+      }
+    ]
+  },
+  "167": {
+    "id": 167,
+    "name": "Crystalbeard X",
+    "skills": [
+      {
+        "name": "C.beard Soul X",
+        "description": "Combines the effects of \"Charm Chaser,\" \"Hero's Talisman,\" and \"Negate Hunger.\"",
+        "points": 10
+      }
+    ]
+  },
+  "168": {
+    "id": 168,
+    "name": "Silverwind X",
+    "skills": [
+      {
+        "name": "Silverwind Soul X",
+        "description": "Combines the effects of \"Evasion +2,\" \"Critical Eye +3,\" and \"Sneak.\"",
+        "points": 10
+      }
+    ]
+  },
+  "169": {
+    "id": 169,
+    "name": "Deadeye X",
+    "skills": [
+      {
+        "name": "Deadeye Soul X",
+        "description": "Combines the effects of \"Negate Stun,\" \"Challenger +2,\" and \"Fortify.\"",
+        "points": 10
+      }
+    ]
+  },
+  "170": {
+    "id": 170,
+    "name": "Dreadking X",
+    "skills": [
+      {
+        "name": "Dreadking Soul X",
+        "description": "Combines the effects of \"Windproof (Hi),\" \"Attack Up (L),\" and \"Adrenaline +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "171": {
+    "id": 171,
+    "name": "Thunderlord X",
+    "skills": [
+      {
+        "name": "Thunderlord Soul X",
+        "description": "Combines the effects of \"Latent Power +2,\" \"Constitution +2,\" and \"Focus.\"",
+        "points": 10
+      }
+    ]
+  },
+  "172": {
+    "id": 172,
+    "name": "Grimclaw X",
+    "skills": [
+      {
+        "name": "Grimclaw Soul X",
+        "description": "Combines the effects of \"Speed Eating +2,\" \"HG Earplugs,\" and \"Longer SP.\"",
+        "points": 10
+      }
+    ]
+  },
+  "173": {
+    "id": 173,
+    "name": "Hellblade X",
+    "skills": [
+      {
+        "name": "Hellblade Soul X",
+        "description": "Combines the effects of \"Sharpness +2,\" \"Bombardier,\" \"Shot Booster,\" and \"Speed Sharpening.\"",
+        "points": 10
+      }
+    ]
+  },
+  "174": {
+    "id": 174,
+    "name": "Nightcloak X",
+    "skills": [
+      {
+        "name": "Nightcloak Soul X",
+        "description": "Combines the effects of \"HG Earplugs,\" \"Reload Speed +3,\" \"Steady Hand,\" and \"Trap Master.\"",
+        "points": 10
+      }
+    ]
+  },
+  "175": {
+    "id": 175,
+    "name": "Rustrazor X",
+    "skills": [
+      {
+        "name": "Rustrazor Soul X",
+        "description": "Combines the effects of \"Guard +2,\" \"Quick Sheath,\" and \"Bladescale Hone.\"",
+        "points": 10
+      }
+    ]
+  },
+  "176": {
+    "id": 176,
+    "name": "Soulseer X",
+    "skills": [
+      {
+        "name": "Soulseer Soul X",
+        "description": "Combines the effects of \"Critical Eye +3\" and \"Challenger +2.\"",
+        "points": 10
+      }
+    ]
+  },
+  "177": {
+    "id": 177,
+    "name": "Boltreaver X",
+    "skills": [
+      {
+        "name": "Boltreaver Soul X",
+        "description": "Combines the effects of \"Critical Boost,\" \"Bonus Shot,\" \"Sharpness +1,\" and \"Chance Seizer.\"",
+        "points": 10
+      }
+    ]
+  },
+  "178": {
+    "id": 178,
+    "name": "Elderfrost X",
+    "skills": [
+      {
+        "name": "Elderfrost Soul X",
+        "description": "Combines the effects of \"Marathon Runner,\" \"Bludgeoner,\" \"Normal/Rapid Up,\" and \"Attack Up (M).\"",
+        "points": 10
+      }
+    ]
+  },
+  "179": {
+    "id": 179,
+    "name": "Bloodbath X",
+    "skills": [
+      {
+        "name": "Bloodbath Soul X",
+        "description": "Combines the effects of \"Attack Up (L),\" \"Evasion +2,\" and \"Composed.\"",
+        "points": 10
+      }
+    ]
+  },
+  "180": {
+    "id": 180,
+    "name": "D. Fencing",
+    "skills": [
+      {
+        "name": "Pro Dirty Fencer",
+        "description": "Combines the effects of \"Fortify,\" \"Marathon Runner,\" and \"Stamina Thief.\"",
+        "points": 10
+      }
+    ]
+  },
+  "181": {
+    "id": 181,
+    "name": "Edge Lore",
+    "skills": [
+      {
+        "name": "Steady Hand",
+        "description": "Combines the effects of \"Mind's Eye\" and \"Razor Sharp.\"",
+        "points": 10
+      }
+    ]
+  },
+  "182": {
+    "id": 182,
+    "name": "PowerEater",
+    "skills": [
+      {
+        "name": "Alloy Stomach",
+        "description": "Combines the effects of \"Speed Eating +2,\" \"Meat Lover,\" and \"Mushromancer.\"",
+        "points": 10
+      }
+    ]
+  },
+  "183": {
+    "id": 183,
+    "name": "Mechanic",
+    "skills": [
+      {
+        "name": "Explosive Trapper",
+        "description": "Combines the effects of \"Bombardier\" and \"Trap Master.\"",
+        "points": 10
+      }
+    ]
+  },
+  "184": {
+    "id": 184,
+    "name": "Brawn",
+    "skills": [
+      {
+        "name": "Crushing Blow",
+        "description": "Combines the effects of \"Stamina Thief\" and \"Knockout King.\"",
+        "points": 10
+      }
+    ]
+  },
+  "185": {
+    "id": 185,
+    "name": "Prayer",
+    "skills": [
+      {
+        "name": "Benediction",
+        "description": "Combines the effects of \"Recovery Up\" and \"Divine Blessing.\"",
+        "points": 10
+      }
+    ]
+  },
+  "186": {
+    "id": 186,
+    "name": "Covert",
+    "skills": [
+      {
+        "name": "Clandestine",
+        "description": "Combines the effects of \"Load Up,\" \"Combination +20%,\" and \"Sneak.\"",
+        "points": 10
+      }
+    ]
+  },
+  "187": {
+    "id": 187,
+    "name": "Edgemaster",
+    "skills": [
+      {
+        "name": "Honed Blade",
+        "description": "Combines the effects of \"Sharpness +1\" and \"Attack Up (L).\"",
+        "points": 10
+      }
+    ]
+  },
+  "188": {
+    "id": 188,
+    "name": "SteadyHand",
+    "skills": [
+      {
+        "name": "Silver Bullet",
+        "description": "Combines the effects of \"Normal/Rapid Up,\" \"Pierce/Pierce Up,\" and \"Pellet/Spread Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "189": {
+    "id": 189,
+    "name": "Status Res",
+    "skills": [
+      {
+        "name": "Wellness",
+        "description": "Combines the effects of \"Negate Poison,\" \"Negate Paralysis,\" \"Negate Sleep,\" and \"Negate Stun.\"",
+        "points": 10
+      }
+    ]
+  },
+  "190": {
+    "id": 190,
+    "name": "Fury",
+    "skills": [
+      {
+        "name": "Wrath Awoken",
+        "description": "Combines the effects of \"Adrenaline +2\" and \"Guts.\"",
+        "points": 10
+      }
+    ]
+  },
+  "191": {
+    "id": 191,
+    "name": "Nimbleness",
+    "skills": [
+      {
+        "name": "Acrobat",
+        "description": "Combines the effects of \"Constitution +1\" and \"Evasion +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "192": {
+    "id": 192,
+    "name": "Readiness",
+    "skills": [
+      {
+        "name": "Sheath Control",
+        "description": "Combines the effects of \"Punishing Draw\" and \"Quick Sheath.\"",
+        "points": 10
+      }
+    ]
+  },
+  "193": {
+    "id": 193,
+    "name": "Resilience",
+    "skills": [
+      {
+        "name": "Iron Wall",
+        "description": "Combines the effects of \"Defense Up (M)\" and \"Iron Skin.\"",
+        "points": 10
+      }
+    ]
+  },
+  "194": {
+    "id": 194,
+    "name": "Brutality",
+    "skills": [
+      {
+        "name": "Ruthlessness",
+        "description": "Combines the effects of \"Critical Eye +2\" and \"Weakness Exploit.\"",
+        "points": 10
+      }
+    ]
+  },
+  "195": {
+    "id": 195,
+    "name": "Stalwart",
+    "skills": [
+      {
+        "name": "Shield Bearer",
+        "description": "Combines the effects of \"Guard Up\" and \"Stam Recov Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "196": {
+    "id": 196,
+    "name": "Prudence",
+    "skills": [
+      {
+        "name": "Fleet Feet",
+        "description": "Combines the effects of \"Peak Performance\" and \"Evade Extender.\"",
+        "points": 10
+      }
+    ]
+  },
+  "197": {
+    "id": 197,
+    "name": "Amplify",
+    "skills": [
+      {
+        "name": "Elementality",
+        "description": "Combines the effects of \"Element Atk Up\" and \"Item Use Up.\"",
+        "points": 10
+      }
+    ]
+  },
+  "198": {
+    "id": 198,
+    "name": "Hoarding",
+    "skills": [
+      {
+        "name": "Pack Rat",
+        "description": "Combines the effects of \"Charm Chaser\" and \"Gathering +1.\"",
+        "points": 10
+      }
+    ]
+  },
+  "199": {
+    "id": 199,
+    "name": "Avarice",
+    "skills": [
+      {
+        "name": "Bounty Hunter",
+        "description": "Combines the effects of \"Great Luck\" and \"Capture Expert.\"",
+        "points": 10
+      }
+    ]
+  },
+  "200": {
+    "id": 200,
+    "name": "Anti-Kushala",
+    "skills": [
+      {
+        "name": "Hazefur Talisman",
+        "description": "Combines the effects of \"Polar Hunter,\" \"Windproof (Hi),\" and \"Negate Bind.\"",
+        "points": 10
+      }
+    ]
+  },
+  "201": {
+    "id": 201,
+    "name": "Anti-Chameleos",
+    "skills": [
+      {
+        "name": "Pyroscale Talisman",
+        "description": "Combines the effects of \"Negate Poison,\" \"Anti-Theft,\" and \"Autotracker.\"",
+        "points": 10
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "name": "Anti-Teostra",
+    "skills": [
+      {
+        "name": "Steelshell Talisman",
+        "description": "Combines the effects of \"Tropic Hunter,\" \"Fire Res +20,\" and \"Bio Researcher.\"",
+        "points": 10
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "name": "Secret Arts",
+    "skills": [
+      {
+        "name": "Skill +2",
+        "description": "Adds a further two Skill Points to all skills with points invested.",
+        "points": 10
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "name": "Talisman Boost",
+    "skills": [
+      {
+        "name": "Double Talisman",
+        "description": "Doubles the amount of Skill Points gained through talismans.",
+        "points": 10
+      }
+    ]
+  }
+}
