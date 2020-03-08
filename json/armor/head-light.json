@@ -2,6 +2,7 @@
   {
     "_id": 1310721,
     "name": "Leather Headgear",
+    "num_slots": 1,
     "max_defense": 25,
     "sub_type": "Head",
     "skills": [
@@ -14,6 +15,7 @@
   {
     "_id": 1310723,
     "name": "Bherna Turban",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Head",
     "skills": [
@@ -26,6 +28,7 @@
   {
     "_id": 1310724,
     "name": "Hunting Helm",
+    "num_slots": 1,
     "max_defense": 50,
     "sub_type": "Head",
     "skills": [
@@ -38,6 +41,7 @@
   {
     "_id": 1310725,
     "name": "Hunting Cap",
+    "num_slots": 1,
     "max_defense": 25,
     "sub_type": "Head",
     "skills": [
@@ -50,6 +54,7 @@
   {
     "_id": 1310726,
     "name": "Mafumofu Hood",
+    "num_slots": 2,
     "max_defense": 26,
     "sub_type": "Head",
     "skills": [
@@ -62,6 +67,7 @@
   {
     "_id": 1310727,
     "name": "Yukumo Kasa",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Head",
     "skills": [
@@ -74,6 +80,7 @@
   {
     "_id": 1310729,
     "name": "Hunter's Helm",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -90,6 +97,7 @@
   {
     "_id": 1310730,
     "name": "Hunter's Cap",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Head",
     "skills": [
@@ -106,6 +114,7 @@
   {
     "_id": 1310731,
     "name": "Bone Helm",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -118,6 +127,7 @@
   {
     "_id": 1310732,
     "name": "Bone Cap",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Head",
     "skills": [
@@ -130,6 +140,7 @@
   {
     "_id": 1310735,
     "name": "Chaoshroom",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -142,6 +153,7 @@
   {
     "_id": 1310736,
     "name": "Chaos Diadem",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Head",
     "skills": [
@@ -154,6 +166,7 @@
   {
     "_id": 1310743,
     "name": "Jaggi Helm",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -174,6 +187,7 @@
   {
     "_id": 1310744,
     "name": "Jaggi Cap",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Head",
     "skills": [
@@ -194,6 +208,7 @@
   {
     "_id": 1310745,
     "name": "Maccao Helm",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -206,6 +221,7 @@
   {
     "_id": 1310746,
     "name": "Maccao Cap",
+    "num_slots": 1,
     "max_defense": 28,
     "sub_type": "Head",
     "skills": [
@@ -218,6 +234,7 @@
   {
     "_id": 1310747,
     "name": "Velociprey Helm",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -234,6 +251,7 @@
   {
     "_id": 1310748,
     "name": "Velociprey Cap",
+    "num_slots": 1,
     "max_defense": 28,
     "sub_type": "Head",
     "skills": [
@@ -250,6 +268,7 @@
   {
     "_id": 1310749,
     "name": "Giaprey Helm",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -270,6 +289,7 @@
   {
     "_id": 1310750,
     "name": "Giaprey Cap",
+    "num_slots": 0,
     "max_defense": 28,
     "sub_type": "Head",
     "skills": [
@@ -290,6 +310,7 @@
   {
     "_id": 1310751,
     "name": "Genprey Helm",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -306,6 +327,7 @@
   {
     "_id": 1310752,
     "name": "Genprey Cap",
+    "num_slots": 2,
     "max_defense": 29,
     "sub_type": "Head",
     "skills": [
@@ -322,6 +344,7 @@
   {
     "_id": 1310753,
     "name": "Vespoid Helm",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -338,6 +361,7 @@
   {
     "_id": 1310754,
     "name": "Vespoid Cap",
+    "num_slots": 2,
     "max_defense": 29,
     "sub_type": "Head",
     "skills": [
@@ -354,6 +378,7 @@
   {
     "_id": 1310755,
     "name": "Hornetaur Helm",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -366,6 +391,7 @@
   {
     "_id": 1310756,
     "name": "Hornetaur Cap",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Head",
     "skills": [
@@ -378,6 +404,7 @@
   {
     "_id": 1310757,
     "name": "Bnahabra Hat",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -394,6 +421,7 @@
   {
     "_id": 1310758,
     "name": "Bnahabra Headpiece",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Head",
     "skills": [
@@ -410,6 +438,7 @@
   {
     "_id": 1310759,
     "name": "Konchu Helm",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -426,6 +455,7 @@
   {
     "_id": 1310760,
     "name": "Konchu Cap",
+    "num_slots": 2,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -442,6 +472,7 @@
   {
     "_id": 1310761,
     "name": "Mosswine Mask",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Head",
     "skills": [
@@ -454,6 +485,7 @@
   {
     "_id": 1310762,
     "name": "Rhenoplos Helm",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -466,6 +498,7 @@
   {
     "_id": 1310763,
     "name": "Rhenoplos Cap",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -478,6 +511,7 @@
   {
     "_id": 1310764,
     "name": "Bulldrome Helm",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -498,6 +532,7 @@
   {
     "_id": 1310765,
     "name": "Bulldrome Cap",
+    "num_slots": 1,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -518,6 +553,7 @@
   {
     "_id": 1310766,
     "name": "Bullfango Mask",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -534,6 +570,7 @@
   {
     "_id": 1310767,
     "name": "Arzuros Helm",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -546,6 +583,7 @@
   {
     "_id": 1310768,
     "name": "Arzuros Cap",
+    "num_slots": 2,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -558,6 +596,7 @@
   {
     "_id": 1310769,
     "name": "Cephalos Helm",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -578,6 +617,7 @@
   {
     "_id": 1310770,
     "name": "Cephalos Cap",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -598,6 +638,7 @@
   {
     "_id": 1310771,
     "name": "Derring Headgear",
+    "num_slots": 2,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -610,6 +651,7 @@
   {
     "_id": 1310772,
     "name": "Alloy Helm",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -626,6 +668,7 @@
   {
     "_id": 1310773,
     "name": "Alloy Cap",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -642,6 +685,7 @@
   {
     "_id": 1310774,
     "name": "Battle Helm",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -654,6 +698,7 @@
   {
     "_id": 1310775,
     "name": "Battle Cap",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -666,6 +711,7 @@
   {
     "_id": 1310776,
     "name": "Ingot Helm",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -678,6 +724,7 @@
   {
     "_id": 1310777,
     "name": "Ingot Cap",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -690,6 +737,7 @@
   {
     "_id": 1310778,
     "name": "High Metal Helm",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -706,6 +754,7 @@
   {
     "_id": 1310779,
     "name": "High Metal Cap",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -722,6 +771,7 @@
   {
     "_id": 1310782,
     "name": "Melahoa Hat",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -734,6 +784,7 @@
   {
     "_id": 1310783,
     "name": "Melahoa Bloom",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -746,6 +797,7 @@
   {
     "_id": 1310784,
     "name": "Makluva Hood",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -762,6 +814,7 @@
   {
     "_id": 1310785,
     "name": "Makluva Gills",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -778,6 +831,7 @@
   {
     "_id": 1310786,
     "name": "Bistro Toque",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -794,6 +848,7 @@
   {
     "_id": 1310787,
     "name": "Bistro Cap",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Head",
     "skills": [
@@ -810,6 +865,7 @@
   {
     "_id": 1310788,
     "name": "Obituary Vertex",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -830,6 +886,7 @@
   {
     "_id": 1310789,
     "name": "Obituary Clypeus",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -850,6 +907,7 @@
   {
     "_id": 1310790,
     "name": "Butterfly Vertex",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -870,6 +928,7 @@
   {
     "_id": 1310791,
     "name": "Butterfly Clypeus",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -890,6 +949,7 @@
   {
     "_id": 1310792,
     "name": "Death Stench Brain",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -910,6 +970,7 @@
   {
     "_id": 1310793,
     "name": "Death Stench Soul",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -930,6 +991,7 @@
   {
     "_id": 1310794,
     "name": "Acorn Helm",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -942,6 +1004,7 @@
   {
     "_id": 1310795,
     "name": "Acorn Cap",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -954,6 +1017,7 @@
   {
     "_id": 1310796,
     "name": "Mosgharl Vizor",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -966,6 +1030,7 @@
   {
     "_id": 1310797,
     "name": "Mosgharl Brim",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -978,6 +1043,7 @@
   {
     "_id": 1310798,
     "name": "Edel Vizor",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -990,6 +1056,7 @@
   {
     "_id": 1310799,
     "name": "Edel Bloom",
+    "num_slots": 2,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -1002,6 +1069,7 @@
   {
     "_id": 1310800,
     "name": "Skalda Vertex",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1022,6 +1090,7 @@
   {
     "_id": 1310801,
     "name": "Skalda Clypeus",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1042,6 +1111,7 @@
   {
     "_id": 1310802,
     "name": "Spio Vertex",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1062,6 +1132,7 @@
   {
     "_id": 1310803,
     "name": "Spio Clypeus",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1082,6 +1153,7 @@
   {
     "_id": 1310808,
     "name": "Larinoth Mask",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -1094,6 +1166,7 @@
   {
     "_id": 1310809,
     "name": "Gargwa Mask",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -1106,6 +1179,7 @@
   {
     "_id": 1310810,
     "name": "Moofah Head",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -1118,6 +1192,7 @@
   {
     "_id": 1310811,
     "name": "Moofah Wig",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -1130,6 +1205,7 @@
   {
     "_id": 1310812,
     "name": "False Felyne",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -1142,6 +1218,7 @@
   {
     "_id": 1310813,
     "name": "Velociprey Head",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -1158,6 +1235,7 @@
   {
     "_id": 1310814,
     "name": "Velociprey Mask",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -1174,6 +1252,7 @@
   {
     "_id": 1310815,
     "name": "Genprey Head",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -1190,6 +1269,7 @@
   {
     "_id": 1310816,
     "name": "Genprey Mask",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -1206,6 +1286,7 @@
   {
     "_id": 1310817,
     "name": "Ioprey Head",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -1222,6 +1303,7 @@
   {
     "_id": 1310818,
     "name": "Ioprey Mask",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -1238,6 +1320,7 @@
   {
     "_id": 1310819,
     "name": "Remobra Headgear",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -1254,6 +1337,7 @@
   {
     "_id": 1310820,
     "name": "Remobra Mask",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Head",
     "skills": [
@@ -1270,6 +1354,7 @@
   {
     "_id": 1310821,
     "name": "Ioprey Helm",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -1282,6 +1367,7 @@
   {
     "_id": 1310822,
     "name": "Ioprey Cap",
+    "num_slots": 2,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -1294,6 +1380,7 @@
   {
     "_id": 1310823,
     "name": "Kut-Ku Helm",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -1314,6 +1401,7 @@
   {
     "_id": 1310824,
     "name": "Kut-Ku Cap",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -1334,6 +1422,7 @@
   {
     "_id": 1310825,
     "name": "Lagombi Helm",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -1354,6 +1443,7 @@
   {
     "_id": 1310826,
     "name": "Lagombi Cap",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -1374,6 +1464,7 @@
   {
     "_id": 1310827,
     "name": "Gypceros Helm",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -1394,6 +1485,7 @@
   {
     "_id": 1310828,
     "name": "Gypceros Cap",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Head",
     "skills": [
@@ -1414,6 +1506,7 @@
   {
     "_id": 1310829,
     "name": "Tetsucabra Helm",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1434,6 +1527,7 @@
   {
     "_id": 1310830,
     "name": "Tetsucabra Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1454,6 +1548,7 @@
   {
     "_id": 1310831,
     "name": "Hermitaur Helm",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1474,6 +1569,7 @@
   {
     "_id": 1310832,
     "name": "Hermitaur Cap",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1494,6 +1590,7 @@
   {
     "_id": 1310833,
     "name": "Volvidon Helm",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1514,6 +1611,7 @@
   {
     "_id": 1310834,
     "name": "Volvidon Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1534,6 +1632,7 @@
   {
     "_id": 1310835,
     "name": "Ludroth Helm",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1554,6 +1653,7 @@
   {
     "_id": 1310836,
     "name": "Ludroth Cap",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1574,6 +1674,7 @@
   {
     "_id": 1310837,
     "name": "Malfestio Helm",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1590,6 +1691,7 @@
   {
     "_id": 1310838,
     "name": "Malfestio Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1606,6 +1708,7 @@
   {
     "_id": 1310839,
     "name": "Khezu Helm",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1618,6 +1721,7 @@
   {
     "_id": 1310840,
     "name": "Khezu Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1630,6 +1734,7 @@
   {
     "_id": 1310841,
     "name": "Rathian Helm",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1650,6 +1755,7 @@
   {
     "_id": 1310842,
     "name": "Rathian Cap",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1670,6 +1776,7 @@
   {
     "_id": 1310843,
     "name": "Nibelsnarf Helm",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1686,6 +1793,7 @@
   {
     "_id": 1310844,
     "name": "Nibelsnarf Cap",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1702,6 +1810,7 @@
   {
     "_id": 1310845,
     "name": "Blango Helm",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1722,6 +1831,7 @@
   {
     "_id": 1310846,
     "name": "Blango Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1742,6 +1852,7 @@
   {
     "_id": 1310847,
     "name": "Ceanataur Helm",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1762,6 +1873,7 @@
   {
     "_id": 1310848,
     "name": "Ceanataur Cap",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1782,6 +1894,7 @@
   {
     "_id": 1310849,
     "name": "Najarala Helm",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1802,6 +1915,7 @@
   {
     "_id": 1310850,
     "name": "Najarala Cap",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1822,6 +1936,7 @@
   {
     "_id": 1310851,
     "name": "Nargacuga Helm",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1842,6 +1957,7 @@
   {
     "_id": 1310852,
     "name": "Nargacuga Cap",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1862,6 +1978,7 @@
   {
     "_id": 1310853,
     "name": "Scholarly Hood",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -1882,6 +1999,7 @@
   {
     "_id": 1310854,
     "name": "Scholarly Cap",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Head",
     "skills": [
@@ -1902,6 +2020,7 @@
   {
     "_id": 1310855,
     "name": "Vaik Helm",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1918,6 +2037,7 @@
   {
     "_id": 1310856,
     "name": "Vaik Cap",
+    "num_slots": 2,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1934,6 +2054,7 @@
   {
     "_id": 1310857,
     "name": "Skull Visage",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -1946,6 +2067,7 @@
   {
     "_id": 1310858,
     "name": "Skull Mask",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -1958,6 +2080,7 @@
   {
     "_id": 1310859,
     "name": "Aelucanth Vertex",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1970,6 +2093,7 @@
   {
     "_id": 1310860,
     "name": "Aelucanth Clypeus",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -1982,6 +2106,7 @@
   {
     "_id": 1310861,
     "name": "Rhopessa Vertex",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -1994,6 +2119,7 @@
   {
     "_id": 1310862,
     "name": "Rhopessa Clypeus",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2006,6 +2132,7 @@
   {
     "_id": 1310865,
     "name": "Garuga Helm",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -2026,6 +2153,7 @@
   {
     "_id": 1310866,
     "name": "Garuga Cap",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Head",
     "skills": [
@@ -2046,6 +2174,7 @@
   {
     "_id": 1310867,
     "name": "Garuga Mask",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2062,6 +2191,7 @@
   {
     "_id": 1310868,
     "name": "Uragaan Helm",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2074,6 +2204,7 @@
   {
     "_id": 1310869,
     "name": "Uragaan Cap",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2086,6 +2217,7 @@
   {
     "_id": 1310870,
     "name": "Rathalos Helm",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2106,6 +2238,7 @@
   {
     "_id": 1310871,
     "name": "Rathalos Cap",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2126,6 +2259,7 @@
   {
     "_id": 1310872,
     "name": "Lagiacrus Helm",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2142,6 +2276,7 @@
   {
     "_id": 1310873,
     "name": "Lagiacrus Cap",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2158,6 +2293,7 @@
   {
     "_id": 1310874,
     "name": "Zinogre Helm",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -2178,6 +2314,7 @@
   {
     "_id": 1310875,
     "name": "Zinogre Cap",
+    "num_slots": 1,
     "max_defense": 36,
     "sub_type": "Head",
     "skills": [
@@ -2198,6 +2335,7 @@
   {
     "_id": 1310876,
     "name": "Mizutsune Helm",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -2218,6 +2356,7 @@
   {
     "_id": 1310877,
     "name": "Mizutsune Mask",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2238,6 +2377,7 @@
   {
     "_id": 1310878,
     "name": "Astalos Helm",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2258,6 +2398,7 @@
   {
     "_id": 1310879,
     "name": "Astalos Cap",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2278,6 +2419,7 @@
   {
     "_id": 1310880,
     "name": "Gammoth Helm",
+    "num_slots": 2,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2298,6 +2440,7 @@
   {
     "_id": 1310881,
     "name": "Gammoth Cap",
+    "num_slots": 2,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2318,6 +2461,7 @@
   {
     "_id": 1310882,
     "name": "Glavenus Helm",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2338,6 +2482,7 @@
   {
     "_id": 1310883,
     "name": "Glavenus Cap",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2358,6 +2503,7 @@
   {
     "_id": 1310884,
     "name": "Gore Helm",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2374,6 +2520,7 @@
   {
     "_id": 1310885,
     "name": "Gore Cap",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2390,6 +2537,7 @@
   {
     "_id": 1310886,
     "name": "Regios Helm",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2406,6 +2554,7 @@
   {
     "_id": 1310887,
     "name": "Regios Cap",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2422,6 +2571,7 @@
   {
     "_id": 1310888,
     "name": "Tigrex Helm",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2442,6 +2592,7 @@
   {
     "_id": 1310889,
     "name": "Tigrex Cap",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2462,6 +2613,7 @@
   {
     "_id": 1310890,
     "name": "Kirin Horn",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2482,6 +2634,7 @@
   {
     "_id": 1310891,
     "name": "Kirin Crest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2502,6 +2655,7 @@
   {
     "_id": 1310892,
     "name": "Brachydios Helm",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2522,6 +2676,7 @@
   {
     "_id": 1310893,
     "name": "Brachydios Cap",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2542,6 +2697,7 @@
   {
     "_id": 1310894,
     "name": "Arc Helm",
+    "num_slots": 2,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2554,6 +2710,7 @@
   {
     "_id": 1310895,
     "name": "Storge Helm",
+    "num_slots": 2,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2566,6 +2723,7 @@
   {
     "_id": 1310896,
     "name": "Arc Cap",
+    "num_slots": 2,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2582,6 +2740,7 @@
   {
     "_id": 1310897,
     "name": "Storge Cap",
+    "num_slots": 2,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2598,6 +2757,7 @@
   {
     "_id": 1310898,
     "name": "Kushala Glare",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2614,6 +2774,7 @@
   {
     "_id": 1310899,
     "name": "Kushala Snarl",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2630,6 +2791,7 @@
   {
     "_id": 1310900,
     "name": "Mizuha Cap",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2646,6 +2808,7 @@
   {
     "_id": 1310901,
     "name": "Cham Hat",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2662,6 +2825,7 @@
   {
     "_id": 1310902,
     "name": "Kaiser Crown",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2678,6 +2842,7 @@
   {
     "_id": 1310903,
     "name": "Kaiser Mask",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2694,6 +2859,7 @@
   {
     "_id": 1310904,
     "name": "Skeletal Skull",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -2710,6 +2876,7 @@
   {
     "_id": 1310905,
     "name": "Decayed Skull",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Head",
     "skills": [
@@ -2726,6 +2893,7 @@
   {
     "_id": 1310906,
     "name": "Black Head",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -2742,6 +2910,7 @@
   {
     "_id": 1310907,
     "name": "Black Face",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Head",
     "skills": [
@@ -2758,6 +2927,7 @@
   {
     "_id": 1310910,
     "name": "Guild Bard Lobos",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -2778,6 +2948,7 @@
   {
     "_id": 1310911,
     "name": "Guild Bard Hat",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2798,6 +2969,7 @@
   {
     "_id": 1310912,
     "name": "Maiden's Hat",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -2818,6 +2990,7 @@
   {
     "_id": 1310913,
     "name": "French Maid Glasses",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2838,6 +3011,7 @@
   {
     "_id": 1310914,
     "name": "Helper Hood",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -2858,6 +3032,7 @@
   {
     "_id": 1310915,
     "name": "Healer Glasses",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2878,6 +3053,7 @@
   {
     "_id": 1310916,
     "name": "Dianthus Cap",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -2894,6 +3070,7 @@
   {
     "_id": 1310917,
     "name": "Campanile Cap",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2910,6 +3087,7 @@
   {
     "_id": 1310918,
     "name": "Bath Towel",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Head",
     "skills": [
@@ -2922,6 +3100,7 @@
   {
     "_id": 1310919,
     "name": "Gourmew Toque",
+    "num_slots": 3,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -2934,6 +3113,7 @@
   {
     "_id": 1310920,
     "name": "Gourmew Cap",
+    "num_slots": 3,
     "max_defense": 36,
     "sub_type": "Head",
     "skills": [
@@ -2946,6 +3126,7 @@
   {
     "_id": 1310921,
     "name": "Leather Helm S",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -2962,6 +3143,7 @@
   {
     "_id": 1310922,
     "name": "Chainmail Helm S",
+    "num_slots": 3,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -2974,6 +3156,7 @@
   {
     "_id": 1310923,
     "name": "Bherna Turban S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -2990,6 +3173,7 @@
   {
     "_id": 1310924,
     "name": "Bherna Cap S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Head",
     "skills": [
@@ -3006,6 +3190,7 @@
   {
     "_id": 1310925,
     "name": "Hunting Helm S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -3022,6 +3207,7 @@
   {
     "_id": 1310926,
     "name": "Hunting Cap S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Head",
     "skills": [
@@ -3038,6 +3224,7 @@
   {
     "_id": 1310927,
     "name": "Mafumofu Hood S",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -3054,6 +3241,7 @@
   {
     "_id": 1310928,
     "name": "Mafumofu Cap S",
+    "num_slots": 2,
     "max_defense": 51,
     "sub_type": "Head",
     "skills": [
@@ -3070,6 +3258,7 @@
   {
     "_id": 1310929,
     "name": "Yukumo Sky Kasa",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -3086,6 +3275,7 @@
   {
     "_id": 1310930,
     "name": "Yukumo Land Kasa",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Head",
     "skills": [
@@ -3102,6 +3292,7 @@
   {
     "_id": 1310932,
     "name": "Hunter's Helm S",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -3122,6 +3313,7 @@
   {
     "_id": 1310933,
     "name": "Hunter's Cap S",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Head",
     "skills": [
@@ -3142,6 +3334,7 @@
   {
     "_id": 1310934,
     "name": "Hunter's Helm R",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -3158,6 +3351,7 @@
   {
     "_id": 1310935,
     "name": "Hunter's Cap R",
+    "num_slots": 1,
     "max_defense": 49,
     "sub_type": "Head",
     "skills": [
@@ -3178,6 +3372,7 @@
   {
     "_id": 1310936,
     "name": "Bone Helm S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Head",
     "skills": [
@@ -3198,6 +3393,7 @@
   {
     "_id": 1310937,
     "name": "Bone Cap S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3218,6 +3414,7 @@
   {
     "_id": 1310942,
     "name": "Chaos Archbun",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -3234,6 +3431,7 @@
   {
     "_id": 1310943,
     "name": "Chaos Archdiadem",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -3250,6 +3448,7 @@
   {
     "_id": 1310944,
     "name": "Melahoa Hat S",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -3262,6 +3461,7 @@
   {
     "_id": 1310945,
     "name": "Melahoa Bloom S",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -3274,6 +3474,7 @@
   {
     "_id": 1310946,
     "name": "Melahoa Hat U",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -3290,6 +3491,7 @@
   {
     "_id": 1310947,
     "name": "Melahoa Bloom U",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Head",
     "skills": [
@@ -3306,6 +3508,7 @@
   {
     "_id": 1310948,
     "name": "Makluva Hood S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -3322,6 +3525,7 @@
   {
     "_id": 1310949,
     "name": "Makluva Gills S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -3338,6 +3542,7 @@
   {
     "_id": 1310950,
     "name": "Makluva Hood U",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -3354,6 +3559,7 @@
   {
     "_id": 1310951,
     "name": "Makluva Gills U",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -3370,6 +3576,7 @@
   {
     "_id": 1310952,
     "name": "Bistro Toque S",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Head",
     "skills": [
@@ -3390,6 +3597,7 @@
   {
     "_id": 1310953,
     "name": "Bistro Cap S",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Head",
     "skills": [
@@ -3410,6 +3618,7 @@
   {
     "_id": 1310954,
     "name": "Acorn Helm S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -3426,6 +3635,7 @@
   {
     "_id": 1310955,
     "name": "Acorn Cap S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -3442,6 +3652,7 @@
   {
     "_id": 1310956,
     "name": "Mosgharl Vizor S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -3454,6 +3665,7 @@
   {
     "_id": 1310957,
     "name": "Mosgharl Brim S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -3466,6 +3678,7 @@
   {
     "_id": 1310958,
     "name": "Edel Vizor S",
+    "num_slots": 2,
     "max_defense": 110,
     "sub_type": "Head",
     "skills": [
@@ -3482,6 +3695,7 @@
   {
     "_id": 1310959,
     "name": "Edel Bloom S",
+    "num_slots": 2,
     "max_defense": 55,
     "sub_type": "Head",
     "skills": [
@@ -3498,6 +3712,7 @@
   {
     "_id": 1310960,
     "name": "Moofah Head S",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -3514,6 +3729,7 @@
   {
     "_id": 1310961,
     "name": "Moofah Wig S",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -3530,6 +3746,7 @@
   {
     "_id": 1310962,
     "name": "Slagtoth Hood",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -3546,6 +3763,7 @@
   {
     "_id": 1310963,
     "name": "Slagtoth Cowl",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Head",
     "skills": [
@@ -3562,6 +3780,7 @@
   {
     "_id": 1310964,
     "name": "Larinoth Mask S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3574,6 +3793,7 @@
   {
     "_id": 1310965,
     "name": "Gargwa Mask S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3586,6 +3806,7 @@
   {
     "_id": 1310966,
     "name": "False Felyne S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3598,6 +3819,7 @@
   {
     "_id": 1310967,
     "name": "Velociprey Head S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -3614,6 +3836,7 @@
   {
     "_id": 1310968,
     "name": "Velociprey Mask S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Head",
     "skills": [
@@ -3630,6 +3853,7 @@
   {
     "_id": 1310969,
     "name": "Genprey Head S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -3646,6 +3870,7 @@
   {
     "_id": 1310970,
     "name": "Genprey Mask S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Head",
     "skills": [
@@ -3662,6 +3887,7 @@
   {
     "_id": 1310971,
     "name": "Ioprey Head S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -3678,6 +3904,7 @@
   {
     "_id": 1310972,
     "name": "Ioprey Mask S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Head",
     "skills": [
@@ -3694,6 +3921,7 @@
   {
     "_id": 1310973,
     "name": "Remobra Headgear S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -3710,6 +3938,7 @@
   {
     "_id": 1310974,
     "name": "Remobra Mask S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Head",
     "skills": [
@@ -3726,6 +3955,7 @@
   {
     "_id": 1310981,
     "name": "Mosswine Mask S",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Head",
     "skills": [
@@ -3738,6 +3968,7 @@
   {
     "_id": 1310982,
     "name": "Rhenoplos Helm S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -3750,6 +3981,7 @@
   {
     "_id": 1310983,
     "name": "Rhenoplos Cap S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -3762,6 +3994,7 @@
   {
     "_id": 1310984,
     "name": "Jaggi Helm S",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -3782,6 +4015,7 @@
   {
     "_id": 1310985,
     "name": "Jaggi Cap S",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Head",
     "skills": [
@@ -3802,6 +4036,7 @@
   {
     "_id": 1310990,
     "name": "Maccao Helm S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Head",
     "skills": [
@@ -3818,6 +4053,7 @@
   {
     "_id": 1310991,
     "name": "Maccao Cap S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3834,6 +4070,7 @@
   {
     "_id": 1310992,
     "name": "Velociprey Helm S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Head",
     "skills": [
@@ -3850,6 +4087,7 @@
   {
     "_id": 1310993,
     "name": "Velociprey Cap S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3866,6 +4104,7 @@
   {
     "_id": 1310994,
     "name": "Giaprey Helm S",
+    "num_slots": 0,
     "max_defense": 106,
     "sub_type": "Head",
     "skills": [
@@ -3886,6 +4125,7 @@
   {
     "_id": 1310995,
     "name": "Giaprey Cap S",
+    "num_slots": 0,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -3906,6 +4146,7 @@
   {
     "_id": 1310996,
     "name": "Genprey Helm S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -3922,6 +4163,7 @@
   {
     "_id": 1310997,
     "name": "Genprey Cap S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -3938,6 +4180,7 @@
   {
     "_id": 1310998,
     "name": "EX Genprey Helm",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -3958,6 +4201,7 @@
   {
     "_id": 1310999,
     "name": "EX Genprey Cap",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -3978,6 +4222,7 @@
   {
     "_id": 1311000,
     "name": "Ioprey Helm S",
+    "num_slots": 2,
     "max_defense": 110,
     "sub_type": "Head",
     "skills": [
@@ -3990,6 +4235,7 @@
   {
     "_id": 1311001,
     "name": "Ioprey Cap S",
+    "num_slots": 2,
     "max_defense": 55,
     "sub_type": "Head",
     "skills": [
@@ -4002,6 +4248,7 @@
   {
     "_id": 1311002,
     "name": "EX Ioprey Helm",
+    "num_slots": 1,
     "max_defense": 114,
     "sub_type": "Head",
     "skills": [
@@ -4022,6 +4269,7 @@
   {
     "_id": 1311003,
     "name": "EX Ioprey Cap",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Head",
     "skills": [
@@ -4042,6 +4290,7 @@
   {
     "_id": 1311004,
     "name": "Vespoid Helm S",
+    "num_slots": 3,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -4058,6 +4307,7 @@
   {
     "_id": 1311005,
     "name": "Vespoid Cap S",
+    "num_slots": 3,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -4074,6 +4324,7 @@
   {
     "_id": 1311006,
     "name": "EX Vespoid Helm",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -4094,6 +4345,7 @@
   {
     "_id": 1311007,
     "name": "EX Vespoid Cap",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -4114,6 +4366,7 @@
   {
     "_id": 1311008,
     "name": "Hornetaur Helm S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -4126,6 +4379,7 @@
   {
     "_id": 1311009,
     "name": "Hornetaur Cap S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -4138,6 +4392,7 @@
   {
     "_id": 1311010,
     "name": "EX Hornetaur Helm",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Head",
     "skills": [
@@ -4158,6 +4413,7 @@
   {
     "_id": 1311011,
     "name": "EX Hornetaur Cap",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -4178,6 +4434,7 @@
   {
     "_id": 1311012,
     "name": "Hornetaur Helm R",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -4190,6 +4447,7 @@
   {
     "_id": 1311013,
     "name": "Hornetaur Cap R",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -4202,6 +4460,7 @@
   {
     "_id": 1311014,
     "name": "Bnahabra Hat S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -4218,6 +4477,7 @@
   {
     "_id": 1311015,
     "name": "Bnahabra Headpiece S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -4234,6 +4494,7 @@
   {
     "_id": 1311016,
     "name": "Konchu Helm S",
+    "num_slots": 2,
     "max_defense": 116,
     "sub_type": "Head",
     "skills": [
@@ -4254,6 +4515,7 @@
   {
     "_id": 1311017,
     "name": "Konchu Cap S",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -4274,6 +4536,7 @@
   {
     "_id": 1311018,
     "name": "Bulldrome Helm S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -4294,6 +4557,7 @@
   {
     "_id": 1311019,
     "name": "Bulldrome Cap S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -4314,6 +4578,7 @@
   {
     "_id": 1311020,
     "name": "Bullfango Mask S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -4330,6 +4595,7 @@
   {
     "_id": 1311021,
     "name": "Arzuros Helm S",
+    "num_slots": 2,
     "max_defense": 114,
     "sub_type": "Head",
     "skills": [
@@ -4342,6 +4608,7 @@
   {
     "_id": 1311022,
     "name": "Arzuros Cap S",
+    "num_slots": 2,
     "max_defense": 57,
     "sub_type": "Head",
     "skills": [
@@ -4354,6 +4621,7 @@
   {
     "_id": 1311023,
     "name": "Cephalos Helm S",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -4374,6 +4642,7 @@
   {
     "_id": 1311024,
     "name": "Cephalos Cap S",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Head",
     "skills": [
@@ -4394,6 +4663,7 @@
   {
     "_id": 1311025,
     "name": "EX Cephalos Helm",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -4414,6 +4684,7 @@
   {
     "_id": 1311026,
     "name": "EX Cephalos Cap",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -4434,6 +4705,7 @@
   {
     "_id": 1311027,
     "name": "Kut-Ku Helm S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -4454,6 +4726,7 @@
   {
     "_id": 1311028,
     "name": "Kut-Ku Cap S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -4474,6 +4747,7 @@
   {
     "_id": 1311029,
     "name": "Kecha Helm",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -4494,6 +4768,7 @@
   {
     "_id": 1311030,
     "name": "Kecha Cap",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -4514,6 +4789,7 @@
   {
     "_id": 1311031,
     "name": "Lagombi Helm S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Head",
     "skills": [
@@ -4534,6 +4810,7 @@
   {
     "_id": 1311032,
     "name": "Lagombi Cap S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -4554,6 +4831,7 @@
   {
     "_id": 1311033,
     "name": "Gypceros Helm S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -4574,6 +4852,7 @@
   {
     "_id": 1311034,
     "name": "Gypceros Cap S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -4594,6 +4873,7 @@
   {
     "_id": 1311035,
     "name": "Gypceros Helm R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -4610,6 +4890,7 @@
   {
     "_id": 1311036,
     "name": "Gypceros Cap R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Head",
     "skills": [
@@ -4626,6 +4907,7 @@
   {
     "_id": 1311037,
     "name": "Tetsucabra Helm S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -4646,6 +4928,7 @@
   {
     "_id": 1311038,
     "name": "Tetsucabra Cap S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -4666,6 +4949,7 @@
   {
     "_id": 1311039,
     "name": "Hermitaur Helm S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -4686,6 +4970,7 @@
   {
     "_id": 1311040,
     "name": "Hermitaur Cap S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -4706,6 +4991,7 @@
   {
     "_id": 1311041,
     "name": "EX Hermitaur Helm",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -4726,6 +5012,7 @@
   {
     "_id": 1311042,
     "name": "EX Hermitaur Cap",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -4746,6 +5033,7 @@
   {
     "_id": 1311043,
     "name": "Hermitaur Helm R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -4762,6 +5050,7 @@
   {
     "_id": 1311044,
     "name": "Hermitaur Cap R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -4778,6 +5067,7 @@
   {
     "_id": 1311045,
     "name": "Volvidon Helm S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -4798,6 +5088,7 @@
   {
     "_id": 1311046,
     "name": "Volvidon Cap S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -4818,6 +5109,7 @@
   {
     "_id": 1311047,
     "name": "Ludroth Helm S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -4838,6 +5130,7 @@
   {
     "_id": 1311048,
     "name": "Ludroth Cap S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -4858,6 +5151,7 @@
   {
     "_id": 1311049,
     "name": "Ludroth Helm R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -4874,6 +5168,7 @@
   {
     "_id": 1311050,
     "name": "Ludroth Cap R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Head",
     "skills": [
@@ -4890,6 +5185,7 @@
   {
     "_id": 1311051,
     "name": "Lecturer's Hood",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -4910,6 +5206,7 @@
   {
     "_id": 1311052,
     "name": "Lecturer's Cap",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -4930,6 +5227,7 @@
   {
     "_id": 1311053,
     "name": "Alloy Helm S",
+    "num_slots": 0,
     "max_defense": 116,
     "sub_type": "Head",
     "skills": [
@@ -4950,6 +5248,7 @@
   {
     "_id": 1311054,
     "name": "Alloy Cap S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -4970,6 +5269,7 @@
   {
     "_id": 1311055,
     "name": "Alloy Helm R",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -4982,6 +5282,7 @@
   {
     "_id": 1311056,
     "name": "Alloy Cap R",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -4994,6 +5295,7 @@
   {
     "_id": 1311057,
     "name": "Battle Helm S",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -5010,6 +5312,7 @@
   {
     "_id": 1311058,
     "name": "Battle Cap S",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -5026,6 +5329,7 @@
   {
     "_id": 1311059,
     "name": "Ingot Helm S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5038,6 +5342,7 @@
   {
     "_id": 1311060,
     "name": "Ingot Cap S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5050,6 +5355,7 @@
   {
     "_id": 1311061,
     "name": "Ingot Helm R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -5066,6 +5372,7 @@
   {
     "_id": 1311062,
     "name": "Ingot Cap R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -5082,6 +5389,7 @@
   {
     "_id": 1311063,
     "name": "High Metal Helm S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -5102,6 +5410,7 @@
   {
     "_id": 1311064,
     "name": "High Metal Cap S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -5122,6 +5431,7 @@
   {
     "_id": 1311065,
     "name": "High Metal Helm U",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -5138,6 +5448,7 @@
   {
     "_id": 1311066,
     "name": "High Metal Cap U",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Head",
     "skills": [
@@ -5154,6 +5465,7 @@
   {
     "_id": 1311069,
     "name": "Lobster Helm",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5174,6 +5486,7 @@
   {
     "_id": 1311070,
     "name": "Lobster Cap",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5194,6 +5507,7 @@
   {
     "_id": 1311071,
     "name": "Obituary Vertex S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5214,6 +5528,7 @@
   {
     "_id": 1311072,
     "name": "Obituary Clypeus S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5234,6 +5549,7 @@
   {
     "_id": 1311073,
     "name": "Butterfly Vertex S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5254,6 +5570,7 @@
   {
     "_id": 1311074,
     "name": "Butterfly Clypeus S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5274,6 +5591,7 @@
   {
     "_id": 1311075,
     "name": "Death Stench Brain S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5294,6 +5612,7 @@
   {
     "_id": 1311076,
     "name": "Death Stench Soul S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5314,6 +5633,7 @@
   {
     "_id": 1311077,
     "name": "Death Stench Brain R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -5330,6 +5650,7 @@
   {
     "_id": 1311078,
     "name": "Death Stench Soul R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -5346,6 +5667,7 @@
   {
     "_id": 1311079,
     "name": "Vaik Helm S",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -5362,6 +5684,7 @@
   {
     "_id": 1311080,
     "name": "Vaik Cap S",
+    "num_slots": 2,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -5378,6 +5701,7 @@
   {
     "_id": 1311081,
     "name": "Aelucanth Vertex S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5398,6 +5722,7 @@
   {
     "_id": 1311082,
     "name": "Aelucanth Clypeus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5418,6 +5743,7 @@
   {
     "_id": 1311083,
     "name": "Rhopessa Vertex S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5438,6 +5764,7 @@
   {
     "_id": 1311084,
     "name": "Rhopessa Clypeus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5458,6 +5785,7 @@
   {
     "_id": 1311085,
     "name": "Patissier's Toque",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -5478,6 +5806,7 @@
   {
     "_id": 1311086,
     "name": "Patissier's Cap",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -5498,6 +5827,7 @@
   {
     "_id": 1311087,
     "name": "Skalda Vertex S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5518,6 +5848,7 @@
   {
     "_id": 1311088,
     "name": "Skalda Clypeus S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5538,6 +5869,7 @@
   {
     "_id": 1311089,
     "name": "Spio Vertex S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -5558,6 +5890,7 @@
   {
     "_id": 1311090,
     "name": "Spio Clypeus S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -5578,6 +5911,7 @@
   {
     "_id": 1311091,
     "name": "Malfestio Helm S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -5598,6 +5932,7 @@
   {
     "_id": 1311092,
     "name": "Malfestio Cap S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -5618,6 +5953,7 @@
   {
     "_id": 1311093,
     "name": "Zamtrios Helm",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -5638,6 +5974,7 @@
   {
     "_id": 1311094,
     "name": "Zamtrios Cap",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -5658,6 +5995,7 @@
   {
     "_id": 1311095,
     "name": "Khezu Helm S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5674,6 +6012,7 @@
   {
     "_id": 1311096,
     "name": "Khezu Cap S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5690,6 +6029,7 @@
   {
     "_id": 1311097,
     "name": "Khezu Helm R",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -5706,6 +6046,7 @@
   {
     "_id": 1311098,
     "name": "Khezu Cap R",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -5722,6 +6063,7 @@
   {
     "_id": 1311099,
     "name": "Rathian Helm S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5742,6 +6084,7 @@
   {
     "_id": 1311100,
     "name": "Rathian Cap S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5762,6 +6105,7 @@
   {
     "_id": 1311101,
     "name": "EX Rathian Helm",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -5782,6 +6126,7 @@
   {
     "_id": 1311102,
     "name": "EX Rathian Cap",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -5802,6 +6147,7 @@
   {
     "_id": 1311103,
     "name": "Rathian Helm R",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -5814,6 +6160,7 @@
   {
     "_id": 1311104,
     "name": "Rathian Cap R",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -5826,6 +6173,7 @@
   {
     "_id": 1311105,
     "name": "Nibelsnarf Helm S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5838,6 +6186,7 @@
   {
     "_id": 1311106,
     "name": "Nibelsnarf Cap S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5850,6 +6199,7 @@
   {
     "_id": 1311107,
     "name": "Plesioth Helm",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -5870,6 +6220,7 @@
   {
     "_id": 1311108,
     "name": "Plesioth Cap",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -5890,6 +6241,7 @@
   {
     "_id": 1311109,
     "name": "Blango Helm S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -5910,6 +6262,7 @@
   {
     "_id": 1311110,
     "name": "Blango Cap S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -5930,6 +6283,7 @@
   {
     "_id": 1311111,
     "name": "EX Blango Helm",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -5950,6 +6304,7 @@
   {
     "_id": 1311112,
     "name": "EX Blango Cap",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -5970,6 +6325,7 @@
   {
     "_id": 1311113,
     "name": "Lavasioth Helm",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -5986,6 +6342,7 @@
   {
     "_id": 1311114,
     "name": "Lavasioth Cap",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6002,6 +6359,7 @@
   {
     "_id": 1311115,
     "name": "EX Lavasioth Helm",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -6018,6 +6376,7 @@
   {
     "_id": 1311116,
     "name": "EX Lavasioth Cap",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -6034,6 +6393,7 @@
   {
     "_id": 1311117,
     "name": "Ceanataur Helm S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -6050,6 +6410,7 @@
   {
     "_id": 1311118,
     "name": "Ceanataur Cap S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -6066,6 +6427,7 @@
   {
     "_id": 1311119,
     "name": "EX Ceanataur Helm",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -6086,6 +6448,7 @@
   {
     "_id": 1311120,
     "name": "EX Ceanataur Cap",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -6106,6 +6469,7 @@
   {
     "_id": 1311121,
     "name": "Ceanataur Helm R",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -6122,6 +6486,7 @@
   {
     "_id": 1311122,
     "name": "Ceanataur Cap R",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -6138,6 +6503,7 @@
   {
     "_id": 1311123,
     "name": "Najarala Helm S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -6158,6 +6524,7 @@
   {
     "_id": 1311124,
     "name": "Najarala Cap S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6178,6 +6545,7 @@
   {
     "_id": 1311125,
     "name": "Nargacuga Helm S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Head",
     "skills": [
@@ -6198,6 +6566,7 @@
   {
     "_id": 1311126,
     "name": "Nargacuga Cap S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -6218,6 +6587,7 @@
   {
     "_id": 1311127,
     "name": "Garuga Helm S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -6238,6 +6608,7 @@
   {
     "_id": 1311128,
     "name": "Garuga Cap S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6258,6 +6629,7 @@
   {
     "_id": 1311129,
     "name": "Garuga Mask S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -6270,6 +6642,7 @@
   {
     "_id": 1311130,
     "name": "Uragaan Helm S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -6286,6 +6659,7 @@
   {
     "_id": 1311131,
     "name": "Uragaan Cap S",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -6302,6 +6676,7 @@
   {
     "_id": 1311134,
     "name": "Guardian Helm",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -6322,6 +6697,7 @@
   {
     "_id": 1311135,
     "name": "Guardian Mask",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -6342,6 +6718,7 @@
   {
     "_id": 1311136,
     "name": "Guardian Helm U",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -6362,6 +6739,7 @@
   {
     "_id": 1311137,
     "name": "Guardian Mask U",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -6382,6 +6760,7 @@
   {
     "_id": 1311138,
     "name": "Scholar's Beret",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -6402,6 +6781,7 @@
   {
     "_id": 1311139,
     "name": "Scholar's Cap",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -6422,6 +6802,7 @@
   {
     "_id": 1311140,
     "name": "Sailor Hat",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -6442,6 +6823,7 @@
   {
     "_id": 1311141,
     "name": "Sailor Cap",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -6462,6 +6844,7 @@
   {
     "_id": 1311142,
     "name": "Luxury Bath Towel",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Head",
     "skills": [
@@ -6478,6 +6861,7 @@
   {
     "_id": 1311143,
     "name": "Kita Star Headdress",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -6494,6 +6878,7 @@
   {
     "_id": 1311144,
     "name": "Umi Ocean Headdress",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -6510,6 +6895,7 @@
   {
     "_id": 1311145,
     "name": "Cunning Specs",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -6522,6 +6908,7 @@
   {
     "_id": 1311146,
     "name": "Derring Helm S",
+    "num_slots": 2,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -6538,6 +6925,7 @@
   {
     "_id": 1311147,
     "name": "Derring Cap S",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -6554,6 +6942,7 @@
   {
     "_id": 1311148,
     "name": "Dober Helm",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -6570,6 +6959,7 @@
   {
     "_id": 1311149,
     "name": "Dober Cap",
+    "num_slots": 2,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -6586,6 +6976,7 @@
   {
     "_id": 1311150,
     "name": "Damascus Helm",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -6602,6 +6993,7 @@
   {
     "_id": 1311151,
     "name": "Damascus Cap",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6618,6 +7010,7 @@
   {
     "_id": 1311152,
     "name": "Damascus Helm R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -6630,6 +7023,7 @@
   {
     "_id": 1311153,
     "name": "Damascus Cap R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -6646,6 +7040,7 @@
   {
     "_id": 1311154,
     "name": "Skull Visage S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -6658,6 +7053,7 @@
   {
     "_id": 1311155,
     "name": "Skull Mask S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -6670,6 +7066,7 @@
   {
     "_id": 1311161,
     "name": "Artian Cap S",
+    "num_slots": 3,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6682,6 +7079,7 @@
   {
     "_id": 1311162,
     "name": "Artian Helm R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -6694,6 +7092,7 @@
   {
     "_id": 1311163,
     "name": "Artian Cap R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -6706,6 +7105,7 @@
   {
     "_id": 1311164,
     "name": "Seltas Helm",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -6726,6 +7126,7 @@
   {
     "_id": 1311165,
     "name": "Seltas Cap",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -6746,6 +7147,7 @@
   {
     "_id": 1311166,
     "name": "Rathalos Helm S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -6762,6 +7164,7 @@
   {
     "_id": 1311167,
     "name": "Rathalos Cap S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -6778,6 +7181,7 @@
   {
     "_id": 1311168,
     "name": "EX Rathalos Helm",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -6798,6 +7202,7 @@
   {
     "_id": 1311169,
     "name": "EX Rathalos Cap",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -6818,6 +7223,7 @@
   {
     "_id": 1311170,
     "name": "Rathalos Helm R",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -6830,6 +7236,7 @@
   {
     "_id": 1311171,
     "name": "Rathalos Cap R",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -6842,6 +7249,7 @@
   {
     "_id": 1311172,
     "name": "Lagiacrus Helm S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -6858,6 +7266,7 @@
   {
     "_id": 1311173,
     "name": "Lagiacrus Cap S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -6874,6 +7283,7 @@
   {
     "_id": 1311174,
     "name": "Lagiacrus Helm R",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -6886,6 +7296,7 @@
   {
     "_id": 1311175,
     "name": "Lagiacrus Cap R",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -6898,6 +7309,7 @@
   {
     "_id": 1311176,
     "name": "Zinogre Helm S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -6910,6 +7322,7 @@
   {
     "_id": 1311177,
     "name": "Zinogre Cap S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -6926,6 +7339,7 @@
   {
     "_id": 1311178,
     "name": "EX Zinogre Helm",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -6946,6 +7360,7 @@
   {
     "_id": 1311179,
     "name": "EX Zinogre Cap",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -6966,6 +7381,7 @@
   {
     "_id": 1311180,
     "name": "Mizutsune Helm S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -6986,6 +7402,7 @@
   {
     "_id": 1311181,
     "name": "Mizutsune Mask S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7006,6 +7423,7 @@
   {
     "_id": 1311182,
     "name": "Astalos Helm S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -7026,6 +7444,7 @@
   {
     "_id": 1311183,
     "name": "Astalos Cap S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -7046,6 +7465,7 @@
   {
     "_id": 1311184,
     "name": "Gammoth Helm S",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -7066,6 +7486,7 @@
   {
     "_id": 1311185,
     "name": "Gammoth Cap S",
+    "num_slots": 2,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -7086,6 +7507,7 @@
   {
     "_id": 1311186,
     "name": "Glavenus Helm S",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7102,6 +7524,7 @@
   {
     "_id": 1311187,
     "name": "Glavenus Cap S",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7118,6 +7541,7 @@
   {
     "_id": 1311188,
     "name": "Agnaktor Helm",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7134,6 +7558,7 @@
   {
     "_id": 1311189,
     "name": "Agnaktor Cap",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7150,6 +7575,7 @@
   {
     "_id": 1311190,
     "name": "Gore Helm S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7162,6 +7588,7 @@
   {
     "_id": 1311191,
     "name": "Gore Cap S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7174,6 +7601,7 @@
   {
     "_id": 1311192,
     "name": "EX Gore Helm",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -7190,6 +7618,7 @@
   {
     "_id": 1311193,
     "name": "EX Gore Cap",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -7206,6 +7635,7 @@
   {
     "_id": 1311194,
     "name": "Gore Helm R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -7222,6 +7652,7 @@
   {
     "_id": 1311195,
     "name": "Gore Cap R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -7238,6 +7669,7 @@
   {
     "_id": 1311196,
     "name": "Regios Helm S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7250,6 +7682,7 @@
   {
     "_id": 1311197,
     "name": "Regios Cap S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7262,6 +7695,7 @@
   {
     "_id": 1311198,
     "name": "Duramboros Helm",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -7274,6 +7708,7 @@
   {
     "_id": 1311199,
     "name": "Duramboros Cap",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -7286,6 +7721,7 @@
   {
     "_id": 1311200,
     "name": "Tigrex Helm S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7306,6 +7742,7 @@
   {
     "_id": 1311201,
     "name": "Tigrex Cap S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7326,6 +7763,7 @@
   {
     "_id": 1311202,
     "name": "EX Tigrex Helm",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -7346,6 +7784,7 @@
   {
     "_id": 1311203,
     "name": "EX Tigrex Cap",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -7366,6 +7805,7 @@
   {
     "_id": 1311204,
     "name": "Tigrex Helm R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -7378,6 +7818,7 @@
   {
     "_id": 1311205,
     "name": "Tigrex Cap R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -7390,6 +7831,7 @@
   {
     "_id": 1311206,
     "name": "Kirin Horn S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -7410,6 +7852,7 @@
   {
     "_id": 1311207,
     "name": "Kirin Crest S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -7430,6 +7873,7 @@
   {
     "_id": 1311208,
     "name": "Kirin Horn R",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -7442,6 +7886,7 @@
   {
     "_id": 1311209,
     "name": "Kirin Crest R",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -7454,6 +7899,7 @@
   {
     "_id": 1311210,
     "name": "Brachydios Helm S",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -7470,6 +7916,7 @@
   {
     "_id": 1311211,
     "name": "Brachydios Cap S",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -7486,6 +7933,7 @@
   {
     "_id": 1311212,
     "name": "EX Brachydios Helm",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -7502,6 +7950,7 @@
   {
     "_id": 1311213,
     "name": "EX Brachydios Cap",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -7518,6 +7967,7 @@
   {
     "_id": 1311214,
     "name": "Golden Headdress",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -7538,6 +7988,7 @@
   {
     "_id": 1311215,
     "name": "Puppeteer Mask",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -7558,6 +8009,7 @@
   {
     "_id": 1311216,
     "name": "Vangis Helm",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -7578,6 +8030,7 @@
   {
     "_id": 1311217,
     "name": "Vangis Cap",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -7598,6 +8051,7 @@
   {
     "_id": 1311218,
     "name": "Guild Knight Feather",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7614,6 +8068,7 @@
   {
     "_id": 1311219,
     "name": "Guild Knight Mask",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7630,6 +8085,7 @@
   {
     "_id": 1311220,
     "name": "Maiden's Hat S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7646,6 +8102,7 @@
   {
     "_id": 1311221,
     "name": "French Maid Glasses S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7662,6 +8119,7 @@
   {
     "_id": 1311222,
     "name": "Blue Guild Lobos",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7678,6 +8136,7 @@
   {
     "_id": 1311223,
     "name": "Blue Guild Mask",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7694,6 +8153,7 @@
   {
     "_id": 1311224,
     "name": "Red Guild Lobos",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7710,6 +8170,7 @@
   {
     "_id": 1311225,
     "name": "Red Guild Mask",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7726,6 +8187,7 @@
   {
     "_id": 1311226,
     "name": "Helper Hood S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7742,6 +8204,7 @@
   {
     "_id": 1311227,
     "name": "Healer Glasses S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7758,6 +8221,7 @@
   {
     "_id": 1311228,
     "name": "Helper Hood U",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7778,6 +8242,7 @@
   {
     "_id": 1311229,
     "name": "Healer Beret U",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7798,6 +8263,7 @@
   {
     "_id": 1311230,
     "name": "Guild Bard Lobos S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7814,6 +8280,7 @@
   {
     "_id": 1311231,
     "name": "Guild Bard Hat S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7830,6 +8297,7 @@
   {
     "_id": 1311235,
     "name": "Dianthus Wealcap",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7850,6 +8318,7 @@
   {
     "_id": 1311236,
     "name": "Campanile Wealcap",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7870,6 +8339,7 @@
   {
     "_id": 1311237,
     "name": "Ace Headgear",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7890,6 +8360,7 @@
   {
     "_id": 1311238,
     "name": "Ace Mask",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7910,6 +8381,7 @@
   {
     "_id": 1311239,
     "name": "Sororal Headgear",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7930,6 +8402,7 @@
   {
     "_id": 1311240,
     "name": "Sororal Mask",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7950,6 +8423,7 @@
   {
     "_id": 1311241,
     "name": "Hawkhat",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -7970,6 +8444,7 @@
   {
     "_id": 1311242,
     "name": "Hawkcap",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -7990,6 +8465,7 @@
   {
     "_id": 1311243,
     "name": "Gourmew Toque S",
+    "num_slots": 3,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -8006,6 +8482,7 @@
   {
     "_id": 1311244,
     "name": "Gourmew Cap S",
+    "num_slots": 3,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -8022,6 +8499,7 @@
   {
     "_id": 1311245,
     "name": "Felyne Hairband",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -8034,6 +8512,7 @@
   {
     "_id": 1311246,
     "name": "Scholarly Hood S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -8050,6 +8529,7 @@
   {
     "_id": 1311247,
     "name": "Scholarly Cap S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -8066,6 +8546,7 @@
   {
     "_id": 1311248,
     "name": "Ranger's Headgear",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -8082,6 +8563,7 @@
   {
     "_id": 1311249,
     "name": "Archer's Turban",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -8098,6 +8580,7 @@
   {
     "_id": 1311250,
     "name": "Shinobi Heaven Mask",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -8114,6 +8597,7 @@
   {
     "_id": 1311251,
     "name": "Shinobi Land Mask",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -8130,6 +8614,7 @@
   {
     "_id": 1311252,
     "name": "Shinobi Sky Mask",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -8146,6 +8631,7 @@
   {
     "_id": 1311253,
     "name": "Shinobi Sea Mask",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -8162,6 +8648,7 @@
   {
     "_id": 1311254,
     "name": "Ancient Helm",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8182,6 +8669,7 @@
   {
     "_id": 1311255,
     "name": "Ancient Cap",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8202,6 +8690,7 @@
   {
     "_id": 1311256,
     "name": "Master's Earcuff",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8222,6 +8711,7 @@
   {
     "_id": 1311257,
     "name": "Master's Earrings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8242,6 +8732,7 @@
   {
     "_id": 1311258,
     "name": "Black Head S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8262,6 +8753,7 @@
   {
     "_id": 1311259,
     "name": "Black Face S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8282,6 +8774,7 @@
   {
     "_id": 1311260,
     "name": "Toka Kabuto",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8302,6 +8795,7 @@
   {
     "_id": 1311261,
     "name": "Mitsuaoi Kabuto",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8322,6 +8816,7 @@
   {
     "_id": 1311262,
     "name": "EX Rathian Helm S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -8342,6 +8837,7 @@
   {
     "_id": 1311263,
     "name": "EX Rathian Cap S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -8362,6 +8858,7 @@
   {
     "_id": 1311264,
     "name": "EX Rathalos Helm S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -8382,6 +8879,7 @@
   {
     "_id": 1311265,
     "name": "EX Rathalos Cap S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -8402,6 +8900,7 @@
   {
     "_id": 1311266,
     "name": "EX Tigrex Helm S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -8418,6 +8917,7 @@
   {
     "_id": 1311267,
     "name": "EX Tigrex Cap S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -8434,6 +8934,7 @@
   {
     "_id": 1311268,
     "name": "Arc Helm S",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -8454,6 +8955,7 @@
   {
     "_id": 1311269,
     "name": "Storge Helm S",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -8474,6 +8976,7 @@
   {
     "_id": 1311270,
     "name": "Arc Cap S",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -8494,6 +8997,7 @@
   {
     "_id": 1311271,
     "name": "Storge Cap S",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -8514,6 +9018,7 @@
   {
     "_id": 1311272,
     "name": "EX Arc Helm",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -8534,6 +9039,7 @@
   {
     "_id": 1311273,
     "name": "EX Storge Helm",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -8554,6 +9060,7 @@
   {
     "_id": 1311274,
     "name": "EX Arc Cap",
+    "num_slots": 2,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -8574,6 +9081,7 @@
   {
     "_id": 1311275,
     "name": "EX Storge Cap",
+    "num_slots": 2,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -8594,6 +9102,7 @@
   {
     "_id": 1311276,
     "name": "Arc Helm R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -8610,6 +9119,7 @@
   {
     "_id": 1311277,
     "name": "Storge Helm R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -8626,6 +9136,7 @@
   {
     "_id": 1311278,
     "name": "Arc Cap R",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -8638,6 +9149,7 @@
   {
     "_id": 1311279,
     "name": "Storge Cap R",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -8650,6 +9162,7 @@
   {
     "_id": 1311280,
     "name": "Kushala Glare S",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -8670,6 +9183,7 @@
   {
     "_id": 1311281,
     "name": "Kushala Snarl S",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -8690,6 +9204,7 @@
   {
     "_id": 1311282,
     "name": "EX Kushala Glare",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -8706,6 +9221,7 @@
   {
     "_id": 1311283,
     "name": "EX Kushala Snarl",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -8722,6 +9238,7 @@
   {
     "_id": 1311284,
     "name": "Kushala Glare R",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -8738,6 +9255,7 @@
   {
     "_id": 1311285,
     "name": "Kushala Snarl R",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -8754,6 +9272,7 @@
   {
     "_id": 1311286,
     "name": "Mizuha Cap S",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -8774,6 +9293,7 @@
   {
     "_id": 1311287,
     "name": "Cham Hat S",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -8794,6 +9314,7 @@
   {
     "_id": 1311288,
     "name": "EX Mizuha Cap",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -8814,6 +9335,7 @@
   {
     "_id": 1311289,
     "name": "EX Cham Hat",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -8834,6 +9356,7 @@
   {
     "_id": 1311290,
     "name": "Kaiser Crown S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8854,6 +9377,7 @@
   {
     "_id": 1311291,
     "name": "Kaiser Mask S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8874,6 +9398,7 @@
   {
     "_id": 1311292,
     "name": "EX Kaiser Crown",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -8894,6 +9419,7 @@
   {
     "_id": 1311293,
     "name": "EX Kaiser Mask",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -8914,6 +9440,7 @@
   {
     "_id": 1311294,
     "name": "Silver Solhelm",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -8934,6 +9461,7 @@
   {
     "_id": 1311295,
     "name": "Silver Solcap",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -8954,6 +9482,7 @@
   {
     "_id": 1311296,
     "name": "EX Silver Solhelm",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -8974,6 +9503,7 @@
   {
     "_id": 1311297,
     "name": "EX Silver Solcap",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -8994,6 +9524,7 @@
   {
     "_id": 1311298,
     "name": "Silver Solhelm R",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -9010,6 +9541,7 @@
   {
     "_id": 1311299,
     "name": "Silver Solcap R",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -9026,6 +9558,7 @@
   {
     "_id": 1311300,
     "name": "Golden Lunehelm",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -9046,6 +9579,7 @@
   {
     "_id": 1311301,
     "name": "Golden Lunecap",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -9066,6 +9600,7 @@
   {
     "_id": 1311302,
     "name": "EX Golden Lunehelm",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -9086,6 +9621,7 @@
   {
     "_id": 1311303,
     "name": "EX Golden Lunecap",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -9106,6 +9642,7 @@
   {
     "_id": 1311304,
     "name": "Divine Ire Headdress",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9126,6 +9663,7 @@
   {
     "_id": 1311305,
     "name": "Crusher Mask",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9146,6 +9684,7 @@
   {
     "_id": 1311306,
     "name": "Esurient Helm",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9166,6 +9705,7 @@
   {
     "_id": 1311307,
     "name": "Esurient Cap",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9186,6 +9726,7 @@
   {
     "_id": 1311308,
     "name": "Esurient Helm R",
+    "num_slots": 3,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -9198,6 +9739,7 @@
   {
     "_id": 1311309,
     "name": "Esurient Cap R",
+    "num_slots": 3,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -9210,6 +9752,7 @@
   {
     "_id": 1311310,
     "name": "Akantor Mask",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -9230,6 +9773,7 @@
   {
     "_id": 1311311,
     "name": "Akantor Fangs",
+    "num_slots": 0,
     "max_defense": 73,
     "sub_type": "Head",
     "skills": [
@@ -9250,6 +9794,7 @@
   {
     "_id": 1311312,
     "name": "Akantor Mask R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9262,6 +9807,7 @@
   {
     "_id": 1311313,
     "name": "Akantor Fangs R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9274,6 +9820,7 @@
   {
     "_id": 1311314,
     "name": "Ukanlos Mask",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -9294,6 +9841,7 @@
   {
     "_id": 1311315,
     "name": "Ukanlos Fangs",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Head",
     "skills": [
@@ -9314,6 +9862,7 @@
   {
     "_id": 1311316,
     "name": "Tempest Crown",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9334,6 +9883,7 @@
   {
     "_id": 1311317,
     "name": "Welkin Crown",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9354,6 +9904,7 @@
   {
     "_id": 1311318,
     "name": "Tempest Crown R",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -9370,6 +9921,7 @@
   {
     "_id": 1311319,
     "name": "Welkin Crown R",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -9386,6 +9938,7 @@
   {
     "_id": 1311320,
     "name": "Skeletal Skull R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9406,6 +9959,7 @@
   {
     "_id": 1311321,
     "name": "Decayed Skull R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9426,6 +9980,7 @@
   {
     "_id": 1311322,
     "name": "Astral Helm",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -9446,6 +10001,7 @@
   {
     "_id": 1311323,
     "name": "Astral Mask",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -9466,6 +10022,7 @@
   {
     "_id": 1311324,
     "name": "Escadora Wisdom",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -9486,6 +10043,7 @@
   {
     "_id": 1311325,
     "name": "Escadora Sagesse",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Head",
     "skills": [
@@ -9506,6 +10064,7 @@
   {
     "_id": 1311326,
     "name": "Escadora Wisdom R",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -9518,6 +10077,7 @@
   {
     "_id": 1311327,
     "name": "Escadora Sagesse R",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -9530,6 +10090,7 @@
   {
     "_id": 1311329,
     "name": "Dragonlord's Gaze",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -9542,6 +10103,7 @@
   {
     "_id": 1311330,
     "name": "Takami Feather",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -9554,6 +10116,7 @@
   {
     "_id": 1311331,
     "name": "Hayabusa Feather",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -9566,6 +10129,7 @@
   {
     "_id": 1311332,
     "name": "Kakuju Feather",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -9578,6 +10142,7 @@
   {
     "_id": 1311333,
     "name": "Sword Saint Earring",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Head",
     "skills": [
@@ -9590,6 +10155,7 @@
   {
     "_id": 1311334,
     "name": "Barrage Earring",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -9602,6 +10168,7 @@
   {
     "_id": 1311335,
     "name": "Strange Helm",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -9622,6 +10189,7 @@
   {
     "_id": 1311336,
     "name": "Strange Cap",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -9642,6 +10210,7 @@
   {
     "_id": 1311337,
     "name": "Redhelm Helm",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -9666,6 +10235,7 @@
   {
     "_id": 1311338,
     "name": "Redhelm Cap",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -9690,6 +10260,7 @@
   {
     "_id": 1311339,
     "name": "Snowbaron Helm",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -9714,6 +10285,7 @@
   {
     "_id": 1311340,
     "name": "Snowbaron Cap",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -9738,6 +10310,7 @@
   {
     "_id": 1311341,
     "name": "Stonefist Helm",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -9762,6 +10335,7 @@
   {
     "_id": 1311342,
     "name": "Stonefist Cap",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -9786,6 +10360,7 @@
   {
     "_id": 1311343,
     "name": "Dreadqueen Helm",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -9810,6 +10385,7 @@
   {
     "_id": 1311344,
     "name": "Dreadqueen Cap",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -9834,6 +10410,7 @@
   {
     "_id": 1311345,
     "name": "Drilltusk Helm",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -9858,6 +10435,7 @@
   {
     "_id": 1311346,
     "name": "Drilltusk Cap",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -9882,6 +10460,7 @@
   {
     "_id": 1311347,
     "name": "Silverwind Helm",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -9906,6 +10485,7 @@
   {
     "_id": 1311348,
     "name": "Silverwind Cap",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Head",
     "skills": [
@@ -9930,6 +10510,7 @@
   {
     "_id": 1311349,
     "name": "Crystalbeard Helm",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Head",
     "skills": [
@@ -9954,6 +10535,7 @@
   {
     "_id": 1311350,
     "name": "Crystalbeard Cap",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -9978,6 +10560,7 @@
   {
     "_id": 1311351,
     "name": "Deadeye Helm",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Head",
     "skills": [
@@ -10002,6 +10585,7 @@
   {
     "_id": 1311352,
     "name": "Deadeye Cap",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -10026,6 +10610,7 @@
   {
     "_id": 1311353,
     "name": "Dreadking Helm",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -10050,6 +10635,7 @@
   {
     "_id": 1311354,
     "name": "Dreadking Cap",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -10074,6 +10660,7 @@
   {
     "_id": 1311355,
     "name": "Thunderlord Helm",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Head",
     "skills": [
@@ -10098,6 +10685,7 @@
   {
     "_id": 1311356,
     "name": "Thunderlord Cap",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -10122,6 +10710,7 @@
   {
     "_id": 1311357,
     "name": "Grimclaw Helm",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Head",
     "skills": [
@@ -10146,6 +10735,7 @@
   {
     "_id": 1311358,
     "name": "Grimclaw Cap",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -10170,6 +10760,7 @@
   {
     "_id": 1311359,
     "name": "Hellblade Helm",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Head",
     "skills": [
@@ -10194,6 +10785,7 @@
   {
     "_id": 1311360,
     "name": "Hellblade Cap",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -10218,6 +10810,7 @@
   {
     "_id": 1311361,
     "name": "Shadow Shades",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -10230,6 +10823,7 @@
   {
     "_id": 1311364,
     "name": "Ushio's Cut",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -10242,6 +10836,7 @@
   {
     "_id": 1311365,
     "name": "Ushio's Hair",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -10254,6 +10849,7 @@
   {
     "_id": 1311378,
     "name": "Bristling Mane",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -10274,6 +10870,7 @@
   {
     "_id": 1311379,
     "name": "Terrifying Mane",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -10294,6 +10891,7 @@
   {
     "_id": 1311380,
     "name": "Champion's Hair",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -10314,6 +10912,7 @@
   {
     "_id": 1311381,
     "name": "Strongman's Hair",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -10334,6 +10933,7 @@
   {
     "_id": 1311382,
     "name": "Zodias Helm",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -10354,6 +10954,7 @@
   {
     "_id": 1311383,
     "name": "Zodias Cap",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Head",
     "skills": [
@@ -10374,6 +10975,7 @@
   {
     "_id": 1311384,
     "name": "Pirate Hat J",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -10394,6 +10996,7 @@
   {
     "_id": 1311385,
     "name": "Pirate Roger J",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -10414,6 +11017,7 @@
   {
     "_id": 1311386,
     "name": "Buccaneer Hat J",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -10434,6 +11038,7 @@
   {
     "_id": 1311387,
     "name": "Buccaneer Roger J",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -10454,6 +11059,7 @@
   {
     "_id": 1311388,
     "name": "Dynaqlo Beanie",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -10474,6 +11080,7 @@
   {
     "_id": 1311389,
     "name": "Dynaqlo Headphones",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Head",
     "skills": [
@@ -10494,6 +11101,7 @@
   {
     "_id": 1311402,
     "name": "Hero's Hat",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -10514,6 +11122,7 @@
   {
     "_id": 1311403,
     "name": "Hero's Cap",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -10534,6 +11143,7 @@
   {
     "_id": 1311404,
     "name": "Varia Suit Visor",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -10554,6 +11164,7 @@
   {
     "_id": 1311405,
     "name": "Varia Suit Scope",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -10574,6 +11185,7 @@
   {
     "_id": 1311406,
     "name": "Zero Suit Ponytail",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -10594,6 +11206,7 @@
   {
     "_id": 1311407,
     "name": "Zero Suit Hairpiece",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -10614,6 +11227,7 @@
   {
     "_id": 1311408,
     "name": "Helm of Rage",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -10634,6 +11248,7 @@
   {
     "_id": 1311409,
     "name": "Cap of Rage",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -10654,6 +11269,7 @@
   {
     "_id": 1311410,
     "name": "Helm of Anat",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -10674,6 +11290,7 @@
   {
     "_id": 1311411,
     "name": "Cap of Anat",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -10694,6 +11311,7 @@
   {
     "_id": 1311414,
     "name": "Mosgharl Vizor",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -10706,6 +11324,7 @@
   {
     "_id": 1311415,
     "name": "Mosgharl Brim",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Head",
     "skills": [
@@ -10718,6 +11337,7 @@
   {
     "_id": 1311420,
     "name": "Leather Cap S",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -10734,6 +11354,7 @@
   {
     "_id": 1311421,
     "name": "Chainmail Cap S",
+    "num_slots": 3,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -10746,6 +11367,7 @@
   {
     "_id": 1311422,
     "name": "Mosgharl Vizor S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Head",
     "skills": [
@@ -10758,6 +11380,7 @@
   {
     "_id": 1311423,
     "name": "Mosgharl Brim S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Head",
     "skills": [
@@ -10770,6 +11393,7 @@
   {
     "_id": 1311426,
     "name": "Blue Guild Tricorne",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -10786,6 +11410,7 @@
   {
     "_id": 1311427,
     "name": "Blue Guild Piercing",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -10802,6 +11427,7 @@
   {
     "_id": 1311428,
     "name": "Red Guild Tricorne",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -10818,6 +11444,7 @@
   {
     "_id": 1311429,
     "name": "Red Guild Piercing",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -10834,6 +11461,7 @@
   {
     "_id": 1311430,
     "name": "Gourmew Toque S",
+    "num_slots": 3,
     "max_defense": 128,
     "sub_type": "Head",
     "skills": [
@@ -10850,6 +11478,7 @@
   {
     "_id": 1311431,
     "name": "Gourmew Cap S",
+    "num_slots": 3,
     "max_defense": 64,
     "sub_type": "Head",
     "skills": [
@@ -10866,6 +11495,7 @@
   {
     "_id": 1311438,
     "name": "Conga Helm",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -10882,6 +11512,7 @@
   {
     "_id": 1311439,
     "name": "Conga Cap",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Head",
     "skills": [
@@ -10898,6 +11529,7 @@
   {
     "_id": 1311440,
     "name": "Giaprey Head",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -10914,6 +11546,7 @@
   {
     "_id": 1311441,
     "name": "Giaprey Face",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Head",
     "skills": [
@@ -10930,6 +11563,7 @@
   {
     "_id": 1311442,
     "name": "Barroth Helm",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Head",
     "skills": [
@@ -10946,6 +11580,7 @@
   {
     "_id": 1311443,
     "name": "Barroth Cap",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Head",
     "skills": [
@@ -10962,6 +11597,7 @@
   {
     "_id": 1311444,
     "name": "Basarios Helm",
+    "num_slots": 2,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -10978,6 +11614,7 @@
   {
     "_id": 1311445,
     "name": "Basarios Cap",
+    "num_slots": 2,
     "max_defense": 59,
     "sub_type": "Head",
     "skills": [
@@ -10994,6 +11631,7 @@
   {
     "_id": 1311446,
     "name": "Nerscylla Helm",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11014,6 +11652,7 @@
   {
     "_id": 1311447,
     "name": "Nerscylla Cap",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -11034,6 +11673,7 @@
   {
     "_id": 1311448,
     "name": "Barioth Helm",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Head",
     "skills": [
@@ -11054,6 +11694,7 @@
   {
     "_id": 1311449,
     "name": "Barioth Cap",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Head",
     "skills": [
@@ -11074,6 +11715,7 @@
   {
     "_id": 1311450,
     "name": "Gravios Helm",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -11094,6 +11736,7 @@
   {
     "_id": 1311451,
     "name": "Gravios Cap",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -11114,6 +11757,7 @@
   {
     "_id": 1311452,
     "name": "Cheerful Head",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -11134,6 +11778,7 @@
   {
     "_id": 1311453,
     "name": "Cheerful Cap",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -11154,6 +11799,7 @@
   {
     "_id": 1311454,
     "name": "Mariner Hood",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11174,6 +11820,7 @@
   {
     "_id": 1311455,
     "name": "Mariner Cap",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -11194,6 +11841,7 @@
   {
     "_id": 1311456,
     "name": "Jaggi Mask",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Head",
     "skills": [
@@ -11206,6 +11854,7 @@
   {
     "_id": 1311458,
     "name": "Diablos Helm",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -11230,6 +11879,7 @@
   {
     "_id": 1311459,
     "name": "Diablos Cap",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -11254,6 +11904,7 @@
   {
     "_id": 1311460,
     "name": "Diablos Helm R",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -11274,6 +11925,7 @@
   {
     "_id": 1311461,
     "name": "Diablos Cap R",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11294,6 +11946,7 @@
   {
     "_id": 1311462,
     "name": "Valstrax Helm",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -11318,6 +11971,7 @@
   {
     "_id": 1311463,
     "name": "Valstrax Cap",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -11342,6 +11996,7 @@
   {
     "_id": 1311464,
     "name": "Wisdom Head",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -11366,6 +12021,7 @@
   {
     "_id": 1311465,
     "name": "Wisdom Hat",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -11390,6 +12046,7 @@
   {
     "_id": 1311466,
     "name": "Flame Earring",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11402,6 +12059,7 @@
   {
     "_id": 1311467,
     "name": "Shock Earring",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11414,6 +12072,7 @@
   {
     "_id": 1311468,
     "name": "Ice Earring",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11426,6 +12085,7 @@
   {
     "_id": 1311469,
     "name": "Water Earring",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11438,6 +12098,7 @@
   {
     "_id": 1311470,
     "name": "Comet Earring",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [
@@ -11450,6 +12111,7 @@
   {
     "_id": 1311471,
     "name": "Bherna Turban X",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11466,6 +12128,7 @@
   {
     "_id": 1311472,
     "name": "Bherna Cap X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -11482,6 +12145,7 @@
   {
     "_id": 1311473,
     "name": "Hunting Helm X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11498,6 +12162,7 @@
   {
     "_id": 1311474,
     "name": "Hunting Cap X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -11514,6 +12179,7 @@
   {
     "_id": 1311475,
     "name": "Mafumofu Hood X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11534,6 +12200,7 @@
   {
     "_id": 1311476,
     "name": "Mafumofu Cap X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -11554,6 +12221,7 @@
   {
     "_id": 1311477,
     "name": "Yukumo Sky Kasa Goku",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Head",
     "skills": [
@@ -11570,6 +12238,7 @@
   {
     "_id": 1311478,
     "name": "Yukumo Land Kasa Goku",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -11586,6 +12255,7 @@
   {
     "_id": 1311479,
     "name": "Slagtoth Hood X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -11602,6 +12272,7 @@
   {
     "_id": 1311480,
     "name": "Slagtoth Cowl X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Head",
     "skills": [
@@ -11618,6 +12289,7 @@
   {
     "_id": 1311481,
     "name": "Larinoth Mask X",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -11630,6 +12302,7 @@
   {
     "_id": 1311482,
     "name": "Gargwa Mask X",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Head",
     "skills": [
@@ -11642,6 +12315,7 @@
   {
     "_id": 1311483,
     "name": "Velociprey Head X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -11658,6 +12332,7 @@
   {
     "_id": 1311484,
     "name": "Velociprey Mask X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Head",
     "skills": [
@@ -11674,6 +12349,7 @@
   {
     "_id": 1311485,
     "name": "Genprey Head X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -11690,6 +12366,7 @@
   {
     "_id": 1311486,
     "name": "Genprey Mask X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Head",
     "skills": [
@@ -11706,6 +12383,7 @@
   {
     "_id": 1311487,
     "name": "Ioprey Head X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -11722,6 +12400,7 @@
   {
     "_id": 1311488,
     "name": "Ioprey Mask X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -11738,6 +12417,7 @@
   {
     "_id": 1311489,
     "name": "Remobra Headgear X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -11754,6 +12434,7 @@
   {
     "_id": 1311490,
     "name": "Remobra Mask X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Head",
     "skills": [
@@ -11770,6 +12451,7 @@
   {
     "_id": 1311493,
     "name": "Mosswine Mask X",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -11786,6 +12468,7 @@
   {
     "_id": 1311494,
     "name": "Rhenoplos Helm X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -11798,6 +12481,7 @@
   {
     "_id": 1311495,
     "name": "Rhenoplos Cap X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -11810,6 +12494,7 @@
   {
     "_id": 1311496,
     "name": "Jaggi Helm X",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -11830,6 +12515,7 @@
   {
     "_id": 1311497,
     "name": "Jaggi Cap X",
+    "num_slots": 0,
     "max_defense": 79,
     "sub_type": "Head",
     "skills": [
@@ -11850,6 +12536,7 @@
   {
     "_id": 1311498,
     "name": "Jaggi Mask X",
+    "num_slots": 0,
     "max_defense": 73,
     "sub_type": "Head",
     "skills": [
@@ -11862,6 +12549,7 @@
   {
     "_id": 1311504,
     "name": "Maccao Helm X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -11882,6 +12570,7 @@
   {
     "_id": 1311505,
     "name": "Maccao Cap X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -11902,6 +12591,7 @@
   {
     "_id": 1311506,
     "name": "Velociprey Helm X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -11918,6 +12608,7 @@
   {
     "_id": 1311507,
     "name": "Velociprey Cap X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -11934,6 +12625,7 @@
   {
     "_id": 1311508,
     "name": "Giaprey Helm X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -11954,6 +12646,7 @@
   {
     "_id": 1311509,
     "name": "Giaprey Cap X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -11974,6 +12667,7 @@
   {
     "_id": 1311510,
     "name": "Genprey Helm X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -11994,6 +12688,7 @@
   {
     "_id": 1311511,
     "name": "Genprey Cap X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -12014,6 +12709,7 @@
   {
     "_id": 1311512,
     "name": "Ioprey Helm X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12030,6 +12726,7 @@
   {
     "_id": 1311513,
     "name": "Ioprey Cap X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12046,6 +12743,7 @@
   {
     "_id": 1311514,
     "name": "Vespoid Helm X",
+    "num_slots": 3,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -12062,6 +12760,7 @@
   {
     "_id": 1311515,
     "name": "Vespoid Cap X",
+    "num_slots": 3,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -12078,6 +12777,7 @@
   {
     "_id": 1311516,
     "name": "Hornetaur Helm X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -12090,6 +12790,7 @@
   {
     "_id": 1311517,
     "name": "Hornetaur Cap X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Head",
     "skills": [
@@ -12102,6 +12803,7 @@
   {
     "_id": 1311518,
     "name": "Bnahabra Hat X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -12122,6 +12824,7 @@
   {
     "_id": 1311519,
     "name": "Bnahabra Headpiece X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -12142,6 +12845,7 @@
   {
     "_id": 1311520,
     "name": "Konchu Helm X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -12162,6 +12866,7 @@
   {
     "_id": 1311521,
     "name": "Konchu Cap X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -12182,6 +12887,7 @@
   {
     "_id": 1311522,
     "name": "Bulldrome Helm X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -12202,6 +12908,7 @@
   {
     "_id": 1311523,
     "name": "Bulldrome Cap X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -12222,6 +12929,7 @@
   {
     "_id": 1311524,
     "name": "Bullfango Mask X",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Head",
     "skills": [
@@ -12238,6 +12946,7 @@
   {
     "_id": 1311525,
     "name": "Arzuros Helm X",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -12254,6 +12963,7 @@
   {
     "_id": 1311526,
     "name": "Arzuros Cap X",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -12270,6 +12980,7 @@
   {
     "_id": 1311527,
     "name": "Cephalos Helm X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -12290,6 +13001,7 @@
   {
     "_id": 1311528,
     "name": "Cephalos Cap X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -12310,6 +13022,7 @@
   {
     "_id": 1311529,
     "name": "Kut-Ku Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12330,6 +13043,7 @@
   {
     "_id": 1311530,
     "name": "Kut-Ku Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12350,6 +13064,7 @@
   {
     "_id": 1311531,
     "name": "Kecha Helm X",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -12374,6 +13089,7 @@
   {
     "_id": 1311532,
     "name": "Kecha Cap X",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -12398,6 +13114,7 @@
   {
     "_id": 1311533,
     "name": "Lagombi Helm X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -12418,6 +13135,7 @@
   {
     "_id": 1311534,
     "name": "Lagombi Cap X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -12438,6 +13156,7 @@
   {
     "_id": 1311535,
     "name": "Gypceros Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12458,6 +13177,7 @@
   {
     "_id": 1311536,
     "name": "Gypceros Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12478,6 +13198,7 @@
   {
     "_id": 1311537,
     "name": "Tetsucabra Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12498,6 +13219,7 @@
   {
     "_id": 1311538,
     "name": "Tetsucabra Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12518,6 +13240,7 @@
   {
     "_id": 1311539,
     "name": "Hermitaur Helm X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -12538,6 +13261,7 @@
   {
     "_id": 1311540,
     "name": "Hermitaur Cap X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -12558,6 +13282,7 @@
   {
     "_id": 1311541,
     "name": "Ludroth Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12578,6 +13303,7 @@
   {
     "_id": 1311542,
     "name": "Ludroth Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12598,6 +13324,7 @@
   {
     "_id": 1311543,
     "name": "Gourmew Toque X",
+    "num_slots": 3,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -12618,6 +13345,7 @@
   {
     "_id": 1311544,
     "name": "Gourmew Cap X",
+    "num_slots": 3,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -12638,6 +13366,7 @@
   {
     "_id": 1311545,
     "name": "Gourmew Toque X",
+    "num_slots": 3,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -12658,6 +13387,7 @@
   {
     "_id": 1311546,
     "name": "Gourmew Cap X",
+    "num_slots": 3,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -12678,6 +13408,7 @@
   {
     "_id": 1311547,
     "name": "Moofah Head X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -12698,6 +13429,7 @@
   {
     "_id": 1311548,
     "name": "Moofah Wig X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Head",
     "skills": [
@@ -12718,6 +13450,7 @@
   {
     "_id": 1311549,
     "name": "Edel Vizor X",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -12734,6 +13467,7 @@
   {
     "_id": 1311550,
     "name": "Edel Bloom X",
+    "num_slots": 2,
     "max_defense": 79,
     "sub_type": "Head",
     "skills": [
@@ -12750,6 +13484,7 @@
   {
     "_id": 1311551,
     "name": "Acorn Helm X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -12770,6 +13505,7 @@
   {
     "_id": 1311552,
     "name": "Acorn Cap X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -12790,6 +13526,7 @@
   {
     "_id": 1311553,
     "name": "Death Stench Brain X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12806,6 +13543,7 @@
   {
     "_id": 1311554,
     "name": "Death Stench Soul X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12822,6 +13560,7 @@
   {
     "_id": 1311555,
     "name": "Skalda Vertex X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12842,6 +13581,7 @@
   {
     "_id": 1311556,
     "name": "Skalda Clypeus X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12862,6 +13602,7 @@
   {
     "_id": 1311557,
     "name": "Spio Vertex X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12882,6 +13623,7 @@
   {
     "_id": 1311558,
     "name": "Spio Clypeus X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12902,6 +13644,7 @@
   {
     "_id": 1311559,
     "name": "Hunter's Helm XR",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Head",
     "skills": [
@@ -12918,6 +13661,7 @@
   {
     "_id": 1311560,
     "name": "Hunter's Cap XR",
+    "num_slots": 2,
     "max_defense": 75,
     "sub_type": "Head",
     "skills": [
@@ -12938,6 +13682,7 @@
   {
     "_id": 1311561,
     "name": "Volvidon Helm X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -12958,6 +13703,7 @@
   {
     "_id": 1311562,
     "name": "Volvidon Cap X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -12978,6 +13724,7 @@
   {
     "_id": 1311563,
     "name": "Conga Helm X",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -12994,6 +13741,7 @@
   {
     "_id": 1311564,
     "name": "Conga Cap X",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -13010,6 +13758,7 @@
   {
     "_id": 1311565,
     "name": "Barroth Helm X",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -13034,6 +13783,7 @@
   {
     "_id": 1311566,
     "name": "Barroth Cap X",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -13058,6 +13808,7 @@
   {
     "_id": 1311567,
     "name": "Basarios Helm X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -13078,6 +13829,7 @@
   {
     "_id": 1311568,
     "name": "Basarios Cap X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -13098,6 +13850,7 @@
   {
     "_id": 1311569,
     "name": "Malfestio Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13122,6 +13875,7 @@
   {
     "_id": 1311570,
     "name": "Malfestio Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13146,6 +13900,7 @@
   {
     "_id": 1311571,
     "name": "Zamtrios Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13166,6 +13921,7 @@
   {
     "_id": 1311572,
     "name": "Zamtrios Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13186,6 +13942,7 @@
   {
     "_id": 1311573,
     "name": "Khezu Helm X",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -13206,6 +13963,7 @@
   {
     "_id": 1311574,
     "name": "Khezu Cap X",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -13226,6 +13984,7 @@
   {
     "_id": 1311575,
     "name": "Nerscylla Helm X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -13246,6 +14005,7 @@
   {
     "_id": 1311576,
     "name": "Nerscylla Cap X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -13266,6 +14026,7 @@
   {
     "_id": 1311577,
     "name": "Rathian Helm X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -13286,6 +14047,7 @@
   {
     "_id": 1311578,
     "name": "Rathian Cap X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -13306,6 +14068,7 @@
   {
     "_id": 1311579,
     "name": "Nibelsnarf Helm X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -13322,6 +14085,7 @@
   {
     "_id": 1311580,
     "name": "Nibelsnarf Cap X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -13334,6 +14098,7 @@
   {
     "_id": 1311581,
     "name": "Plesioth Helm X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -13358,6 +14123,7 @@
   {
     "_id": 1311582,
     "name": "Plesioth Cap X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -13382,6 +14148,7 @@
   {
     "_id": 1311583,
     "name": "Blango Helm X",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -13402,6 +14169,7 @@
   {
     "_id": 1311584,
     "name": "Blango Cap X",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -13422,6 +14190,7 @@
   {
     "_id": 1311585,
     "name": "Ceanataur Helm X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -13438,6 +14207,7 @@
   {
     "_id": 1311586,
     "name": "Ceanataur Cap X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -13454,6 +14224,7 @@
   {
     "_id": 1311587,
     "name": "Najarala Helm X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -13474,6 +14245,7 @@
   {
     "_id": 1311588,
     "name": "Najarala Cap X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -13494,6 +14266,7 @@
   {
     "_id": 1311589,
     "name": "Nargacuga Helm X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -13514,6 +14287,7 @@
   {
     "_id": 1311590,
     "name": "Nargacuga Cap X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -13534,6 +14308,7 @@
   {
     "_id": 1311591,
     "name": "Gypceros Helm XR",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -13550,6 +14325,7 @@
   {
     "_id": 1311592,
     "name": "Gypceros Cap XR",
+    "num_slots": 0,
     "max_defense": 84,
     "sub_type": "Head",
     "skills": [
@@ -13566,6 +14342,7 @@
   {
     "_id": 1311593,
     "name": "Hermitaur Helm XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13582,6 +14359,7 @@
   {
     "_id": 1311594,
     "name": "Hermitaur Cap XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13598,6 +14376,7 @@
   {
     "_id": 1311595,
     "name": "Ludroth Helm XR",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -13614,6 +14393,7 @@
   {
     "_id": 1311596,
     "name": "Ludroth Cap XR",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -13630,6 +14410,7 @@
   {
     "_id": 1311597,
     "name": "Strange Helm X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -13654,6 +14435,7 @@
   {
     "_id": 1311598,
     "name": "Strange Cap X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -13678,6 +14460,7 @@
   {
     "_id": 1311599,
     "name": "Bistro Toque X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -13698,6 +14481,7 @@
   {
     "_id": 1311600,
     "name": "Bistro Cap X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -13718,6 +14502,7 @@
   {
     "_id": 1311601,
     "name": "Lecturer's Hood X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13738,6 +14523,7 @@
   {
     "_id": 1311602,
     "name": "Lecturer's Cap X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13758,6 +14544,7 @@
   {
     "_id": 1311603,
     "name": "Patissier's Toque X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13778,6 +14565,7 @@
   {
     "_id": 1311604,
     "name": "Patissier's Cap X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13798,6 +14586,7 @@
   {
     "_id": 1311605,
     "name": "Posh Bath Towel",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Head",
     "skills": [
@@ -13818,6 +14607,7 @@
   {
     "_id": 1311606,
     "name": "Maiden's Hat X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13838,6 +14628,7 @@
   {
     "_id": 1311607,
     "name": "French Maid Glasses X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13858,6 +14649,7 @@
   {
     "_id": 1311608,
     "name": "Dianthus Masacap",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13882,6 +14674,7 @@
   {
     "_id": 1311609,
     "name": "Campanile Masacap",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13906,6 +14699,7 @@
   {
     "_id": 1311610,
     "name": "Conga Helm GX",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -13926,6 +14720,7 @@
   {
     "_id": 1311611,
     "name": "Conga Cap GX",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -13946,6 +14741,7 @@
   {
     "_id": 1311612,
     "name": "Alloy Helm XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -13958,6 +14754,7 @@
   {
     "_id": 1311613,
     "name": "Alloy Cap XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -13970,6 +14767,7 @@
   {
     "_id": 1311614,
     "name": "Ingot Helm XR",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -13986,6 +14784,7 @@
   {
     "_id": 1311615,
     "name": "Ingot Cap XR",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -14002,6 +14801,7 @@
   {
     "_id": 1311617,
     "name": "Artian Cap X",
+    "num_slots": 3,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -14014,6 +14814,7 @@
   {
     "_id": 1311618,
     "name": "Lobster Helm X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -14038,6 +14839,7 @@
   {
     "_id": 1311619,
     "name": "Lobster Mask X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -14062,6 +14864,7 @@
   {
     "_id": 1311620,
     "name": "Khezu Helm XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Head",
     "skills": [
@@ -14078,6 +14881,7 @@
   {
     "_id": 1311621,
     "name": "Khezu Cap XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Head",
     "skills": [
@@ -14094,6 +14898,7 @@
   {
     "_id": 1311622,
     "name": "Ceanataur Helm XR",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -14110,6 +14915,7 @@
   {
     "_id": 1311623,
     "name": "Ceanataur Cap XR",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -14126,6 +14932,7 @@
   {
     "_id": 1311624,
     "name": "Rathian Helm XR",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -14138,6 +14945,7 @@
   {
     "_id": 1311625,
     "name": "Rathian Cap XR",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -14150,6 +14958,7 @@
   {
     "_id": 1311626,
     "name": "Lava Helm X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -14170,6 +14979,7 @@
   {
     "_id": 1311627,
     "name": "Lava Cap X",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -14190,6 +15000,7 @@
   {
     "_id": 1311628,
     "name": "Garuga Helm X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14214,6 +15025,7 @@
   {
     "_id": 1311629,
     "name": "Garuga Cap X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14238,6 +15050,7 @@
   {
     "_id": 1311630,
     "name": "Uragaan Helm X",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -14258,6 +15071,7 @@
   {
     "_id": 1311631,
     "name": "Uragaan Cap X",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -14278,6 +15092,7 @@
   {
     "_id": 1311632,
     "name": "Barioth Helm X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -14298,6 +15113,7 @@
   {
     "_id": 1311633,
     "name": "Barioth Cap X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -14318,6 +15134,7 @@
   {
     "_id": 1311634,
     "name": "Seltas Helm X",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -14342,6 +15159,7 @@
   {
     "_id": 1311635,
     "name": "Seltas Cap X",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -14366,6 +15184,7 @@
   {
     "_id": 1311636,
     "name": "Rathalos Helm X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14386,6 +15205,7 @@
   {
     "_id": 1311637,
     "name": "Rathalos Cap X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14406,6 +15226,7 @@
   {
     "_id": 1311638,
     "name": "Lagiacrus Helm X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14422,6 +15243,7 @@
   {
     "_id": 1311639,
     "name": "Lagiacrus Cap X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14438,6 +15260,7 @@
   {
     "_id": 1311640,
     "name": "Zinogre Helm X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14454,6 +15277,7 @@
   {
     "_id": 1311641,
     "name": "Zinogre Cap X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14474,6 +15298,7 @@
   {
     "_id": 1311642,
     "name": "Gravios Helm X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14498,6 +15323,7 @@
   {
     "_id": 1311643,
     "name": "Gravios Cap X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14522,6 +15348,7 @@
   {
     "_id": 1311644,
     "name": "Mizutsune Helm X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -14542,6 +15369,7 @@
   {
     "_id": 1311645,
     "name": "Mizutsune Mask X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -14562,6 +15390,7 @@
   {
     "_id": 1311646,
     "name": "Astalos Helm X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14582,6 +15411,7 @@
   {
     "_id": 1311647,
     "name": "Astalos Cap X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14602,6 +15432,7 @@
   {
     "_id": 1311648,
     "name": "Gammoth Helm X",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -14622,6 +15453,7 @@
   {
     "_id": 1311649,
     "name": "Gammoth Cap X",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -14642,6 +15474,7 @@
   {
     "_id": 1311650,
     "name": "Glavenus Helm X",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -14662,6 +15495,7 @@
   {
     "_id": 1311651,
     "name": "Glavenus Cap X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -14682,6 +15516,7 @@
   {
     "_id": 1311652,
     "name": "Gore Helm X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -14698,6 +15533,7 @@
   {
     "_id": 1311653,
     "name": "Gore Cap X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -14714,6 +15550,7 @@
   {
     "_id": 1311654,
     "name": "Kirin Horn X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -14738,6 +15575,7 @@
   {
     "_id": 1311655,
     "name": "Kirin Crest X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -14762,6 +15600,7 @@
   {
     "_id": 1311656,
     "name": "Kirin Horn XR",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14774,6 +15613,7 @@
   {
     "_id": 1311657,
     "name": "Kirin Crest XR",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14786,6 +15626,7 @@
   {
     "_id": 1311658,
     "name": "Auroros Helm",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14806,6 +15647,7 @@
   {
     "_id": 1311659,
     "name": "Borealis Crown",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -14826,6 +15668,7 @@
   {
     "_id": 1311660,
     "name": "Genesis Headpiece",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14846,6 +15689,7 @@
   {
     "_id": 1311661,
     "name": "Glyph Crown",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -14866,6 +15710,7 @@
   {
     "_id": 1311662,
     "name": "Auroros Helm GX",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -14886,6 +15731,7 @@
   {
     "_id": 1311663,
     "name": "Borealis Crown GX",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -14906,6 +15752,7 @@
   {
     "_id": 1311664,
     "name": "Genesis Headpiece GX",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -14926,6 +15773,7 @@
   {
     "_id": 1311665,
     "name": "Glyph Crown GX",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -14946,6 +15794,7 @@
   {
     "_id": 1311666,
     "name": "Auroros Helm XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -14962,6 +15811,7 @@
   {
     "_id": 1311667,
     "name": "Borealis Crown XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -14978,6 +15828,7 @@
   {
     "_id": 1311668,
     "name": "Genesis Headpiece XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -14994,6 +15845,7 @@
   {
     "_id": 1311669,
     "name": "Glyph Crown XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -15010,6 +15862,7 @@
   {
     "_id": 1311670,
     "name": "Scholar's Beret X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -15030,6 +15883,7 @@
   {
     "_id": 1311671,
     "name": "Scholar's Cap X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -15050,6 +15904,7 @@
   {
     "_id": 1311672,
     "name": "Sailor Hat X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -15070,6 +15925,7 @@
   {
     "_id": 1311673,
     "name": "Sailor Cap X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -15090,6 +15946,7 @@
   {
     "_id": 1311674,
     "name": "Hawkhat X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -15110,6 +15967,7 @@
   {
     "_id": 1311675,
     "name": "Hawkcap X",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -15130,6 +15988,7 @@
   {
     "_id": 1311676,
     "name": "Scholarly Hood X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -15146,6 +16005,7 @@
   {
     "_id": 1311677,
     "name": "Scholarly Cap X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -15162,6 +16022,7 @@
   {
     "_id": 1311678,
     "name": "Research Hood",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -15186,6 +16047,7 @@
   {
     "_id": 1311679,
     "name": "Research Cap",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -15210,6 +16072,7 @@
   {
     "_id": 1311680,
     "name": "Rathalos Helm XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -15222,6 +16085,7 @@
   {
     "_id": 1311681,
     "name": "Rathalos Cap XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -15234,6 +16098,7 @@
   {
     "_id": 1311682,
     "name": "Lagiacrus Helm XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -15246,6 +16111,7 @@
   {
     "_id": 1311683,
     "name": "Lagiacrus Cap XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -15258,6 +16124,7 @@
   {
     "_id": 1311684,
     "name": "Gore Helm XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -15274,6 +16141,7 @@
   {
     "_id": 1311685,
     "name": "Gore Cap XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -15290,6 +16158,7 @@
   {
     "_id": 1311686,
     "name": "Agnaktor Helm X",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -15310,6 +16179,7 @@
   {
     "_id": 1311687,
     "name": "Agnaktor Cap X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -15330,6 +16200,7 @@
   {
     "_id": 1311688,
     "name": "Regios Helm X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -15346,6 +16217,7 @@
   {
     "_id": 1311689,
     "name": "Regios Cap X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -15362,6 +16234,7 @@
   {
     "_id": 1311690,
     "name": "Duramboros Helm X",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -15378,6 +16251,7 @@
   {
     "_id": 1311691,
     "name": "Duramboros Cap X",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -15394,6 +16268,7 @@
   {
     "_id": 1311692,
     "name": "Tigrex Helm X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -15414,6 +16289,7 @@
   {
     "_id": 1311693,
     "name": "Tigrex Cap X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -15434,6 +16310,7 @@
   {
     "_id": 1311694,
     "name": "Tigrex Helm XR",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -15446,6 +16323,7 @@
   {
     "_id": 1311695,
     "name": "Tigrex Cap XR",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -15458,6 +16336,7 @@
   {
     "_id": 1311696,
     "name": "Diablos Helm X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -15482,6 +16361,7 @@
   {
     "_id": 1311697,
     "name": "Diablos Cap X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -15506,6 +16386,7 @@
   {
     "_id": 1311698,
     "name": "Diablos Helm XR",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -15522,6 +16403,7 @@
   {
     "_id": 1311699,
     "name": "Diablos Cap XR",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -15538,6 +16420,7 @@
   {
     "_id": 1311700,
     "name": "Brachydios Helm X",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -15558,6 +16441,7 @@
   {
     "_id": 1311701,
     "name": "Brachydios Cap X",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -15578,6 +16462,7 @@
   {
     "_id": 1311702,
     "name": "Arc Helm X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -15598,6 +16483,7 @@
   {
     "_id": 1311703,
     "name": "Storge Helm X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -15618,6 +16504,7 @@
   {
     "_id": 1311704,
     "name": "Arc Cap X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -15638,6 +16525,7 @@
   {
     "_id": 1311705,
     "name": "Storge Cap X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -15658,6 +16546,7 @@
   {
     "_id": 1311706,
     "name": "Arc Helm XR",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -15678,6 +16567,7 @@
   {
     "_id": 1311707,
     "name": "Storge Helm XR",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -15698,6 +16588,7 @@
   {
     "_id": 1311708,
     "name": "Arc Cap XR",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -15714,6 +16605,7 @@
   {
     "_id": 1311709,
     "name": "Storge Cap XR",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -15730,6 +16622,7 @@
   {
     "_id": 1311710,
     "name": "Valstrax Helm X",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -15754,6 +16647,7 @@
   {
     "_id": 1311711,
     "name": "Valstrax Cap X",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -15778,6 +16672,7 @@
   {
     "_id": 1311712,
     "name": "Grand God's Peer Mask",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -15802,6 +16697,7 @@
   {
     "_id": 1311713,
     "name": "Grand Hermit Mask",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -15826,6 +16722,7 @@
   {
     "_id": 1311714,
     "name": "Vangis Helm X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -15846,6 +16743,7 @@
   {
     "_id": 1311715,
     "name": "Vangis Cap X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -15866,6 +16764,7 @@
   {
     "_id": 1311716,
     "name": "Kushala Glare X",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -15886,6 +16785,7 @@
   {
     "_id": 1311717,
     "name": "Kushala Snarl X",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -15906,6 +16806,7 @@
   {
     "_id": 1311718,
     "name": "Kushala Glare XR",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -15922,6 +16823,7 @@
   {
     "_id": 1311719,
     "name": "Kushala Snarl XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -15938,6 +16840,7 @@
   {
     "_id": 1311720,
     "name": "Grand Mizuha Cap",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -15958,6 +16861,7 @@
   {
     "_id": 1311721,
     "name": "Grand Cham Hat",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -15978,6 +16882,7 @@
   {
     "_id": 1311722,
     "name": "Kaiser Crown X",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -15998,6 +16903,7 @@
   {
     "_id": 1311723,
     "name": "Kaiser Mask X",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -16018,6 +16924,7 @@
   {
     "_id": 1311724,
     "name": "Silver Solhelm Z",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16038,6 +16945,7 @@
   {
     "_id": 1311725,
     "name": "Silver Solcap Z",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -16058,6 +16966,7 @@
   {
     "_id": 1311726,
     "name": "Golden Lunehelm Z",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16078,6 +16987,7 @@
   {
     "_id": 1311727,
     "name": "Golden Lunecap Z",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16098,6 +17008,7 @@
   {
     "_id": 1311728,
     "name": "Yaksha Mask",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -16122,6 +17033,7 @@
   {
     "_id": 1311729,
     "name": "Carnage Helm",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -16146,6 +17058,7 @@
   {
     "_id": 1311730,
     "name": "Guardian Helm X",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16166,6 +17079,7 @@
   {
     "_id": 1311731,
     "name": "Guardian Mask X",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16186,6 +17100,7 @@
   {
     "_id": 1311732,
     "name": "Blue Guild Lobos X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16206,6 +17121,7 @@
   {
     "_id": 1311733,
     "name": "Blue Guild Tricorne X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16226,6 +17142,7 @@
   {
     "_id": 1311734,
     "name": "Blue Guild Mask X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -16246,6 +17163,7 @@
   {
     "_id": 1311735,
     "name": "Blue Guild Piercing X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -16266,6 +17184,7 @@
   {
     "_id": 1311736,
     "name": "Red Guild Lobos X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16286,6 +17205,7 @@
   {
     "_id": 1311737,
     "name": "Red Guild Tricorne X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16306,6 +17226,7 @@
   {
     "_id": 1311738,
     "name": "Red Guild Mask X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -16326,6 +17247,7 @@
   {
     "_id": 1311739,
     "name": "Red Guild Piercing X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -16346,6 +17268,7 @@
   {
     "_id": 1311740,
     "name": "G. Knight Feather X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -16366,6 +17289,7 @@
   {
     "_id": 1311741,
     "name": "G. Knight Mask X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -16386,6 +17310,7 @@
   {
     "_id": 1311742,
     "name": "Guild Bard Lobos X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -16406,6 +17331,7 @@
   {
     "_id": 1311743,
     "name": "Guild Bard Hat X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -16426,6 +17352,7 @@
   {
     "_id": 1311744,
     "name": "Ace Headgear X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -16450,6 +17377,7 @@
   {
     "_id": 1311745,
     "name": "Ace Mask X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -16474,6 +17402,7 @@
   {
     "_id": 1311746,
     "name": "Sororal Headgear X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -16498,6 +17427,7 @@
   {
     "_id": 1311747,
     "name": "Sororal Mask X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -16522,6 +17452,7 @@
   {
     "_id": 1311748,
     "name": "Shinobi Heaven Mask Goku",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16542,6 +17473,7 @@
   {
     "_id": 1311749,
     "name": "Shinobi Land Mask Goku",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16562,6 +17494,7 @@
   {
     "_id": 1311750,
     "name": "Kaiserin Crown",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16586,6 +17519,7 @@
   {
     "_id": 1311751,
     "name": "Kaiserin Mask",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16610,6 +17544,7 @@
   {
     "_id": 1311752,
     "name": "Barmaid's Earrings",
+    "num_slots": 3,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -16630,6 +17565,7 @@
   {
     "_id": 1311753,
     "name": "Barmaid's Earring",
+    "num_slots": 3,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -16650,6 +17586,7 @@
   {
     "_id": 1311754,
     "name": "Barman's Shades",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -16670,6 +17607,7 @@
   {
     "_id": 1311755,
     "name": "Barman's Glasses",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -16690,6 +17628,7 @@
   {
     "_id": 1311756,
     "name": "Helios Helm X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -16714,6 +17653,7 @@
   {
     "_id": 1311757,
     "name": "Selene Helm X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -16738,6 +17678,7 @@
   {
     "_id": 1311758,
     "name": "Helios Cap X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -16762,6 +17703,7 @@
   {
     "_id": 1311759,
     "name": "Selene Cap X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -16786,6 +17728,7 @@
   {
     "_id": 1311760,
     "name": "Strider's Headgear",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -16810,6 +17753,7 @@
   {
     "_id": 1311761,
     "name": "Deadeye's Turban",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -16834,6 +17778,7 @@
   {
     "_id": 1311762,
     "name": "Damascus Helm X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -16854,6 +17799,7 @@
   {
     "_id": 1311763,
     "name": "Damascus Cap X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -16874,6 +17820,7 @@
   {
     "_id": 1311764,
     "name": "Chaos Helm",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16898,6 +17845,7 @@
   {
     "_id": 1311765,
     "name": "Nephilim Helm",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -16922,6 +17870,7 @@
   {
     "_id": 1311766,
     "name": "Chaos Cap",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16946,6 +17895,7 @@
   {
     "_id": 1311767,
     "name": "Nephilim Cap",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -16970,6 +17920,7 @@
   {
     "_id": 1311768,
     "name": "Grand Divine Ire Mask",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -16994,6 +17945,7 @@
   {
     "_id": 1311769,
     "name": "Grand Crusher Mask",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -17018,6 +17970,7 @@
   {
     "_id": 1311770,
     "name": "Esurient Helm Z",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -17038,6 +17991,7 @@
   {
     "_id": 1311771,
     "name": "Esurient Cap Z",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -17058,6 +18012,7 @@
   {
     "_id": 1311772,
     "name": "Brachydium Helm",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -17082,6 +18037,7 @@
   {
     "_id": 1311773,
     "name": "Brachydium Cap",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -17106,6 +18062,7 @@
   {
     "_id": 1311774,
     "name": "Akantor Mask X",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -17130,6 +18087,7 @@
   {
     "_id": 1311775,
     "name": "Akantor Fangs X",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -17154,6 +18112,7 @@
   {
     "_id": 1311776,
     "name": "Akantor Mask XR",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -17170,6 +18129,7 @@
   {
     "_id": 1311777,
     "name": "Akantor Fangs XR",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -17186,6 +18146,7 @@
   {
     "_id": 1311778,
     "name": "Ukanlos Mask X",
+    "num_slots": 1,
     "max_defense": 174,
     "sub_type": "Head",
     "skills": [
@@ -17210,6 +18171,7 @@
   {
     "_id": 1311779,
     "name": "Ukanlos Fangs X",
+    "num_slots": 1,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -17234,6 +18196,7 @@
   {
     "_id": 1311780,
     "name": "Grand Tempest Crown",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -17254,6 +18217,7 @@
   {
     "_id": 1311781,
     "name": "Grand Welkin Crown",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -17274,6 +18238,7 @@
   {
     "_id": 1311782,
     "name": "Grand Skeletal Skull",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -17298,6 +18263,7 @@
   {
     "_id": 1311783,
     "name": "Grand Decayed Skull",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -17322,6 +18288,7 @@
   {
     "_id": 1311784,
     "name": "Astral Helm X",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -17346,6 +18313,7 @@
   {
     "_id": 1311785,
     "name": "Astral Mask X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -17370,6 +18338,7 @@
   {
     "_id": 1311786,
     "name": "Neset Helm",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -17382,6 +18351,7 @@
   {
     "_id": 1311787,
     "name": "Neset Hat",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -17394,6 +18364,7 @@
   {
     "_id": 1311788,
     "name": "Black Head X",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -17418,6 +18389,7 @@
   {
     "_id": 1311789,
     "name": "Black Face X",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -17442,6 +18414,7 @@
   {
     "_id": 1311790,
     "name": "Escadora Wisdom X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Head",
     "skills": [
@@ -17466,6 +18439,7 @@
   {
     "_id": 1311791,
     "name": "Escadora Sagesse X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -17490,6 +18464,7 @@
   {
     "_id": 1311792,
     "name": "Escadora Wisdom XR",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -17506,6 +18481,7 @@
   {
     "_id": 1311793,
     "name": "Escadora Sagesse XR",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -17522,6 +18498,7 @@
   {
     "_id": 1311794,
     "name": "Fatalis Crimsonhead",
+    "num_slots": 1,
     "max_defense": 176,
     "sub_type": "Head",
     "skills": [
@@ -17546,6 +18523,7 @@
   {
     "_id": 1311795,
     "name": "Fatalis Crimsonface",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Head",
     "skills": [
@@ -17570,6 +18548,7 @@
   {
     "_id": 1311796,
     "name": "GX Fatalis Crimsonhead",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -17594,6 +18573,7 @@
   {
     "_id": 1311797,
     "name": "GX Fatalis Crimsonface",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -17618,6 +18598,7 @@
   {
     "_id": 1311798,
     "name": "Fatalis Crimsonhead XR",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -17638,6 +18619,7 @@
   {
     "_id": 1311799,
     "name": "Fatalis Crimsonface XR",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -17658,6 +18640,7 @@
   {
     "_id": 1311800,
     "name": "Old Fatalis Head",
+    "num_slots": 1,
     "max_defense": 174,
     "sub_type": "Head",
     "skills": [
@@ -17682,6 +18665,7 @@
   {
     "_id": 1311801,
     "name": "Old Fatalis Face",
+    "num_slots": 1,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -17706,6 +18690,7 @@
   {
     "_id": 1311802,
     "name": "GX Old Fatalis Head",
+    "num_slots": 1,
     "max_defense": 178,
     "sub_type": "Head",
     "skills": [
@@ -17730,6 +18715,7 @@
   {
     "_id": 1311803,
     "name": "GX Old Fatalis Face",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -17754,6 +18740,7 @@
   {
     "_id": 1311804,
     "name": "Helper Hood X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -17774,6 +18761,7 @@
   {
     "_id": 1311805,
     "name": "Healer Glasses X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -17794,6 +18782,7 @@
   {
     "_id": 1311806,
     "name": "Ancient Helm X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -17818,6 +18807,7 @@
   {
     "_id": 1311807,
     "name": "Ancient Cap X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -17842,6 +18832,7 @@
   {
     "_id": 1311808,
     "name": "Master's Earcuff X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -17866,6 +18857,7 @@
   {
     "_id": 1311809,
     "name": "Master's Earrings X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -17890,6 +18882,7 @@
   {
     "_id": 1311810,
     "name": "Grand Toka Kabuto",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -17914,6 +18907,7 @@
   {
     "_id": 1311811,
     "name": "Grand Mitsuaoi Kabuto",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -17938,6 +18932,7 @@
   {
     "_id": 1311812,
     "name": "Blooming Bherna",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -17950,6 +18945,7 @@
   {
     "_id": 1311813,
     "name": "Verdant Kokoto",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -17962,6 +18958,7 @@
   {
     "_id": 1311814,
     "name": "Snowy Pokke",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -17974,6 +18971,7 @@
   {
     "_id": 1311815,
     "name": "Thermal Yukumo",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -17986,6 +18984,7 @@
   {
     "_id": 1311816,
     "name": "Black Belt Helm X",
+    "num_slots": 3,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -17998,6 +18997,7 @@
   {
     "_id": 1311817,
     "name": "Black Belt Cap X",
+    "num_slots": 3,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -18010,6 +19010,7 @@
   {
     "_id": 1311818,
     "name": "Candid Earring",
+    "num_slots": 0,
     "max_defense": 77,
     "sub_type": "Head",
     "skills": [
@@ -18022,6 +19023,7 @@
   {
     "_id": 1311819,
     "name": "Desire Earring",
+    "num_slots": 3,
     "max_defense": 82,
     "sub_type": "Head",
     "skills": [
@@ -18034,6 +19036,7 @@
   {
     "_id": 1311820,
     "name": "Auroros Helm R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -18058,6 +19061,7 @@
   {
     "_id": 1311821,
     "name": "Borealis Crown R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -18082,6 +19086,7 @@
   {
     "_id": 1311822,
     "name": "Genesis Headpiece R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -18106,6 +19111,7 @@
   {
     "_id": 1311823,
     "name": "Glyph Crown R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -18130,6 +19136,7 @@
   {
     "_id": 1311824,
     "name": "Silver Solhelm XR",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -18142,6 +19149,7 @@
   {
     "_id": 1311825,
     "name": "Silver Solcap XR",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -18154,6 +19162,7 @@
   {
     "_id": 1311826,
     "name": "Esurient Helm XR",
+    "num_slots": 3,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -18166,6 +19175,7 @@
   {
     "_id": 1311827,
     "name": "Esurient Cap XR",
+    "num_slots": 3,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -18178,6 +19188,7 @@
   {
     "_id": 1311828,
     "name": "Rustrazor Helm",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -18202,6 +19213,7 @@
   {
     "_id": 1311829,
     "name": "Rustrazor Cap",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -18226,6 +19238,7 @@
   {
     "_id": 1311830,
     "name": "Nightcloak Helm",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -18250,6 +19263,7 @@
   {
     "_id": 1311831,
     "name": "Nightcloak Cap",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -18274,6 +19288,7 @@
   {
     "_id": 1311832,
     "name": "Soulseer Helm",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Head",
     "skills": [
@@ -18298,6 +19313,7 @@
   {
     "_id": 1311833,
     "name": "Soulseer Cap",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -18322,6 +19338,7 @@
   {
     "_id": 1311834,
     "name": "Boltreaver Helm",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Head",
     "skills": [
@@ -18346,6 +19363,7 @@
   {
     "_id": 1311835,
     "name": "Boltreaver Cap",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Head",
     "skills": [
@@ -18370,6 +19388,7 @@
   {
     "_id": 1311836,
     "name": "Elderfrost Helm",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Head",
     "skills": [
@@ -18394,6 +19413,7 @@
   {
     "_id": 1311837,
     "name": "Elderfrost Cap",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -18418,6 +19438,7 @@
   {
     "_id": 1311838,
     "name": "Bloodbath Helm",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Head",
     "skills": [
@@ -18442,6 +19463,7 @@
   {
     "_id": 1311839,
     "name": "Bloodbath Cap",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Head",
     "skills": [
@@ -18466,6 +19488,7 @@
   {
     "_id": 1311842,
     "name": "Genprey Helm GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -18486,6 +19509,7 @@
   {
     "_id": 1311843,
     "name": "Genprey Cap GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -18506,6 +19530,7 @@
   {
     "_id": 1311844,
     "name": "Ioprey Helm GX",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -18526,6 +19551,7 @@
   {
     "_id": 1311845,
     "name": "Ioprey Cap GX",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -18546,6 +19572,7 @@
   {
     "_id": 1311846,
     "name": "Vespoid Helm GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -18562,6 +19589,7 @@
   {
     "_id": 1311847,
     "name": "Vespoid Cap GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -18578,6 +19606,7 @@
   {
     "_id": 1311848,
     "name": "Hornetaur Helm XR",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -18590,6 +19619,7 @@
   {
     "_id": 1311849,
     "name": "Hornetaur Cap XR",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -18602,6 +19632,7 @@
   {
     "_id": 1311850,
     "name": "Hornetaur Helm GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Head",
     "skills": [
@@ -18622,6 +19653,7 @@
   {
     "_id": 1311851,
     "name": "Hornetaur Cap GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Head",
     "skills": [
@@ -18642,6 +19674,7 @@
   {
     "_id": 1311852,
     "name": "Cephalos Helm GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -18662,6 +19695,7 @@
   {
     "_id": 1311853,
     "name": "Cephalos Cap GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -18682,6 +19716,7 @@
   {
     "_id": 1311854,
     "name": "Hermitaur Helm GX",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -18702,6 +19737,7 @@
   {
     "_id": 1311855,
     "name": "Hermitaur Cap GX",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -18722,6 +19758,7 @@
   {
     "_id": 1311856,
     "name": "Rathian Helm GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -18742,6 +19779,7 @@
   {
     "_id": 1311857,
     "name": "Rathian Cap GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -18762,6 +19800,7 @@
   {
     "_id": 1311858,
     "name": "Ceanataur Helm GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -18782,6 +19821,7 @@
   {
     "_id": 1311859,
     "name": "Ceanataur Cap GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -18802,6 +19842,7 @@
   {
     "_id": 1311860,
     "name": "Blango Helm GX",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -18822,6 +19863,7 @@
   {
     "_id": 1311861,
     "name": "Blango Cap GX",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -18842,6 +19884,7 @@
   {
     "_id": 1311862,
     "name": "Gore Helm GX",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -18862,6 +19905,7 @@
   {
     "_id": 1311863,
     "name": "Gore Cap GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -18882,6 +19926,7 @@
   {
     "_id": 1311864,
     "name": "Zinogre Helm GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -18902,6 +19947,7 @@
   {
     "_id": 1311865,
     "name": "Zinogre Cap GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -18922,6 +19968,7 @@
   {
     "_id": 1311866,
     "name": "Tigrex Helm GX",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Head",
     "skills": [
@@ -18942,6 +19989,7 @@
   {
     "_id": 1311867,
     "name": "Tigrex Cap GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -18962,6 +20010,7 @@
   {
     "_id": 1311868,
     "name": "Brachydios Helm GX",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -18978,6 +20027,7 @@
   {
     "_id": 1311869,
     "name": "Brachydios Cap GX",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -18994,6 +20044,7 @@
   {
     "_id": 1311870,
     "name": "Rathalos Helm GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -19014,6 +20065,7 @@
   {
     "_id": 1311871,
     "name": "Rathalos Cap GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -19034,6 +20086,7 @@
   {
     "_id": 1311872,
     "name": "Arc Helm GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -19054,6 +20107,7 @@
   {
     "_id": 1311873,
     "name": "Arc Cap GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -19074,6 +20128,7 @@
   {
     "_id": 1311874,
     "name": "Storge Helm GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -19094,6 +20149,7 @@
   {
     "_id": 1311875,
     "name": "Storge Cap GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -19114,6 +20170,7 @@
   {
     "_id": 1311876,
     "name": "Kushala Glare GX",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -19134,6 +20191,7 @@
   {
     "_id": 1311877,
     "name": "Kushala Snarl GX",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -19154,6 +20212,7 @@
   {
     "_id": 1311878,
     "name": "Mizuha Cap GX",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -19178,6 +20237,7 @@
   {
     "_id": 1311879,
     "name": "Cham Hat GX",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -19202,6 +20262,7 @@
   {
     "_id": 1311880,
     "name": "Kaiser Crown GX",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -19222,6 +20283,7 @@
   {
     "_id": 1311881,
     "name": "Kaiser Mask GX",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -19242,6 +20304,7 @@
   {
     "_id": 1311882,
     "name": "Lavasioth Helm GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -19262,6 +20325,7 @@
   {
     "_id": 1311883,
     "name": "Lavasioth Cap GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Head",
     "skills": [
@@ -19282,6 +20346,7 @@
   {
     "_id": 1311884,
     "name": "GX Silver Solhelm",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -19302,6 +20367,7 @@
   {
     "_id": 1311885,
     "name": "GX Silver Solcap",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -19322,6 +20388,7 @@
   {
     "_id": 1311886,
     "name": "GX Golden Lunehelm",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Head",
     "skills": [
@@ -19342,6 +20409,7 @@
   {
     "_id": 1311887,
     "name": "GX Golden Lunecap",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Head",
     "skills": [
@@ -19362,6 +20430,7 @@
   {
     "_id": 1311888,
     "name": "Tempest Crown XR",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -19374,6 +20443,7 @@
   {
     "_id": 1311889,
     "name": "Welkin Crown XR",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -19386,6 +20456,7 @@
   {
     "_id": 1311890,
     "name": "Leather Helm X",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Head",
     "skills": [
@@ -19402,6 +20473,7 @@
   {
     "_id": 1311891,
     "name": "Leather Cap X",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -19418,6 +20490,7 @@
   {
     "_id": 1311892,
     "name": "Chain Helm X",
+    "num_slots": 3,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -19434,6 +20507,7 @@
   {
     "_id": 1311893,
     "name": "Chainmail Cap X",
+    "num_slots": 3,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -19450,6 +20524,7 @@
   {
     "_id": 1311895,
     "name": "Hunter's Helm X",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -19470,6 +20545,7 @@
   {
     "_id": 1311896,
     "name": "Hunter's Cap X",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -19490,6 +20566,7 @@
   {
     "_id": 1311897,
     "name": "Bone Helm X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -19510,6 +20587,7 @@
   {
     "_id": 1311898,
     "name": "Bone Cap X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -19530,6 +20608,7 @@
   {
     "_id": 1311899,
     "name": "Dober Helm X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -19550,6 +20629,7 @@
   {
     "_id": 1311900,
     "name": "Dober Cap X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -19570,6 +20650,7 @@
   {
     "_id": 1311901,
     "name": "Alloy Helm X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19590,6 +20671,7 @@
   {
     "_id": 1311902,
     "name": "Alloy Cap X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19610,6 +20692,7 @@
   {
     "_id": 1311903,
     "name": "Ingot Helm X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -19622,6 +20705,7 @@
   {
     "_id": 1311904,
     "name": "Ingot Cap X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Head",
     "skills": [
@@ -19634,6 +20718,7 @@
   {
     "_id": 1311905,
     "name": "Damascus Helm XR",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19646,6 +20731,7 @@
   {
     "_id": 1311906,
     "name": "Damascus Cap XR",
+    "num_slots": 1,
     "max_defense": 92,
     "sub_type": "Head",
     "skills": [
@@ -19662,6 +20748,7 @@
   {
     "_id": 1311907,
     "name": "Battle Helm X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19678,6 +20765,7 @@
   {
     "_id": 1311908,
     "name": "Battle Cap X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19694,6 +20782,7 @@
   {
     "_id": 1311909,
     "name": "High Metal Helm X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19710,6 +20799,7 @@
   {
     "_id": 1311910,
     "name": "High Metal Cap X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19726,6 +20816,7 @@
   {
     "_id": 1311911,
     "name": "High Metal Helm Z",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19742,6 +20833,7 @@
   {
     "_id": 1311912,
     "name": "High Metal Cap Z",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19758,6 +20850,7 @@
   {
     "_id": 1311913,
     "name": "Mosgharl Vizor X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -19774,6 +20867,7 @@
   {
     "_id": 1311914,
     "name": "Mosgharl Brim X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -19790,6 +20884,7 @@
   {
     "_id": 1311915,
     "name": "Mosgharl Vizor X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -19806,6 +20901,7 @@
   {
     "_id": 1311916,
     "name": "Mosgharl Brim X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Head",
     "skills": [
@@ -19822,6 +20918,7 @@
   {
     "_id": 1311917,
     "name": "Obituary Vertex X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -19842,6 +20939,7 @@
   {
     "_id": 1311918,
     "name": "Obituary Clypeus X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -19862,6 +20960,7 @@
   {
     "_id": 1311919,
     "name": "Butterfly Vertex X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Head",
     "skills": [
@@ -19882,6 +20981,7 @@
   {
     "_id": 1311920,
     "name": "Butterfly Clypeus X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Head",
     "skills": [
@@ -19902,6 +21002,7 @@
   {
     "_id": 1311921,
     "name": "Aelucanth Vertex X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19922,6 +21023,7 @@
   {
     "_id": 1311922,
     "name": "Aelucanth Clypeus X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19942,6 +21044,7 @@
   {
     "_id": 1311923,
     "name": "Rhopessa Vertex X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19962,6 +21065,7 @@
   {
     "_id": 1311924,
     "name": "Rhopessa Clypeus X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -19982,6 +21086,7 @@
   {
     "_id": 1311925,
     "name": "Vaik Helm X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Head",
     "skills": [
@@ -19998,6 +21103,7 @@
   {
     "_id": 1311926,
     "name": "Vaik Cap X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -20014,6 +21120,7 @@
   {
     "_id": 1311927,
     "name": "Guardian Helm Z",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Head",
     "skills": [
@@ -20034,6 +21141,7 @@
   {
     "_id": 1311928,
     "name": "Guardian Mask Z",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Head",
     "skills": [
@@ -20054,6 +21162,7 @@
   {
     "_id": 1311929,
     "name": "Helper Hood Z",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Head",
     "skills": [
@@ -20078,6 +21187,7 @@
   {
     "_id": 1311930,
     "name": "Healer Beret Z",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Head",
     "skills": [
@@ -20102,6 +21212,7 @@
   {
     "_id": 1311931,
     "name": "Death Stench Brain XR",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -20118,6 +21229,7 @@
   {
     "_id": 1311932,
     "name": "Death Stench Soul XR",
+    "num_slots": 0,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -20134,6 +21246,7 @@
   {
     "_id": 1311933,
     "name": "Makluva Hood X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Head",
     "skills": [
@@ -20154,6 +21267,7 @@
   {
     "_id": 1311934,
     "name": "Makluva Gills X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Head",
     "skills": [
@@ -20174,6 +21288,7 @@
   {
     "_id": 1311935,
     "name": "Makluva Hood Z",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Head",
     "skills": [
@@ -20194,6 +21309,7 @@
   {
     "_id": 1311936,
     "name": "Makluva Gills Z",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Head",
     "skills": [
@@ -20214,6 +21330,7 @@
   {
     "_id": 1311937,
     "name": "Melahoa Hat X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Head",
     "skills": [
@@ -20230,6 +21347,7 @@
   {
     "_id": 1311938,
     "name": "Melahoa Bloom X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Head",
     "skills": [
@@ -20246,6 +21364,7 @@
   {
     "_id": 1311939,
     "name": "Melahoa Flower Hat Z",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -20262,6 +21381,7 @@
   {
     "_id": 1311940,
     "name": "Melahoa Bloom Z",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -20278,6 +21398,7 @@
   {
     "_id": 1311941,
     "name": "Derring Helm X",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -20294,6 +21415,7 @@
   {
     "_id": 1311942,
     "name": "Derring Cap X",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -20310,6 +21432,7 @@
   {
     "_id": 1311943,
     "name": "GX Kita Star Headdress",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Head",
     "skills": [
@@ -20322,6 +21445,7 @@
   {
     "_id": 1311944,
     "name": "GX Umi Ocean Headdress",
+    "num_slots": 3,
     "max_defense": 97,
     "sub_type": "Head",
     "skills": [
@@ -20334,6 +21458,7 @@
   {
     "_id": 1311945,
     "name": "Grand Chaoshroom",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -20346,6 +21471,7 @@
   {
     "_id": 1311946,
     "name": "Grand Chaos Diadem",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Head",
     "skills": [
@@ -20358,6 +21484,7 @@
   {
     "_id": 1311947,
     "name": "Wisdom Headgear X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -20382,6 +21509,7 @@
   {
     "_id": 1311948,
     "name": "Wisdom Hat X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -20406,6 +21534,7 @@
   {
     "_id": 1311949,
     "name": "Cheerful Headgear X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Head",
     "skills": [
@@ -20426,6 +21555,7 @@
   {
     "_id": 1311950,
     "name": "Cheerful Cap X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Head",
     "skills": [
@@ -20446,6 +21576,7 @@
   {
     "_id": 1311951,
     "name": "Mariner Hood X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Head",
     "skills": [
@@ -20466,6 +21597,7 @@
   {
     "_id": 1311952,
     "name": "Mariner Cap X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Head",
     "skills": [
@@ -20486,6 +21618,7 @@
   {
     "_id": 1311961,
     "name": "Giaprey Head X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Head",
     "skills": [
@@ -20502,6 +21635,7 @@
   {
     "_id": 1311962,
     "name": "Giaprey Mask X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -20518,6 +21652,7 @@
   {
     "_id": 1311963,
     "name": "Garuga Mask X",
+    "num_slots": 0,
     "max_defense": 78,
     "sub_type": "Head",
     "skills": [
@@ -20534,6 +21669,7 @@
   {
     "_id": 1311964,
     "name": "Dragonlord's Gaze X",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Head",
     "skills": [
@@ -20546,6 +21682,7 @@
   {
     "_id": 1311966,
     "name": "Cunning Specs X",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Head",
     "skills": [
@@ -20558,6 +21695,7 @@
   {
     "_id": 1311971,
     "name": "Artian Helm XR",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Head",
     "skills": [
@@ -20570,6 +21708,7 @@
   {
     "_id": 1311972,
     "name": "Artian Cap XR",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Head",
     "skills": [
@@ -20582,6 +21721,7 @@
   {
     "_id": 1311973,
     "name": "Dragonhead",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -20602,6 +21742,7 @@
   {
     "_id": 1311974,
     "name": "Dragonface",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -20622,6 +21763,7 @@
   {
     "_id": 1311975,
     "name": "Criminal Head",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Head",
     "skills": [
@@ -20642,6 +21784,7 @@
   {
     "_id": 1311976,
     "name": "Criminal Face",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Head",
     "skills": [
@@ -20662,6 +21805,7 @@
   {
     "_id": 1311991,
     "name": "Garo Helm",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Head",
     "skills": [
@@ -20686,6 +21830,7 @@
   {
     "_id": 1311992,
     "name": "Garo Head",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Head",
     "skills": [
@@ -20710,6 +21855,7 @@
   {
     "_id": 1311993,
     "name": "Varia Suit Visor",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Head",
     "skills": [
@@ -20730,6 +21876,7 @@
   {
     "_id": 1311994,
     "name": "Varia Suit Scope",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Head",
     "skills": [
@@ -20750,6 +21897,7 @@
   {
     "_id": 1311995,
     "name": "Zero Suit Wig",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Head",
     "skills": [
@@ -20770,6 +21918,7 @@
   {
     "_id": 1311996,
     "name": "Zero Suit Toupee",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Head",
     "skills": [
@@ -20790,6 +21939,7 @@
   {
     "_id": 1311997,
     "name": "Lodestar Band",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Head",
     "skills": [
@@ -20810,6 +21960,7 @@
   {
     "_id": 1311998,
     "name": "Lodestar Hoop",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Head",
     "skills": [
@@ -20830,6 +21981,7 @@
   {
     "_id": 1311999,
     "name": "Hylian Hair Tie",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Head",
     "skills": [
@@ -20854,6 +22006,7 @@
   {
     "_id": 1312000,
     "name": "Hylian Hood",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Head",
     "skills": [
@@ -20878,6 +22031,7 @@
   {
     "_id": 1312001,
     "name": "Hiryu Sky Mask",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Head",
     "skills": [
@@ -20898,6 +22052,7 @@
   {
     "_id": 1312002,
     "name": "Hiryu Land Mask",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Head",
     "skills": [

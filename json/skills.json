@@ -2,6 +2,8 @@
   "1": {
     "id": 1,
     "name": "Poison",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Negate Poison",
@@ -18,6 +20,8 @@
   "2": {
     "id": 2,
     "name": "Paralysis",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Negate Paralysis",
@@ -34,6 +38,8 @@
   "3": {
     "id": 3,
     "name": "Sleep",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Negate Sleep",
@@ -50,6 +56,8 @@
   "4": {
     "id": 4,
     "name": "Stun",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Negate Stun",
@@ -71,6 +79,8 @@
   "5": {
     "id": 5,
     "name": "Hearing",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "HG Earplugs",
@@ -87,6 +97,8 @@
   "6": {
     "id": 6,
     "name": "Wind Res",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Windproof (Hi)",
@@ -103,6 +115,8 @@
   "7": {
     "id": 7,
     "name": "Tremor Res",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Tremor Res",
@@ -114,6 +128,8 @@
   "8": {
     "id": 8,
     "name": "Bind Res",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Negate Bind",
@@ -125,6 +141,8 @@
   "9": {
     "id": 9,
     "name": "Heat Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Heat Cancel",
@@ -141,6 +159,8 @@
   "10": {
     "id": 10,
     "name": "Cold Res",
+    "category": "Misc",
+    "rating": 2,
     "skills": [
       {
         "name": "Cold Cancel",
@@ -157,6 +177,8 @@
   "11": {
     "id": 11,
     "name": "ColdBlooded",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Polar Hunter",
@@ -168,6 +190,8 @@
   "12": {
     "id": 12,
     "name": "HotBlooded",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Tropic Hunter",
@@ -179,6 +203,8 @@
   "13": {
     "id": 13,
     "name": "Anti-Theft",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Anti-Theft",
@@ -190,6 +216,8 @@
   "14": {
     "id": 14,
     "name": "Def Lock",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Iron Skin",
@@ -201,6 +229,8 @@
   "15": {
     "id": 15,
     "name": "Frenzy Res",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Antivirus",
@@ -212,6 +242,8 @@
   "16": {
     "id": 16,
     "name": "Biology",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Bio Master",
@@ -228,6 +260,8 @@
   "17": {
     "id": 17,
     "name": "Bleeding",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Negate Bleeding",
@@ -244,6 +278,8 @@
   "18": {
     "id": 18,
     "name": "Attack",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Attack Up (L)",
@@ -280,6 +316,8 @@
   "19": {
     "id": 19,
     "name": "Defense",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Defense Up (L)",
@@ -316,6 +354,8 @@
   "20": {
     "id": 20,
     "name": "Health",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Health +50",
@@ -342,6 +382,8 @@
   "21": {
     "id": 21,
     "name": "Fire Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Fire Res +20",
@@ -363,6 +405,8 @@
   "22": {
     "id": 22,
     "name": "Water Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Water Res +20",
@@ -384,6 +428,8 @@
   "23": {
     "id": 23,
     "name": "Thunder Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Thunder Res +20",
@@ -405,6 +451,8 @@
   "24": {
     "id": 24,
     "name": "Ice Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Ice Res +20",
@@ -426,6 +474,8 @@
   "25": {
     "id": 25,
     "name": "Dragon Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Dragon Res +20",
@@ -447,6 +497,8 @@
   "26": {
     "id": 26,
     "name": "Blight Res",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Blightproof",
@@ -458,6 +510,8 @@
   "27": {
     "id": 27,
     "name": "Fire Atk",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Fire Atk +2",
@@ -479,6 +533,8 @@
   "28": {
     "id": 28,
     "name": "Water Atk",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Water Atk +2",
@@ -500,6 +556,8 @@
   "29": {
     "id": 29,
     "name": "Thunder Atk",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Thunder Atk +2",
@@ -521,6 +579,8 @@
   "30": {
     "id": 30,
     "name": "Ice Atk",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Ice Atk +2",
@@ -542,6 +602,8 @@
   "31": {
     "id": 31,
     "name": "Dragon Atk",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Dragon Atk +2",
@@ -563,6 +625,8 @@
   "32": {
     "id": 32,
     "name": "Elemental",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Element Atk Up",
@@ -579,6 +643,8 @@
   "33": {
     "id": 33,
     "name": "Status",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Status Atk +2",
@@ -600,6 +666,8 @@
   "34": {
     "id": 34,
     "name": "Sharpener",
+    "category": "Blademaster",
+    "rating": 3,
     "skills": [
       {
         "name": "Speed Sharpening",
@@ -616,6 +684,8 @@
   "35": {
     "id": 35,
     "name": "Handicraft",
+    "category": "Blademasters",
+    "rating": 7,
     "skills": [
       {
         "name": "Sharpness +2",
@@ -632,6 +702,8 @@
   "36": {
     "id": 36,
     "name": "Sharpness",
+    "category": "Blademaster",
+    "rating": 7,
     "skills": [
       {
         "name": "Razor Sharp",
@@ -648,6 +720,8 @@
   "37": {
     "id": 37,
     "name": "Fencing",
+    "category": "Blademaster",
+    "rating": 3,
     "skills": [
       {
         "name": "Mind's Eye",
@@ -664,6 +738,8 @@
   "38": {
     "id": 38,
     "name": "Grinder",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Heavy Polish",
@@ -675,6 +751,8 @@
   "39": {
     "id": 39,
     "name": "Blunt",
+    "category": "Blademaster",
+    "rating": 3,
     "skills": [
       {
         "name": "Bludgeoner",
@@ -686,6 +764,8 @@
   "40": {
     "id": 40,
     "name": "Crit Draw",
+    "category": "Blademaster",
+    "rating": 7,
     "skills": [
       {
         "name": "Critical Draw",
@@ -697,6 +777,8 @@
   "41": {
     "id": 41,
     "name": "Punish Draw",
+    "category": "Blademaster",
+    "rating": 4,
     "skills": [
       {
         "name": "Punishing Draw",
@@ -708,6 +790,8 @@
   "42": {
     "id": 42,
     "name": "Sheathing",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Quick Sheath",
@@ -719,6 +803,8 @@
   "43": {
     "id": 43,
     "name": "Sheathe Sharpen",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Challenge Sheath",
@@ -730,6 +816,8 @@
   "44": {
     "id": 44,
     "name": "Bladescale",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Bladescale Hone",
@@ -741,6 +829,8 @@
   "45": {
     "id": 45,
     "name": "Reload Spd",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Reload Speed +3",
@@ -777,6 +867,8 @@
   "46": {
     "id": 46,
     "name": "Recoil",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "Recoil Down +3",
@@ -813,6 +905,8 @@
   "47": {
     "id": 47,
     "name": "Precision",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Steadiness +2",
@@ -839,6 +933,8 @@
   "48": {
     "id": 48,
     "name": "Normal Up",
+    "category": "Gunner",
+    "rating": 6,
     "skills": [
       {
         "name": "Normal/Rapid Up",
@@ -850,6 +946,8 @@
   "49": {
     "id": 49,
     "name": "Pierce Up",
+    "category": "Gunner",
+    "rating": 7,
     "skills": [
       {
         "name": "Pierce/Pierce Up",
@@ -861,6 +959,8 @@
   "50": {
     "id": 50,
     "name": "Pellet Up",
+    "category": "Gunner",
+    "rating": 6,
     "skills": [
       {
         "name": "Pellet/Spread Up",
@@ -872,6 +972,8 @@
   "51": {
     "id": 51,
     "name": "Heavy Up",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "Heavy/Heavy Up",
@@ -883,6 +985,8 @@
   "52": {
     "id": 52,
     "name": "Normal S+",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "Use Any Normal S",
@@ -894,6 +998,8 @@
   "53": {
     "id": 53,
     "name": "Pierce S+",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "Use Any Pierce S",
@@ -910,6 +1016,8 @@
   "54": {
     "id": 54,
     "name": "Pellet S+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Any Pellet S",
@@ -926,6 +1034,8 @@
   "55": {
     "id": 55,
     "name": "Crag S+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Any Crag S",
@@ -942,6 +1052,8 @@
   "56": {
     "id": 56,
     "name": "Clust S+",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Any Clust S",
@@ -958,6 +1070,8 @@
   "57": {
     "id": 57,
     "name": "Poison C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Poison Coat",
@@ -969,6 +1083,8 @@
   "58": {
     "id": 58,
     "name": "Para C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Para Coat",
@@ -980,6 +1096,8 @@
   "59": {
     "id": 59,
     "name": "Sleep C+",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Use Sleep Coat",
@@ -991,6 +1109,8 @@
   "60": {
     "id": 60,
     "name": "Power C+",
+    "category": "Gunner",
+    "rating": 4,
     "skills": [
       {
         "name": "Power Phial (All)",
@@ -1007,6 +1127,8 @@
   "61": {
     "id": 61,
     "name": "Elem C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Element Phial (All)",
@@ -1023,6 +1145,8 @@
   "62": {
     "id": 62,
     "name": "C.Range C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use C.Range Coat",
@@ -1034,6 +1158,8 @@
   "63": {
     "id": 63,
     "name": "Exhaust C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Exhaust Coat",
@@ -1045,6 +1171,8 @@
   "64": {
     "id": 64,
     "name": "Blast C+",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Use Blast Coat",
@@ -1056,6 +1184,8 @@
   "65": {
     "id": 65,
     "name": "Rapid Fire",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "Bonus Shot",
@@ -1067,6 +1197,8 @@
   "66": {
     "id": 66,
     "name": "Dead Eye",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Shot Booster",
@@ -1078,6 +1210,8 @@
   "67": {
     "id": 67,
     "name": "Loading",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Load Up",
@@ -1089,6 +1223,8 @@
   "68": {
     "id": 68,
     "name": "Haphazard",
+    "category": "Gunner",
+    "rating": 5,
     "skills": [
       {
         "name": "TrueShot Up",
@@ -1100,6 +1236,8 @@
   "69": {
     "id": 69,
     "name": "Ammo Saver",
+    "category": "Gunner",
+    "rating": 4,
     "skills": [
       {
         "name": "Ammo Saver",
@@ -1111,6 +1249,8 @@
   "70": {
     "id": 70,
     "name": "Expert",
+    "category": "Combat",
+    "rating": 7,
     "skills": [
       {
         "name": "Critical Eye +3",
@@ -1147,6 +1287,8 @@
   "71": {
     "id": 71,
     "name": "Tenderizer",
+    "category": "Combat",
+    "rating": 8,
     "skills": [
       {
         "name": "Weakness Exploit",
@@ -1158,6 +1300,8 @@
   "72": {
     "id": 72,
     "name": "Chain Crit",
+    "category": "Combat",
+    "rating": 6,
     "skills": [
       {
         "name": "Repeat Offender",
@@ -1169,6 +1313,8 @@
   "73": {
     "id": 73,
     "name": "Crit Status",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Status Crit",
@@ -1180,6 +1326,8 @@
   "74": {
     "id": 74,
     "name": "Crit Element",
+    "category": "Combat",
+    "rating": 6,
     "skills": [
       {
         "name": "Elemental Crit",
@@ -1191,6 +1339,8 @@
   "75": {
     "id": 75,
     "name": "Critical Up",
+    "category": "Combat",
+    "rating": 9,
     "skills": [
       {
         "name": "Critical Boost",
@@ -1202,6 +1352,8 @@
   "76": {
     "id": 76,
     "name": "Negative Crit",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Bitter Affinity",
@@ -1213,6 +1365,8 @@
   "77": {
     "id": 77,
     "name": "FastCharge",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Focus",
@@ -1229,6 +1383,8 @@
   "78": {
     "id": 78,
     "name": "Stamina",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Marathon Runner",
@@ -1245,6 +1401,8 @@
   "79": {
     "id": 79,
     "name": "Constitution",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Constitution +2",
@@ -1271,6 +1429,8 @@
   "80": {
     "id": 80,
     "name": "Stam Recov",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Stam Recov Up",
@@ -1287,6 +1447,8 @@
   "81": {
     "id": 81,
     "name": "Distance Runner",
+    "category": "Misc",
+    "rating": 2,
     "skills": [
       {
         "name": "Endurance Runner",
@@ -1298,6 +1460,8 @@
   "82": {
     "id": 82,
     "name": "Evasion",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Evasion +2",
@@ -1319,6 +1483,8 @@
   "83": {
     "id": 83,
     "name": "Evade Dist",
+    "category": "Combat",
+    "rating": 6,
     "skills": [
       {
         "name": "Evade Extender",
@@ -1330,6 +1496,8 @@
   "84": {
     "id": 84,
     "name": "Bubble",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Bubbly Dance",
@@ -1341,6 +1509,8 @@
   "85": {
     "id": 85,
     "name": "Guard",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Guard +2",
@@ -1362,6 +1532,8 @@
   "86": {
     "id": 86,
     "name": "Guard Up",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Guard Up",
@@ -1373,6 +1545,8 @@
   "87": {
     "id": 87,
     "name": "KO",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Knockout King",
@@ -1384,6 +1558,8 @@
   "88": {
     "id": 88,
     "name": "Stam Drain",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Stamina Thief",
@@ -1395,6 +1571,8 @@
   "89": {
     "id": 89,
     "name": "Maestro",
+    "category": "Misc",
+    "rating": 3,
     "skills": [
       {
         "name": "Horn Maestro",
@@ -1406,6 +1584,8 @@
   "90": {
     "id": 90,
     "name": "Artillery",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Artillery Expert",
@@ -1422,6 +1602,8 @@
   "91": {
     "id": 91,
     "name": "Destroyer",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Partbreaker",
@@ -1433,6 +1615,8 @@
   "92": {
     "id": 92,
     "name": "Bomb Boost",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Bombardier",
@@ -1444,6 +1628,8 @@
   "93": {
     "id": 93,
     "name": "Gloves Off",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Latent Power +2",
@@ -1460,6 +1646,8 @@
   "94": {
     "id": 94,
     "name": "Spirit",
+    "category": "Combat",
+    "rating": 6,
     "skills": [
       {
         "name": "Challenger +2",
@@ -1476,6 +1664,8 @@
   "95": {
     "id": 95,
     "name": "Unscathed",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Peak Performance",
@@ -1487,6 +1677,8 @@
   "96": {
     "id": 96,
     "name": "Chance",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Trump Card",
@@ -1498,6 +1690,8 @@
   "97": {
     "id": 97,
     "name": "Dragon Spirit",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Dragonheart",
@@ -1509,6 +1703,8 @@
   "98": {
     "id": 98,
     "name": "Potential",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Adrenaline +2",
@@ -1530,6 +1726,8 @@
   "99": {
     "id": 99,
     "name": "Survivor",
+    "category": "Combat",
+    "rating": 0,
     "skills": [
       {
         "name": "Fortify",
@@ -1541,6 +1739,8 @@
   "100": {
     "id": 100,
     "name": "Furor",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Resentment",
@@ -1552,6 +1752,8 @@
   "101": {
     "id": 101,
     "name": "Crisis",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Resuscitate",
@@ -1563,6 +1765,8 @@
   "102": {
     "id": 102,
     "name": "Guts",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Guts",
@@ -1574,6 +1778,8 @@
   "103": {
     "id": 103,
     "name": "Sense",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Sneak",
@@ -1590,6 +1796,8 @@
   "104": {
     "id": 104,
     "name": "Team Player",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Palico Rally",
@@ -1601,6 +1809,8 @@
   "105": {
     "id": 105,
     "name": "TeamLeader",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Palico Cheer",
@@ -1612,6 +1822,8 @@
   "106": {
     "id": 106,
     "name": "Mounting",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Mounting Master",
@@ -1628,6 +1840,8 @@
   "107": {
     "id": 107,
     "name": "Vault",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Airborne",
@@ -1639,6 +1853,8 @@
   "108": {
     "id": 108,
     "name": "Insight",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Composed",
@@ -1650,6 +1866,8 @@
   "109": {
     "id": 109,
     "name": "Endurance",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Chance Seizer",
@@ -1661,6 +1879,8 @@
   "110": {
     "id": 110,
     "name": "Prolong SP",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Longer SP",
@@ -1672,6 +1892,8 @@
   "111": {
     "id": 111,
     "name": "Psychic",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Autotracker",
@@ -1688,6 +1910,8 @@
   "112": {
     "id": 112,
     "name": "Perception",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Capture Guru",
@@ -1699,6 +1923,8 @@
   "113": {
     "id": 113,
     "name": "Ranger",
+    "category": "Misc",
+    "rating": 0,
     "skills": [
       {
         "name": "Outdoorsman",
@@ -1710,6 +1936,8 @@
   "114": {
     "id": 114,
     "name": "Transporter",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Pro Transporter",
@@ -1721,6 +1949,8 @@
   "115": {
     "id": 115,
     "name": "Protection",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Divine Blessing",
@@ -1737,6 +1967,8 @@
   "116": {
     "id": 116,
     "name": "Hero Shield",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Hero's Talisman",
@@ -1748,6 +1980,8 @@
   "117": {
     "id": 117,
     "name": "Rec Level",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Recovery Up",
@@ -1764,6 +1998,8 @@
   "118": {
     "id": 118,
     "name": "Rec Speed",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Recovery Spd +2",
@@ -1790,6 +2026,8 @@
   "119": {
     "id": 119,
     "name": "Lasting Pwr",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Item Use Up",
@@ -1806,6 +2044,8 @@
   "120": {
     "id": 120,
     "name": "Wide-Range",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Wide-Range +2",
@@ -1822,6 +2062,8 @@
   "121": {
     "id": 121,
     "name": "Hunger",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Negate Hunger",
@@ -1848,6 +2090,8 @@
   "122": {
     "id": 122,
     "name": "Gluttony",
+    "category": "Misc",
+    "rating": 2,
     "skills": [
       {
         "name": "Scavenger",
@@ -1864,6 +2108,8 @@
   "123": {
     "id": 123,
     "name": "Eating",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Speed Eating +2",
@@ -1885,6 +2131,8 @@
   "124": {
     "id": 124,
     "name": "Light Eater",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Rationer",
@@ -1896,6 +2144,8 @@
   "125": {
     "id": 125,
     "name": "Carnivore",
+    "category": "Misc",
+    "rating": 2,
     "skills": [
       {
         "name": "Meat Lover",
@@ -1907,6 +2157,8 @@
   "126": {
     "id": 126,
     "name": "Mycology",
+    "category": "Misc",
+    "rating": 2,
     "skills": [
       {
         "name": "Mushromancer",
@@ -1918,6 +2170,8 @@
   "127": {
     "id": 127,
     "name": "Botany",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Pro Herbology",
@@ -1934,6 +2188,8 @@
   "128": {
     "id": 128,
     "name": "Combo Rate",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Combination +45%",
@@ -1960,6 +2216,8 @@
   "129": {
     "id": 129,
     "name": "Combo Plus",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Combination Pro",
@@ -1971,6 +2229,8 @@
   "130": {
     "id": 130,
     "name": "Speed Setup",
+    "category": "Misc",
+    "rating": 5,
     "skills": [
       {
         "name": "Trap Master",
@@ -1982,6 +2242,8 @@
   "131": {
     "id": 131,
     "name": "Gathering",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Gathering +2",
@@ -2003,6 +2265,8 @@
   "132": {
     "id": 132,
     "name": "Honey",
+    "category": "Farming",
+    "rating": 2,
     "skills": [
       {
         "name": "Honey Hunter",
@@ -2014,6 +2278,8 @@
   "133": {
     "id": 133,
     "name": "Charmer",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Charm Chaser",
@@ -2030,6 +2296,8 @@
   "134": {
     "id": 134,
     "name": "Whim",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Divine Whim",
@@ -2056,6 +2324,8 @@
   "135": {
     "id": 135,
     "name": "Fate",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Miraculous Luck",
@@ -2087,6 +2357,8 @@
   "136": {
     "id": 136,
     "name": "Carving",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Carving Celebrity",
@@ -2103,6 +2375,8 @@
   "137": {
     "id": 137,
     "name": "Capturer",
+    "category": "Farming",
+    "rating": 4,
     "skills": [
       {
         "name": "Capture Master",
@@ -2119,6 +2393,8 @@
   "138": {
     "id": 138,
     "name": "Bherna",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Soul of Bherna",
@@ -2130,6 +2406,8 @@
   "139": {
     "id": 139,
     "name": "Kokoto",
+    "category": "Farming",
+    "rating": 1,
     "skills": [
       {
         "name": "Soul of Kokoto",
@@ -2141,6 +2419,8 @@
   "140": {
     "id": 140,
     "name": "Pokke",
+    "category": "Gunner",
+    "rating": 1,
     "skills": [
       {
         "name": "Soul of Pokke",
@@ -2152,6 +2432,8 @@
   "141": {
     "id": 141,
     "name": "Yukumo",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Soul of Yukumo",
@@ -2163,6 +2445,8 @@
   "142": {
     "id": 142,
     "name": "Soaratorium",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Soaratorium Soul",
@@ -2174,6 +2458,8 @@
   "143": {
     "id": 143,
     "name": "Flying Pub",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Flying Pub Soul",
@@ -2185,6 +2471,8 @@
   "144": {
     "id": 144,
     "name": "Redhelm",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Redhelm Soul",
@@ -2196,6 +2484,8 @@
   "145": {
     "id": 145,
     "name": "Snowbaron",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Snowbaron Soul",
@@ -2207,6 +2497,8 @@
   "146": {
     "id": 146,
     "name": "Stonefist",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Stonefist Soul",
@@ -2218,6 +2510,8 @@
   "147": {
     "id": 147,
     "name": "Drilltusk",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Drilltusk Soul",
@@ -2229,6 +2523,8 @@
   "148": {
     "id": 148,
     "name": "Dreadqueen",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Dreadqueen Soul",
@@ -2240,6 +2536,8 @@
   "149": {
     "id": 149,
     "name": "C.beard",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Crystalbeard Soul",
@@ -2251,6 +2549,8 @@
   "150": {
     "id": 150,
     "name": "Silverwind",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Silverwind Soul",
@@ -2262,6 +2562,8 @@
   "151": {
     "id": 151,
     "name": "Deadeye",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Deadeye Soul",
@@ -2273,6 +2575,8 @@
   "152": {
     "id": 152,
     "name": "Dreadking",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Dreadking Soul",
@@ -2284,6 +2588,8 @@
   "153": {
     "id": 153,
     "name": "Thunderlord",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Thunderlord Soul",
@@ -2295,6 +2601,8 @@
   "154": {
     "id": 154,
     "name": "Grimclaw",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Grimclaw Soul",
@@ -2306,6 +2614,8 @@
   "155": {
     "id": 155,
     "name": "Hellblade",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Hellblade Soul",
@@ -2317,6 +2627,8 @@
   "156": {
     "id": 156,
     "name": "Nightcloak",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Nightcloak Soul",
@@ -2328,6 +2640,8 @@
   "157": {
     "id": 157,
     "name": "Rustrazor",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Rustrazor Soul",
@@ -2339,6 +2653,8 @@
   "158": {
     "id": 158,
     "name": "Soulseer",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Soulseer Soul",
@@ -2350,6 +2666,8 @@
   "159": {
     "id": 159,
     "name": "Boltreaver",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Boltreaver Soul",
@@ -2361,6 +2679,8 @@
   "160": {
     "id": 160,
     "name": "Elderfrost",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Elderfrost Soul",
@@ -2372,6 +2692,8 @@
   "161": {
     "id": 161,
     "name": "Bloodbath",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Bloodbath Soul",
@@ -2383,6 +2705,8 @@
   "162": {
     "id": 162,
     "name": "Redhelm X",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Redhelm Soul X",
@@ -2394,6 +2718,8 @@
   "163": {
     "id": 163,
     "name": "Snowbaron X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Snowbaron Soul X",
@@ -2405,6 +2731,8 @@
   "164": {
     "id": 164,
     "name": "Stonefist X",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Stonefist Soul X",
@@ -2416,6 +2744,8 @@
   "165": {
     "id": 165,
     "name": "Drilltusk X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Drilltusk Soul X",
@@ -2427,6 +2757,8 @@
   "166": {
     "id": 166,
     "name": "Dreadqueen X",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "D.queen Soul X",
@@ -2438,6 +2770,8 @@
   "167": {
     "id": 167,
     "name": "Crystalbeard X",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "C.beard Soul X",
@@ -2449,6 +2783,8 @@
   "168": {
     "id": 168,
     "name": "Silverwind X",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Silverwind Soul X",
@@ -2460,6 +2796,8 @@
   "169": {
     "id": 169,
     "name": "Deadeye X",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Deadeye Soul X",
@@ -2471,6 +2809,8 @@
   "170": {
     "id": 170,
     "name": "Dreadking X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Dreadking Soul X",
@@ -2482,6 +2822,8 @@
   "171": {
     "id": 171,
     "name": "Thunderlord X",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Thunderlord Soul X",
@@ -2493,6 +2835,8 @@
   "172": {
     "id": 172,
     "name": "Grimclaw X",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Grimclaw Soul X",
@@ -2504,6 +2848,8 @@
   "173": {
     "id": 173,
     "name": "Hellblade X",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Hellblade Soul X",
@@ -2515,6 +2861,8 @@
   "174": {
     "id": 174,
     "name": "Nightcloak X",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Nightcloak Soul X",
@@ -2526,6 +2874,8 @@
   "175": {
     "id": 175,
     "name": "Rustrazor X",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Rustrazor Soul X",
@@ -2537,6 +2887,8 @@
   "176": {
     "id": 176,
     "name": "Soulseer X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Soulseer Soul X",
@@ -2548,6 +2900,8 @@
   "177": {
     "id": 177,
     "name": "Boltreaver X",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Boltreaver Soul X",
@@ -2559,6 +2913,8 @@
   "178": {
     "id": 178,
     "name": "Elderfrost X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Elderfrost Soul X",
@@ -2570,6 +2926,8 @@
   "179": {
     "id": 179,
     "name": "Bloodbath X",
+    "category": "Combat",
+    "rating": 4,
     "skills": [
       {
         "name": "Bloodbath Soul X",
@@ -2581,6 +2939,8 @@
   "180": {
     "id": 180,
     "name": "D. Fencing",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Pro Dirty Fencer",
@@ -2592,6 +2952,8 @@
   "181": {
     "id": 181,
     "name": "Edge Lore",
+    "category": "Blademaster",
+    "rating": 1,
     "skills": [
       {
         "name": "Steady Hand",
@@ -2603,6 +2965,8 @@
   "182": {
     "id": 182,
     "name": "PowerEater",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Alloy Stomach",
@@ -2614,6 +2978,8 @@
   "183": {
     "id": 183,
     "name": "Mechanic",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Explosive Trapper",
@@ -2625,6 +2991,8 @@
   "184": {
     "id": 184,
     "name": "Brawn",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Crushing Blow",
@@ -2636,6 +3004,8 @@
   "185": {
     "id": 185,
     "name": "Prayer",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Benediction",
@@ -2647,6 +3017,8 @@
   "186": {
     "id": 186,
     "name": "Covert",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Clandestine",
@@ -2658,6 +3030,8 @@
   "187": {
     "id": 187,
     "name": "Edgemaster",
+    "category": "Blademaster",
+    "rating": 3,
     "skills": [
       {
         "name": "Honed Blade",
@@ -2669,6 +3043,8 @@
   "188": {
     "id": 188,
     "name": "SteadyHand",
+    "category": "Gunner",
+    "rating": 2,
     "skills": [
       {
         "name": "Silver Bullet",
@@ -2680,6 +3056,8 @@
   "189": {
     "id": 189,
     "name": "Status Res",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Wellness",
@@ -2691,6 +3069,8 @@
   "190": {
     "id": 190,
     "name": "Fury",
+    "category": "Combat",
+    "rating": 5,
     "skills": [
       {
         "name": "Wrath Awoken",
@@ -2702,6 +3082,8 @@
   "191": {
     "id": 191,
     "name": "Nimbleness",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Acrobat",
@@ -2713,6 +3095,8 @@
   "192": {
     "id": 192,
     "name": "Readiness",
+    "category": "Blademaster",
+    "rating": 5,
     "skills": [
       {
         "name": "Sheath Control",
@@ -2724,6 +3108,8 @@
   "193": {
     "id": 193,
     "name": "Resilience",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Iron Wall",
@@ -2735,6 +3121,8 @@
   "194": {
     "id": 194,
     "name": "Brutality",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Ruthlessness",
@@ -2746,6 +3134,8 @@
   "195": {
     "id": 195,
     "name": "Stalwart",
+    "category": "Combat",
+    "rating": 1,
     "skills": [
       {
         "name": "Shield Bearer",
@@ -2757,6 +3147,8 @@
   "196": {
     "id": 196,
     "name": "Prudence",
+    "category": "Combat",
+    "rating": 3,
     "skills": [
       {
         "name": "Fleet Feet",
@@ -2768,6 +3160,8 @@
   "197": {
     "id": 197,
     "name": "Amplify",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Elementality",
@@ -2779,6 +3173,8 @@
   "198": {
     "id": 198,
     "name": "Hoarding",
+    "category": "Farming",
+    "rating": 2,
     "skills": [
       {
         "name": "Pack Rat",
@@ -2790,6 +3186,8 @@
   "199": {
     "id": 199,
     "name": "Avarice",
+    "category": "Farming",
+    "rating": 3,
     "skills": [
       {
         "name": "Bounty Hunter",
@@ -2801,6 +3199,8 @@
   "200": {
     "id": 200,
     "name": "Anti-Kushala",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Hazefur Talisman",
@@ -2812,6 +3212,8 @@
   "201": {
     "id": 201,
     "name": "Anti-Chameleos",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Pyroscale Talisman",
@@ -2823,6 +3225,8 @@
   "202": {
     "id": 202,
     "name": "Anti-Teostra",
+    "category": "Combat",
+    "rating": 2,
     "skills": [
       {
         "name": "Steelshell Talisman",
@@ -2834,6 +3238,8 @@
   "204": {
     "id": 204,
     "name": "Secret Arts",
+    "category": "Misc",
+    "rating": 1,
     "skills": [
       {
         "name": "Skill +2",
@@ -2845,6 +3251,8 @@
   "205": {
     "id": 205,
     "name": "Talisman Boost",
+    "category": "Misc",
+    "rating": 5,
     "skills": [
       {
         "name": "Double Talisman",

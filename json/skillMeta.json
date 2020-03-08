@@ -1,0 +1,1012 @@
+{
+  "ammosaver": {
+    "name": "Ammo Saver",
+    "category": "Gunner",
+    "rating": 4
+  },
+  "amplify": {
+    "name": "Amplify",
+    "category": "Combat",
+    "rating": 2
+  },
+  "antichameleos": {
+    "name": "Anti-Chameleos",
+    "category": "Combat",
+    "rating": 2
+  },
+  "antidaora": {
+    "name": "Anti-Daora",
+    "category": "Combat",
+    "rating": 3
+  },
+  "antiteostra": {
+    "name": "Anti-Teostra",
+    "category": "Combat",
+    "rating": 2
+  },
+  "antitheft": {
+    "name": "Anti-Theft",
+    "category": "Combat",
+    "rating": 1
+  },
+  "artillery": {
+    "name": "Artillery",
+    "category": "Combat",
+    "rating": 3
+  },
+  "attack": {
+    "name": "Attack",
+    "category": "Combat",
+    "rating": 3
+  },
+  "avarice": {
+    "name": "Avarice",
+    "category": "Farming",
+    "rating": 3
+  },
+  "bherna": {
+    "name": "Bherna",
+    "category": "Combat",
+    "rating": 1
+  },
+  "bindres": {
+    "name": "Bind Res",
+    "category": "Combat",
+    "rating": 3
+  },
+  "biology": {
+    "name": "Biology",
+    "category": "Combat",
+    "rating": 1
+  },
+  "blastc": {
+    "name": "Blast C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "bleeding": {
+    "name": "Bleeding",
+    "category": "Combat",
+    "rating": 1
+  },
+  "blightres": {
+    "name": "Blight Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "bloodbath": {
+    "name": "Bloodbath",
+    "category": "Combat",
+    "rating": 4
+  },
+  "bloodbathx": {
+    "name": "Bloodbath X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "boltreaver": {
+    "name": "Boltreaver",
+    "category": "Combat",
+    "rating": 3
+  },
+  "boltreaverx": {
+    "name": "Boltreaver X",
+    "category": "Combat",
+    "rating": 3
+  },
+  "blunt": {
+    "name": "Blunt",
+    "category": "Blademaster",
+    "rating": 3
+  },
+  "bombboost": {
+    "name": "Bomb Boost",
+    "category": "Combat",
+    "rating": 2
+  },
+  "botany": {
+    "name": "Botany",
+    "category": "Misc",
+    "rating": 1
+  },
+  "brawn": {
+    "name": "Brawn",
+    "category": "Combat",
+    "rating": 1
+  },
+  "brutality": {
+    "name": "Brutality",
+    "category": "Combat",
+    "rating": 3
+  },
+  "bubble": {
+    "name": "Bubble",
+    "category": "Combat",
+    "rating": 3
+  },
+  "crangec": {
+    "name": "C.Range C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "capturer": {
+    "name": "Capturer",
+    "category": "Farming",
+    "rating": 4
+  },
+  "carnivore": {
+    "name": "Carnivore",
+    "category": "Misc",
+    "rating": 2
+  },
+  "carving": {
+    "name": "Carving",
+    "category": "Farming",
+    "rating": 3
+  },
+  "chaincrit": {
+    "name": "Chain Crit",
+    "category": "Combat",
+    "rating": 6
+  },
+  "chance": {
+    "name": "Chance",
+    "category": "Combat",
+    "rating": 3
+  },
+  "charmer": {
+    "name": "Charmer",
+    "category": "Farming",
+    "rating": 3
+  },
+  "clusts": {
+    "name": "Clust S",
+    "category": "Combat",
+    "rating": 1
+  },
+  "coldblooded": {
+    "name": "ColdBlooded",
+    "category": "Combat",
+    "rating": 3
+  },
+  "coldres": {
+    "name": "Cold Res",
+    "category": "Misc",
+    "rating": 2
+  },
+  "comboplus": {
+    "name": "Combo Plus",
+    "category": "Misc",
+    "rating": 1
+  },
+  "comborate": {
+    "name": "Combo Rate",
+    "category": "Misc",
+    "rating": 1
+  },
+  "constitution": {
+    "name": "Constitution",
+    "category": "Combat",
+    "rating": 2
+  },
+  "covert": {
+    "name": "Covert",
+    "category": "Combat",
+    "rating": 2
+  },
+  "crags": {
+    "name": "Crag S",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "crisis": {
+    "name": "Crisis",
+    "category": "Combat",
+    "rating": 3
+  },
+  "critdraw": {
+    "name": "Crit Draw",
+    "category": "Blademaster",
+    "rating": 7
+  },
+  "critelement": {
+    "name": "Crit Element",
+    "category": "Combat",
+    "rating": 6
+  },
+  "critstatus": {
+    "name": "Crit Status",
+    "category": "Combat",
+    "rating": 2
+  },
+  "criticalup": {
+    "name": "Critical Up",
+    "category": "Combat",
+    "rating": 9
+  },
+  "cbeard": {
+    "name": "C.beard",
+    "category": "Farming",
+    "rating": 3
+  },
+  "cbeardx": {
+    "name": "C.beard X",
+    "category": "Farming",
+    "rating": 3
+  },
+  "dfencing": {
+    "name": "D.Fencing",
+    "category": "Combat",
+    "rating": 1
+  },
+  "deadeye": {
+    "name": "Deadeye",
+    "category": "Combat",
+    "rating": 2
+  },
+  "deadeyex": {
+    "name": "Deadeye X",
+    "category": "Combat",
+    "rating": 2
+  },
+  "defense": {
+    "name": "Defense",
+    "category": "Combat",
+    "rating": 1
+  },
+  "deflock": {
+    "name": "Def Lock",
+    "category": "Combat",
+    "rating": 1
+  },
+  "destroyer": {
+    "name": "Destroyer",
+    "category": "Combat",
+    "rating": 3
+  },
+  "distancerunner": {
+    "name": "Distance Runner",
+    "category": "Misc",
+    "rating": 2
+  },
+  "dragonatk": {
+    "name": "Dragon Atk",
+    "category": "Combat",
+    "rating": 5
+  },
+  "dragonres": {
+    "name": "Dragon Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "dragonspirit": {
+    "name": "Dragon Spirit",
+    "category": "Combat",
+    "rating": 4
+  },
+  "dreadking": {
+    "name": "Dreadking",
+    "category": "Combat",
+    "rating": 4
+  },
+  "dreadkingx": {
+    "name": "Dreadking X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "dreadqueen": {
+    "name": "Dreadqueen",
+    "category": "Combat",
+    "rating": 2
+  },
+  "dreadqueenx": {
+    "name": "Dreadqueen X",
+    "category": "Combat",
+    "rating": 2
+  },
+  "drilltusk": {
+    "name": "Drilltusk",
+    "category": "Combat",
+    "rating": 4
+  },
+  "drilltuskx": {
+    "name": "Drilltusk X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "eating": {
+    "name": "Eating",
+    "category": "Misc",
+    "rating": 1
+  },
+  "edgelore": {
+    "name": "Edge Lore",
+    "category": "Blademaster",
+    "rating": 1
+  },
+  "edgemaster": {
+    "name": "Edgemaster",
+    "category": "Blademaster",
+    "rating": 3
+  },
+  "elderfrost": {
+    "name": "Elderfrost",
+    "category": "Combat",
+    "rating": 4
+  },
+  "elderfrostx": {
+    "name": "Elderfrost X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "elemc": {
+    "name": "Elem C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "elemental": {
+    "name": "Elemental",
+    "category": "Combat",
+    "rating": 3
+  },
+  "endurance": {
+    "name": "Endurance",
+    "category": "Combat",
+    "rating": 2
+  },
+  "evadedist": {
+    "name": "Evade Dist",
+    "category": "Combat",
+    "rating": 6
+  },
+  "evasion": {
+    "name": "Evasion",
+    "category": "Combat",
+    "rating": 3
+  },
+  "exhaustc": {
+    "name": "Exhaust C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "expert": {
+    "name": "Expert",
+    "category": "Combat",
+    "rating": 7
+  },
+  "fastcharge": {
+    "name": "FastCharge",
+    "category": "Combat",
+    "rating": 5
+  },
+  "fate": {
+    "name": "Fate",
+    "category": "Farming",
+    "rating": 3
+  },
+  "fencing": {
+    "name": "Fencing",
+    "category": "Blademaster",
+    "rating": 3
+  },
+  "fireatk": {
+    "name": "Fire Atk",
+    "category": "Combat",
+    "rating": 5
+  },
+  "fireres": {
+    "name": "Fire Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "flyingpub": {
+    "name": "Flying Pub",
+    "category": "Misc",
+    "rating": 1
+  },
+  "frenzyres": {
+    "name": "Frenzy Res",
+    "category": "Combat",
+    "rating": 3
+  },
+  "furor": {
+    "name": "Furor",
+    "category": "Combat",
+    "rating": 3
+  },
+  "fury": {
+    "name": "Fury",
+    "category": "Combat",
+    "rating": 5
+  },
+  "gathering": {
+    "name": "Gathering",
+    "category": "Farming",
+    "rating": 3
+  },
+  "glovesoff": {
+    "name": "Gloves Off",
+    "category": "Combat",
+    "rating": 2
+  },
+  "gluttony": {
+    "name": "Gluttony",
+    "category": "Misc",
+    "rating": 2
+  },
+  "grimclaw": {
+    "name": "Grimclaw",
+    "category": "Combat",
+    "rating": 2
+  },
+  "grimclawx": {
+    "name": "Grimclaw X",
+    "category": "Combat",
+    "rating": 2
+  },
+  "grinder": {
+    "name": "Grinder",
+    "category": "Combat",
+    "rating": 3
+  },
+  "guard": {
+    "name": "Guard",
+    "category": "Combat",
+    "rating": 5
+  },
+  "guardup": {
+    "name": "Guard Up",
+    "category": "Combat",
+    "rating": 3
+  },
+  "guts": {
+    "name": "Guts",
+    "category": "Combat",
+    "rating": 2
+  },
+  "handicraft": {
+    "name": "Handicraft",
+    "category": "Blademasters",
+    "rating": 7
+  },
+  "haphazard": {
+    "name": "Haphazard",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "health": {
+    "name": "Health",
+    "category": "Combat",
+    "rating": 1
+  },
+  "hearing": {
+    "name": "Hearing",
+    "category": "Combat",
+    "rating": 4
+  },
+  "heatres": {
+    "name": "Heat Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "heavyup": {
+    "name": "Heavy Up",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "hellblade": {
+    "name": "Hellblade",
+    "category": "Combat",
+    "rating": 2
+  },
+  "hellbladex": {
+    "name": "Hellblade X",
+    "category": "Combat",
+    "rating": 2
+  },
+  "heroshield": {
+    "name": "Hero Shield",
+    "category": "Combat",
+    "rating": 3
+  },
+  "hoarding": {
+    "name": "Hoarding",
+    "category": "Farming",
+    "rating": 2
+  },
+  "honey": {
+    "name": "Honey",
+    "category": "Farming",
+    "rating": 2
+  },
+  "hotblooded": {
+    "name": "HotBlooded",
+    "category": "Combat",
+    "rating": 3
+  },
+  "hunger": {
+    "name": "Hunger",
+    "category": "Misc",
+    "rating": 1
+  },
+  "iceatk": {
+    "name": "Ice Atk",
+    "category": "Combat",
+    "rating": 5
+  },
+  "iceres": {
+    "name": "Ice Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "insight": {
+    "name": "Insight",
+    "category": "Combat",
+    "rating": 2
+  },
+  "ko": {
+    "name": "KO",
+    "category": "Combat",
+    "rating": 1
+  },
+  "kokoto": {
+    "name": "Kokoto",
+    "category": "Farming",
+    "rating": 1
+  },
+  "lastingpwr": {
+    "name": "Lasting Pwr",
+    "category": "Combat",
+    "rating": 2
+  },
+  "lighteater": {
+    "name": "Light Eater",
+    "category": "Combat",
+    "rating": 2
+  },
+  "loading": {
+    "name": "Loading",
+    "category": "Combat",
+    "rating": 5
+  },
+  "maestro": {
+    "name": "Maestro",
+    "category": "Misc",
+    "rating": 3
+  },
+  "mechanic": {
+    "name": "Mechanic",
+    "category": "Combat",
+    "rating": 2
+  },
+  "mounting": {
+    "name": "Mounting",
+    "category": "Combat",
+    "rating": 2
+  },
+  "mycology": {
+    "name": "Mycology",
+    "category": "Misc",
+    "rating": 2
+  },
+  "negativecrit": {
+    "name": "Negative Crit",
+    "category": "Combat",
+    "rating": 4
+  },
+  "nightcloak": {
+    "name": "Nightcloak",
+    "category": "Combat",
+    "rating": 3
+  },
+  "nightcloakx": {
+    "name": "Nightcloak X",
+    "category": "Combat",
+    "rating": 3
+  },
+  "nimbleness": {
+    "name": "Nimbleness",
+    "category": "Combat",
+    "rating": 3
+  },
+  "normals": {
+    "name": "Normal S",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "normalup": {
+    "name": "Normal Up",
+    "category": "Gunner",
+    "rating": 6
+  },
+  "parac": {
+    "name": "Para C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "paralysis": {
+    "name": "Paralysis",
+    "category": "Combat",
+    "rating": 1
+  },
+  "pellets": {
+    "name": "Pellet S",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "pelletup": {
+    "name": "Pellet Up",
+    "category": "Gunner",
+    "rating": 6
+  },
+  "perception": {
+    "name": "Perception",
+    "category": "Combat",
+    "rating": 5
+  },
+  "pierces": {
+    "name": "Pierce S",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "pierceup": {
+    "name": "Pierce Up",
+    "category": "Gunner",
+    "rating": 7
+  },
+  "poison": {
+    "name": "Poison",
+    "category": "Combat",
+    "rating": 4
+  },
+  "poisonc": {
+    "name": "Poison C",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "pokke": {
+    "name": "Pokke",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "potential": {
+    "name": "Potential",
+    "category": "Combat",
+    "rating": 5
+  },
+  "powerc": {
+    "name": "Power C",
+    "category": "Gunner",
+    "rating": 4
+  },
+  "powereater": {
+    "name": "PowerEater",
+    "category": "Misc",
+    "rating": 1
+  },
+  "prayer": {
+    "name": "Prayer",
+    "category": "Combat",
+    "rating": 1
+  },
+  "precision": {
+    "name": "Precision",
+    "category": "Gunner",
+    "rating": 1
+  },
+  "prolongsp": {
+    "name": "Prolong SP",
+    "category": "Combat",
+    "rating": 3
+  },
+  "protection": {
+    "name": "Protection",
+    "category": "Combat",
+    "rating": 1
+  },
+  "prudence": {
+    "name": "Prudence",
+    "category": "Combat",
+    "rating": 3
+  },
+  "psychic": {
+    "name": "Psychic",
+    "category": "Combat",
+    "rating": 1
+  },
+  "punishdraw": {
+    "name": "Punish Draw",
+    "category": "Blademaster",
+    "rating": 4
+  },
+  "ranger": {
+    "name": "Ranger",
+    "category": "Misc",
+    "rating": 0
+  },
+  "readiness": {
+    "name": "Readiness",
+    "category": "Blademaster",
+    "rating": 5
+  },
+  "reclevel": {
+    "name": "Rec Level",
+    "category": "Misc",
+    "rating": 1
+  },
+  "recspeed": {
+    "name": "Rec Speed",
+    "category": "Misc",
+    "rating": 1
+  },
+  "recoil": {
+    "name": "Recoil",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "rapidfire": {
+    "name": "Rapid Fire",
+    "category": "Gunner",
+    "rating": 5
+  },
+  "redhelm": {
+    "name": "Redhelm",
+    "category": "Combat",
+    "rating": 1
+  },
+  "redhelmx": {
+    "name": "Redhelm X",
+    "category": "Combat",
+    "rating": 1
+  },
+  "reloadspd": {
+    "name": "Reload Spd",
+    "category": "Combat",
+    "rating": 1
+  },
+  "resilience": {
+    "name": "Resilience",
+    "category": "Combat",
+    "rating": 1
+  },
+  "rustrazor": {
+    "name": "Rustrazor",
+    "category": "Combat",
+    "rating": 2
+  },
+  "rustrazorx": {
+    "name": "Rustrazor X",
+    "category": "Combat",
+    "rating": 2
+  },
+  "scaledsword": {
+    "name": "Scaled Sword",
+    "category": "Combat",
+    "rating": 4
+  },
+  "secretart": {
+    "name": "Secret Art",
+    "category": "Misc",
+    "rating": 5
+  },
+  "sense": {
+    "name": "Sense",
+    "category": "Combat",
+    "rating": 2
+  },
+  "sharpener": {
+    "name": "Sharpener",
+    "category": "Blademaster",
+    "rating": 3
+  },
+  "sharpness": {
+    "name": "Sharpness",
+    "category": "Blademaster",
+    "rating": 7
+  },
+  "sheathing": {
+    "name": "Sheathing",
+    "category": "Combat",
+    "rating": 5
+  },
+  "sheathsharpen": {
+    "name": "Sheath Sharpen",
+    "category": "Combat",
+    "rating": 3
+  },
+  "silverwind": {
+    "name": "Silverwind",
+    "category": "Combat",
+    "rating": 3
+  },
+  "silverwindx": {
+    "name": "Silverwind X",
+    "category": "Combat",
+    "rating": 3
+  },
+  "sleepc": {
+    "name": "Sleep C",
+    "category": "Combat",
+    "rating": 3
+  },
+  "snowbaron": {
+    "name": "Snowbaron",
+    "category": "Combat",
+    "rating": 4
+  },
+  "snowbaronx": {
+    "name": "Snowbaron X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "soaratorium": {
+    "name": "Soaratorium",
+    "category": "Combat",
+    "rating": 2
+  },
+  "soulseer": {
+    "name": "Soulseer",
+    "category": "Combat",
+    "rating": 4
+  },
+  "soulseerx": {
+    "name": "Soulseer X",
+    "category": "Combat",
+    "rating": 4
+  },
+  "speedsetup": {
+    "name": "Speed Setup",
+    "category": "Misc",
+    "rating": 5
+  },
+  "spirit": {
+    "name": "Spirit",
+    "category": "Combat",
+    "rating": 6
+  },
+  "stalwart": {
+    "name": "Stalwart",
+    "category": "Combat",
+    "rating": 1
+  },
+  "stamdrain": {
+    "name": "Stam Drain",
+    "category": "Combat",
+    "rating": 1
+  },
+  "stamrecov": {
+    "name": "Stam Recov",
+    "category": "Combat",
+    "rating": 2
+  },
+  "stamina": {
+    "name": "Stamina",
+    "category": "Combat",
+    "rating": 2
+  },
+  "status": {
+    "name": "Status",
+    "category": "Combat",
+    "rating": 5
+  },
+  "statusres": {
+    "name": "Status Res",
+    "category": "Combat",
+    "rating": 2
+  },
+  "steadyhand": {
+    "name": "SteadyHand",
+    "category": "Gunner",
+    "rating": 2
+  },
+  "stonefist": {
+    "name": "Stonefist",
+    "category": "Combat",
+    "rating": 3
+  },
+  "stonefistx": {
+    "name": "Stonefist X",
+    "category": "Combat",
+    "rating": 3
+  },
+  "stun": {
+    "name": "Stun",
+    "category": "Combat",
+    "rating": 3
+  },
+  "survivor": {
+    "name": "Survivor",
+    "category": "Combat",
+    "rating": 0
+  },
+  "talismanboost": {
+    "name": "Talisman Boost",
+    "category": "Misc",
+    "rating": 5
+  },
+  "teamleader": {
+    "name": "TeamLeader",
+    "category": "Combat",
+    "rating": 1
+  },
+  "teamplayer": {
+    "name": "TeamPlayer",
+    "category": "Combat",
+    "rating": 1
+  },
+  "tenderizer": {
+    "name": "Tenderizer",
+    "category": "Combat",
+    "rating": 8
+  },
+  "thunderatk": {
+    "name": "Thunder Atk",
+    "category": "Combat",
+    "rating": 5
+  },
+  "thunderlord": {
+    "name": "Thunderlord",
+    "category": "Combat",
+    "rating": 2
+  },
+  "thunderlordx": {
+    "name": "Thunderlord X",
+    "category": "Combat",
+    "rating": 3
+  },
+  "thunderres": {
+    "name": "Thunder Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "transporter": {
+    "name": "Transporter",
+    "category": "Farming",
+    "rating": 3
+  },
+  "tremorres": {
+    "name": "Tremor Res",
+    "category": "Combat",
+    "rating": 4
+  },
+  "unscathed": {
+    "name": "Unscathed",
+    "category": "Combat",
+    "rating": 3
+  },
+  "vault": {
+    "name": "Vault",
+    "category": "Combat",
+    "rating": 4
+  },
+  "wateratk": {
+    "name": "Water Atk",
+    "category": "Combat",
+    "rating": 5
+  },
+  "waterres": {
+    "name": "Water Res",
+    "category": "Combat",
+    "rating": 1
+  },
+  "whim": {
+    "name": "Whim",
+    "category": "Farming",
+    "rating": 3
+  },
+  "widerange": {
+    "name": "Wide-Range",
+    "category": "Combat",
+    "rating": 2
+  },
+  "windproof": {
+    "name": "Windproof",
+    "category": "Combat",
+    "rating": 3
+  },
+  "yukumo": {
+    "name": "Yukumo",
+    "category": "Combat",
+    "rating": 1
+  }
+}

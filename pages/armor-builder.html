@@ -4,33 +4,147 @@ include: partials/header.html
 @description=Enter in the skills you need, the charms you have, and we'll let you know what armor to farm. 
 }}
 
+<div id="steps" class="step-one">
+
+    <div class="line">
+        <div class="progress-line"></div>
+    </div>
+
+    <div class="progress-grid">
+        <div class="step step-one"></div>
+        <div class="step step-two"></div>
+        <div class="step step-three"></div>
+        <div class="step-text step-one">Choose Skills</div>
+        <div class="step-text step-two">Add Charms</div>
+        <div class="step-text step-three">Armor Results</div>
+    </div>
+</div>
+
 <!-- Page Content -->
-<div class="container armor">
-    <div class="available-skills">
-        <h1>Available Skills</h1>
-        <div id="skills">
+<div class="armor">
 
+    <div class="armor-viewport step-one">
+
+
+        <div class="available-skills">
+
+            <div style="text-align:right;">
+                <button class="next btn btn-primary disabled">
+                    NEXT
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+
+            <div class="selectedSkillsContainer">
+                <h1>Selected Skills</h1>
+                <div id="selectedSkills">
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+
+            <!-- <h1>Find Skills</h1> -->
+            <div id="skills">
+
+            </div>
+            <br>
+            <br>
+            <br>
         </div>
-        <br>
-        <br>
-        <br>
-    </div>
 
-    <div class="selected-skills">
-        <h1>Selected Skills</h1>
-        <div id="selectedSkills">
+        <div class="charms">
+            <div class="button-container">
+                <button class="back btn btn-primary">
+                    <i class="fas fa-chevron-left"></i>
+                    BACK
+                </button>
 
+                <button class="next-two btn btn-primary">
+                    SEARCH
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+
+            <h4>Current Charms</h4>
+            <div id="currentCharms">No Charms Set.</div>
+
+            <div id="newCharmForm">
+                <h4>New Charm</h4>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <select id="skillOne" class="form-control selectPicker" data-live-search="true">
+                            <option value="">First Skill...</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-6">
+                        <select id="pointsOne" class="form-control">
+                            <option value="">Points...</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-6">
+                        <select id="skillTwo" class="form-control selectPicker" data-live-search="true">
+                            <option value="">Second Skill...</option>
+                        </select>
+                    </div>
+                    <div class="col-xs-6">
+                        <select id="pointsTwo" class="form-control">
+                            <option value="">Points...</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <select id="charmSlots" class="form-control">
+                            <option value="0">No Slots</option>
+                            <option value="1">O (1 Slot)</option>
+                            <option value="2">OO (2 Slots)</option>
+                            <option value="3">OOO (3 Slots)</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row button-row">
+                    <button id="addCharm" class="btn btn-primary">+ Add Charm</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="results">
+            <div class="button-container">
+                <button class="back-two btn btn-primary">
+                    <i class="fas fa-chevron-left"></i>
+                    BACK
+                </button>
+            </div>
+            <h1>Results</h1>
+            <a class="button" id="findButton">Find Armor</a>
+            <div id="results">
+                No results...
+            </div>
         </div>
     </div>
-
-    <div class="results">
-        <h1>Results</h1>
-        <a class="button" id="findButton">Find Armor</a>
-        <div id="results">
-            No results...
-        </div>
-    </div>
-
 </div>
 
 {{

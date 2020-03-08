@@ -262,6 +262,30 @@ function getModifiedWeapon(weapon, skills, index) {
 
         }
 
+        if (skill.type === 'blunt') {
+            console.log(weapon);
+            // $.each(weapon.sharpness)
+            const map = {
+                0.5: 1.2,  // red
+                0.75: 1.2, //orange
+                0.85: 1.2, //yellow
+                1.05: 1.1, //green
+                1.2: 1,    //blue
+                1.32: 1,   //white
+                1.39: 1,   //purple
+            };
+            const sharpMod = getSharpnessModifier(weapon, skills);
+            const modifier = map[sharpMod] || 1;
+
+            const oldDamage = newWeapon.damage;
+            newWeapon.damage = Math.round(modifier * newWeapon.damage);
+            addOperation(
+                index, 'Blunt', 'attack', oldDamage,
+                '* ' + modifier, newWeapon.damage
+            );
+
+        }
+
         if (skill.type === 'chain-crit') {
             let modifier = skill.triggerPercent / 100;
             const oldAffinity = newWeapon.affinity;

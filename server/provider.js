@@ -1,8 +1,14 @@
 const Db = require('./db');
+const skillMeta = require('../json/skillMeta.json');
 
 class Provider {
 
+    getSkillPopularity(skill) {
+
+    }
+
     async getSkills() {
+        
         const skills = {};
         const query = `
         SELECT 
@@ -18,9 +24,18 @@ class Provider {
         await Db.query(query, {}, (i) => {
             const parentId = i.skill_tree_id;
             if (!skills[parentId]) {
+                const key = i.skill_tree_name.toLowerCase().replace(/[^a-z]/g, '');
+                const meta = skillMeta[key] || {
+                    category: 'Misc',
+                    rating: 1,
+                };
+
                 skills[parentId] = {
                     id: i.skill_tree_id,
                     name: i.skill_tree_name,
+                    category: meta.category,
+                    rating: meta.rating,
+                    popularity: this.getSkillPopularity(i.skill_tree_name),
                     skills: []
                 };
             }
@@ -115,6 +130,72 @@ class Provider {
         });
 
         return weaponTypes;
+    }
+
+    async getDecorations() {
+        const query = `
+        SELECT 
+            *,
+            group_concat(ist.point_value) AS point_values,
+		    group_concat(ist.skill_tree_id) AS skill_trees 
+        FROM decorations d 
+        INNER JOIN items i 
+            ON d._id=i._id 
+        INNER JOIN item_to_skill_tree ist 
+            ON d._id=ist.item_id
+        GROUP BY d._id`;
+
+        return await Db.query(query, {}, (i) => {
+            /*
+            SAMPLE: 
+            _id: 14087,
+            num_slots: 1,
+            name: "Antidote Jwl 1",
+            name_de: "GegengiftJwl1",
+            name_fr: "Joy Poison 1",
+            name_es: "J. antÃ­doto 1",
+            name_it: "G veleno 1",
+            name_ja: "",
+            type: "Decoration",
+            sub_type: "",
+            rarity: 4,
+            carry_capacity: 99,
+            buy: 400,
+            sell: 40,
+            description: "A Decoration that boosts Poison skills.",
+            description_de: "Dekoration. Steigert die Gift-FÃ¤higkeit.",
+            description_fr: "Augmente les talents Poison.",
+            description_es: "Adorno que bonifica la habilidad de veneno.",
+            description_it: "Decorazione che aumenta le abilitÃ  di tipo veleno.",
+            description_ja: "",
+            icon_name: "icon_jewel",
+            icon_color: 5,
+            account: 0,
+            item_id: 2638,
+            skill_tree_id: 1,
+            point_value: 1,
+            point_values: "1,-1",
+            skill_trees: "1,4"
+            */
+            const result = {
+                _id: i._id,
+                num_slots: i.num_slots,
+                name: i.name,
+                description: i.description,
+                skills: {},
+            };
+
+            const skills = i.skill_trees.split(',');
+            const points = i.point_values.split(',');
+
+            let c = 0;
+            for(let skillId of skills){
+                result.skills[skillId] = points[c];
+                c++;
+            }
+
+            return result;
+        });
     }
 
     async getWeapons(type) {

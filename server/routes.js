@@ -84,6 +84,14 @@ const routes = {
         return;
     },
 
+    decorations: async (request, response) => {
+        const decorations = await provider.getDecorations();
+
+        utils.writeJson('decorations', decorations);
+        response.end(JSON.stringify(decorations));
+        return;
+    },
+
     skills: async (request, response) => {
         const skills = await provider.getSkills();
 

@@ -2,6 +2,7 @@
   {
     "_id": 1376257,
     "name": "Leather Vest",
+    "num_slots": 0,
     "max_defense": 25,
     "sub_type": "Body",
     "skills": [
@@ -14,6 +15,7 @@
   {
     "_id": 1376258,
     "name": "Chainmail Vest",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Body",
     "skills": [
@@ -26,6 +28,7 @@
   {
     "_id": 1376259,
     "name": "Bherna Mail",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Body",
     "skills": [
@@ -38,6 +41,7 @@
   {
     "_id": 1376260,
     "name": "Hunting Mail",
+    "num_slots": 0,
     "max_defense": 50,
     "sub_type": "Body",
     "skills": [
@@ -50,6 +54,7 @@
   {
     "_id": 1376261,
     "name": "Hunting Vest",
+    "num_slots": 0,
     "max_defense": 25,
     "sub_type": "Body",
     "skills": [
@@ -62,6 +67,7 @@
   {
     "_id": 1376262,
     "name": "Mafumofu Jacket",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Body",
     "skills": [
@@ -74,6 +80,7 @@
   {
     "_id": 1376263,
     "name": "Yukumo Dogi",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Body",
     "skills": [
@@ -90,6 +97,7 @@
   {
     "_id": 1376264,
     "name": "Loc Lac Shawl",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Body",
     "skills": [
@@ -106,6 +114,7 @@
   {
     "_id": 1376265,
     "name": "Hunter's Mail",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -118,6 +127,7 @@
   {
     "_id": 1376266,
     "name": "Hunter's Vest",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Body",
     "skills": [
@@ -130,6 +140,7 @@
   {
     "_id": 1376267,
     "name": "Bone Mail",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -146,6 +157,7 @@
   {
     "_id": 1376268,
     "name": "Bone Vest",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Body",
     "skills": [
@@ -162,6 +174,7 @@
   {
     "_id": 1376271,
     "name": "Chaos Plate",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -174,6 +187,7 @@
   {
     "_id": 1376272,
     "name": "Chaos Brigandine",
+    "num_slots": 2,
     "max_defense": 27,
     "sub_type": "Body",
     "skills": [
@@ -186,6 +200,7 @@
   {
     "_id": 1376279,
     "name": "Jaggi Mail",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -202,6 +217,7 @@
   {
     "_id": 1376280,
     "name": "Jaggi Vest",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Body",
     "skills": [
@@ -218,6 +234,7 @@
   {
     "_id": 1376281,
     "name": "Maccao Mail",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -234,6 +251,7 @@
   {
     "_id": 1376282,
     "name": "Maccao Vest",
+    "num_slots": 0,
     "max_defense": 28,
     "sub_type": "Body",
     "skills": [
@@ -250,6 +268,7 @@
   {
     "_id": 1376283,
     "name": "Velociprey Mail",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -266,6 +285,7 @@
   {
     "_id": 1376284,
     "name": "Velociprey Vest",
+    "num_slots": 0,
     "max_defense": 28,
     "sub_type": "Body",
     "skills": [
@@ -282,6 +302,7 @@
   {
     "_id": 1376285,
     "name": "Giaprey Mail",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -294,6 +315,7 @@
   {
     "_id": 1376286,
     "name": "Giaprey Vest",
+    "num_slots": 0,
     "max_defense": 28,
     "sub_type": "Body",
     "skills": [
@@ -306,6 +328,7 @@
   {
     "_id": 1376287,
     "name": "Genprey Mail",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -326,6 +349,7 @@
   {
     "_id": 1376288,
     "name": "Genprey Vest",
+    "num_slots": 0,
     "max_defense": 29,
     "sub_type": "Body",
     "skills": [
@@ -346,6 +370,7 @@
   {
     "_id": 1376289,
     "name": "Vespoid Mail",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -358,6 +383,7 @@
   {
     "_id": 1376290,
     "name": "Vespoid Vest",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Body",
     "skills": [
@@ -370,6 +396,7 @@
   {
     "_id": 1376291,
     "name": "Hornetaur Mail",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -386,6 +413,7 @@
   {
     "_id": 1376292,
     "name": "Hornetaur Vest",
+    "num_slots": 0,
     "max_defense": 29,
     "sub_type": "Body",
     "skills": [
@@ -402,6 +430,7 @@
   {
     "_id": 1376293,
     "name": "Bnahabra Suit",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -422,6 +451,7 @@
   {
     "_id": 1376294,
     "name": "Bnahabra Vest",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Body",
     "skills": [
@@ -442,6 +472,7 @@
   {
     "_id": 1376297,
     "name": "Mosswine Vest",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Body",
     "skills": [
@@ -454,6 +485,7 @@
   {
     "_id": 1376298,
     "name": "Rhenoplos Mail",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -470,6 +502,7 @@
   {
     "_id": 1376299,
     "name": "Rhenoplos Vest",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -486,6 +519,7 @@
   {
     "_id": 1376300,
     "name": "Bulldrome Mail",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -502,6 +536,7 @@
   {
     "_id": 1376301,
     "name": "Bulldrome Vest",
+    "num_slots": 1,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -518,6 +553,7 @@
   {
     "_id": 1376303,
     "name": "Arzuros Mail",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -538,6 +574,7 @@
   {
     "_id": 1376304,
     "name": "Arzuros Vest",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -558,6 +595,7 @@
   {
     "_id": 1376305,
     "name": "Cephalos Mail",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -570,6 +608,7 @@
   {
     "_id": 1376306,
     "name": "Cephalos Vest",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -582,6 +621,7 @@
   {
     "_id": 1376307,
     "name": "Derring Jacket",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Body",
     "skills": [
@@ -594,6 +634,7 @@
   {
     "_id": 1376308,
     "name": "Alloy Mail",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -606,6 +647,7 @@
   {
     "_id": 1376309,
     "name": "Alloy Vest",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -618,6 +660,7 @@
   {
     "_id": 1376310,
     "name": "Battle Mail",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -630,6 +673,7 @@
   {
     "_id": 1376311,
     "name": "Battle Vest",
+    "num_slots": 2,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -642,6 +686,7 @@
   {
     "_id": 1376312,
     "name": "Ingot Mail",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -662,6 +707,7 @@
   {
     "_id": 1376313,
     "name": "Ingot Vest",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -682,6 +728,7 @@
   {
     "_id": 1376314,
     "name": "High Metal Mail",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -698,6 +745,7 @@
   {
     "_id": 1376315,
     "name": "High Metal Vest",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -714,6 +762,7 @@
   {
     "_id": 1376318,
     "name": "Melahoa Jacket",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -726,6 +775,7 @@
   {
     "_id": 1376319,
     "name": "Melahoa Stalk",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -738,6 +788,7 @@
   {
     "_id": 1376320,
     "name": "Makluva Cover",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -754,6 +805,7 @@
   {
     "_id": 1376321,
     "name": "Makluva Scale",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -770,6 +822,7 @@
   {
     "_id": 1376322,
     "name": "Bistro Suit",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -786,6 +839,7 @@
   {
     "_id": 1376323,
     "name": "Bistro Vest",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -802,6 +856,7 @@
   {
     "_id": 1376324,
     "name": "Obituary Thorax",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -814,6 +869,7 @@
   {
     "_id": 1376325,
     "name": "Obituary Pleuron",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -826,6 +882,7 @@
   {
     "_id": 1376326,
     "name": "Butterfly Thorax",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -838,6 +895,7 @@
   {
     "_id": 1376327,
     "name": "Butterfly Pleuron",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -850,6 +908,7 @@
   {
     "_id": 1376328,
     "name": "Death Stench Muscle",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -862,6 +921,7 @@
   {
     "_id": 1376329,
     "name": "Death Stench Heart",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Body",
     "skills": [
@@ -874,6 +934,7 @@
   {
     "_id": 1376330,
     "name": "Acorn Mail",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -890,6 +951,7 @@
   {
     "_id": 1376331,
     "name": "Acorn Vest",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Body",
     "skills": [
@@ -906,6 +968,7 @@
   {
     "_id": 1376332,
     "name": "Mosgharl Ribplate",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -926,6 +989,7 @@
   {
     "_id": 1376333,
     "name": "Mosgharl Ribguard",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -946,6 +1010,7 @@
   {
     "_id": 1376334,
     "name": "Edel Ribplate",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -958,6 +1023,7 @@
   {
     "_id": 1376335,
     "name": "Edel Ribguard",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -970,6 +1036,7 @@
   {
     "_id": 1376336,
     "name": "Skalda Thorax",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -982,6 +1049,7 @@
   {
     "_id": 1376337,
     "name": "Skalda Pleuron",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -994,6 +1062,7 @@
   {
     "_id": 1376338,
     "name": "Spio Thorax",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1006,6 +1075,7 @@
   {
     "_id": 1376339,
     "name": "Spio Pleuron",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1018,6 +1088,7 @@
   {
     "_id": 1376340,
     "name": "Droth Mail",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -1030,6 +1101,7 @@
   {
     "_id": 1376341,
     "name": "Droth Vest",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Body",
     "skills": [
@@ -1042,6 +1114,7 @@
   {
     "_id": 1376342,
     "name": "Uroktor Torso",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -1054,6 +1127,7 @@
   {
     "_id": 1376343,
     "name": "Uroktor Vest",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -1066,6 +1140,7 @@
   {
     "_id": 1376346,
     "name": "Moofah Suit",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -1082,6 +1157,7 @@
   {
     "_id": 1376347,
     "name": "Moofah Jacket",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -1098,6 +1174,7 @@
   {
     "_id": 1376349,
     "name": "Velociprey Body",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -1114,6 +1191,7 @@
   {
     "_id": 1376350,
     "name": "Velociprey Suit",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -1130,6 +1208,7 @@
   {
     "_id": 1376351,
     "name": "Genprey Body",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -1146,6 +1225,7 @@
   {
     "_id": 1376352,
     "name": "Genprey Suit",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -1162,6 +1242,7 @@
   {
     "_id": 1376353,
     "name": "Ioprey Body",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -1178,6 +1259,7 @@
   {
     "_id": 1376354,
     "name": "Ioprey Wear",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -1194,6 +1276,7 @@
   {
     "_id": 1376355,
     "name": "Remobra Suit",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -1210,6 +1293,7 @@
   {
     "_id": 1376356,
     "name": "Remobra Wear",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Body",
     "skills": [
@@ -1226,6 +1310,7 @@
   {
     "_id": 1376357,
     "name": "Ioprey Mail",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -1246,6 +1331,7 @@
   {
     "_id": 1376358,
     "name": "Ioprey Vest",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -1266,6 +1352,7 @@
   {
     "_id": 1376359,
     "name": "Kut-Ku Mail",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -1286,6 +1373,7 @@
   {
     "_id": 1376360,
     "name": "Kut-Ku Vest",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Body",
     "skills": [
@@ -1306,6 +1394,7 @@
   {
     "_id": 1376361,
     "name": "Lagombi Mail",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -1326,6 +1415,7 @@
   {
     "_id": 1376362,
     "name": "Lagombi Vest",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -1346,6 +1436,7 @@
   {
     "_id": 1376363,
     "name": "Gypceros Mail",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -1366,6 +1457,7 @@
   {
     "_id": 1376364,
     "name": "Gypceros Vest",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Body",
     "skills": [
@@ -1386,6 +1478,7 @@
   {
     "_id": 1376365,
     "name": "Tetsucabra Mail",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1406,6 +1499,7 @@
   {
     "_id": 1376366,
     "name": "Tetsucabra Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1426,6 +1520,7 @@
   {
     "_id": 1376367,
     "name": "Hermitaur Mail",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1446,6 +1541,7 @@
   {
     "_id": 1376368,
     "name": "Hermitaur Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1466,6 +1562,7 @@
   {
     "_id": 1376369,
     "name": "Volvidon Mail",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1486,6 +1583,7 @@
   {
     "_id": 1376370,
     "name": "Volvidon Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1506,6 +1604,7 @@
   {
     "_id": 1376371,
     "name": "Ludroth Mail",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1522,6 +1621,7 @@
   {
     "_id": 1376372,
     "name": "Ludroth Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1538,6 +1638,7 @@
   {
     "_id": 1376373,
     "name": "Malfestio Mail",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1554,6 +1655,7 @@
   {
     "_id": 1376374,
     "name": "Malfestio Vest",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1570,6 +1672,7 @@
   {
     "_id": 1376375,
     "name": "Khezu Mail",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1586,6 +1689,7 @@
   {
     "_id": 1376376,
     "name": "Khezu Vest",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1602,6 +1706,7 @@
   {
     "_id": 1376377,
     "name": "Rathian Mail",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1622,6 +1727,7 @@
   {
     "_id": 1376378,
     "name": "Rathian Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1642,6 +1748,7 @@
   {
     "_id": 1376379,
     "name": "Nibelsnarf Mail",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1662,6 +1769,7 @@
   {
     "_id": 1376380,
     "name": "Nibelsnarf Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1682,6 +1790,7 @@
   {
     "_id": 1376381,
     "name": "Blango Mail",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1698,6 +1807,7 @@
   {
     "_id": 1376382,
     "name": "Blango Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1714,6 +1824,7 @@
   {
     "_id": 1376383,
     "name": "Ceanataur Mail",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1734,6 +1845,7 @@
   {
     "_id": 1376384,
     "name": "Ceanataur Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1754,6 +1866,7 @@
   {
     "_id": 1376385,
     "name": "Najarala Mail",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1774,6 +1887,7 @@
   {
     "_id": 1376386,
     "name": "Najarala Vest",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1794,6 +1908,7 @@
   {
     "_id": 1376387,
     "name": "Nargacuga Mail",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1814,6 +1929,7 @@
   {
     "_id": 1376388,
     "name": "Nargacuga Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1834,6 +1950,7 @@
   {
     "_id": 1376389,
     "name": "Scholarly Suit",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -1850,6 +1967,7 @@
   {
     "_id": 1376390,
     "name": "Scholarly Vest",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Body",
     "skills": [
@@ -1866,6 +1984,7 @@
   {
     "_id": 1376391,
     "name": "Vaik Mail",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1882,6 +2001,7 @@
   {
     "_id": 1376392,
     "name": "Vaik Vest",
+    "num_slots": 2,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1898,6 +2018,7 @@
   {
     "_id": 1376395,
     "name": "Aelucanth Thorax",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1914,6 +2035,7 @@
   {
     "_id": 1376396,
     "name": "Aelucanth Pleuron",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1930,6 +2052,7 @@
   {
     "_id": 1376397,
     "name": "Rhopessa Thorax",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -1946,6 +2069,7 @@
   {
     "_id": 1376398,
     "name": "Rhopessa Pleuron",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -1962,6 +2086,7 @@
   {
     "_id": 1376399,
     "name": "Artian Mail",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -1978,6 +2103,7 @@
   {
     "_id": 1376400,
     "name": "Artian Vest",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -1994,6 +2120,7 @@
   {
     "_id": 1376401,
     "name": "Garuga Mail",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -2014,6 +2141,7 @@
   {
     "_id": 1376402,
     "name": "Garuga Vest",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Body",
     "skills": [
@@ -2034,6 +2162,7 @@
   {
     "_id": 1376404,
     "name": "Uragaan Mail",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2046,6 +2175,7 @@
   {
     "_id": 1376405,
     "name": "Uragaan Vest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2058,6 +2188,7 @@
   {
     "_id": 1376406,
     "name": "Rathalos Mail",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2070,6 +2201,7 @@
   {
     "_id": 1376407,
     "name": "Rathalos Vest",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2082,6 +2214,7 @@
   {
     "_id": 1376408,
     "name": "Lagiacrus Mail",
+    "num_slots": 2,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2098,6 +2231,7 @@
   {
     "_id": 1376409,
     "name": "Lagiacrus Vest",
+    "num_slots": 2,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2114,6 +2248,7 @@
   {
     "_id": 1376410,
     "name": "Zinogre Mail",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -2134,6 +2269,7 @@
   {
     "_id": 1376411,
     "name": "Zinogre Vest",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Body",
     "skills": [
@@ -2154,6 +2290,7 @@
   {
     "_id": 1376412,
     "name": "Mizutsune Mail",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -2174,6 +2311,7 @@
   {
     "_id": 1376413,
     "name": "Mizutsune Vest",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2194,6 +2332,7 @@
   {
     "_id": 1376414,
     "name": "Astalos Mail",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2214,6 +2353,7 @@
   {
     "_id": 1376415,
     "name": "Astalos Vest",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2234,6 +2374,7 @@
   {
     "_id": 1376416,
     "name": "Gammoth Mail",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2254,6 +2395,7 @@
   {
     "_id": 1376417,
     "name": "Gammoth Vest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2274,6 +2416,7 @@
   {
     "_id": 1376418,
     "name": "Glavenus Mail",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2294,6 +2437,7 @@
   {
     "_id": 1376419,
     "name": "Glavenus Vest",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2314,6 +2458,7 @@
   {
     "_id": 1376420,
     "name": "Gore Mail",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2334,6 +2479,7 @@
   {
     "_id": 1376421,
     "name": "Gore Vest",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2354,6 +2500,7 @@
   {
     "_id": 1376422,
     "name": "Regios Mail",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2374,6 +2521,7 @@
   {
     "_id": 1376423,
     "name": "Regios Vest",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2394,6 +2542,7 @@
   {
     "_id": 1376424,
     "name": "Tigrex Mail",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2414,6 +2563,7 @@
   {
     "_id": 1376425,
     "name": "Tigrex Vest",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2434,6 +2584,7 @@
   {
     "_id": 1376426,
     "name": "Kirin Jacket",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2454,6 +2605,7 @@
   {
     "_id": 1376427,
     "name": "Kirin Cape",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2474,6 +2626,7 @@
   {
     "_id": 1376428,
     "name": "Brachydios Mail",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2494,6 +2647,7 @@
   {
     "_id": 1376429,
     "name": "Brachydios Vest",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2514,6 +2668,7 @@
   {
     "_id": 1376430,
     "name": "Arc Mail",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2530,6 +2685,7 @@
   {
     "_id": 1376431,
     "name": "Storge Mail",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2546,6 +2702,7 @@
   {
     "_id": 1376432,
     "name": "Arc Vest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2562,6 +2719,7 @@
   {
     "_id": 1376433,
     "name": "Storge Vest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2578,6 +2736,7 @@
   {
     "_id": 1376434,
     "name": "Kushala Cista",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2594,6 +2753,7 @@
   {
     "_id": 1376435,
     "name": "Kushala Vise",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2610,6 +2770,7 @@
   {
     "_id": 1376436,
     "name": "Mizuha Guards",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2626,6 +2787,7 @@
   {
     "_id": 1376437,
     "name": "Cham Camise",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2642,6 +2804,7 @@
   {
     "_id": 1376438,
     "name": "Kaiser Mail",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2658,6 +2821,7 @@
   {
     "_id": 1376439,
     "name": "Kaiser Vest",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2674,6 +2838,7 @@
   {
     "_id": 1376440,
     "name": "Skeletal Sternum",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -2690,6 +2855,7 @@
   {
     "_id": 1376441,
     "name": "Decayed Sternum",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Body",
     "skills": [
@@ -2706,6 +2872,7 @@
   {
     "_id": 1376442,
     "name": "Black Hide",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -2722,6 +2889,7 @@
   {
     "_id": 1376443,
     "name": "Black Skin",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Body",
     "skills": [
@@ -2738,6 +2906,7 @@
   {
     "_id": 1376444,
     "name": "Black Belt Mail",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -2754,6 +2923,7 @@
   {
     "_id": 1376445,
     "name": "Black Belt Vest",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Body",
     "skills": [
@@ -2770,6 +2940,7 @@
   {
     "_id": 1376446,
     "name": "Guild Bard Bolero",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -2790,6 +2961,7 @@
   {
     "_id": 1376447,
     "name": "Guild Bard Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2810,6 +2982,7 @@
   {
     "_id": 1376448,
     "name": "Maiden's Suit",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -2830,6 +3003,7 @@
   {
     "_id": 1376449,
     "name": "French Maid Vest",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2850,6 +3024,7 @@
   {
     "_id": 1376450,
     "name": "Helper Suit",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -2870,6 +3045,7 @@
   {
     "_id": 1376451,
     "name": "Healer Vest",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2890,6 +3066,7 @@
   {
     "_id": 1376452,
     "name": "Dianthus Jacket",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -2906,6 +3083,7 @@
   {
     "_id": 1376453,
     "name": "Campanile Jacket",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2922,6 +3100,7 @@
   {
     "_id": 1376454,
     "name": "Bath Robe",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Body",
     "skills": [
@@ -2934,6 +3113,7 @@
   {
     "_id": 1376455,
     "name": "Gourmew Suit",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -2950,6 +3130,7 @@
   {
     "_id": 1376456,
     "name": "Gourmew Vest",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Body",
     "skills": [
@@ -2966,6 +3147,7 @@
   {
     "_id": 1376457,
     "name": "Leather Mail S",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -2978,6 +3160,7 @@
   {
     "_id": 1376458,
     "name": "Chainmail Armor S",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -2990,6 +3173,7 @@
   {
     "_id": 1376459,
     "name": "Bherna Mail S",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -3006,6 +3190,7 @@
   {
     "_id": 1376460,
     "name": "Bherna Vest S",
+    "num_slots": 2,
     "max_defense": 51,
     "sub_type": "Body",
     "skills": [
@@ -3022,6 +3207,7 @@
   {
     "_id": 1376461,
     "name": "Hunting Mail S",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -3038,6 +3224,7 @@
   {
     "_id": 1376462,
     "name": "Hunting Vest S",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Body",
     "skills": [
@@ -3054,6 +3241,7 @@
   {
     "_id": 1376463,
     "name": "Mafumofu Suit S",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -3070,6 +3258,7 @@
   {
     "_id": 1376464,
     "name": "Mafumofu Jacket S",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Body",
     "skills": [
@@ -3086,6 +3275,7 @@
   {
     "_id": 1376465,
     "name": "Yukumo Sky Dogi",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -3102,6 +3292,7 @@
   {
     "_id": 1376466,
     "name": "Yukumo Land Dogi",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Body",
     "skills": [
@@ -3118,6 +3309,7 @@
   {
     "_id": 1376467,
     "name": "Loc Lac Shawl S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3134,6 +3326,7 @@
   {
     "_id": 1376468,
     "name": "Hunter's Mail S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -3150,6 +3343,7 @@
   {
     "_id": 1376469,
     "name": "Hunter's Vest S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Body",
     "skills": [
@@ -3166,6 +3360,7 @@
   {
     "_id": 1376470,
     "name": "Hunter's Mail R",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -3186,6 +3381,7 @@
   {
     "_id": 1376471,
     "name": "Hunter's Vest R",
+    "num_slots": 0,
     "max_defense": 49,
     "sub_type": "Body",
     "skills": [
@@ -3206,6 +3402,7 @@
   {
     "_id": 1376472,
     "name": "Bone Mail S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -3222,6 +3419,7 @@
   {
     "_id": 1376473,
     "name": "Bone Vest S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3238,6 +3436,7 @@
   {
     "_id": 1376478,
     "name": "Chaos Archplate",
+    "num_slots": 3,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -3254,6 +3453,7 @@
   {
     "_id": 1376479,
     "name": "Chaos Archbrigandine",
+    "num_slots": 3,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -3270,6 +3470,7 @@
   {
     "_id": 1376480,
     "name": "Melahoa Jacket S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -3286,6 +3487,7 @@
   {
     "_id": 1376481,
     "name": "Melahoa Stalk S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -3302,6 +3504,7 @@
   {
     "_id": 1376482,
     "name": "Melahoa Jacket U",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -3318,6 +3521,7 @@
   {
     "_id": 1376483,
     "name": "Melahoa Stalk U",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Body",
     "skills": [
@@ -3334,6 +3538,7 @@
   {
     "_id": 1376484,
     "name": "Makluva Cover S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -3350,6 +3555,7 @@
   {
     "_id": 1376485,
     "name": "Makluva Scale S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -3366,6 +3572,7 @@
   {
     "_id": 1376486,
     "name": "Makluva Cover U",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -3382,6 +3589,7 @@
   {
     "_id": 1376487,
     "name": "Makluva Scale U",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -3398,6 +3606,7 @@
   {
     "_id": 1376488,
     "name": "Bistro Suit S",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Body",
     "skills": [
@@ -3418,6 +3627,7 @@
   {
     "_id": 1376489,
     "name": "Bistro Vest S",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Body",
     "skills": [
@@ -3438,6 +3648,7 @@
   {
     "_id": 1376490,
     "name": "Acorn Mail S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -3454,6 +3665,7 @@
   {
     "_id": 1376491,
     "name": "Acorn Vest S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -3470,6 +3682,7 @@
   {
     "_id": 1376492,
     "name": "Mosgharl Ribplate S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -3490,6 +3703,7 @@
   {
     "_id": 1376493,
     "name": "Mosgharl Ribguard S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -3510,6 +3724,7 @@
   {
     "_id": 1376494,
     "name": "Edel Ribplate S",
+    "num_slots": 0,
     "max_defense": 110,
     "sub_type": "Body",
     "skills": [
@@ -3526,6 +3741,7 @@
   {
     "_id": 1376495,
     "name": "Edel Ribguard S",
+    "num_slots": 0,
     "max_defense": 55,
     "sub_type": "Body",
     "skills": [
@@ -3542,6 +3758,7 @@
   {
     "_id": 1376496,
     "name": "Moofah Suit S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -3558,6 +3775,7 @@
   {
     "_id": 1376497,
     "name": "Moofah Jacket S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -3574,6 +3792,7 @@
   {
     "_id": 1376498,
     "name": "Slagtoth Cloak",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -3590,6 +3809,7 @@
   {
     "_id": 1376499,
     "name": "Slagtoth Wrap",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Body",
     "skills": [
@@ -3606,6 +3826,7 @@
   {
     "_id": 1376503,
     "name": "Velociprey Body S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -3622,6 +3843,7 @@
   {
     "_id": 1376504,
     "name": "Velociprey Suit S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Body",
     "skills": [
@@ -3638,6 +3860,7 @@
   {
     "_id": 1376505,
     "name": "Genprey Body S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -3654,6 +3877,7 @@
   {
     "_id": 1376506,
     "name": "Genprey Suit S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Body",
     "skills": [
@@ -3670,6 +3894,7 @@
   {
     "_id": 1376507,
     "name": "Ioprey Body S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -3686,6 +3911,7 @@
   {
     "_id": 1376508,
     "name": "Ioprey Wear S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Body",
     "skills": [
@@ -3702,6 +3928,7 @@
   {
     "_id": 1376509,
     "name": "Remobra Suit S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -3718,6 +3945,7 @@
   {
     "_id": 1376510,
     "name": "Remobra Wear S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Body",
     "skills": [
@@ -3734,6 +3962,7 @@
   {
     "_id": 1376517,
     "name": "Mosswine Vest S",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Body",
     "skills": [
@@ -3746,6 +3975,7 @@
   {
     "_id": 1376518,
     "name": "Rhenoplos Mail S",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -3762,6 +3992,7 @@
   {
     "_id": 1376519,
     "name": "Rhenoplos Vest S",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -3778,6 +4009,7 @@
   {
     "_id": 1376520,
     "name": "Jaggi Mail S",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -3794,6 +4026,7 @@
   {
     "_id": 1376521,
     "name": "Jaggi Vest S",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Body",
     "skills": [
@@ -3810,6 +4043,7 @@
   {
     "_id": 1376522,
     "name": "Droth Mail S",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -3826,6 +4060,7 @@
   {
     "_id": 1376523,
     "name": "Droth Vest S",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Body",
     "skills": [
@@ -3842,6 +4077,7 @@
   {
     "_id": 1376524,
     "name": "Uroktor Torso S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -3854,6 +4090,7 @@
   {
     "_id": 1376525,
     "name": "Uroktor Vest S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3866,6 +4103,7 @@
   {
     "_id": 1376526,
     "name": "Maccao Mail S",
+    "num_slots": 0,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -3882,6 +4120,7 @@
   {
     "_id": 1376527,
     "name": "Maccao Vest S",
+    "num_slots": 0,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3898,6 +4137,7 @@
   {
     "_id": 1376528,
     "name": "Velociprey Mail S",
+    "num_slots": 0,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -3914,6 +4154,7 @@
   {
     "_id": 1376529,
     "name": "Velociprey Vest S",
+    "num_slots": 0,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3930,6 +4171,7 @@
   {
     "_id": 1376530,
     "name": "Giaprey Mail S",
+    "num_slots": 0,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -3942,6 +4184,7 @@
   {
     "_id": 1376531,
     "name": "Giaprey Vest S",
+    "num_slots": 0,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -3954,6 +4197,7 @@
   {
     "_id": 1376532,
     "name": "Genprey Mail S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -3974,6 +4218,7 @@
   {
     "_id": 1376533,
     "name": "Genprey Vest S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -3994,6 +4239,7 @@
   {
     "_id": 1376534,
     "name": "EX Genprey Mail",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -4014,6 +4260,7 @@
   {
     "_id": 1376535,
     "name": "EX Genprey Vest",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -4034,6 +4281,7 @@
   {
     "_id": 1376536,
     "name": "Ioprey Mail S",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Body",
     "skills": [
@@ -4054,6 +4302,7 @@
   {
     "_id": 1376537,
     "name": "Ioprey Vest S",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Body",
     "skills": [
@@ -4074,6 +4323,7 @@
   {
     "_id": 1376538,
     "name": "EX Ioprey Mail",
+    "num_slots": 0,
     "max_defense": 114,
     "sub_type": "Body",
     "skills": [
@@ -4094,6 +4344,7 @@
   {
     "_id": 1376539,
     "name": "EX Ioprey Vest",
+    "num_slots": 0,
     "max_defense": 57,
     "sub_type": "Body",
     "skills": [
@@ -4114,6 +4365,7 @@
   {
     "_id": 1376540,
     "name": "Vespoid Mail S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -4126,6 +4378,7 @@
   {
     "_id": 1376541,
     "name": "Vespoid Vest S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -4138,6 +4391,7 @@
   {
     "_id": 1376542,
     "name": "EX Vespoid Mail",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -4158,6 +4412,7 @@
   {
     "_id": 1376543,
     "name": "EX Vespoid Vest",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -4178,6 +4433,7 @@
   {
     "_id": 1376544,
     "name": "Hornetaur Mail S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -4194,6 +4450,7 @@
   {
     "_id": 1376545,
     "name": "Hornetaur Vest S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -4210,6 +4467,7 @@
   {
     "_id": 1376546,
     "name": "EX Hornetaur Mail",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Body",
     "skills": [
@@ -4230,6 +4488,7 @@
   {
     "_id": 1376547,
     "name": "EX Hornetaur Vest",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -4250,6 +4509,7 @@
   {
     "_id": 1376548,
     "name": "Hornetaur Mail R",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -4266,6 +4526,7 @@
   {
     "_id": 1376549,
     "name": "Hornetaur Vest R",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -4282,6 +4543,7 @@
   {
     "_id": 1376550,
     "name": "Bnahabra Suit S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -4302,6 +4564,7 @@
   {
     "_id": 1376551,
     "name": "Bnahabra Vest S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -4322,6 +4585,7 @@
   {
     "_id": 1376554,
     "name": "Bulldrome Mail S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -4342,6 +4606,7 @@
   {
     "_id": 1376555,
     "name": "Bulldrome Vest S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -4362,6 +4627,7 @@
   {
     "_id": 1376557,
     "name": "Arzuros Mail S",
+    "num_slots": 0,
     "max_defense": 114,
     "sub_type": "Body",
     "skills": [
@@ -4382,6 +4648,7 @@
   {
     "_id": 1376558,
     "name": "Arzuros Vest S",
+    "num_slots": 0,
     "max_defense": 57,
     "sub_type": "Body",
     "skills": [
@@ -4402,6 +4669,7 @@
   {
     "_id": 1376559,
     "name": "Cephalos Mail S",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -4414,6 +4682,7 @@
   {
     "_id": 1376560,
     "name": "Cephalos Vest S",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Body",
     "skills": [
@@ -4426,6 +4695,7 @@
   {
     "_id": 1376561,
     "name": "EX Cephalos Mail",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -4446,6 +4716,7 @@
   {
     "_id": 1376562,
     "name": "EX Cephalos Vest",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -4466,6 +4737,7 @@
   {
     "_id": 1376563,
     "name": "Kut-Ku Mail S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -4486,6 +4758,7 @@
   {
     "_id": 1376564,
     "name": "Kut-Ku Vest S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -4506,6 +4779,7 @@
   {
     "_id": 1376565,
     "name": "Kecha Mail",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -4526,6 +4800,7 @@
   {
     "_id": 1376566,
     "name": "Kecha Vest",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -4546,6 +4821,7 @@
   {
     "_id": 1376567,
     "name": "Lagombi Mail S",
+    "num_slots": 0,
     "max_defense": 116,
     "sub_type": "Body",
     "skills": [
@@ -4566,6 +4842,7 @@
   {
     "_id": 1376568,
     "name": "Lagombi Vest S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -4586,6 +4863,7 @@
   {
     "_id": 1376569,
     "name": "Gypceros Mail S",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -4606,6 +4884,7 @@
   {
     "_id": 1376570,
     "name": "Gypceros Vest S",
+    "num_slots": 2,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -4626,6 +4905,7 @@
   {
     "_id": 1376571,
     "name": "Gypceros Mail R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -4642,6 +4922,7 @@
   {
     "_id": 1376572,
     "name": "Gypceros Vest R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Body",
     "skills": [
@@ -4658,6 +4939,7 @@
   {
     "_id": 1376573,
     "name": "Tetsucabra Mail S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -4678,6 +4960,7 @@
   {
     "_id": 1376574,
     "name": "Tetsucabra Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -4698,6 +4981,7 @@
   {
     "_id": 1376575,
     "name": "Hermitaur Mail S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -4718,6 +5002,7 @@
   {
     "_id": 1376576,
     "name": "Hermitaur Vest S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -4738,6 +5023,7 @@
   {
     "_id": 1376577,
     "name": "EX Hermitaur Mail",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -4758,6 +5044,7 @@
   {
     "_id": 1376578,
     "name": "EX Hermitaur Vest",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -4778,6 +5065,7 @@
   {
     "_id": 1376581,
     "name": "Volvidon Mail S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -4798,6 +5086,7 @@
   {
     "_id": 1376582,
     "name": "Volvidon Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -4818,6 +5107,7 @@
   {
     "_id": 1376583,
     "name": "Ludroth Mail S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -4834,6 +5124,7 @@
   {
     "_id": 1376584,
     "name": "Ludroth Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -4850,6 +5141,7 @@
   {
     "_id": 1376585,
     "name": "Ludroth Mail R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -4866,6 +5158,7 @@
   {
     "_id": 1376586,
     "name": "Ludroth Vest R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Body",
     "skills": [
@@ -4882,6 +5175,7 @@
   {
     "_id": 1376587,
     "name": "Lecturer's Suit",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -4902,6 +5196,7 @@
   {
     "_id": 1376588,
     "name": "Lecturer's Jacket",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -4922,6 +5217,7 @@
   {
     "_id": 1376589,
     "name": "Alloy Mail S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Body",
     "skills": [
@@ -4942,6 +5238,7 @@
   {
     "_id": 1376590,
     "name": "Alloy Vest S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -4962,6 +5259,7 @@
   {
     "_id": 1376591,
     "name": "Alloy Mail R",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -4978,6 +5276,7 @@
   {
     "_id": 1376592,
     "name": "Alloy Vest R",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -4994,6 +5293,7 @@
   {
     "_id": 1376593,
     "name": "Battle Mail S",
+    "num_slots": 2,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -5010,6 +5310,7 @@
   {
     "_id": 1376594,
     "name": "Battle Vest S",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -5026,6 +5327,7 @@
   {
     "_id": 1376595,
     "name": "Ingot Mail S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5046,6 +5348,7 @@
   {
     "_id": 1376596,
     "name": "Ingot Vest S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5066,6 +5369,7 @@
   {
     "_id": 1376597,
     "name": "Ingot Mail R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -5078,6 +5382,7 @@
   {
     "_id": 1376598,
     "name": "Ingot Vest R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -5090,6 +5395,7 @@
   {
     "_id": 1376599,
     "name": "High Metal Mail S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -5106,6 +5412,7 @@
   {
     "_id": 1376600,
     "name": "High Metal Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -5122,6 +5429,7 @@
   {
     "_id": 1376601,
     "name": "High Metal Mail U",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -5138,6 +5446,7 @@
   {
     "_id": 1376602,
     "name": "High Metal Vest U",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Body",
     "skills": [
@@ -5154,6 +5463,7 @@
   {
     "_id": 1376605,
     "name": "Lobster Mail",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5174,6 +5484,7 @@
   {
     "_id": 1376606,
     "name": "Lobster Vest",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5194,6 +5505,7 @@
   {
     "_id": 1376607,
     "name": "Obituary Thorax S",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5210,6 +5522,7 @@
   {
     "_id": 1376608,
     "name": "Obituary Pleuron S",
+    "num_slots": 2,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5226,6 +5539,7 @@
   {
     "_id": 1376609,
     "name": "Butterfly Thorax S",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5242,6 +5556,7 @@
   {
     "_id": 1376610,
     "name": "Butterfly Pleuron S",
+    "num_slots": 2,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5258,6 +5573,7 @@
   {
     "_id": 1376611,
     "name": "Death Stench Muscle S",
+    "num_slots": 2,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5270,6 +5586,7 @@
   {
     "_id": 1376612,
     "name": "Death Stench Heart S",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5282,6 +5599,7 @@
   {
     "_id": 1376613,
     "name": "Death Stench Muscle R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -5298,6 +5616,7 @@
   {
     "_id": 1376614,
     "name": "Death Stench Heart R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -5314,6 +5633,7 @@
   {
     "_id": 1376615,
     "name": "Vaik Mail S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -5330,6 +5650,7 @@
   {
     "_id": 1376616,
     "name": "Vaik Vest S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -5346,6 +5667,7 @@
   {
     "_id": 1376617,
     "name": "Aelucanth Thorax S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5366,6 +5688,7 @@
   {
     "_id": 1376618,
     "name": "Aelucanth Pleuron S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5386,6 +5709,7 @@
   {
     "_id": 1376619,
     "name": "Rhopessa Thorax S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5406,6 +5730,7 @@
   {
     "_id": 1376620,
     "name": "Rhopessa Pleuron S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5426,6 +5751,7 @@
   {
     "_id": 1376621,
     "name": "Patissier's Suit",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -5446,6 +5772,7 @@
   {
     "_id": 1376622,
     "name": "Patissier's Vest",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -5466,6 +5793,7 @@
   {
     "_id": 1376623,
     "name": "Skalda Thorax S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5478,6 +5806,7 @@
   {
     "_id": 1376624,
     "name": "Skalda Pleuron S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5490,6 +5819,7 @@
   {
     "_id": 1376625,
     "name": "Spio Thorax S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5502,6 +5832,7 @@
   {
     "_id": 1376626,
     "name": "Spio Pleuron S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5514,6 +5845,7 @@
   {
     "_id": 1376627,
     "name": "Malfestio Mail S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -5534,6 +5866,7 @@
   {
     "_id": 1376628,
     "name": "Malfestio Vest S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -5554,6 +5887,7 @@
   {
     "_id": 1376629,
     "name": "Zamtrios Mail",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -5574,6 +5908,7 @@
   {
     "_id": 1376630,
     "name": "Zamtrios Vest",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -5594,6 +5929,7 @@
   {
     "_id": 1376631,
     "name": "Khezu Mail S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5610,6 +5946,7 @@
   {
     "_id": 1376632,
     "name": "Khezu Vest S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5626,6 +5963,7 @@
   {
     "_id": 1376633,
     "name": "Khezu Mail R",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -5642,6 +5980,7 @@
   {
     "_id": 1376634,
     "name": "Khezu Vest R",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -5658,6 +5997,7 @@
   {
     "_id": 1376635,
     "name": "Rathian Mail S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5678,6 +6018,7 @@
   {
     "_id": 1376636,
     "name": "Rathian Vest S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5698,6 +6039,7 @@
   {
     "_id": 1376637,
     "name": "EX Rathian Mail",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -5718,6 +6060,7 @@
   {
     "_id": 1376638,
     "name": "EX Rathian Vest",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -5738,6 +6081,7 @@
   {
     "_id": 1376639,
     "name": "Rathian Mail R",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -5750,6 +6094,7 @@
   {
     "_id": 1376640,
     "name": "Rathian Vest R",
+    "num_slots": 2,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -5762,6 +6107,7 @@
   {
     "_id": 1376641,
     "name": "Nibelsnarf Mail S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5778,6 +6124,7 @@
   {
     "_id": 1376642,
     "name": "Nibelsnarf Vest S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5794,6 +6141,7 @@
   {
     "_id": 1376643,
     "name": "Plesioth Mail",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -5814,6 +6162,7 @@
   {
     "_id": 1376644,
     "name": "Plesioth Vest",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -5834,6 +6183,7 @@
   {
     "_id": 1376645,
     "name": "Blango Mail S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -5850,6 +6200,7 @@
   {
     "_id": 1376646,
     "name": "Blango Vest S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -5866,6 +6217,7 @@
   {
     "_id": 1376647,
     "name": "EX Blango Mail",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -5882,6 +6234,7 @@
   {
     "_id": 1376648,
     "name": "EX Blango Vest",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -5898,6 +6251,7 @@
   {
     "_id": 1376649,
     "name": "Lavasioth Mail",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -5914,6 +6268,7 @@
   {
     "_id": 1376650,
     "name": "Lavasioth Vest",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -5930,6 +6285,7 @@
   {
     "_id": 1376651,
     "name": "EX Lavasioth Mail",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -5946,6 +6302,7 @@
   {
     "_id": 1376652,
     "name": "EX Lavasioth Vest",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -5962,6 +6319,7 @@
   {
     "_id": 1376653,
     "name": "Ceanataur Mail S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -5978,6 +6336,7 @@
   {
     "_id": 1376654,
     "name": "Ceanataur Vest S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -5994,6 +6353,7 @@
   {
     "_id": 1376655,
     "name": "EX Ceanataur Mail",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -6014,6 +6374,7 @@
   {
     "_id": 1376656,
     "name": "EX Ceanataur Vest",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -6034,6 +6395,7 @@
   {
     "_id": 1376657,
     "name": "Ceanataur Mail R",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -6054,6 +6416,7 @@
   {
     "_id": 1376658,
     "name": "Ceanataur Vest R",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -6074,6 +6437,7 @@
   {
     "_id": 1376659,
     "name": "Najarala Mail S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -6094,6 +6458,7 @@
   {
     "_id": 1376660,
     "name": "Najarala Vest S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -6114,6 +6479,7 @@
   {
     "_id": 1376661,
     "name": "Nargacuga Mail S",
+    "num_slots": 0,
     "max_defense": 116,
     "sub_type": "Body",
     "skills": [
@@ -6134,6 +6500,7 @@
   {
     "_id": 1376662,
     "name": "Nargacuga Vest S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Body",
     "skills": [
@@ -6154,6 +6521,7 @@
   {
     "_id": 1376663,
     "name": "Garuga Mail S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -6174,6 +6542,7 @@
   {
     "_id": 1376664,
     "name": "Garuga Vest S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -6194,6 +6563,7 @@
   {
     "_id": 1376666,
     "name": "Uragaan Mail S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -6210,6 +6580,7 @@
   {
     "_id": 1376667,
     "name": "Uragaan Vest S",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -6226,6 +6597,7 @@
   {
     "_id": 1376668,
     "name": "Black Belt Mail S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -6242,6 +6614,7 @@
   {
     "_id": 1376669,
     "name": "Black Belt Vest S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -6258,6 +6631,7 @@
   {
     "_id": 1376670,
     "name": "Guardian Suit",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -6278,6 +6652,7 @@
   {
     "_id": 1376671,
     "name": "Guardian Vest",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -6298,6 +6673,7 @@
   {
     "_id": 1376672,
     "name": "Guardian Suit U",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -6318,6 +6694,7 @@
   {
     "_id": 1376673,
     "name": "Guardian Vest U",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -6338,6 +6715,7 @@
   {
     "_id": 1376674,
     "name": "Scholar's Blouse",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -6358,6 +6736,7 @@
   {
     "_id": 1376675,
     "name": "Scholar's Vest",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -6378,6 +6757,7 @@
   {
     "_id": 1376676,
     "name": "Sailor Suit",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -6398,6 +6778,7 @@
   {
     "_id": 1376677,
     "name": "Sailor Vest",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -6418,6 +6799,7 @@
   {
     "_id": 1376678,
     "name": "Luxury Bath Robe",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Body",
     "skills": [
@@ -6434,6 +6816,7 @@
   {
     "_id": 1376679,
     "name": "Kita Star Jacket",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -6450,6 +6833,7 @@
   {
     "_id": 1376680,
     "name": "Umi Ocean Jacket",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -6466,6 +6850,7 @@
   {
     "_id": 1376682,
     "name": "Derring Mail S",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -6482,6 +6867,7 @@
   {
     "_id": 1376683,
     "name": "Derring Vest S",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -6498,6 +6884,7 @@
   {
     "_id": 1376684,
     "name": "Dober Mail",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -6514,6 +6901,7 @@
   {
     "_id": 1376685,
     "name": "Dober Vest",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -6530,6 +6918,7 @@
   {
     "_id": 1376686,
     "name": "Damascus Mail",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -6550,6 +6939,7 @@
   {
     "_id": 1376687,
     "name": "Damascus Vest",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -6570,6 +6960,7 @@
   {
     "_id": 1376688,
     "name": "Damascus Mail R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -6582,6 +6973,7 @@
   {
     "_id": 1376689,
     "name": "Damascus Vest R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -6594,6 +6986,7 @@
   {
     "_id": 1376696,
     "name": "Artian Mail S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -6610,6 +7003,7 @@
   {
     "_id": 1376697,
     "name": "Artian Vest S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -6622,6 +7016,7 @@
   {
     "_id": 1376698,
     "name": "Artian Mail R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -6634,6 +7029,7 @@
   {
     "_id": 1376699,
     "name": "Artian Vest R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -6646,6 +7042,7 @@
   {
     "_id": 1376700,
     "name": "Seltas Mail",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -6666,6 +7063,7 @@
   {
     "_id": 1376701,
     "name": "Seltas Vest",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -6686,6 +7084,7 @@
   {
     "_id": 1376702,
     "name": "Rathalos Mail S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -6702,6 +7101,7 @@
   {
     "_id": 1376703,
     "name": "Rathalos Vest S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -6718,6 +7118,7 @@
   {
     "_id": 1376704,
     "name": "EX Rathalos Mail",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -6730,6 +7131,7 @@
   {
     "_id": 1376705,
     "name": "EX Rathalos Vest",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -6742,6 +7144,7 @@
   {
     "_id": 1376706,
     "name": "Rathalos Mail R",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -6758,6 +7161,7 @@
   {
     "_id": 1376707,
     "name": "Rathalos Vest R",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -6774,6 +7178,7 @@
   {
     "_id": 1376708,
     "name": "Lagiacrus Mail S",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -6790,6 +7195,7 @@
   {
     "_id": 1376709,
     "name": "Lagiacrus Vest S",
+    "num_slots": 2,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -6806,6 +7212,7 @@
   {
     "_id": 1376710,
     "name": "Lagiacrus Mail R",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -6818,6 +7225,7 @@
   {
     "_id": 1376711,
     "name": "Lagiacrus Vest R",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -6830,6 +7238,7 @@
   {
     "_id": 1376712,
     "name": "Zinogre Mail S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -6842,6 +7251,7 @@
   {
     "_id": 1376713,
     "name": "Zinogre Vest S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -6854,6 +7264,7 @@
   {
     "_id": 1376714,
     "name": "EX Zinogre Mail",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -6874,6 +7285,7 @@
   {
     "_id": 1376715,
     "name": "EX Zinogre Vest",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -6894,6 +7306,7 @@
   {
     "_id": 1376716,
     "name": "Mizutsune Mail S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -6914,6 +7327,7 @@
   {
     "_id": 1376717,
     "name": "Mizutsune Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -6934,6 +7348,7 @@
   {
     "_id": 1376718,
     "name": "Astalos Mail S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -6954,6 +7369,7 @@
   {
     "_id": 1376719,
     "name": "Astalos Vest S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -6974,6 +7390,7 @@
   {
     "_id": 1376720,
     "name": "Gammoth Mail S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -6994,6 +7411,7 @@
   {
     "_id": 1376721,
     "name": "Gammoth Vest S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -7014,6 +7432,7 @@
   {
     "_id": 1376722,
     "name": "Glavenus Mail S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7030,6 +7449,7 @@
   {
     "_id": 1376723,
     "name": "Glavenus Vest S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7046,6 +7466,7 @@
   {
     "_id": 1376724,
     "name": "Agnaktor Mail",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7062,6 +7483,7 @@
   {
     "_id": 1376725,
     "name": "Agnaktor Vest",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7078,6 +7500,7 @@
   {
     "_id": 1376726,
     "name": "Gore Mail S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7094,6 +7517,7 @@
   {
     "_id": 1376727,
     "name": "Gore Vest S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7110,6 +7534,7 @@
   {
     "_id": 1376728,
     "name": "EX Gore Mail",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -7126,6 +7551,7 @@
   {
     "_id": 1376729,
     "name": "EX Gore Vest",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -7142,6 +7568,7 @@
   {
     "_id": 1376730,
     "name": "Gore Mail R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -7154,6 +7581,7 @@
   {
     "_id": 1376731,
     "name": "Gore Vest R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -7166,6 +7594,7 @@
   {
     "_id": 1376732,
     "name": "Regios Mail S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7182,6 +7611,7 @@
   {
     "_id": 1376733,
     "name": "Regios Vest S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7198,6 +7628,7 @@
   {
     "_id": 1376734,
     "name": "Duramboros Mail",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -7214,6 +7645,7 @@
   {
     "_id": 1376735,
     "name": "Duramboros Vest",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -7230,6 +7662,7 @@
   {
     "_id": 1376736,
     "name": "Tigrex Mail S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7250,6 +7683,7 @@
   {
     "_id": 1376737,
     "name": "Tigrex Vest S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7270,6 +7704,7 @@
   {
     "_id": 1376738,
     "name": "EX Tigrex Mail",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -7290,6 +7725,7 @@
   {
     "_id": 1376739,
     "name": "EX Tigrex Vest",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -7310,6 +7746,7 @@
   {
     "_id": 1376740,
     "name": "Tigrex Mail R",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -7322,6 +7759,7 @@
   {
     "_id": 1376741,
     "name": "Tigrex Vest R",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -7334,6 +7772,7 @@
   {
     "_id": 1376742,
     "name": "Kirin Jacket S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -7354,6 +7793,7 @@
   {
     "_id": 1376743,
     "name": "Kirin Cape S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -7374,6 +7814,7 @@
   {
     "_id": 1376744,
     "name": "Kirin Jacket R",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -7386,6 +7827,7 @@
   {
     "_id": 1376745,
     "name": "Kirin Cape R",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -7398,6 +7840,7 @@
   {
     "_id": 1376746,
     "name": "Brachydios Mail S",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -7414,6 +7857,7 @@
   {
     "_id": 1376747,
     "name": "Brachydios Vest S",
+    "num_slots": 2,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -7430,6 +7874,7 @@
   {
     "_id": 1376748,
     "name": "EX Brachydios Mail",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -7446,6 +7891,7 @@
   {
     "_id": 1376749,
     "name": "EX Brachydios Vest",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -7462,6 +7908,7 @@
   {
     "_id": 1376750,
     "name": "Golden Haori",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -7482,6 +7929,7 @@
   {
     "_id": 1376751,
     "name": "Puppeteer Suit",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -7502,6 +7950,7 @@
   {
     "_id": 1376752,
     "name": "Vangis Mail",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -7522,6 +7971,7 @@
   {
     "_id": 1376753,
     "name": "Vangis Vest",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -7542,6 +7992,7 @@
   {
     "_id": 1376754,
     "name": "Guild Knight Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7558,6 +8009,7 @@
   {
     "_id": 1376755,
     "name": "Guild Knight Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7574,6 +8026,7 @@
   {
     "_id": 1376756,
     "name": "Maiden's Suit S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7590,6 +8043,7 @@
   {
     "_id": 1376757,
     "name": "French Maid Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7606,6 +8060,7 @@
   {
     "_id": 1376758,
     "name": "Blue Guild Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7622,6 +8077,7 @@
   {
     "_id": 1376759,
     "name": "Blue Guild Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7638,6 +8094,7 @@
   {
     "_id": 1376760,
     "name": "Red Guild Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7654,6 +8111,7 @@
   {
     "_id": 1376761,
     "name": "Red Guild Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7670,6 +8128,7 @@
   {
     "_id": 1376762,
     "name": "Helper Suit S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7686,6 +8145,7 @@
   {
     "_id": 1376763,
     "name": "Healer Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7702,6 +8162,7 @@
   {
     "_id": 1376764,
     "name": "Helper Suit U",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7722,6 +8183,7 @@
   {
     "_id": 1376765,
     "name": "Healer Vest U",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7742,6 +8204,7 @@
   {
     "_id": 1376766,
     "name": "Guild Bard Bolero S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7758,6 +8221,7 @@
   {
     "_id": 1376767,
     "name": "Guild Bard Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7774,6 +8238,7 @@
   {
     "_id": 1376771,
     "name": "Dianthus Wealcoat",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7794,6 +8259,7 @@
   {
     "_id": 1376772,
     "name": "Campanile Wealcoat",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7814,6 +8280,7 @@
   {
     "_id": 1376773,
     "name": "Ace Mail",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7834,6 +8301,7 @@
   {
     "_id": 1376774,
     "name": "Ace Vest",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7854,6 +8322,7 @@
   {
     "_id": 1376775,
     "name": "Sororal Mail",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7874,6 +8343,7 @@
   {
     "_id": 1376776,
     "name": "Sororal Vest",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7894,6 +8364,7 @@
   {
     "_id": 1376777,
     "name": "Hawksuit",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7914,6 +8385,7 @@
   {
     "_id": 1376778,
     "name": "Hawkjacket",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7934,6 +8406,7 @@
   {
     "_id": 1376779,
     "name": "Gourmew Suit S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -7954,6 +8427,7 @@
   {
     "_id": 1376780,
     "name": "Gourmew Vest S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -7974,6 +8448,7 @@
   {
     "_id": 1376782,
     "name": "Scholarly Suit S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -7986,6 +8461,7 @@
   {
     "_id": 1376783,
     "name": "Scholarly Vest S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -7998,6 +8474,7 @@
   {
     "_id": 1376784,
     "name": "Ranger's Girdle",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -8014,6 +8491,7 @@
   {
     "_id": 1376785,
     "name": "Archer's Girdle",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -8030,6 +8508,7 @@
   {
     "_id": 1376786,
     "name": "Shinobi Heaven Suit",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -8046,6 +8525,7 @@
   {
     "_id": 1376787,
     "name": "Shinobi Land Suit",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -8062,6 +8542,7 @@
   {
     "_id": 1376788,
     "name": "Shinobi Sky Suit",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -8078,6 +8559,7 @@
   {
     "_id": 1376789,
     "name": "Shinobi Sea Suit",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -8094,6 +8576,7 @@
   {
     "_id": 1376790,
     "name": "Ancient Mail",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8114,6 +8597,7 @@
   {
     "_id": 1376791,
     "name": "Ancient Vest",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8134,6 +8618,7 @@
   {
     "_id": 1376792,
     "name": "Master's Mail",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8154,6 +8639,7 @@
   {
     "_id": 1376793,
     "name": "Master's Vest",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8174,6 +8660,7 @@
   {
     "_id": 1376794,
     "name": "Black Hide S",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8194,6 +8681,7 @@
   {
     "_id": 1376795,
     "name": "Black Skin S",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8214,6 +8702,7 @@
   {
     "_id": 1376796,
     "name": "Toka Doate",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8234,6 +8723,7 @@
   {
     "_id": 1376797,
     "name": "Mitsuaoi Doate",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8254,6 +8744,7 @@
   {
     "_id": 1376798,
     "name": "EX Rathian Mail S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8274,6 +8765,7 @@
   {
     "_id": 1376799,
     "name": "EX Rathian Vest S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -8294,6 +8786,7 @@
   {
     "_id": 1376800,
     "name": "EX Rathalos Mail S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8314,6 +8807,7 @@
   {
     "_id": 1376801,
     "name": "EX Rathalos Vest S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -8334,6 +8828,7 @@
   {
     "_id": 1376802,
     "name": "EX Tigrex Mail S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8354,6 +8849,7 @@
   {
     "_id": 1376803,
     "name": "EX Tigrex Vest S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -8374,6 +8870,7 @@
   {
     "_id": 1376804,
     "name": "Arc Mail S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -8394,6 +8891,7 @@
   {
     "_id": 1376805,
     "name": "Storge Mail S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -8414,6 +8912,7 @@
   {
     "_id": 1376806,
     "name": "Arc Vest S",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -8434,6 +8933,7 @@
   {
     "_id": 1376807,
     "name": "Storge Vest S",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -8454,6 +8954,7 @@
   {
     "_id": 1376808,
     "name": "EX Arc Mail",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -8474,6 +8975,7 @@
   {
     "_id": 1376809,
     "name": "EX Storge Mail",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -8494,6 +8996,7 @@
   {
     "_id": 1376810,
     "name": "EX Arc Vest",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -8514,6 +9017,7 @@
   {
     "_id": 1376811,
     "name": "EX Storge Vest",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -8534,6 +9038,7 @@
   {
     "_id": 1376812,
     "name": "Arc Mail R",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8546,6 +9051,7 @@
   {
     "_id": 1376813,
     "name": "Storge Mail R",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8558,6 +9064,7 @@
   {
     "_id": 1376814,
     "name": "Arc Vest R",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -8570,6 +9077,7 @@
   {
     "_id": 1376815,
     "name": "Storge Vest R",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -8582,6 +9090,7 @@
   {
     "_id": 1376816,
     "name": "Kushala Cista S",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -8602,6 +9111,7 @@
   {
     "_id": 1376817,
     "name": "Kushala Vise S",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -8622,6 +9132,7 @@
   {
     "_id": 1376818,
     "name": "EX Kushala Cista",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -8642,6 +9153,7 @@
   {
     "_id": 1376819,
     "name": "EX Kushala Vise",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -8662,6 +9174,7 @@
   {
     "_id": 1376820,
     "name": "Kushala Cista R",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -8678,6 +9191,7 @@
   {
     "_id": 1376821,
     "name": "Kushala Vise R",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -8694,6 +9208,7 @@
   {
     "_id": 1376822,
     "name": "Mizuha Guards S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -8714,6 +9229,7 @@
   {
     "_id": 1376823,
     "name": "Cham Camise S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -8734,6 +9250,7 @@
   {
     "_id": 1376824,
     "name": "EX Mizuha Guards",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -8754,6 +9271,7 @@
   {
     "_id": 1376825,
     "name": "EX Cham Camise",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -8774,6 +9292,7 @@
   {
     "_id": 1376826,
     "name": "Kaiser Mail S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8794,6 +9313,7 @@
   {
     "_id": 1376827,
     "name": "Kaiser Vest S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8814,6 +9334,7 @@
   {
     "_id": 1376828,
     "name": "EX Kaiser Mail",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -8834,6 +9355,7 @@
   {
     "_id": 1376829,
     "name": "EX Kaiser Vest",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -8854,6 +9376,7 @@
   {
     "_id": 1376830,
     "name": "Silver Solmail",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -8874,6 +9397,7 @@
   {
     "_id": 1376831,
     "name": "Silver Solvest",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -8894,6 +9418,7 @@
   {
     "_id": 1376832,
     "name": "EX Silver Solmail",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -8914,6 +9439,7 @@
   {
     "_id": 1376833,
     "name": "EX Silver Solvest",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -8934,6 +9460,7 @@
   {
     "_id": 1376834,
     "name": "Silver Solmail R",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -8950,6 +9477,7 @@
   {
     "_id": 1376835,
     "name": "Silver Solvest R",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -8966,6 +9494,7 @@
   {
     "_id": 1376836,
     "name": "Golden Lunemail",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -8986,6 +9515,7 @@
   {
     "_id": 1376837,
     "name": "Golden Lunevest",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -9006,6 +9536,7 @@
   {
     "_id": 1376838,
     "name": "EX Golden Lunemail",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -9026,6 +9557,7 @@
   {
     "_id": 1376839,
     "name": "EX Golden Lunevest",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -9046,6 +9578,7 @@
   {
     "_id": 1376840,
     "name": "Divine Ire Haori",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9066,6 +9599,7 @@
   {
     "_id": 1376841,
     "name": "Crusher Garb",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9086,6 +9620,7 @@
   {
     "_id": 1376842,
     "name": "Esurient Mail",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9106,6 +9641,7 @@
   {
     "_id": 1376843,
     "name": "Esurient Vest",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9126,6 +9662,7 @@
   {
     "_id": 1376844,
     "name": "Esurient Mail R",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -9138,6 +9675,7 @@
   {
     "_id": 1376845,
     "name": "Esurient Vest R",
+    "num_slots": 2,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -9150,6 +9688,7 @@
   {
     "_id": 1376846,
     "name": "Akantor Aegis",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -9170,6 +9709,7 @@
   {
     "_id": 1376847,
     "name": "Akantor Plate",
+    "num_slots": 0,
     "max_defense": 73,
     "sub_type": "Body",
     "skills": [
@@ -9190,6 +9730,7 @@
   {
     "_id": 1376848,
     "name": "Akantor Aegis R",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9206,6 +9747,7 @@
   {
     "_id": 1376849,
     "name": "Akantor Plate R",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9222,6 +9764,7 @@
   {
     "_id": 1376850,
     "name": "Ukanlos Aegis",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -9242,6 +9785,7 @@
   {
     "_id": 1376851,
     "name": "Ukanlos Plate",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Body",
     "skills": [
@@ -9262,6 +9806,7 @@
   {
     "_id": 1376852,
     "name": "Tempest Robe",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9282,6 +9827,7 @@
   {
     "_id": 1376853,
     "name": "Welkin Robe",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9302,6 +9848,7 @@
   {
     "_id": 1376854,
     "name": "Tempest Robe R",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -9318,6 +9865,7 @@
   {
     "_id": 1376855,
     "name": "Welkin Robe R",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -9334,6 +9882,7 @@
   {
     "_id": 1376856,
     "name": "Skeletal Sternum R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9354,6 +9903,7 @@
   {
     "_id": 1376857,
     "name": "Decayed Sternum R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9374,6 +9924,7 @@
   {
     "_id": 1376858,
     "name": "Astral Suit",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -9394,6 +9945,7 @@
   {
     "_id": 1376859,
     "name": "Astral Vest",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -9414,6 +9966,7 @@
   {
     "_id": 1376860,
     "name": "Escadora Soul",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -9434,6 +9987,7 @@
   {
     "_id": 1376861,
     "name": "Escadora Seele",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Body",
     "skills": [
@@ -9454,6 +10008,7 @@
   {
     "_id": 1376862,
     "name": "Escadora Soul R",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -9470,6 +10025,7 @@
   {
     "_id": 1376863,
     "name": "Escadora Seele R",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Body",
     "skills": [
@@ -9486,6 +10042,7 @@
   {
     "_id": 1376871,
     "name": "Strange Mail",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -9506,6 +10063,7 @@
   {
     "_id": 1376872,
     "name": "Strange Vest",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -9526,6 +10084,7 @@
   {
     "_id": 1376873,
     "name": "Redhelm Mail",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -9550,6 +10109,7 @@
   {
     "_id": 1376874,
     "name": "Redhelm Vest",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -9574,6 +10134,7 @@
   {
     "_id": 1376875,
     "name": "Snowbaron Mail",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -9598,6 +10159,7 @@
   {
     "_id": 1376876,
     "name": "Snowbaron Vest",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -9622,6 +10184,7 @@
   {
     "_id": 1376877,
     "name": "Stonefist Mail",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -9646,6 +10209,7 @@
   {
     "_id": 1376878,
     "name": "Stonefist Vest",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -9670,6 +10234,7 @@
   {
     "_id": 1376879,
     "name": "Dreadqueen Mail",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -9694,6 +10259,7 @@
   {
     "_id": 1376880,
     "name": "Dreadqueen Vest",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -9718,6 +10284,7 @@
   {
     "_id": 1376881,
     "name": "Drilltusk Mail",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -9742,6 +10309,7 @@
   {
     "_id": 1376882,
     "name": "Drilltusk Vest",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -9766,6 +10334,7 @@
   {
     "_id": 1376883,
     "name": "Silverwind Mail",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -9790,6 +10359,7 @@
   {
     "_id": 1376884,
     "name": "Silverwind Vest",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Body",
     "skills": [
@@ -9814,6 +10384,7 @@
   {
     "_id": 1376885,
     "name": "Crystalbeard Mail",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Body",
     "skills": [
@@ -9838,6 +10409,7 @@
   {
     "_id": 1376886,
     "name": "Crystalbeard Vest",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -9862,6 +10434,7 @@
   {
     "_id": 1376887,
     "name": "Deadeye Mail",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Body",
     "skills": [
@@ -9886,6 +10459,7 @@
   {
     "_id": 1376888,
     "name": "Deadeye Vest",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -9910,6 +10484,7 @@
   {
     "_id": 1376889,
     "name": "Dreadking Mail",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -9934,6 +10509,7 @@
   {
     "_id": 1376890,
     "name": "Dreadking Vest",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -9958,6 +10534,7 @@
   {
     "_id": 1376891,
     "name": "Thunderlord Mail",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Body",
     "skills": [
@@ -9982,6 +10559,7 @@
   {
     "_id": 1376892,
     "name": "Thunderlord Vest",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -10006,6 +10584,7 @@
   {
     "_id": 1376893,
     "name": "Grimclaw Mail",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Body",
     "skills": [
@@ -10030,6 +10609,7 @@
   {
     "_id": 1376894,
     "name": "Grimclaw Vest",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -10054,6 +10634,7 @@
   {
     "_id": 1376895,
     "name": "Hellblade Mail",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Body",
     "skills": [
@@ -10078,6 +10659,7 @@
   {
     "_id": 1376896,
     "name": "Hellblade Vest",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -10102,6 +10684,7 @@
   {
     "_id": 1376902,
     "name": "X Gammoth Jacket",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -10118,6 +10701,7 @@
   {
     "_id": 1376903,
     "name": "X Gammoth Jersey",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -10134,6 +10718,7 @@
   {
     "_id": 1376904,
     "name": "X Mizutsune Jacket",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -10150,6 +10735,7 @@
   {
     "_id": 1376905,
     "name": "X Mizutsune Jersey",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -10166,6 +10752,7 @@
   {
     "_id": 1376906,
     "name": "X Dino Jacket",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -10182,6 +10769,7 @@
   {
     "_id": 1376907,
     "name": "X Dino Jersey",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -10198,6 +10786,7 @@
   {
     "_id": 1376908,
     "name": "X Astalos Jacket",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -10214,6 +10803,7 @@
   {
     "_id": 1376909,
     "name": "X Astalos Jersey",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -10230,6 +10820,7 @@
   {
     "_id": 1376910,
     "name": "Booyah Jacket",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -10246,6 +10837,7 @@
   {
     "_id": 1376911,
     "name": "Booyah Bomber",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -10262,6 +10854,7 @@
   {
     "_id": 1376912,
     "name": "Biker Jacket",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -10274,6 +10867,7 @@
   {
     "_id": 1376913,
     "name": "Biker Leather",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -10286,6 +10880,7 @@
   {
     "_id": 1376914,
     "name": "Ultimate Garb",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -10306,6 +10901,7 @@
   {
     "_id": 1376915,
     "name": "Ultimate Attire",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -10326,6 +10922,7 @@
   {
     "_id": 1376916,
     "name": "Champion's Body",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -10346,6 +10943,7 @@
   {
     "_id": 1376917,
     "name": "Strongman's Body",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -10366,6 +10964,7 @@
   {
     "_id": 1376918,
     "name": "Zodias Mail",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -10386,6 +10985,7 @@
   {
     "_id": 1376919,
     "name": "Zodias Vest",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Body",
     "skills": [
@@ -10406,6 +11006,7 @@
   {
     "_id": 1376920,
     "name": "Pirate Suit J",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -10426,6 +11027,7 @@
   {
     "_id": 1376921,
     "name": "Pirate Jacket J",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -10446,6 +11048,7 @@
   {
     "_id": 1376922,
     "name": "Buccaneer Suit J",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -10466,6 +11069,7 @@
   {
     "_id": 1376923,
     "name": "Buccaneer Jacket J",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -10486,6 +11090,7 @@
   {
     "_id": 1376924,
     "name": "Dynaqlo Coat",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -10506,6 +11111,7 @@
   {
     "_id": 1376925,
     "name": "Dynaqlo Jacket",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -10526,6 +11132,7 @@
   {
     "_id": 1376938,
     "name": "Hero's Clothes",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -10546,6 +11153,7 @@
   {
     "_id": 1376939,
     "name": "Hero's Tunic",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -10566,6 +11174,7 @@
   {
     "_id": 1376940,
     "name": "Varia Suit Armor",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -10586,6 +11195,7 @@
   {
     "_id": 1376941,
     "name": "Varia Suit Barrier",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -10606,6 +11216,7 @@
   {
     "_id": 1376942,
     "name": "Zero Suit Body",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -10626,6 +11237,7 @@
   {
     "_id": 1376943,
     "name": "Zero Suit Wear",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -10646,6 +11258,7 @@
   {
     "_id": 1376944,
     "name": "Mail of Rage",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -10666,6 +11279,7 @@
   {
     "_id": 1376945,
     "name": "Vest of Rage",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -10686,6 +11300,7 @@
   {
     "_id": 1376946,
     "name": "Mail of Anat",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -10706,6 +11321,7 @@
   {
     "_id": 1376947,
     "name": "Vest of Anat",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -10726,6 +11342,7 @@
   {
     "_id": 1376948,
     "name": "Rider Jacket",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -10738,6 +11355,7 @@
   {
     "_id": 1376949,
     "name": "Rider Leather",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -10750,6 +11368,7 @@
   {
     "_id": 1376950,
     "name": "Mosgharl Ribplate",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -10770,6 +11389,7 @@
   {
     "_id": 1376951,
     "name": "Mosgharl Ribguard",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Body",
     "skills": [
@@ -10790,6 +11410,7 @@
   {
     "_id": 1376956,
     "name": "Leather Vest S",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -10802,6 +11423,7 @@
   {
     "_id": 1376957,
     "name": "Chainmail Vest S",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -10814,6 +11436,7 @@
   {
     "_id": 1376958,
     "name": "Mosgharl Ribplate S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Body",
     "skills": [
@@ -10834,6 +11457,7 @@
   {
     "_id": 1376959,
     "name": "Mosgharl Ribguard S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Body",
     "skills": [
@@ -10854,6 +11478,7 @@
   {
     "_id": 1376962,
     "name": "Blue Guild Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -10870,6 +11495,7 @@
   {
     "_id": 1376963,
     "name": "Blue Guild Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -10886,6 +11512,7 @@
   {
     "_id": 1376964,
     "name": "Red Guild Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -10902,6 +11529,7 @@
   {
     "_id": 1376965,
     "name": "Red Guild Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -10918,6 +11546,7 @@
   {
     "_id": 1376966,
     "name": "Gourmew Suit S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Body",
     "skills": [
@@ -10938,6 +11567,7 @@
   {
     "_id": 1376967,
     "name": "Gourmew Vest S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Body",
     "skills": [
@@ -10958,6 +11588,7 @@
   {
     "_id": 1376974,
     "name": "Conga Mail",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -10978,6 +11609,7 @@
   {
     "_id": 1376975,
     "name": "Conga Vest",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Body",
     "skills": [
@@ -10998,6 +11630,7 @@
   {
     "_id": 1376976,
     "name": "Giaprey Body",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -11014,6 +11647,7 @@
   {
     "_id": 1376977,
     "name": "Giaprey Wear",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Body",
     "skills": [
@@ -11030,6 +11664,7 @@
   {
     "_id": 1376978,
     "name": "Barroth Mail",
+    "num_slots": 0,
     "max_defense": 110,
     "sub_type": "Body",
     "skills": [
@@ -11050,6 +11685,7 @@
   {
     "_id": 1376979,
     "name": "Barroth Vest",
+    "num_slots": 0,
     "max_defense": 55,
     "sub_type": "Body",
     "skills": [
@@ -11070,6 +11706,7 @@
   {
     "_id": 1376980,
     "name": "Basarios Mail",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -11086,6 +11723,7 @@
   {
     "_id": 1376981,
     "name": "Basarios Vest",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Body",
     "skills": [
@@ -11102,6 +11740,7 @@
   {
     "_id": 1376982,
     "name": "Nerscylla Mail",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11122,6 +11761,7 @@
   {
     "_id": 1376983,
     "name": "Nerscylla Vest",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -11142,6 +11782,7 @@
   {
     "_id": 1376984,
     "name": "Barioth Mail",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Body",
     "skills": [
@@ -11166,6 +11807,7 @@
   {
     "_id": 1376985,
     "name": "Barioth Vest",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Body",
     "skills": [
@@ -11190,6 +11832,7 @@
   {
     "_id": 1376986,
     "name": "Gravios Mail",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -11210,6 +11853,7 @@
   {
     "_id": 1376987,
     "name": "Gravios Vest",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Body",
     "skills": [
@@ -11230,6 +11874,7 @@
   {
     "_id": 1376988,
     "name": "Cheerful Suit",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -11250,6 +11895,7 @@
   {
     "_id": 1376989,
     "name": "Cheerful Vest",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -11270,6 +11916,7 @@
   {
     "_id": 1376990,
     "name": "Mariner Suit",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11290,6 +11937,7 @@
   {
     "_id": 1376991,
     "name": "Mariner Vest",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Body",
     "skills": [
@@ -11310,6 +11958,7 @@
   {
     "_id": 1376994,
     "name": "Diablos Mail",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -11330,6 +11979,7 @@
   {
     "_id": 1376995,
     "name": "Diablos Vest",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -11350,6 +12000,7 @@
   {
     "_id": 1376996,
     "name": "Diablos Mail R",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -11366,6 +12017,7 @@
   {
     "_id": 1376997,
     "name": "Diablos Vest R",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -11382,6 +12034,7 @@
   {
     "_id": 1376998,
     "name": "Valstrax Mail",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -11406,6 +12059,7 @@
   {
     "_id": 1376999,
     "name": "Valstrax Vest",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -11430,6 +12084,7 @@
   {
     "_id": 1377000,
     "name": "Wisdom Suit",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -11454,6 +12109,7 @@
   {
     "_id": 1377001,
     "name": "Wisdom Vest",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -11478,6 +12134,7 @@
   {
     "_id": 1377007,
     "name": "Bherna Mail X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11494,6 +12151,7 @@
   {
     "_id": 1377008,
     "name": "Bherna Vest X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -11510,6 +12168,7 @@
   {
     "_id": 1377009,
     "name": "Hunting Mail X",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11526,6 +12185,7 @@
   {
     "_id": 1377010,
     "name": "Hunting Vest X",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -11542,6 +12202,7 @@
   {
     "_id": 1377011,
     "name": "Mafumofu Suit X",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11558,6 +12219,7 @@
   {
     "_id": 1377012,
     "name": "Mafumofu Jacket X",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -11574,6 +12236,7 @@
   {
     "_id": 1377013,
     "name": "Yukumo Sky Dogi Goku",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Body",
     "skills": [
@@ -11590,6 +12253,7 @@
   {
     "_id": 1377014,
     "name": "Yukumo Land Dogi Goku",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Body",
     "skills": [
@@ -11606,6 +12270,7 @@
   {
     "_id": 1377015,
     "name": "Slagtoth Cloak X",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -11622,6 +12287,7 @@
   {
     "_id": 1377016,
     "name": "Slagtoth Wrap X",
+    "num_slots": 0,
     "max_defense": 79,
     "sub_type": "Body",
     "skills": [
@@ -11638,6 +12304,7 @@
   {
     "_id": 1377019,
     "name": "Velociprey Body X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -11654,6 +12321,7 @@
   {
     "_id": 1377020,
     "name": "Velociprey Suit X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Body",
     "skills": [
@@ -11670,6 +12338,7 @@
   {
     "_id": 1377021,
     "name": "Genprey Body X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -11686,6 +12355,7 @@
   {
     "_id": 1377022,
     "name": "Genprey Suit X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Body",
     "skills": [
@@ -11702,6 +12372,7 @@
   {
     "_id": 1377023,
     "name": "Ioprey Body X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -11718,6 +12389,7 @@
   {
     "_id": 1377024,
     "name": "Ioprey Wear X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Body",
     "skills": [
@@ -11734,6 +12406,7 @@
   {
     "_id": 1377025,
     "name": "Remobra Suit X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -11750,6 +12423,7 @@
   {
     "_id": 1377026,
     "name": "Remobra Wear X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Body",
     "skills": [
@@ -11766,6 +12440,7 @@
   {
     "_id": 1377029,
     "name": "Mosswine Vest X",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -11782,6 +12457,7 @@
   {
     "_id": 1377030,
     "name": "Rhenoplos Mail X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -11798,6 +12474,7 @@
   {
     "_id": 1377031,
     "name": "Rhenoplos Vest X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -11814,6 +12491,7 @@
   {
     "_id": 1377032,
     "name": "Jaggi Mail X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -11830,6 +12508,7 @@
   {
     "_id": 1377033,
     "name": "Jaggi Vest X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Body",
     "skills": [
@@ -11846,6 +12525,7 @@
   {
     "_id": 1377036,
     "name": "Droth Mail X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -11862,6 +12542,7 @@
   {
     "_id": 1377037,
     "name": "Droth Vest X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Body",
     "skills": [
@@ -11878,6 +12559,7 @@
   {
     "_id": 1377038,
     "name": "Uroktor Torso X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -11894,6 +12576,7 @@
   {
     "_id": 1377039,
     "name": "Uroktor Vest X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -11910,6 +12593,7 @@
   {
     "_id": 1377040,
     "name": "Maccao Mail X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -11926,6 +12610,7 @@
   {
     "_id": 1377041,
     "name": "Maccao Vest X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -11942,6 +12627,7 @@
   {
     "_id": 1377042,
     "name": "Velociprey Mail X",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -11958,6 +12644,7 @@
   {
     "_id": 1377043,
     "name": "Velociprey Vest X",
+    "num_slots": 0,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -11974,6 +12661,7 @@
   {
     "_id": 1377044,
     "name": "Giaprey Mail X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -11986,6 +12674,7 @@
   {
     "_id": 1377045,
     "name": "Giaprey Vest X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -11998,6 +12687,7 @@
   {
     "_id": 1377046,
     "name": "Genprey Mail X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -12018,6 +12708,7 @@
   {
     "_id": 1377047,
     "name": "Genprey Vest X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -12038,6 +12729,7 @@
   {
     "_id": 1377048,
     "name": "Ioprey Mail X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12054,6 +12746,7 @@
   {
     "_id": 1377049,
     "name": "Ioprey Vest X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12070,6 +12763,7 @@
   {
     "_id": 1377050,
     "name": "Vespoid Mail X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -12086,6 +12780,7 @@
   {
     "_id": 1377051,
     "name": "Vespoid Vest X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -12102,6 +12797,7 @@
   {
     "_id": 1377052,
     "name": "Hornetaur Mail X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -12118,6 +12814,7 @@
   {
     "_id": 1377053,
     "name": "Hornetaur Vest X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Body",
     "skills": [
@@ -12134,6 +12831,7 @@
   {
     "_id": 1377054,
     "name": "Bnahabra Suit X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -12150,6 +12848,7 @@
   {
     "_id": 1377055,
     "name": "Bnahabra Vest X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -12166,6 +12865,7 @@
   {
     "_id": 1377058,
     "name": "Bulldrome Mail X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -12186,6 +12886,7 @@
   {
     "_id": 1377059,
     "name": "Bulldrome Vest X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -12206,6 +12907,7 @@
   {
     "_id": 1377061,
     "name": "Arzuros Mail X",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -12226,6 +12928,7 @@
   {
     "_id": 1377062,
     "name": "Arzuros Vest X",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -12246,6 +12949,7 @@
   {
     "_id": 1377063,
     "name": "Cephalos Mail X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -12262,6 +12966,7 @@
   {
     "_id": 1377064,
     "name": "Cephalos Vest X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -12278,6 +12983,7 @@
   {
     "_id": 1377065,
     "name": "Kut-Ku Mail X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12298,6 +13004,7 @@
   {
     "_id": 1377066,
     "name": "Kut-Ku Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12318,6 +13025,7 @@
   {
     "_id": 1377067,
     "name": "Kecha Mail X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -12342,6 +13050,7 @@
   {
     "_id": 1377068,
     "name": "Kecha Vest X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -12366,6 +13075,7 @@
   {
     "_id": 1377069,
     "name": "Lagombi Mail X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -12386,6 +13096,7 @@
   {
     "_id": 1377070,
     "name": "Lagombi Vest X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -12406,6 +13117,7 @@
   {
     "_id": 1377071,
     "name": "Gypceros Mail X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12426,6 +13138,7 @@
   {
     "_id": 1377072,
     "name": "Gypceros Vest X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12446,6 +13159,7 @@
   {
     "_id": 1377073,
     "name": "Tetsucabra Mail X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12466,6 +13180,7 @@
   {
     "_id": 1377074,
     "name": "Tetsucabra Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12486,6 +13201,7 @@
   {
     "_id": 1377075,
     "name": "Hermitaur Mail X",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -12502,6 +13218,7 @@
   {
     "_id": 1377076,
     "name": "Hermitaur Vest X",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -12518,6 +13235,7 @@
   {
     "_id": 1377077,
     "name": "Ludroth Mail X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12534,6 +13252,7 @@
   {
     "_id": 1377078,
     "name": "Ludroth Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12550,6 +13269,7 @@
   {
     "_id": 1377079,
     "name": "Gourmew Suit X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -12574,6 +13294,7 @@
   {
     "_id": 1377080,
     "name": "Gourmew Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -12598,6 +13319,7 @@
   {
     "_id": 1377081,
     "name": "Gourmew Suit X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -12622,6 +13344,7 @@
   {
     "_id": 1377082,
     "name": "Gourmew Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -12646,6 +13369,7 @@
   {
     "_id": 1377083,
     "name": "Moofah Suit X",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -12666,6 +13390,7 @@
   {
     "_id": 1377084,
     "name": "Moofah Jacket X",
+    "num_slots": 0,
     "max_defense": 79,
     "sub_type": "Body",
     "skills": [
@@ -12686,6 +13411,7 @@
   {
     "_id": 1377085,
     "name": "Edel Ribplate X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -12698,6 +13424,7 @@
   {
     "_id": 1377086,
     "name": "Edel Ribguard X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Body",
     "skills": [
@@ -12710,6 +13437,7 @@
   {
     "_id": 1377087,
     "name": "Acorn Mail X",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -12730,6 +13458,7 @@
   {
     "_id": 1377088,
     "name": "Acorn Vest X",
+    "num_slots": 0,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -12750,6 +13479,7 @@
   {
     "_id": 1377089,
     "name": "Death Stench Muscle X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12762,6 +13492,7 @@
   {
     "_id": 1377090,
     "name": "Death Stench Heart X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12774,6 +13505,7 @@
   {
     "_id": 1377091,
     "name": "Skalda Thorax X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12790,6 +13522,7 @@
   {
     "_id": 1377092,
     "name": "Skalda Pleuron X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12806,6 +13539,7 @@
   {
     "_id": 1377093,
     "name": "Spio Thorax X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12822,6 +13556,7 @@
   {
     "_id": 1377094,
     "name": "Spio Pleuron X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12838,6 +13573,7 @@
   {
     "_id": 1377095,
     "name": "Hunter's Mail XR",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Body",
     "skills": [
@@ -12858,6 +13594,7 @@
   {
     "_id": 1377096,
     "name": "Hunter's Vest XR",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Body",
     "skills": [
@@ -12878,6 +13615,7 @@
   {
     "_id": 1377097,
     "name": "Volvidon Mail X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -12898,6 +13636,7 @@
   {
     "_id": 1377098,
     "name": "Volvidon Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -12918,6 +13657,7 @@
   {
     "_id": 1377099,
     "name": "Conga Mail X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -12938,6 +13678,7 @@
   {
     "_id": 1377100,
     "name": "Conga Vest X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -12958,6 +13699,7 @@
   {
     "_id": 1377101,
     "name": "Barroth Mail X",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -12982,6 +13724,7 @@
   {
     "_id": 1377102,
     "name": "Barroth Vest X",
+    "num_slots": 0,
     "max_defense": 90,
     "sub_type": "Body",
     "skills": [
@@ -13006,6 +13749,7 @@
   {
     "_id": 1377103,
     "name": "Basarios Mail X",
+    "num_slots": 0,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -13026,6 +13770,7 @@
   {
     "_id": 1377104,
     "name": "Basarios Vest X",
+    "num_slots": 0,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -13046,6 +13791,7 @@
   {
     "_id": 1377105,
     "name": "Malfestio Mail X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13070,6 +13816,7 @@
   {
     "_id": 1377106,
     "name": "Malfestio Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13094,6 +13841,7 @@
   {
     "_id": 1377107,
     "name": "Zamtrios Mail X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13114,6 +13862,7 @@
   {
     "_id": 1377108,
     "name": "Zamtrios Vest X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13134,6 +13883,7 @@
   {
     "_id": 1377109,
     "name": "Khezu Mail X",
+    "num_slots": 0,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -13154,6 +13904,7 @@
   {
     "_id": 1377110,
     "name": "Khezu Vest X",
+    "num_slots": 0,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -13174,6 +13925,7 @@
   {
     "_id": 1377111,
     "name": "Nerscylla Mail X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -13194,6 +13946,7 @@
   {
     "_id": 1377112,
     "name": "Nerscylla Vest X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -13214,6 +13967,7 @@
   {
     "_id": 1377113,
     "name": "Rathian Mail X",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -13234,6 +13988,7 @@
   {
     "_id": 1377114,
     "name": "Rathian Vest X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -13254,6 +14009,7 @@
   {
     "_id": 1377115,
     "name": "Nibelsnarf Mail X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -13270,6 +14026,7 @@
   {
     "_id": 1377116,
     "name": "Nibelsnarf Vest X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -13286,6 +14043,7 @@
   {
     "_id": 1377117,
     "name": "Plesioth Mail X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -13310,6 +14068,7 @@
   {
     "_id": 1377118,
     "name": "Plesioth Vest X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -13334,6 +14093,7 @@
   {
     "_id": 1377119,
     "name": "Blango Mail X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -13350,6 +14110,7 @@
   {
     "_id": 1377120,
     "name": "Blango Vest X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -13366,6 +14127,7 @@
   {
     "_id": 1377121,
     "name": "Ceanataur Mail X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -13382,6 +14144,7 @@
   {
     "_id": 1377122,
     "name": "Ceanataur Vest X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -13398,6 +14161,7 @@
   {
     "_id": 1377123,
     "name": "Najarala Mail X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -13418,6 +14182,7 @@
   {
     "_id": 1377124,
     "name": "Najarala Vest X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -13438,6 +14203,7 @@
   {
     "_id": 1377125,
     "name": "Nargacuga Mail X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -13458,6 +14224,7 @@
   {
     "_id": 1377126,
     "name": "Nargacuga Vest X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -13478,6 +14245,7 @@
   {
     "_id": 1377127,
     "name": "Gypceros Mail XR",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -13494,6 +14262,7 @@
   {
     "_id": 1377128,
     "name": "Gypceros Vest XR",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Body",
     "skills": [
@@ -13510,6 +14279,7 @@
   {
     "_id": 1377129,
     "name": "Hermitaur Mail XR",
+    "num_slots": 3,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13522,6 +14292,7 @@
   {
     "_id": 1377130,
     "name": "Hermitaur Vest XR",
+    "num_slots": 3,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13534,6 +14305,7 @@
   {
     "_id": 1377131,
     "name": "Ludroth Mail XR",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -13550,6 +14322,7 @@
   {
     "_id": 1377132,
     "name": "Ludroth Vest XR",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -13566,6 +14339,7 @@
   {
     "_id": 1377133,
     "name": "Strange Mail X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -13590,6 +14364,7 @@
   {
     "_id": 1377134,
     "name": "Strange Vest X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -13614,6 +14389,7 @@
   {
     "_id": 1377135,
     "name": "Bistro Suit X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -13634,6 +14410,7 @@
   {
     "_id": 1377136,
     "name": "Bistro Vest X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -13654,6 +14431,7 @@
   {
     "_id": 1377137,
     "name": "Lecturer's Suit X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13674,6 +14452,7 @@
   {
     "_id": 1377138,
     "name": "Lecturer's Jacket X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13694,6 +14473,7 @@
   {
     "_id": 1377139,
     "name": "Patissier's Suit X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13714,6 +14494,7 @@
   {
     "_id": 1377140,
     "name": "Patissier's Vest X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13734,6 +14515,7 @@
   {
     "_id": 1377141,
     "name": "Posh Bath Robe",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Body",
     "skills": [
@@ -13754,6 +14536,7 @@
   {
     "_id": 1377142,
     "name": "Maiden's Suit X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13774,6 +14557,7 @@
   {
     "_id": 1377143,
     "name": "French Maid Vest X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13794,6 +14578,7 @@
   {
     "_id": 1377144,
     "name": "Dianthus Masajacket",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13818,6 +14603,7 @@
   {
     "_id": 1377145,
     "name": "Campanile Masajacket",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13842,6 +14628,7 @@
   {
     "_id": 1377146,
     "name": "Conga Mail GX",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -13862,6 +14649,7 @@
   {
     "_id": 1377147,
     "name": "Conga Vest GX",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -13882,6 +14670,7 @@
   {
     "_id": 1377148,
     "name": "Alloy Mail XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13894,6 +14683,7 @@
   {
     "_id": 1377149,
     "name": "Alloy Vest XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -13906,6 +14696,7 @@
   {
     "_id": 1377150,
     "name": "Ingot Mail XR",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -13918,6 +14709,7 @@
   {
     "_id": 1377151,
     "name": "Ingot Vest XR",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -13930,6 +14722,7 @@
   {
     "_id": 1377152,
     "name": "Artian Mail X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -13946,6 +14739,7 @@
   {
     "_id": 1377153,
     "name": "Artian Vest X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -13958,6 +14752,7 @@
   {
     "_id": 1377154,
     "name": "Lobster Mail X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -13982,6 +14777,7 @@
   {
     "_id": 1377155,
     "name": "Lobster Vest X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -14006,6 +14802,7 @@
   {
     "_id": 1377156,
     "name": "Khezu Mail XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Body",
     "skills": [
@@ -14022,6 +14819,7 @@
   {
     "_id": 1377157,
     "name": "Khezu Vest XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Body",
     "skills": [
@@ -14038,6 +14836,7 @@
   {
     "_id": 1377158,
     "name": "Ceanataur Mail XR",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -14058,6 +14857,7 @@
   {
     "_id": 1377159,
     "name": "Ceanataur Vest XR",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -14078,6 +14878,7 @@
   {
     "_id": 1377160,
     "name": "Rathian Mail XR",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -14090,6 +14891,7 @@
   {
     "_id": 1377161,
     "name": "Rathian Vest XR",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Body",
     "skills": [
@@ -14102,6 +14904,7 @@
   {
     "_id": 1377162,
     "name": "Lava Mail X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -14122,6 +14925,7 @@
   {
     "_id": 1377163,
     "name": "Lava Vest X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -14142,6 +14946,7 @@
   {
     "_id": 1377164,
     "name": "Garuga Mail X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14162,6 +14967,7 @@
   {
     "_id": 1377165,
     "name": "Garuga Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14182,6 +14988,7 @@
   {
     "_id": 1377166,
     "name": "Uragaan Mail X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -14202,6 +15009,7 @@
   {
     "_id": 1377167,
     "name": "Uragaan Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -14222,6 +15030,7 @@
   {
     "_id": 1377168,
     "name": "Barioth Mail X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -14246,6 +15055,7 @@
   {
     "_id": 1377169,
     "name": "Barioth Vest X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -14270,6 +15080,7 @@
   {
     "_id": 1377170,
     "name": "Seltas Mail X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -14294,6 +15105,7 @@
   {
     "_id": 1377171,
     "name": "Seltas Vest X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -14318,6 +15130,7 @@
   {
     "_id": 1377172,
     "name": "Rathalos Mail X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14338,6 +15151,7 @@
   {
     "_id": 1377173,
     "name": "Rathalos Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14358,6 +15172,7 @@
   {
     "_id": 1377174,
     "name": "Lagiacrus Mail X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14378,6 +15193,7 @@
   {
     "_id": 1377175,
     "name": "Lagiacrus Vest X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14398,6 +15214,7 @@
   {
     "_id": 1377176,
     "name": "Zinogre Mail X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14414,6 +15231,7 @@
   {
     "_id": 1377177,
     "name": "Zinogre Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14430,6 +15248,7 @@
   {
     "_id": 1377178,
     "name": "Gravios Mail X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14454,6 +15273,7 @@
   {
     "_id": 1377179,
     "name": "Gravios Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14478,6 +15298,7 @@
   {
     "_id": 1377180,
     "name": "Mizutsune Mail X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -14498,6 +15319,7 @@
   {
     "_id": 1377181,
     "name": "Mizutsune Vest X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -14518,6 +15340,7 @@
   {
     "_id": 1377182,
     "name": "Astalos Mail X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14538,6 +15361,7 @@
   {
     "_id": 1377183,
     "name": "Astalos Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14558,6 +15382,7 @@
   {
     "_id": 1377184,
     "name": "Gammoth Mail X",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -14578,6 +15403,7 @@
   {
     "_id": 1377185,
     "name": "Gammoth Vest X",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -14598,6 +15424,7 @@
   {
     "_id": 1377186,
     "name": "Glavenus Mail X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -14614,6 +15441,7 @@
   {
     "_id": 1377187,
     "name": "Glavenus Vest X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -14634,6 +15462,7 @@
   {
     "_id": 1377188,
     "name": "Gore Mail X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -14654,6 +15483,7 @@
   {
     "_id": 1377189,
     "name": "Gore Vest X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -14674,6 +15504,7 @@
   {
     "_id": 1377190,
     "name": "Kirin Jacket X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -14698,6 +15529,7 @@
   {
     "_id": 1377191,
     "name": "Kirin Cape X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -14722,6 +15554,7 @@
   {
     "_id": 1377192,
     "name": "Kirin Jacket XR",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14734,6 +15567,7 @@
   {
     "_id": 1377193,
     "name": "Kirin Cape XR",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14746,6 +15580,7 @@
   {
     "_id": 1377194,
     "name": "Auroros Torso",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14766,6 +15601,7 @@
   {
     "_id": 1377195,
     "name": "Borealis Chest",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -14786,6 +15622,7 @@
   {
     "_id": 1377196,
     "name": "Genesis Torso",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14806,6 +15643,7 @@
   {
     "_id": 1377197,
     "name": "Glyph Chest",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -14826,6 +15664,7 @@
   {
     "_id": 1377198,
     "name": "Auroros Torso GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -14846,6 +15685,7 @@
   {
     "_id": 1377199,
     "name": "Borealis Chest GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -14866,6 +15706,7 @@
   {
     "_id": 1377200,
     "name": "Genesis Torso GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -14886,6 +15727,7 @@
   {
     "_id": 1377201,
     "name": "Glyph Chest GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -14906,6 +15748,7 @@
   {
     "_id": 1377202,
     "name": "Auroros Torso XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -14926,6 +15769,7 @@
   {
     "_id": 1377203,
     "name": "Borealis Chest XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -14946,6 +15790,7 @@
   {
     "_id": 1377204,
     "name": "Genesis Torso XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -14966,6 +15811,7 @@
   {
     "_id": 1377205,
     "name": "Glyph Chest XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -14986,6 +15832,7 @@
   {
     "_id": 1377206,
     "name": "Scholar's Blouse X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -15006,6 +15853,7 @@
   {
     "_id": 1377207,
     "name": "Scholar's Vest X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -15026,6 +15874,7 @@
   {
     "_id": 1377208,
     "name": "Sailor Suit X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -15046,6 +15895,7 @@
   {
     "_id": 1377209,
     "name": "Sailor Vest X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -15066,6 +15916,7 @@
   {
     "_id": 1377210,
     "name": "Hawksuit X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -15086,6 +15937,7 @@
   {
     "_id": 1377211,
     "name": "Hawkjacket X",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -15106,6 +15958,7 @@
   {
     "_id": 1377212,
     "name": "Scholarly Suit X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -15118,6 +15971,7 @@
   {
     "_id": 1377213,
     "name": "Scholarly Vest X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -15130,6 +15984,7 @@
   {
     "_id": 1377214,
     "name": "Research Suit",
+    "num_slots": 0,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -15154,6 +16009,7 @@
   {
     "_id": 1377215,
     "name": "Research Vest",
+    "num_slots": 0,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -15178,6 +16034,7 @@
   {
     "_id": 1377216,
     "name": "Rathalos Mail XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -15194,6 +16051,7 @@
   {
     "_id": 1377217,
     "name": "Rathalos Vest XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -15210,6 +16068,7 @@
   {
     "_id": 1377218,
     "name": "Lagiacrus Mail XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -15222,6 +16081,7 @@
   {
     "_id": 1377219,
     "name": "Lagiacrus Vest XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -15234,6 +16094,7 @@
   {
     "_id": 1377220,
     "name": "Gore Mail XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -15246,6 +16107,7 @@
   {
     "_id": 1377221,
     "name": "Gore Vest XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -15258,6 +16120,7 @@
   {
     "_id": 1377222,
     "name": "Agnaktor Mail X",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -15278,6 +16141,7 @@
   {
     "_id": 1377223,
     "name": "Agnaktor Vest X",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -15298,6 +16162,7 @@
   {
     "_id": 1377224,
     "name": "Regios Mail X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -15318,6 +16183,7 @@
   {
     "_id": 1377225,
     "name": "Regios Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -15338,6 +16204,7 @@
   {
     "_id": 1377226,
     "name": "Duramboros Mail X",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -15358,6 +16225,7 @@
   {
     "_id": 1377227,
     "name": "Duramboros Vest X",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -15378,6 +16246,7 @@
   {
     "_id": 1377228,
     "name": "Tigrex Mail X",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -15398,6 +16267,7 @@
   {
     "_id": 1377229,
     "name": "Tigrex Vest X",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -15418,6 +16288,7 @@
   {
     "_id": 1377230,
     "name": "Tigrex Mail XR",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -15430,6 +16301,7 @@
   {
     "_id": 1377231,
     "name": "Tigrex Vest XR",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -15442,6 +16314,7 @@
   {
     "_id": 1377232,
     "name": "Diablos Mail X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -15462,6 +16335,7 @@
   {
     "_id": 1377233,
     "name": "Diablos Vest X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -15482,6 +16356,7 @@
   {
     "_id": 1377234,
     "name": "Diablos Mail XR",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -15498,6 +16373,7 @@
   {
     "_id": 1377235,
     "name": "Diablos Vest XR",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -15514,6 +16390,7 @@
   {
     "_id": 1377236,
     "name": "Brachydios Mail X",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -15534,6 +16411,7 @@
   {
     "_id": 1377237,
     "name": "Brachydios Vest X",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -15554,6 +16432,7 @@
   {
     "_id": 1377238,
     "name": "Arc Mail X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -15574,6 +16453,7 @@
   {
     "_id": 1377239,
     "name": "Storge Mail X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -15594,6 +16474,7 @@
   {
     "_id": 1377240,
     "name": "Arc Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -15614,6 +16495,7 @@
   {
     "_id": 1377241,
     "name": "Storge Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -15634,6 +16516,7 @@
   {
     "_id": 1377242,
     "name": "Arc Mail XR",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -15650,6 +16533,7 @@
   {
     "_id": 1377243,
     "name": "Storge Mail XR",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -15666,6 +16550,7 @@
   {
     "_id": 1377244,
     "name": "Arc Vest XR",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -15682,6 +16567,7 @@
   {
     "_id": 1377245,
     "name": "Storge Vest XR",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -15698,6 +16584,7 @@
   {
     "_id": 1377246,
     "name": "Valstrax Mail X",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -15722,6 +16609,7 @@
   {
     "_id": 1377247,
     "name": "Valstrax Vest X",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -15746,6 +16634,7 @@
   {
     "_id": 1377248,
     "name": "Grand God's Peer Robe",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -15770,6 +16659,7 @@
   {
     "_id": 1377249,
     "name": "Grand Hermit Robe",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -15794,6 +16684,7 @@
   {
     "_id": 1377250,
     "name": "Vangis Mail X",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -15814,6 +16705,7 @@
   {
     "_id": 1377251,
     "name": "Vangis Vest X",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -15834,6 +16726,7 @@
   {
     "_id": 1377252,
     "name": "Kushala Cista X",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -15854,6 +16747,7 @@
   {
     "_id": 1377253,
     "name": "Kushala Vise X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -15874,6 +16768,7 @@
   {
     "_id": 1377254,
     "name": "Kushala Cista XR",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -15890,6 +16785,7 @@
   {
     "_id": 1377255,
     "name": "Kushala Vise XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -15906,6 +16802,7 @@
   {
     "_id": 1377256,
     "name": "Grand Mizuha Guards",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -15926,6 +16823,7 @@
   {
     "_id": 1377257,
     "name": "Grand Cham Camise",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -15946,6 +16844,7 @@
   {
     "_id": 1377258,
     "name": "Kaiser Mail X",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -15966,6 +16865,7 @@
   {
     "_id": 1377259,
     "name": "Kaiser Vest X",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -15986,6 +16886,7 @@
   {
     "_id": 1377260,
     "name": "Silver Solmail Z",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16006,6 +16907,7 @@
   {
     "_id": 1377261,
     "name": "Silver Solvest Z",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16026,6 +16928,7 @@
   {
     "_id": 1377262,
     "name": "Golden Lunemail Z",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16050,6 +16953,7 @@
   {
     "_id": 1377263,
     "name": "Golden Lunevest Z",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16074,6 +16978,7 @@
   {
     "_id": 1377264,
     "name": "Yaksha Raiment",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -16098,6 +17003,7 @@
   {
     "_id": 1377265,
     "name": "Carnage Raiment",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -16122,6 +17028,7 @@
   {
     "_id": 1377266,
     "name": "Guardian Suit X",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16142,6 +17049,7 @@
   {
     "_id": 1377267,
     "name": "Guardian Vest X",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16162,6 +17070,7 @@
   {
     "_id": 1377268,
     "name": "Blue Guild Suit X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16182,6 +17091,7 @@
   {
     "_id": 1377269,
     "name": "Blue Guild Suit X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16202,6 +17112,7 @@
   {
     "_id": 1377270,
     "name": "Blue Guild Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16222,6 +17133,7 @@
   {
     "_id": 1377271,
     "name": "Blue Guild Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16242,6 +17154,7 @@
   {
     "_id": 1377272,
     "name": "Red Guild Suit X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16262,6 +17175,7 @@
   {
     "_id": 1377273,
     "name": "Red Guild Suit X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16282,6 +17196,7 @@
   {
     "_id": 1377274,
     "name": "Red Guild Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16302,6 +17217,7 @@
   {
     "_id": 1377275,
     "name": "Red Guild Vest X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16322,6 +17238,7 @@
   {
     "_id": 1377276,
     "name": "G. Knight Suit X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -16342,6 +17259,7 @@
   {
     "_id": 1377277,
     "name": "G. Knight Vest X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -16362,6 +17280,7 @@
   {
     "_id": 1377278,
     "name": "Guild Bard Bolero X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -16382,6 +17301,7 @@
   {
     "_id": 1377279,
     "name": "Guild Bard Vest X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -16402,6 +17322,7 @@
   {
     "_id": 1377280,
     "name": "Ace Mail X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -16426,6 +17347,7 @@
   {
     "_id": 1377281,
     "name": "Ace Vest X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -16450,6 +17372,7 @@
   {
     "_id": 1377282,
     "name": "Sororal Mail X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -16474,6 +17397,7 @@
   {
     "_id": 1377283,
     "name": "Sororal Vest X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -16498,6 +17422,7 @@
   {
     "_id": 1377284,
     "name": "Shinobi Heaven Suit Goku",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16518,6 +17443,7 @@
   {
     "_id": 1377285,
     "name": "Shinobi Land Suit Goku",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16538,6 +17464,7 @@
   {
     "_id": 1377286,
     "name": "Kaiserin Mail",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16558,6 +17485,7 @@
   {
     "_id": 1377287,
     "name": "Kaiserin Vest",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16578,6 +17506,7 @@
   {
     "_id": 1377288,
     "name": "Barmaid's Suit",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -16598,6 +17527,7 @@
   {
     "_id": 1377289,
     "name": "Barmaid's Vest",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -16618,6 +17548,7 @@
   {
     "_id": 1377290,
     "name": "Barman's Suit",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -16638,6 +17569,7 @@
   {
     "_id": 1377291,
     "name": "Barman's Vest",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -16658,6 +17590,7 @@
   {
     "_id": 1377292,
     "name": "Helios Mail X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -16682,6 +17615,7 @@
   {
     "_id": 1377293,
     "name": "Selene Mail X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -16706,6 +17640,7 @@
   {
     "_id": 1377294,
     "name": "Helios Vest X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -16730,6 +17665,7 @@
   {
     "_id": 1377295,
     "name": "Selene Vest X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -16754,6 +17690,7 @@
   {
     "_id": 1377296,
     "name": "Strider's Girdle",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -16778,6 +17715,7 @@
   {
     "_id": 1377297,
     "name": "Deadeye's Girdle",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -16802,6 +17740,7 @@
   {
     "_id": 1377298,
     "name": "Damascus Mail X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -16826,6 +17765,7 @@
   {
     "_id": 1377299,
     "name": "Damascus Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -16850,6 +17790,7 @@
   {
     "_id": 1377300,
     "name": "Chaos Mail",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16874,6 +17815,7 @@
   {
     "_id": 1377301,
     "name": "Nephilim Mail",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -16898,6 +17840,7 @@
   {
     "_id": 1377302,
     "name": "Chaos Vest",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16922,6 +17865,7 @@
   {
     "_id": 1377303,
     "name": "Nephilim Vest",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -16946,6 +17890,7 @@
   {
     "_id": 1377304,
     "name": "Grand Divine Ire Haori",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -16966,6 +17911,7 @@
   {
     "_id": 1377305,
     "name": "Grand Crusher Garb",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -16986,6 +17932,7 @@
   {
     "_id": 1377306,
     "name": "Esurient Mail Z",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -17006,6 +17953,7 @@
   {
     "_id": 1377307,
     "name": "Esurient Vest Z",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -17026,6 +17974,7 @@
   {
     "_id": 1377308,
     "name": "Brachydium Mail",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -17050,6 +17999,7 @@
   {
     "_id": 1377309,
     "name": "Brachydium Vest",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -17074,6 +18024,7 @@
   {
     "_id": 1377310,
     "name": "Akantor Aegis X",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -17098,6 +18049,7 @@
   {
     "_id": 1377311,
     "name": "Akantor Plate X",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -17122,6 +18074,7 @@
   {
     "_id": 1377312,
     "name": "Akantor Aegis XR",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -17138,6 +18091,7 @@
   {
     "_id": 1377313,
     "name": "Akantor Plate XR",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -17154,6 +18108,7 @@
   {
     "_id": 1377314,
     "name": "Ukanlos Aegis X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Body",
     "skills": [
@@ -17178,6 +18133,7 @@
   {
     "_id": 1377315,
     "name": "Ukanlos Plate X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -17202,6 +18158,7 @@
   {
     "_id": 1377316,
     "name": "Grand Tempest Robe",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -17222,6 +18179,7 @@
   {
     "_id": 1377317,
     "name": "Grand Welkin Robe",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -17242,6 +18200,7 @@
   {
     "_id": 1377318,
     "name": "Grand Skeletal Sternum",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -17266,6 +18225,7 @@
   {
     "_id": 1377319,
     "name": "Grand Decayed Sternum",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -17290,6 +18250,7 @@
   {
     "_id": 1377320,
     "name": "Astral Suit X",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -17314,6 +18275,7 @@
   {
     "_id": 1377321,
     "name": "Astral Vest X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -17338,6 +18300,7 @@
   {
     "_id": 1377322,
     "name": "Neset Mail",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -17354,6 +18317,7 @@
   {
     "_id": 1377323,
     "name": "Neset Vest",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -17370,6 +18334,7 @@
   {
     "_id": 1377324,
     "name": "Black Hide X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -17394,6 +18359,7 @@
   {
     "_id": 1377325,
     "name": "Black Skin X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -17418,6 +18384,7 @@
   {
     "_id": 1377326,
     "name": "Escadora Soul X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Body",
     "skills": [
@@ -17442,6 +18409,7 @@
   {
     "_id": 1377327,
     "name": "Escadora Seele X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -17466,6 +18434,7 @@
   {
     "_id": 1377328,
     "name": "Escadora Soul XR",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -17482,6 +18451,7 @@
   {
     "_id": 1377329,
     "name": "Escadora Seele XR",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -17498,6 +18468,7 @@
   {
     "_id": 1377330,
     "name": "Fatalis Crimsonhide",
+    "num_slots": 1,
     "max_defense": 176,
     "sub_type": "Body",
     "skills": [
@@ -17522,6 +18493,7 @@
   {
     "_id": 1377331,
     "name": "Fatalis Crimsonskin",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Body",
     "skills": [
@@ -17546,6 +18518,7 @@
   {
     "_id": 1377332,
     "name": "GX Fatalis Crimsonhide",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -17570,6 +18543,7 @@
   {
     "_id": 1377333,
     "name": "GX Fatalis Crimsonskin",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -17594,6 +18568,7 @@
   {
     "_id": 1377334,
     "name": "Fatalis Crimsonhide XR",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -17614,6 +18589,7 @@
   {
     "_id": 1377335,
     "name": "Fatalis Crimsonskin XR",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -17634,6 +18610,7 @@
   {
     "_id": 1377336,
     "name": "Old Fatalis Hide",
+    "num_slots": 1,
     "max_defense": 174,
     "sub_type": "Body",
     "skills": [
@@ -17658,6 +18635,7 @@
   {
     "_id": 1377337,
     "name": "Old Fatalis Skin",
+    "num_slots": 1,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -17682,6 +18660,7 @@
   {
     "_id": 1377338,
     "name": "GX Old Fatalis Hide",
+    "num_slots": 1,
     "max_defense": 178,
     "sub_type": "Body",
     "skills": [
@@ -17706,6 +18685,7 @@
   {
     "_id": 1377339,
     "name": "GX Old Fatalis Skin",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -17730,6 +18710,7 @@
   {
     "_id": 1377340,
     "name": "Helper Suit X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -17746,6 +18727,7 @@
   {
     "_id": 1377341,
     "name": "Healer Vest X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -17762,6 +18744,7 @@
   {
     "_id": 1377342,
     "name": "Ancient Mail X",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -17786,6 +18769,7 @@
   {
     "_id": 1377343,
     "name": "Ancient Vest X",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -17810,6 +18794,7 @@
   {
     "_id": 1377344,
     "name": "Master's Mail X",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -17834,6 +18819,7 @@
   {
     "_id": 1377345,
     "name": "Master's Vest X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -17858,6 +18844,7 @@
   {
     "_id": 1377346,
     "name": "Grand Toka Doate",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -17882,6 +18869,7 @@
   {
     "_id": 1377347,
     "name": "Grand Mitsuaoi Doate",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -17906,6 +18894,7 @@
   {
     "_id": 1377352,
     "name": "Black Belt Mail X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -17926,6 +18915,7 @@
   {
     "_id": 1377353,
     "name": "Black Belt Vest X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -17946,6 +18936,7 @@
   {
     "_id": 1377356,
     "name": "Auroros Torso R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -17970,6 +18961,7 @@
   {
     "_id": 1377357,
     "name": "Borealis Chest R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -17994,6 +18986,7 @@
   {
     "_id": 1377358,
     "name": "Genesis Torso R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -18018,6 +19011,7 @@
   {
     "_id": 1377359,
     "name": "Glyph Chest R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -18042,6 +19036,7 @@
   {
     "_id": 1377360,
     "name": "Silver Solmail XR",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -18054,6 +19049,7 @@
   {
     "_id": 1377361,
     "name": "Silver Solvest XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -18066,6 +19062,7 @@
   {
     "_id": 1377362,
     "name": "Esurient Mail XR",
+    "num_slots": 3,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -18078,6 +19075,7 @@
   {
     "_id": 1377363,
     "name": "Esurient Vest XR",
+    "num_slots": 3,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -18090,6 +19088,7 @@
   {
     "_id": 1377364,
     "name": "Rustrazor Mail",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -18114,6 +19113,7 @@
   {
     "_id": 1377365,
     "name": "Rustrazor Vest",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -18138,6 +19138,7 @@
   {
     "_id": 1377366,
     "name": "Nightcloak Mail",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -18162,6 +19163,7 @@
   {
     "_id": 1377367,
     "name": "Nightcloak Vest",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -18186,6 +19188,7 @@
   {
     "_id": 1377368,
     "name": "Soulseer Mail",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Body",
     "skills": [
@@ -18210,6 +19213,7 @@
   {
     "_id": 1377369,
     "name": "Soulseer Vest",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -18234,6 +19238,7 @@
   {
     "_id": 1377370,
     "name": "Boltreaver Mail",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Body",
     "skills": [
@@ -18258,6 +19263,7 @@
   {
     "_id": 1377371,
     "name": "Boltreaver Vest",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Body",
     "skills": [
@@ -18282,6 +19288,7 @@
   {
     "_id": 1377372,
     "name": "Elderfrost Mail",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Body",
     "skills": [
@@ -18306,6 +19313,7 @@
   {
     "_id": 1377373,
     "name": "Elderfrost Vest",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -18330,6 +19338,7 @@
   {
     "_id": 1377374,
     "name": "Bloodbath Mail",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Body",
     "skills": [
@@ -18354,6 +19363,7 @@
   {
     "_id": 1377375,
     "name": "Bloodbath Vest",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Body",
     "skills": [
@@ -18378,6 +19388,7 @@
   {
     "_id": 1377378,
     "name": "Genprey Mail GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -18398,6 +19409,7 @@
   {
     "_id": 1377379,
     "name": "Genprey Vest GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -18418,6 +19430,7 @@
   {
     "_id": 1377380,
     "name": "Ioprey Mail GX",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -18434,6 +19447,7 @@
   {
     "_id": 1377381,
     "name": "Ioprey Vest GX",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -18450,6 +19464,7 @@
   {
     "_id": 1377382,
     "name": "Vespoid Mail GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -18466,6 +19481,7 @@
   {
     "_id": 1377383,
     "name": "Vespoid Vest GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -18482,6 +19498,7 @@
   {
     "_id": 1377384,
     "name": "Hornetaur Mail XR",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -18494,6 +19511,7 @@
   {
     "_id": 1377385,
     "name": "Hornetaur Vest XR",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -18506,6 +19524,7 @@
   {
     "_id": 1377386,
     "name": "Hornetaur Mail GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Body",
     "skills": [
@@ -18526,6 +19545,7 @@
   {
     "_id": 1377387,
     "name": "Hornetaur Vest GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Body",
     "skills": [
@@ -18546,6 +19566,7 @@
   {
     "_id": 1377388,
     "name": "Cephalos Mail GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -18566,6 +19587,7 @@
   {
     "_id": 1377389,
     "name": "Cephalos Vest GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -18586,6 +19608,7 @@
   {
     "_id": 1377390,
     "name": "Hermitaur Mail GX",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -18606,6 +19629,7 @@
   {
     "_id": 1377391,
     "name": "Hermitaur Vest GX",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -18626,6 +19650,7 @@
   {
     "_id": 1377392,
     "name": "Rathian Mail GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -18646,6 +19671,7 @@
   {
     "_id": 1377393,
     "name": "Rathian Vest GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -18666,6 +19692,7 @@
   {
     "_id": 1377394,
     "name": "Ceanataur Mail GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -18686,6 +19713,7 @@
   {
     "_id": 1377395,
     "name": "Ceanataur Vest GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -18706,6 +19734,7 @@
   {
     "_id": 1377396,
     "name": "Blango Mail GX",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -18722,6 +19751,7 @@
   {
     "_id": 1377397,
     "name": "Blango Vest GX",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -18738,6 +19768,7 @@
   {
     "_id": 1377398,
     "name": "Gore Mail GX",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -18758,6 +19789,7 @@
   {
     "_id": 1377399,
     "name": "Gore Vest GX",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -18778,6 +19810,7 @@
   {
     "_id": 1377400,
     "name": "Zinogre Mail GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -18798,6 +19831,7 @@
   {
     "_id": 1377401,
     "name": "Zinogre Vest GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -18818,6 +19852,7 @@
   {
     "_id": 1377402,
     "name": "Tigrex Mail GX",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -18838,6 +19873,7 @@
   {
     "_id": 1377403,
     "name": "Tigrex Vest GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -18858,6 +19894,7 @@
   {
     "_id": 1377404,
     "name": "Brachydios Mail GX",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -18874,6 +19911,7 @@
   {
     "_id": 1377405,
     "name": "Brachydios Vest GX",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -18890,6 +19928,7 @@
   {
     "_id": 1377406,
     "name": "Rathalos Mail GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -18906,6 +19945,7 @@
   {
     "_id": 1377407,
     "name": "Rathalos Vest GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -18922,6 +19962,7 @@
   {
     "_id": 1377408,
     "name": "Arc Mail GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -18942,6 +19983,7 @@
   {
     "_id": 1377409,
     "name": "Arc Vest GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -18962,6 +20004,7 @@
   {
     "_id": 1377410,
     "name": "Storge Mail GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -18982,6 +20025,7 @@
   {
     "_id": 1377411,
     "name": "Storge Vest GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -19002,6 +20046,7 @@
   {
     "_id": 1377412,
     "name": "Kushala Cista GX",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -19026,6 +20071,7 @@
   {
     "_id": 1377413,
     "name": "Kushala Vise GX",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -19050,6 +20096,7 @@
   {
     "_id": 1377414,
     "name": "Mizuha Guards GX",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -19074,6 +20121,7 @@
   {
     "_id": 1377415,
     "name": "Cham Camise GX",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -19098,6 +20146,7 @@
   {
     "_id": 1377416,
     "name": "Kaiser Mail GX",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -19118,6 +20167,7 @@
   {
     "_id": 1377417,
     "name": "Kaiser Vest GX",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -19138,6 +20188,7 @@
   {
     "_id": 1377418,
     "name": "Lavasioth Mail GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -19158,6 +20209,7 @@
   {
     "_id": 1377419,
     "name": "Lavasioth Vest GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [
@@ -19178,6 +20230,7 @@
   {
     "_id": 1377420,
     "name": "GX Silver Solmail",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -19198,6 +20251,7 @@
   {
     "_id": 1377421,
     "name": "GX Silver Solvest",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -19218,6 +20272,7 @@
   {
     "_id": 1377422,
     "name": "GX Golden Lunemail",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Body",
     "skills": [
@@ -19238,6 +20293,7 @@
   {
     "_id": 1377423,
     "name": "GX Golden Lunevest",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Body",
     "skills": [
@@ -19258,6 +20314,7 @@
   {
     "_id": 1377424,
     "name": "Tempest Robe XR",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -19270,6 +20327,7 @@
   {
     "_id": 1377425,
     "name": "Welkin Robe XR",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -19282,6 +20340,7 @@
   {
     "_id": 1377426,
     "name": "Leather Mail X",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Body",
     "skills": [
@@ -19294,6 +20353,7 @@
   {
     "_id": 1377427,
     "name": "Leather Vest X",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -19306,6 +20366,7 @@
   {
     "_id": 1377428,
     "name": "Chain Mail X",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -19318,6 +20379,7 @@
   {
     "_id": 1377429,
     "name": "Chainmail Vest X",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -19330,6 +20392,7 @@
   {
     "_id": 1377430,
     "name": "Loc Lac Shawl X",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Body",
     "skills": [
@@ -19346,6 +20409,7 @@
   {
     "_id": 1377431,
     "name": "Hunter's Mail X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -19362,6 +20426,7 @@
   {
     "_id": 1377432,
     "name": "Hunter's Vest X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Body",
     "skills": [
@@ -19378,6 +20443,7 @@
   {
     "_id": 1377433,
     "name": "Bone Mail X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -19398,6 +20464,7 @@
   {
     "_id": 1377434,
     "name": "Bone Vest X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -19418,6 +20485,7 @@
   {
     "_id": 1377435,
     "name": "Dober Mail X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -19438,6 +20506,7 @@
   {
     "_id": 1377436,
     "name": "Dober Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -19458,6 +20527,7 @@
   {
     "_id": 1377437,
     "name": "Alloy Mail X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19478,6 +20548,7 @@
   {
     "_id": 1377438,
     "name": "Alloy Vest X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19498,6 +20569,7 @@
   {
     "_id": 1377439,
     "name": "Ingot Mail X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -19518,6 +20590,7 @@
   {
     "_id": 1377440,
     "name": "Ingot Vest X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Body",
     "skills": [
@@ -19538,6 +20611,7 @@
   {
     "_id": 1377441,
     "name": "Damascus Mail XR",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19550,6 +20624,7 @@
   {
     "_id": 1377442,
     "name": "Damascus Vest XR",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Body",
     "skills": [
@@ -19562,6 +20637,7 @@
   {
     "_id": 1377443,
     "name": "Battle Mail X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19578,6 +20654,7 @@
   {
     "_id": 1377444,
     "name": "Battle Vest X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19594,6 +20671,7 @@
   {
     "_id": 1377445,
     "name": "High Metal Mail X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19614,6 +20692,7 @@
   {
     "_id": 1377446,
     "name": "High Metal Vest X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19634,6 +20713,7 @@
   {
     "_id": 1377447,
     "name": "High Metal Mail Z",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19646,6 +20726,7 @@
   {
     "_id": 1377448,
     "name": "High Metal Vest Z",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19658,6 +20739,7 @@
   {
     "_id": 1377449,
     "name": "Mosgharl Ribplate X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -19678,6 +20760,7 @@
   {
     "_id": 1377450,
     "name": "Mosgharl Ribguard X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -19698,6 +20781,7 @@
   {
     "_id": 1377451,
     "name": "Mosgharl Ribplate X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -19718,6 +20802,7 @@
   {
     "_id": 1377452,
     "name": "Mosgharl Ribguard X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Body",
     "skills": [
@@ -19738,6 +20823,7 @@
   {
     "_id": 1377453,
     "name": "Obituary Thorax X",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -19754,6 +20840,7 @@
   {
     "_id": 1377454,
     "name": "Obituary Pleuron X",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -19770,6 +20857,7 @@
   {
     "_id": 1377455,
     "name": "Butterfly Thorax X",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Body",
     "skills": [
@@ -19786,6 +20874,7 @@
   {
     "_id": 1377456,
     "name": "Butterfly Pleuron X",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Body",
     "skills": [
@@ -19802,6 +20891,7 @@
   {
     "_id": 1377457,
     "name": "Aelucanth Thorax X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19822,6 +20912,7 @@
   {
     "_id": 1377458,
     "name": "Aelucanth Pleuron X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19842,6 +20933,7 @@
   {
     "_id": 1377459,
     "name": "Rhopessa Thorax X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19862,6 +20954,7 @@
   {
     "_id": 1377460,
     "name": "Rhopessa Pleuron X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19882,6 +20975,7 @@
   {
     "_id": 1377461,
     "name": "Vaik Mail X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Body",
     "skills": [
@@ -19902,6 +20996,7 @@
   {
     "_id": 1377462,
     "name": "Vaik Vest X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -19922,6 +21017,7 @@
   {
     "_id": 1377463,
     "name": "Guardian Suit Z",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -19942,6 +21038,7 @@
   {
     "_id": 1377464,
     "name": "Guardian Vest Z",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -19962,6 +21059,7 @@
   {
     "_id": 1377465,
     "name": "Helper Suit Z",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Body",
     "skills": [
@@ -19986,6 +21084,7 @@
   {
     "_id": 1377466,
     "name": "Healer Vest Z",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Body",
     "skills": [
@@ -20010,6 +21109,7 @@
   {
     "_id": 1377467,
     "name": "Death Stench Muscle XR",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -20026,6 +21126,7 @@
   {
     "_id": 1377468,
     "name": "Death Stench Heart XR",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -20042,6 +21143,7 @@
   {
     "_id": 1377469,
     "name": "Makluva Cover X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Body",
     "skills": [
@@ -20058,6 +21160,7 @@
   {
     "_id": 1377470,
     "name": "Makluva Scale X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Body",
     "skills": [
@@ -20074,6 +21177,7 @@
   {
     "_id": 1377471,
     "name": "Makluva Cover Z",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Body",
     "skills": [
@@ -20090,6 +21194,7 @@
   {
     "_id": 1377472,
     "name": "Makluva Scale Z",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Body",
     "skills": [
@@ -20106,6 +21211,7 @@
   {
     "_id": 1377473,
     "name": "Melahoa Jacket X",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Body",
     "skills": [
@@ -20122,6 +21228,7 @@
   {
     "_id": 1377474,
     "name": "Melahoa Stalk X",
+    "num_slots": 0,
     "max_defense": 84,
     "sub_type": "Body",
     "skills": [
@@ -20138,6 +21245,7 @@
   {
     "_id": 1377475,
     "name": "MelahoaFlowerJacketZ",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -20154,6 +21262,7 @@
   {
     "_id": 1377476,
     "name": "Melahoa Stalk Z",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Body",
     "skills": [
@@ -20170,6 +21279,7 @@
   {
     "_id": 1377477,
     "name": "Derring Mail X",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -20186,6 +21296,7 @@
   {
     "_id": 1377478,
     "name": "Derring Vest X",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Body",
     "skills": [
@@ -20202,6 +21313,7 @@
   {
     "_id": 1377479,
     "name": "GX Kita Star Jacket",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Body",
     "skills": [
@@ -20214,6 +21326,7 @@
   {
     "_id": 1377480,
     "name": "GX Umi Ocean Jacket",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Body",
     "skills": [
@@ -20226,6 +21339,7 @@
   {
     "_id": 1377481,
     "name": "Grand Chaos Plate",
+    "num_slots": 3,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -20238,6 +21352,7 @@
   {
     "_id": 1377482,
     "name": "Grand Chaos Brigandine",
+    "num_slots": 3,
     "max_defense": 81,
     "sub_type": "Body",
     "skills": [
@@ -20250,6 +21365,7 @@
   {
     "_id": 1377483,
     "name": "Wisdom Suit X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -20274,6 +21390,7 @@
   {
     "_id": 1377484,
     "name": "Wisdom Vest X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -20298,6 +21415,7 @@
   {
     "_id": 1377485,
     "name": "Cheerful Suit X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Body",
     "skills": [
@@ -20318,6 +21436,7 @@
   {
     "_id": 1377486,
     "name": "Cheerful Vest X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Body",
     "skills": [
@@ -20338,6 +21457,7 @@
   {
     "_id": 1377487,
     "name": "Mariner Suit X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Body",
     "skills": [
@@ -20358,6 +21478,7 @@
   {
     "_id": 1377488,
     "name": "Mariner Vest X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Body",
     "skills": [
@@ -20378,6 +21499,7 @@
   {
     "_id": 1377497,
     "name": "Giaprey Body X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Body",
     "skills": [
@@ -20394,6 +21516,7 @@
   {
     "_id": 1377498,
     "name": "Giaprey Wear X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Body",
     "skills": [
@@ -20410,6 +21533,7 @@
   {
     "_id": 1377507,
     "name": "Artian Mail XR",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Body",
     "skills": [
@@ -20426,6 +21550,7 @@
   {
     "_id": 1377508,
     "name": "Artian Vest XR",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Body",
     "skills": [
@@ -20442,6 +21567,7 @@
   {
     "_id": 1377509,
     "name": "Dragonhide",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -20462,6 +21588,7 @@
   {
     "_id": 1377510,
     "name": "Dragonskin",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -20482,6 +21609,7 @@
   {
     "_id": 1377511,
     "name": "Criminal Suit",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Body",
     "skills": [
@@ -20502,6 +21630,7 @@
   {
     "_id": 1377512,
     "name": "Criminal Body",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Body",
     "skills": [
@@ -20522,6 +21651,7 @@
   {
     "_id": 1377527,
     "name": "Garo Plate",
+    "num_slots": 0,
     "max_defense": 170,
     "sub_type": "Body",
     "skills": [
@@ -20546,6 +21676,7 @@
   {
     "_id": 1377528,
     "name": "Garo Mail",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Body",
     "skills": [
@@ -20570,6 +21701,7 @@
   {
     "_id": 1377529,
     "name": "Varia Suit Armor",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Body",
     "skills": [
@@ -20590,6 +21722,7 @@
   {
     "_id": 1377530,
     "name": "Varia Suit Barrier",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Body",
     "skills": [
@@ -20610,6 +21743,7 @@
   {
     "_id": 1377531,
     "name": "Zero Suit Body",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Body",
     "skills": [
@@ -20630,6 +21764,7 @@
   {
     "_id": 1377532,
     "name": "Zero Suit Wear",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Body",
     "skills": [
@@ -20650,6 +21785,7 @@
   {
     "_id": 1377533,
     "name": "Lodestar Suit",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Body",
     "skills": [
@@ -20670,6 +21806,7 @@
   {
     "_id": 1377534,
     "name": "Lodestar Vest",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Body",
     "skills": [
@@ -20690,6 +21827,7 @@
   {
     "_id": 1377535,
     "name": "Blue Tunic",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Body",
     "skills": [
@@ -20714,6 +21852,7 @@
   {
     "_id": 1377536,
     "name": "Blue Jerkin",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Body",
     "skills": [
@@ -20738,6 +21877,7 @@
   {
     "_id": 1377537,
     "name": "Hiryu Sky Suit",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Body",
     "skills": [
@@ -20758,6 +21898,7 @@
   {
     "_id": 1377538,
     "name": "Hiryu Land Suit",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Body",
     "skills": [
@@ -20778,6 +21919,7 @@
   {
     "_id": 1377539,
     "name": "XX Valstrax Jacket",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Body",
     "skills": [
@@ -20794,6 +21936,7 @@
   {
     "_id": 1377540,
     "name": "XX Valstrax Jersey",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Body",
     "skills": [
@@ -20810,6 +21953,7 @@
   {
     "_id": 1377541,
     "name": "XX Diablos Jacket",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Body",
     "skills": [
@@ -20826,6 +21970,7 @@
   {
     "_id": 1377542,
     "name": "XX Diablos Jersey",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Body",
     "skills": [

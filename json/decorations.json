@@ -1,0 +1,2362 @@
+[
+  {
+    "_id": 14087,
+    "num_slots": 1,
+    "name": "Antidote Jwl 1",
+    "description": "A Decoration that boosts Poison skills.",
+    "skills": {
+      "1": "1",
+      "4": "-1"
+    }
+  },
+  {
+    "_id": 14089,
+    "num_slots": 2,
+    "name": "Antidote Jwl 2",
+    "description": "A Decoration that boosts Poison skills.",
+    "skills": {
+      "1": "3",
+      "4": "-1"
+    }
+  },
+  {
+    "_id": 14091,
+    "num_slots": 1,
+    "name": "Paralysis Jwl 1",
+    "description": "A Decoration that boosts Paralysis skills.",
+    "skills": {
+      "1": "-1",
+      "2": "1"
+    }
+  },
+  {
+    "_id": 14093,
+    "num_slots": 2,
+    "name": "Paralysis Jwl 2",
+    "description": "A Decoration that boosts Paralysis skills.",
+    "skills": {
+      "1": "-1",
+      "2": "3"
+    }
+  },
+  {
+    "_id": 14095,
+    "num_slots": 1,
+    "name": "Pep Jwl 1",
+    "description": "A Decoration that boosts Sleep skills.",
+    "skills": {
+      "3": "1",
+      "8": "-1"
+    }
+  },
+  {
+    "_id": 14097,
+    "num_slots": 2,
+    "name": "Pep Jwl 2",
+    "description": "A Decoration that boosts Sleep skills.",
+    "skills": {
+      "3": "3",
+      "8": "-1"
+    }
+  },
+  {
+    "_id": 14099,
+    "num_slots": 1,
+    "name": "Steadfast Jwl 1",
+    "description": "A Decoration that boosts Stun skills.",
+    "skills": {
+      "2": "-1",
+      "4": "1"
+    }
+  },
+  {
+    "_id": 14101,
+    "num_slots": 1,
+    "name": "Standfast Jwl 1",
+    "description": "A Decoration that boosts Stun skills.",
+    "skills": {
+      "4": "2"
+    }
+  },
+  {
+    "_id": 14102,
+    "num_slots": 1,
+    "name": "Earplug Jwl 1",
+    "description": "A Decoration that boosts Hearing skills.",
+    "skills": {
+      "5": "1",
+      "115": "-1"
+    }
+  },
+  {
+    "_id": 14104,
+    "num_slots": 3,
+    "name": "Earplug Jwl 3",
+    "description": "A Decoration that boosts Hearing skills.",
+    "skills": {
+      "5": "4",
+      "115": "-2"
+    }
+  },
+  {
+    "_id": 14106,
+    "num_slots": 1,
+    "name": "Wind Res Jwl 1",
+    "description": "A Decoration that boosts Wind Res skills.",
+    "skills": {
+      "6": "1",
+      "135": "-1"
+    }
+  },
+  {
+    "_id": 14108,
+    "num_slots": 2,
+    "name": "Wind Res Jwl 2",
+    "description": "A Decoration that boosts Wind Res skills.",
+    "skills": {
+      "6": "3",
+      "135": "-1"
+    }
+  },
+  {
+    "_id": 14110,
+    "num_slots": 1,
+    "name": "Footing Jwl 1",
+    "description": "A Decoration that boosts Tremor Res skills.",
+    "skills": {
+      "3": "-1",
+      "7": "1"
+    }
+  },
+  {
+    "_id": 14112,
+    "num_slots": 1,
+    "name": "Tectonic Jwl 1",
+    "description": "A Decoration that boosts Tremor Res skills.",
+    "skills": {
+      "7": "2"
+    }
+  },
+  {
+    "_id": 14113,
+    "num_slots": 1,
+    "name": "Bind Jwl 1",
+    "description": "A Decoration that boosts Bind Res skills.",
+    "skills": {
+      "3": "-1",
+      "8": "1"
+    }
+  },
+  {
+    "_id": 14115,
+    "num_slots": 1,
+    "name": "Shackle Jwl 1",
+    "description": "A Decoration that boosts Bind Res skills.",
+    "skills": {
+      "8": "2"
+    }
+  },
+  {
+    "_id": 14116,
+    "num_slots": 1,
+    "name": "Heat Res Jwl 1",
+    "description": "A Decoration that boosts Heat Res skills.",
+    "skills": {
+      "9": "2"
+    }
+  },
+  {
+    "_id": 14117,
+    "num_slots": 1,
+    "name": "Cold Res Jwl 1",
+    "description": "A Decoration that boosts Cold Res skills.",
+    "skills": {
+      "10": "2"
+    }
+  },
+  {
+    "_id": 14118,
+    "num_slots": 1,
+    "name": "Polar Jwl 1",
+    "description": "A Decoration that boosts ColdBlooded skills.",
+    "skills": {
+      "9": "-1",
+      "11": "1"
+    }
+  },
+  {
+    "_id": 14120,
+    "num_slots": 3,
+    "name": "Polar Jwl 3",
+    "description": "A Decoration that boosts ColdBlooded skills.",
+    "skills": {
+      "9": "-2",
+      "11": "4"
+    }
+  },
+  {
+    "_id": 14122,
+    "num_slots": 1,
+    "name": "Solar Jwl 1",
+    "description": "A Decoration that boosts HotBlooded skills.",
+    "skills": {
+      "10": "-1",
+      "12": "1"
+    }
+  },
+  {
+    "_id": 14124,
+    "num_slots": 3,
+    "name": "Solar Jwl 3",
+    "description": "A Decoration that boosts HotBlooded skills.",
+    "skills": {
+      "10": "-2",
+      "12": "4"
+    }
+  },
+  {
+    "_id": 14126,
+    "num_slots": 1,
+    "name": "Safe Jwl 1",
+    "description": "A Decoration that boosts Anti-Theft skills.",
+    "skills": {
+      "13": "2"
+    }
+  },
+  {
+    "_id": 14127,
+    "num_slots": 1,
+    "name": "Def Lock Jwl 1",
+    "description": "A Decoration that boosts Def Lock skills.",
+    "skills": {
+      "14": "2"
+    }
+  },
+  {
+    "_id": 14128,
+    "num_slots": 1,
+    "name": "Sane Jwl 1",
+    "description": "A Decoration that boosts Frenzy Res skills.",
+    "skills": {
+      "15": "1",
+      "82": "-1"
+    }
+  },
+  {
+    "_id": 14130,
+    "num_slots": 3,
+    "name": "Sane Jwl 3",
+    "description": "A Decoration that boosts Frenzy Res skills.",
+    "skills": {
+      "15": "5",
+      "82": "-1"
+    }
+  },
+  {
+    "_id": 14132,
+    "num_slots": 1,
+    "name": "Biology Jwl 1",
+    "description": "A Decoration that boosts Biology skills.",
+    "skills": {
+      "16": "1",
+      "103": "-1"
+    }
+  },
+  {
+    "_id": 14134,
+    "num_slots": 1,
+    "name": "Microbio Jwl 1",
+    "description": "A Decoration that boosts Biology skills.",
+    "skills": {
+      "16": "2"
+    }
+  },
+  {
+    "_id": 14135,
+    "num_slots": 1,
+    "name": "Staunch Jwl 1",
+    "description": "A Decoration that boosts Bleeding skills.",
+    "skills": {
+      "17": "2"
+    }
+  },
+  {
+    "_id": 14136,
+    "num_slots": 1,
+    "name": "Attack Jwl 1",
+    "description": "A Decoration that boosts Attack skills.",
+    "skills": {
+      "18": "1",
+      "19": "-1"
+    }
+  },
+  {
+    "_id": 14138,
+    "num_slots": 2,
+    "name": "Attack Jwl 2",
+    "description": "A Decoration that boosts Attack skills.",
+    "skills": {
+      "18": "3",
+      "19": "-1"
+    }
+  },
+  {
+    "_id": 14140,
+    "num_slots": 3,
+    "name": "Attack Jwl 3",
+    "description": "A Decoration that boosts Attack skills.",
+    "skills": {
+      "18": "5",
+      "19": "-1"
+    }
+  },
+  {
+    "_id": 14142,
+    "num_slots": 1,
+    "name": "Defense Jwl 1",
+    "description": "A Decoration that boosts Defense skills.",
+    "skills": {
+      "18": "-1",
+      "19": "1"
+    }
+  },
+  {
+    "_id": 14144,
+    "num_slots": 2,
+    "name": "Defense Jwl 2",
+    "description": "A Decoration that boosts Defense skills.",
+    "skills": {
+      "18": "-1",
+      "19": "3"
+    }
+  },
+  {
+    "_id": 14146,
+    "num_slots": 1,
+    "name": "Vitality Jwl 1",
+    "description": "A Decoration that boosts Health skills.",
+    "skills": {
+      "20": "2"
+    }
+  },
+  {
+    "_id": 14147,
+    "num_slots": 1,
+    "name": "Fire Res Jwl 1",
+    "description": "A Decoration that boosts Fire Res skills.",
+    "skills": {
+      "21": "1",
+      "22": "-1"
+    }
+  },
+  {
+    "_id": 14149,
+    "num_slots": 1,
+    "name": "Nul-Fire Jwl 1",
+    "description": "A Decoration that boosts Fire Res skills.",
+    "skills": {
+      "21": "2"
+    }
+  },
+  {
+    "_id": 14150,
+    "num_slots": 1,
+    "name": "Water Res Jwl 1",
+    "description": "A Decoration that boosts Water Res skills.",
+    "skills": {
+      "22": "1",
+      "23": "-1"
+    }
+  },
+  {
+    "_id": 14152,
+    "num_slots": 1,
+    "name": "Nul-Water Jwl 1",
+    "description": "A Decoration that boosts Water Res skills.",
+    "skills": {
+      "22": "2"
+    }
+  },
+  {
+    "_id": 14153,
+    "num_slots": 1,
+    "name": "ThunderRes Jwl 1",
+    "description": "A Decoration that boosts ThunderRes skills.",
+    "skills": {
+      "23": "1",
+      "24": "-1"
+    }
+  },
+  {
+    "_id": 14155,
+    "num_slots": 1,
+    "name": "Nul-Thundr Jwl 1",
+    "description": "A Decoration that boosts ThunderRes skills.",
+    "skills": {
+      "23": "2"
+    }
+  },
+  {
+    "_id": 14156,
+    "num_slots": 1,
+    "name": "Ice Res Jwl 1",
+    "description": "A Decoration that boosts Ice Res skills.",
+    "skills": {
+      "21": "-1",
+      "24": "1"
+    }
+  },
+  {
+    "_id": 14158,
+    "num_slots": 1,
+    "name": "Nul-Ice Jwl 1",
+    "description": "A Decoration that boosts Ice Res skills.",
+    "skills": {
+      "24": "2"
+    }
+  },
+  {
+    "_id": 14159,
+    "num_slots": 1,
+    "name": "Dragon Res Jwl 1",
+    "description": "A Decoration that boosts Dragon Res skills.",
+    "skills": {
+      "1": "-1",
+      "25": "1"
+    }
+  },
+  {
+    "_id": 14161,
+    "num_slots": 1,
+    "name": "Nul-Dragon Jwl 1",
+    "description": "A Decoration that boosts Dragon Res skills.",
+    "skills": {
+      "25": "2"
+    }
+  },
+  {
+    "_id": 14162,
+    "num_slots": 1,
+    "name": "Resistor Jwl 1",
+    "description": "A Decoration that boosts Blight Res skills.",
+    "skills": {
+      "20": "-1",
+      "26": "1"
+    }
+  },
+  {
+    "_id": 14164,
+    "num_slots": 3,
+    "name": "Resistor Jwl 3",
+    "description": "A Decoration that boosts Blight Res skills.",
+    "skills": {
+      "20": "-2",
+      "26": "4"
+    }
+  },
+  {
+    "_id": 14166,
+    "num_slots": 1,
+    "name": "Blaze Jwl 1",
+    "description": "A Decoration that boosts Fire Atk skills.",
+    "skills": {
+      "27": "1",
+      "28": "-1"
+    }
+  },
+  {
+    "_id": 14168,
+    "num_slots": 2,
+    "name": "Blaze Jwl 2",
+    "description": "A Decoration that boosts Fire Atk skills.",
+    "skills": {
+      "27": "3",
+      "28": "-1"
+    }
+  },
+  {
+    "_id": 14170,
+    "num_slots": 1,
+    "name": "Stream Jwl 1",
+    "description": "A Decoration that boosts Water Atk skills.",
+    "skills": {
+      "28": "1",
+      "29": "-1"
+    }
+  },
+  {
+    "_id": 14172,
+    "num_slots": 2,
+    "name": "Stream Jwl 2",
+    "description": "A Decoration that boosts Water Atk skills.",
+    "skills": {
+      "28": "3",
+      "29": "-1"
+    }
+  },
+  {
+    "_id": 14174,
+    "num_slots": 1,
+    "name": "Bolt Jwl 1",
+    "description": "A Decoration that boosts ThunderAtk skills.",
+    "skills": {
+      "29": "1",
+      "30": "-1"
+    }
+  },
+  {
+    "_id": 14176,
+    "num_slots": 2,
+    "name": "Bolt Jwl 2",
+    "description": "A Decoration that boosts ThunderAtk skills.",
+    "skills": {
+      "29": "3",
+      "30": "-1"
+    }
+  },
+  {
+    "_id": 14178,
+    "num_slots": 1,
+    "name": "Frost Jwl 1",
+    "description": "A Decoration that boosts Ice Atk skills.",
+    "skills": {
+      "27": "-1",
+      "30": "1"
+    }
+  },
+  {
+    "_id": 14180,
+    "num_slots": 2,
+    "name": "Frost Jwl 2",
+    "description": "A Decoration that boosts Ice Atk skills.",
+    "skills": {
+      "27": "-1",
+      "30": "3"
+    }
+  },
+  {
+    "_id": 14182,
+    "num_slots": 1,
+    "name": "Dragon Jwl 1",
+    "description": "A Decoration that boosts Dragon Atk skills.",
+    "skills": {
+      "31": "1",
+      "33": "-1"
+    }
+  },
+  {
+    "_id": 14184,
+    "num_slots": 2,
+    "name": "Dragon Jwl 2",
+    "description": "A Decoration that boosts Dragon Atk skills.",
+    "skills": {
+      "31": "3",
+      "33": "-1"
+    }
+  },
+  {
+    "_id": 14186,
+    "num_slots": 1,
+    "name": "Element Jwl 1",
+    "description": "A Decoration that boosts Elemental skills.",
+    "skills": {
+      "32": "1",
+      "33": "-1"
+    }
+  },
+  {
+    "_id": 14188,
+    "num_slots": 3,
+    "name": "Element Jwl 3",
+    "description": "A Decoration that boosts Elemental skills.",
+    "skills": {
+      "32": "4",
+      "33": "-2"
+    }
+  },
+  {
+    "_id": 14190,
+    "num_slots": 1,
+    "name": "Disabler Jwl 1",
+    "description": "A Decoration that boosts Status skills.",
+    "skills": {
+      "32": "-1",
+      "33": "1"
+    }
+  },
+  {
+    "_id": 14192,
+    "num_slots": 2,
+    "name": "Disabler Jwl 2",
+    "description": "A Decoration that boosts Status skills.",
+    "skills": {
+      "32": "-1",
+      "33": "3"
+    }
+  },
+  {
+    "_id": 14194,
+    "num_slots": 1,
+    "name": "Grinder Jwl 1",
+    "description": "A Decoration that boosts Sharpener skills.",
+    "skills": {
+      "34": "2"
+    }
+  },
+  {
+    "_id": 14195,
+    "num_slots": 1,
+    "name": "Handicraft Jwl 1",
+    "description": "A Decoration that boosts Handicraft skills. (Blademaster Only)",
+    "skills": {
+      "35": "1",
+      "36": "-1"
+    }
+  },
+  {
+    "_id": 14197,
+    "num_slots": 3,
+    "name": "Handicraft Jwl 3",
+    "description": "A Decoration that boosts Handicraft skills. (Blademaster Only)",
+    "skills": {
+      "35": "4",
+      "36": "-2"
+    }
+  },
+  {
+    "_id": 14199,
+    "num_slots": 1,
+    "name": "Razor Jwl 1",
+    "description": "A Decoration that boosts Sharpness skills. (Blademaster Only)",
+    "skills": {
+      "35": "-1",
+      "36": "1"
+    }
+  },
+  {
+    "_id": 14201,
+    "num_slots": 3,
+    "name": "Razor Jwl 3",
+    "description": "A Decoration that boosts Sharpness skills. (Blademaster Only)",
+    "skills": {
+      "35": "-2",
+      "36": "4"
+    }
+  },
+  {
+    "_id": 14203,
+    "num_slots": 1,
+    "name": "Fencer Jwl 1",
+    "description": "A Decoration that boosts Fencing skills.",
+    "skills": {
+      "35": "-1",
+      "37": "1"
+    }
+  },
+  {
+    "_id": 14205,
+    "num_slots": 3,
+    "name": "Fencer Jwl 3",
+    "description": "A Decoration that boosts Fencing skills.",
+    "skills": {
+      "35": "-2",
+      "37": "4"
+    }
+  },
+  {
+    "_id": 14207,
+    "num_slots": 1,
+    "name": "Sharp Jwl 1",
+    "description": "A Decoration that boosts Grinder skills.",
+    "skills": {
+      "34": "-1",
+      "38": "1"
+    }
+  },
+  {
+    "_id": 14209,
+    "num_slots": 3,
+    "name": "Sharp Jwl 3",
+    "description": "A Decoration that boosts Grinder skills.",
+    "skills": {
+      "34": "-2",
+      "38": "4"
+    }
+  },
+  {
+    "_id": 14211,
+    "num_slots": 1,
+    "name": "Blunt Jwl 1",
+    "description": "A Decoration that boosts Blunt skills. (Blademaster Only)",
+    "skills": {
+      "18": "-1",
+      "39": "1"
+    }
+  },
+  {
+    "_id": 14213,
+    "num_slots": 2,
+    "name": "Blunt Jwl 2",
+    "description": "A Decoration that boosts Blunt skills. (Blademaster Only)",
+    "skills": {
+      "18": "-2",
+      "39": "3"
+    }
+  },
+  {
+    "_id": 14215,
+    "num_slots": 1,
+    "name": "Draw Jwl 1",
+    "description": "A Decoration that boosts Crit Draw skills. (Blademaster Only)",
+    "skills": {
+      "40": "1",
+      "70": "-1"
+    }
+  },
+  {
+    "_id": 14217,
+    "num_slots": 2,
+    "name": "Draw Jwl 2",
+    "description": "A Decoration that boosts Crit Draw skills. (Blademaster Only)",
+    "skills": {
+      "40": "3",
+      "70": "-1"
+    }
+  },
+  {
+    "_id": 14219,
+    "num_slots": 1,
+    "name": "Gambit Jwl 1",
+    "description": "A Decoration that boosts Punish Draw skills. (Blademaster Only)",
+    "skills": {
+      "36": "-1",
+      "41": "1"
+    }
+  },
+  {
+    "_id": 14221,
+    "num_slots": 3,
+    "name": "Gambit Jwl 3",
+    "description": "A Decoration that boosts Punish Draw skills. (Blademaster Only)",
+    "skills": {
+      "36": "-2",
+      "41": "4"
+    }
+  },
+  {
+    "_id": 14223,
+    "num_slots": 1,
+    "name": "Sheath Jwl 1",
+    "description": "A Decoration that boosts Sheathing skills.",
+    "skills": {
+      "34": "-1",
+      "42": "1"
+    }
+  },
+  {
+    "_id": 14225,
+    "num_slots": 2,
+    "name": "Sheath Jwl 2",
+    "description": "A Decoration that boosts Sheathing skills.",
+    "skills": {
+      "34": "-1",
+      "42": "3"
+    }
+  },
+  {
+    "_id": 14227,
+    "num_slots": 1,
+    "name": "Razor Sheath Jwl 1",
+    "description": "A Decoration that boosts Sheathe Sharpen skills.",
+    "skills": {
+      "42": "-1",
+      "43": "2"
+    }
+  },
+  {
+    "_id": 14229,
+    "num_slots": 1,
+    "name": "Bladescale Jwl 1",
+    "description": "A Decoration that boosts Bladescale skills.",
+    "skills": {
+      "44": "1"
+    }
+  },
+  {
+    "_id": 14230,
+    "num_slots": 3,
+    "name": "Bladescale Jwl 3",
+    "description": "A Decoration that boosts Bladescale skills.",
+    "skills": {
+      "44": "4"
+    }
+  },
+  {
+    "_id": 14231,
+    "num_slots": 1,
+    "name": "Quickload Jwl 1",
+    "description": "A Decoration that boosts Reload Spd skills. (Gunner Only)",
+    "skills": {
+      "45": "1",
+      "46": "-1"
+    }
+  },
+  {
+    "_id": 14233,
+    "num_slots": 2,
+    "name": "Quickload Jwl 2",
+    "description": "A Decoration that boosts Reload Spd skills. (Gunner Only)",
+    "skills": {
+      "45": "3",
+      "46": "-1"
+    }
+  },
+  {
+    "_id": 14235,
+    "num_slots": 1,
+    "name": "Absorber Jwl 1",
+    "description": "A Decoration that boosts Recoil skills. (Gunner Only)",
+    "skills": {
+      "45": "-1",
+      "46": "1"
+    }
+  },
+  {
+    "_id": 14237,
+    "num_slots": 3,
+    "name": "Absorber Jwl 3",
+    "description": "A Decoration that boosts Recoil skills. (Gunner Only)",
+    "skills": {
+      "45": "-2",
+      "46": "4"
+    }
+  },
+  {
+    "_id": 14239,
+    "num_slots": 1,
+    "name": "Sniper Jwl 1",
+    "description": "A Decoration that boosts Precision skills. (Gunner Only)",
+    "skills": {
+      "47": "2"
+    }
+  },
+  {
+    "_id": 14240,
+    "num_slots": 1,
+    "name": "Forceshot Jwl 1",
+    "description": "A Decoration that boosts Normal Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-1",
+      "48": "1"
+    }
+  },
+  {
+    "_id": 14242,
+    "num_slots": 3,
+    "name": "Forceshot Jwl 3",
+    "description": "A Decoration that boosts Normal Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-2",
+      "48": "4"
+    }
+  },
+  {
+    "_id": 14244,
+    "num_slots": 1,
+    "name": "Pierce Jwl 1",
+    "description": "A Decoration that boosts Pierce Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-1",
+      "49": "1"
+    }
+  },
+  {
+    "_id": 14246,
+    "num_slots": 3,
+    "name": "Pierce Jwl 3",
+    "description": "A Decoration that boosts Pierce Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-2",
+      "49": "4"
+    }
+  },
+  {
+    "_id": 14248,
+    "num_slots": 1,
+    "name": "Pellet Jwl 1",
+    "description": "A Decoration that boosts Pellet Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-1",
+      "50": "1"
+    }
+  },
+  {
+    "_id": 14250,
+    "num_slots": 3,
+    "name": "Pellet Jwl 3",
+    "description": "A Decoration that boosts Pellet Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-2",
+      "50": "4"
+    }
+  },
+  {
+    "_id": 14252,
+    "num_slots": 1,
+    "name": "Heavyshot Jwl 1",
+    "description": "A Decoration that boosts Heavy Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-1",
+      "51": "1"
+    }
+  },
+  {
+    "_id": 14254,
+    "num_slots": 3,
+    "name": "Heavyshot Jwl 3",
+    "description": "A Decoration that boosts Heavy Up skills. (Gunner Only)",
+    "skills": {
+      "46": "-2",
+      "51": "4"
+    }
+  },
+  {
+    "_id": 14256,
+    "num_slots": 1,
+    "name": "ShotPlus Jwl 1",
+    "description": "A Decoration that boosts Normal S+ skills. (Gunner Only)",
+    "skills": {
+      "45": "-1",
+      "52": "1"
+    }
+  },
+  {
+    "_id": 14258,
+    "num_slots": 2,
+    "name": "ShotPlus Jwl 2",
+    "description": "A Decoration that boosts Normal S+ skills. (Gunner Only)",
+    "skills": {
+      "45": "-1",
+      "52": "3"
+    }
+  },
+  {
+    "_id": 14260,
+    "num_slots": 1,
+    "name": "PiercePlus Jwl 1",
+    "description": "A Decoration that boosts Pierce S+ skills. (Gunner Only)",
+    "skills": {
+      "53": "2"
+    }
+  },
+  {
+    "_id": 14261,
+    "num_slots": 1,
+    "name": "PelletPlus Jwl 1",
+    "description": "A Decoration that boosts Pellet S+ skills. (Gunner Only)",
+    "skills": {
+      "54": "2"
+    }
+  },
+  {
+    "_id": 14262,
+    "num_slots": 1,
+    "name": "CragPlus Jwl 1",
+    "description": "A Decoration that boosts Crag S+ skills. (Gunner Only)",
+    "skills": {
+      "55": "2"
+    }
+  },
+  {
+    "_id": 14263,
+    "num_slots": 1,
+    "name": "ClustPlus Jwl 1",
+    "description": "A Decoration that boosts Clust S+ skills. (Gunner Only)",
+    "skills": {
+      "45": "-1",
+      "56": "1"
+    }
+  },
+  {
+    "_id": 14265,
+    "num_slots": 3,
+    "name": "ClustPlus Jwl 3",
+    "description": "A Decoration that boosts Clust S+ skills. (Gunner Only)",
+    "skills": {
+      "45": "-2",
+      "56": "4"
+    }
+  },
+  {
+    "_id": 14267,
+    "num_slots": 1,
+    "name": "Poisoncoat Jwl 1",
+    "description": "A Decoration that boosts Poison C+ skills. (Gunner Only)",
+    "skills": {
+      "57": "2"
+    }
+  },
+  {
+    "_id": 14268,
+    "num_slots": 1,
+    "name": "Paracoat Jwl 1",
+    "description": "A Decoration that boosts Para C+ skills. (Gunner Only)",
+    "skills": {
+      "18": "-1",
+      "58": "1"
+    }
+  },
+  {
+    "_id": 14270,
+    "num_slots": 2,
+    "name": "Paracoat Jwl 2",
+    "description": "A Decoration that boosts Para C+ skills. (Gunner Only)",
+    "skills": {
+      "18": "-1",
+      "58": "3"
+    }
+  },
+  {
+    "_id": 14272,
+    "num_slots": 1,
+    "name": "Sleep Jwl 1",
+    "description": "A Decoration that boosts Sleep C+ skills. (Gunner Only)",
+    "skills": {
+      "59": "2"
+    }
+  },
+  {
+    "_id": 14273,
+    "num_slots": 1,
+    "name": "Powercoat Jwl 1",
+    "description": "A Decoration that boosts Power C+ skills. (Gunner Only)",
+    "skills": {
+      "60": "1",
+      "70": "-1"
+    }
+  },
+  {
+    "_id": 14275,
+    "num_slots": 2,
+    "name": "Powercoat Jwl 2",
+    "description": "A Decoration that boosts Power C+ skills. (Gunner Only)",
+    "skills": {
+      "60": "3",
+      "70": "-1"
+    }
+  },
+  {
+    "_id": 14277,
+    "num_slots": 1,
+    "name": "Elemcoat Jwl 1",
+    "description": "A Decoration that boosts Elem C+ skills. (Gunner Only)",
+    "skills": {
+      "33": "-1",
+      "61": "1"
+    }
+  },
+  {
+    "_id": 14279,
+    "num_slots": 2,
+    "name": "Elemcoat Jwl 2",
+    "description": "A Decoration that boosts Elem C+ skills. (Gunner Only)",
+    "skills": {
+      "33": "-1",
+      "61": "3"
+    }
+  },
+  {
+    "_id": 14281,
+    "num_slots": 1,
+    "name": "Rangecoat Jwl 1",
+    "description": "A Decoration that boosts C.Range C+ skills. (Gunner Only)",
+    "skills": {
+      "62": "2"
+    }
+  },
+  {
+    "_id": 14282,
+    "num_slots": 1,
+    "name": "Draincoat Jwl 1",
+    "description": "A Decoration that boosts Exhaust C+ skills. (Gunner Only)",
+    "skills": {
+      "63": "2"
+    }
+  },
+  {
+    "_id": 14283,
+    "num_slots": 1,
+    "name": "Blastcoat Jwl 1",
+    "description": "A Decoration that boosts Blast C+ skills. (Gunner Only)",
+    "skills": {
+      "64": "2"
+    }
+  },
+  {
+    "_id": 14284,
+    "num_slots": 1,
+    "name": "Salvo Jwl 1",
+    "description": "A Decoration that boosts Rapid Fire skills. (Gunner Only)",
+    "skills": {
+      "45": "-1",
+      "65": "1"
+    }
+  },
+  {
+    "_id": 14286,
+    "num_slots": 3,
+    "name": "Salvo Jwl 3",
+    "description": "A Decoration that boosts Rapid Fire skills. (Gunner Only)",
+    "skills": {
+      "45": "-2",
+      "65": "4"
+    }
+  },
+  {
+    "_id": 14288,
+    "num_slots": 1,
+    "name": "Precise Jwl 1",
+    "description": "A Decoration that boosts Dead Eye skills. (Gunner Only)",
+    "skills": {
+      "66": "1",
+      "67": "-1"
+    }
+  },
+  {
+    "_id": 14290,
+    "num_slots": 2,
+    "name": "Precise Jwl 2",
+    "description": "A Decoration that boosts Dead Eye skills. (Gunner Only)",
+    "skills": {
+      "66": "3",
+      "67": "-1"
+    }
+  },
+  {
+    "_id": 14292,
+    "num_slots": 1,
+    "name": "Capacity Jwl 1",
+    "description": "A Decoration that boosts Loading skills.",
+    "skills": {
+      "45": "-1",
+      "67": "1"
+    }
+  },
+  {
+    "_id": 14294,
+    "num_slots": 3,
+    "name": "Capacity Jwl 3",
+    "description": "A Decoration that boosts Loading skills.",
+    "skills": {
+      "45": "-2",
+      "67": "4"
+    }
+  },
+  {
+    "_id": 14296,
+    "num_slots": 1,
+    "name": "Irregular Jwl 1",
+    "description": "A Decoration that boosts Haphazard skills. (Gunner Only)",
+    "skills": {
+      "68": "2"
+    }
+  },
+  {
+    "_id": 14297,
+    "num_slots": 1,
+    "name": "Thrift Jwl 1",
+    "description": "A Decoration that boosts Ammo Saver skills. (Gunner Only)",
+    "skills": {
+      "47": "-1",
+      "69": "1"
+    }
+  },
+  {
+    "_id": 14299,
+    "num_slots": 2,
+    "name": "Thrift Jwl 2",
+    "description": "A Decoration that boosts Ammo Saver skills. (Gunner Only)",
+    "skills": {
+      "47": "-1",
+      "69": "3"
+    }
+  },
+  {
+    "_id": 14301,
+    "num_slots": 1,
+    "name": "Expert Jwl 1",
+    "description": "A Decoration that boosts Expert skills.",
+    "skills": {
+      "25": "-1",
+      "70": "1"
+    }
+  },
+  {
+    "_id": 14303,
+    "num_slots": 2,
+    "name": "Expert Jwl 2",
+    "description": "A Decoration that boosts Expert skills.",
+    "skills": {
+      "25": "-1",
+      "70": "3"
+    }
+  },
+  {
+    "_id": 14305,
+    "num_slots": 3,
+    "name": "Expert Jwl 3",
+    "description": "A Decoration that boosts Expert skills.",
+    "skills": {
+      "25": "-1",
+      "70": "5"
+    }
+  },
+  {
+    "_id": 14307,
+    "num_slots": 1,
+    "name": "Tenderizer Jwl 1",
+    "description": "A Decoration that boosts Tenderizer skills.",
+    "skills": {
+      "20": "-1",
+      "71": "1"
+    }
+  },
+  {
+    "_id": 14309,
+    "num_slots": 3,
+    "name": "Tenderizer Jwl 3",
+    "description": "A Decoration that boosts Tenderizer skills.",
+    "skills": {
+      "20": "-2",
+      "71": "4"
+    }
+  },
+  {
+    "_id": 14311,
+    "num_slots": 1,
+    "name": "Chain Jwl 1",
+    "description": "A Decoration that boosts Chain Crit skills.",
+    "skills": {
+      "72": "1",
+      "115": "-1"
+    }
+  },
+  {
+    "_id": 14313,
+    "num_slots": 3,
+    "name": "Chain Jwl 3",
+    "description": "A Decoration that boosts Chain Crit skills.",
+    "skills": {
+      "72": "4",
+      "115": "-2"
+    }
+  },
+  {
+    "_id": 14315,
+    "num_slots": 1,
+    "name": "Crit Status Jwl 1",
+    "description": "A Decoration that boosts Crit Status skills.",
+    "skills": {
+      "18": "-1",
+      "73": "1"
+    }
+  },
+  {
+    "_id": 14317,
+    "num_slots": 2,
+    "name": "Crit Status Jwl 2",
+    "description": "A Decoration that boosts Crit Status skills.",
+    "skills": {
+      "18": "-1",
+      "73": "3"
+    }
+  },
+  {
+    "_id": 14319,
+    "num_slots": 1,
+    "name": "CritElementJwl 1",
+    "description": "A Decoration that boosts Crit Element skills.",
+    "skills": {
+      "18": "-1",
+      "74": "1"
+    }
+  },
+  {
+    "_id": 14321,
+    "num_slots": 2,
+    "name": "CritElementJwl 2",
+    "description": "A Decoration that boosts Crit Element skills.",
+    "skills": {
+      "18": "-1",
+      "74": "3"
+    }
+  },
+  {
+    "_id": 14323,
+    "num_slots": 1,
+    "name": "Critical Jwl 1",
+    "description": "A Decoration that boosts Critical Up skills.",
+    "skills": {
+      "18": "-1",
+      "75": "1"
+    }
+  },
+  {
+    "_id": 14325,
+    "num_slots": 3,
+    "name": "Critical Jwl 3",
+    "description": "A Decoration that boosts Critical Up skills.",
+    "skills": {
+      "18": "-2",
+      "75": "4"
+    }
+  },
+  {
+    "_id": 14327,
+    "num_slots": 1,
+    "name": "Negative Crit Jwl 1",
+    "description": "A Decoration that boosts Negative Crit skills.",
+    "skills": {
+      "18": "-1",
+      "76": "1"
+    }
+  },
+  {
+    "_id": 14329,
+    "num_slots": 3,
+    "name": "Negative Crit Jwl 3",
+    "description": "A Decoration that boosts Negative Crit skills.",
+    "skills": {
+      "18": "-2",
+      "76": "4"
+    }
+  },
+  {
+    "_id": 14331,
+    "num_slots": 1,
+    "name": "Charger Jwl 1",
+    "description": "A Decoration that boosts FastCharge skills.",
+    "skills": {
+      "77": "1",
+      "79": "-1"
+    }
+  },
+  {
+    "_id": 14333,
+    "num_slots": 3,
+    "name": "Charger Jwl 3",
+    "description": "A Decoration that boosts FastCharge skills.",
+    "skills": {
+      "77": "4",
+      "79": "-2"
+    }
+  },
+  {
+    "_id": 14335,
+    "num_slots": 1,
+    "name": "Sprinter Jwl 1",
+    "description": "A Decoration that boosts Stamina skills.",
+    "skills": {
+      "78": "1",
+      "121": "-1"
+    }
+  },
+  {
+    "_id": 14337,
+    "num_slots": 3,
+    "name": "Sprinter Jwl 3",
+    "description": "A Decoration that boosts Stamina skills.",
+    "skills": {
+      "78": "4",
+      "121": "-2"
+    }
+  },
+  {
+    "_id": 14339,
+    "num_slots": 1,
+    "name": "Physique Jwl 1",
+    "description": "A Decoration that boosts Constitution skills.",
+    "skills": {
+      "78": "-1",
+      "79": "1"
+    }
+  },
+  {
+    "_id": 14341,
+    "num_slots": 2,
+    "name": "Physique Jwl 2",
+    "description": "A Decoration that boosts Constitution skills.",
+    "skills": {
+      "78": "-1",
+      "79": "3"
+    }
+  },
+  {
+    "_id": 14343,
+    "num_slots": 1,
+    "name": "Refresh Jwl 1",
+    "description": "A Decoration that boosts Stam Recov skills.",
+    "skills": {
+      "80": "1",
+      "82": "-1"
+    }
+  },
+  {
+    "_id": 14345,
+    "num_slots": 2,
+    "name": "Refresh Jwl 2",
+    "description": "A Decoration that boosts Stam Recov skills.",
+    "skills": {
+      "80": "3",
+      "82": "-1"
+    }
+  },
+  {
+    "_id": 14347,
+    "num_slots": 1,
+    "name": "Distance Runner Jwl 1",
+    "description": "A Decoration that boosts Distance Runner skills.",
+    "skills": {
+      "79": "-1",
+      "81": "1"
+    }
+  },
+  {
+    "_id": 14349,
+    "num_slots": 2,
+    "name": "Distance Runner Jwl 2",
+    "description": "A Decoration that boosts Distance Runner skills.",
+    "skills": {
+      "79": "-1",
+      "81": "3"
+    }
+  },
+  {
+    "_id": 14351,
+    "num_slots": 1,
+    "name": "Evasion Jwl 1",
+    "description": "A Decoration that boosts Evasion skills.",
+    "skills": {
+      "20": "-1",
+      "82": "1"
+    }
+  },
+  {
+    "_id": 14353,
+    "num_slots": 2,
+    "name": "Evasion Jwl 2",
+    "description": "A Decoration that boosts Evasion skills.",
+    "skills": {
+      "20": "-1",
+      "82": "3"
+    }
+  },
+  {
+    "_id": 14355,
+    "num_slots": 1,
+    "name": "Jumping Jwl 1",
+    "description": "A Decoration that boosts Evade Dist skills.",
+    "skills": {
+      "20": "-1",
+      "83": "1"
+    }
+  },
+  {
+    "_id": 14357,
+    "num_slots": 3,
+    "name": "Jumping Jwl 3",
+    "description": "A Decoration that boosts Evade Dist skills.",
+    "skills": {
+      "20": "-2",
+      "83": "4"
+    }
+  },
+  {
+    "_id": 14359,
+    "num_slots": 1,
+    "name": "Bubble Jwl 1",
+    "description": "A Decoration that boosts Bubble skills.",
+    "skills": {
+      "80": "-1",
+      "84": "1"
+    }
+  },
+  {
+    "_id": 14361,
+    "num_slots": 3,
+    "name": "Bubble Jwl 3",
+    "description": "A Decoration that boosts Bubble skills.",
+    "skills": {
+      "80": "-2",
+      "84": "4"
+    }
+  },
+  {
+    "_id": 14363,
+    "num_slots": 1,
+    "name": "Ironwall Jwl 1",
+    "description": "A Decoration that boosts Guard skills.",
+    "skills": {
+      "79": "-1",
+      "85": "1"
+    }
+  },
+  {
+    "_id": 14365,
+    "num_slots": 2,
+    "name": "Ironwall Jwl 2",
+    "description": "A Decoration that boosts Guard skills.",
+    "skills": {
+      "79": "-1",
+      "85": "3"
+    }
+  },
+  {
+    "_id": 14367,
+    "num_slots": 1,
+    "name": "Shield Jwl 1",
+    "description": "A Decoration that boosts Guard Up skills.",
+    "skills": {
+      "78": "-1",
+      "86": "1"
+    }
+  },
+  {
+    "_id": 14369,
+    "num_slots": 2,
+    "name": "Shield Jwl 2",
+    "description": "A Decoration that boosts Guard Up skills.",
+    "skills": {
+      "78": "-1",
+      "86": "3"
+    }
+  },
+  {
+    "_id": 14371,
+    "num_slots": 1,
+    "name": "KO Jwl 1",
+    "description": "A Decoration that boosts KO skills.",
+    "skills": {
+      "77": "-1",
+      "87": "1"
+    }
+  },
+  {
+    "_id": 14373,
+    "num_slots": 2,
+    "name": "KO Jwl 2",
+    "description": "A Decoration that boosts KO skills.",
+    "skills": {
+      "77": "-1",
+      "87": "3"
+    }
+  },
+  {
+    "_id": 14375,
+    "num_slots": 1,
+    "name": "Drain Jwl 1",
+    "description": "A Decoration that boosts Stam Drain skills.",
+    "skills": {
+      "78": "-1",
+      "88": "1"
+    }
+  },
+  {
+    "_id": 14377,
+    "num_slots": 2,
+    "name": "Drain Jwl 2",
+    "description": "A Decoration that boosts Stam Drain skills.",
+    "skills": {
+      "78": "-1",
+      "88": "3"
+    }
+  },
+  {
+    "_id": 14379,
+    "num_slots": 1,
+    "name": "Sonorous Jwl 1",
+    "description": "A Decoration that boosts Maestro skills.",
+    "skills": {
+      "89": "2"
+    }
+  },
+  {
+    "_id": 14380,
+    "num_slots": 1,
+    "name": "Artillery Jwl 1",
+    "description": "A Decoration that boosts Artillery skills.",
+    "skills": {
+      "90": "2"
+    }
+  },
+  {
+    "_id": 14381,
+    "num_slots": 1,
+    "name": "Destroyer Jwl 1",
+    "description": "A Decoration that boosts Destroyer skills.",
+    "skills": {
+      "70": "-1",
+      "91": "1"
+    }
+  },
+  {
+    "_id": 14383,
+    "num_slots": 3,
+    "name": "Destroyer Jwl 3",
+    "description": "A Decoration that boosts Destroyer skills.",
+    "skills": {
+      "70": "-2",
+      "91": "4"
+    }
+  },
+  {
+    "_id": 14385,
+    "num_slots": 1,
+    "name": "Bombardier Jwl 1",
+    "description": "A Decoration that boosts Bomb Boost skills.",
+    "skills": {
+      "92": "2"
+    }
+  },
+  {
+    "_id": 14386,
+    "num_slots": 1,
+    "name": "Throttle Jwl 1",
+    "description": "A Decoration that boosts Gloves Off skills.",
+    "skills": {
+      "93": "1",
+      "103": "-1"
+    }
+  },
+  {
+    "_id": 14388,
+    "num_slots": 2,
+    "name": "Throttle Jwl 2",
+    "description": "A Decoration that boosts Gloves Off skills.",
+    "skills": {
+      "93": "3",
+      "103": "-1"
+    }
+  },
+  {
+    "_id": 14390,
+    "num_slots": 1,
+    "name": "Spirit Jwl 1",
+    "description": "A Decoration that boosts Spirit skills.",
+    "skills": {
+      "85": "-1",
+      "94": "1"
+    }
+  },
+  {
+    "_id": 14392,
+    "num_slots": 2,
+    "name": "Spirit Jwl 2",
+    "description": "A Decoration that boosts Spirit skills.",
+    "skills": {
+      "85": "-1",
+      "94": "3"
+    }
+  },
+  {
+    "_id": 14394,
+    "num_slots": 1,
+    "name": "Flawless Jwl 1",
+    "description": "A Decoration that boosts Unscathed skills.",
+    "skills": {
+      "95": "1",
+      "118": "-1"
+    }
+  },
+  {
+    "_id": 14396,
+    "num_slots": 2,
+    "name": "Flawless Jwl 2",
+    "description": "A Decoration that boosts Unscathed skills.",
+    "skills": {
+      "95": "3",
+      "118": "-1"
+    }
+  },
+  {
+    "_id": 14398,
+    "num_slots": 1,
+    "name": "Favor Jwl 1",
+    "description": "A Decoration that boosts Chance skills.",
+    "skills": {
+      "96": "1",
+      "119": "-1"
+    }
+  },
+  {
+    "_id": 14400,
+    "num_slots": 3,
+    "name": "Favor Jwl 3",
+    "description": "A Decoration that boosts Chance skills.",
+    "skills": {
+      "96": "4",
+      "119": "-2"
+    }
+  },
+  {
+    "_id": 14402,
+    "num_slots": 1,
+    "name": "Dragon Spirit Jwl 1",
+    "description": "A Decoration that boosts Dragon Spirit skills.",
+    "skills": {
+      "19": "-1",
+      "97": "1"
+    }
+  },
+  {
+    "_id": 14404,
+    "num_slots": 3,
+    "name": "Dragon Spirit Jwl 3",
+    "description": "A Decoration that boosts Dragon Spirit skills.",
+    "skills": {
+      "19": "-2",
+      "97": "4"
+    }
+  },
+  {
+    "_id": 14406,
+    "num_slots": 1,
+    "name": "Potential Jwl 1",
+    "description": "A Decoration that boosts Potential skills.",
+    "skills": {
+      "98": "1",
+      "115": "-1"
+    }
+  },
+  {
+    "_id": 14408,
+    "num_slots": 2,
+    "name": "Potential Jwl 2",
+    "description": "A Decoration that boosts Potential skills.",
+    "skills": {
+      "98": "3",
+      "115": "-1"
+    }
+  },
+  {
+    "_id": 14410,
+    "num_slots": 1,
+    "name": "Fortitude Jwl 1",
+    "description": "A Decoration that boosts Survivor skills.",
+    "skills": {
+      "99": "1",
+      "117": "-1"
+    }
+  },
+  {
+    "_id": 14412,
+    "num_slots": 2,
+    "name": "Fortitude Jwl 2",
+    "description": "A Decoration that boosts Survivor skills.",
+    "skills": {
+      "99": "3",
+      "117": "-1"
+    }
+  },
+  {
+    "_id": 14414,
+    "num_slots": 1,
+    "name": "Furor Jwl 1",
+    "description": "A Decoration that boosts Furor skills.",
+    "skills": {
+      "79": "-1",
+      "100": "1"
+    }
+  },
+  {
+    "_id": 14416,
+    "num_slots": 2,
+    "name": "Furor Jwl 2",
+    "description": "A Decoration that boosts Furor skills.",
+    "skills": {
+      "79": "-1",
+      "100": "3"
+    }
+  },
+  {
+    "_id": 14418,
+    "num_slots": 1,
+    "name": "Crisis Jwl 1",
+    "description": "A Decoration that boosts Crisis skills.",
+    "skills": {
+      "1": "-1",
+      "101": "1"
+    }
+  },
+  {
+    "_id": 14420,
+    "num_slots": 2,
+    "name": "Crisis Jwl 2",
+    "description": "A Decoration that boosts Crisis skills.",
+    "skills": {
+      "1": "-1",
+      "101": "3"
+    }
+  },
+  {
+    "_id": 14422,
+    "num_slots": 1,
+    "name": "Guts Jwl 1",
+    "description": "A Decoration that boosts Guts skills.",
+    "skills": {
+      "102": "1",
+      "128": "-1"
+    }
+  },
+  {
+    "_id": 14424,
+    "num_slots": 2,
+    "name": "Guts Jwl 2",
+    "description": "A Decoration that boosts Guts skills.",
+    "skills": {
+      "102": "3",
+      "128": "-1"
+    }
+  },
+  {
+    "_id": 14426,
+    "num_slots": 1,
+    "name": "Ninja Jwl 1",
+    "description": "A Decoration that boosts Sense skills.",
+    "skills": {
+      "103": "2"
+    }
+  },
+  {
+    "_id": 14427,
+    "num_slots": 1,
+    "name": "Player Jwl 1",
+    "description": "A Decoration that boosts Team Player skills.",
+    "skills": {
+      "104": "1",
+      "119": "-1"
+    }
+  },
+  {
+    "_id": 14429,
+    "num_slots": 1,
+    "name": "Morale Jwl 1",
+    "description": "A Decoration that boosts Team Player skills.",
+    "skills": {
+      "104": "2"
+    }
+  },
+  {
+    "_id": 14430,
+    "num_slots": 1,
+    "name": "Leader Jwl 1",
+    "description": "A Decoration that boosts Team Leader skills.",
+    "skills": {
+      "105": "1",
+      "131": "-1"
+    }
+  },
+  {
+    "_id": 14432,
+    "num_slots": 2,
+    "name": "Leader Jwl 2",
+    "description": "A Decoration that boosts Team Leader skills.",
+    "skills": {
+      "105": "3",
+      "131": "-1"
+    }
+  },
+  {
+    "_id": 14434,
+    "num_slots": 1,
+    "name": "Rodeo Jwl 1",
+    "description": "A Decoration that boosts Mounting skills.",
+    "skills": {
+      "106": "2"
+    }
+  },
+  {
+    "_id": 14435,
+    "num_slots": 1,
+    "name": "Flight Jwl 1",
+    "description": "A Decoration that boosts Vault skills.",
+    "skills": {
+      "107": "2"
+    }
+  },
+  {
+    "_id": 14436,
+    "num_slots": 1,
+    "name": "Insight Jwl 1",
+    "description": "A Decoration that boosts Insight skills.",
+    "skills": {
+      "103": "-1",
+      "108": "1"
+    }
+  },
+  {
+    "_id": 14438,
+    "num_slots": 3,
+    "name": "Insight Jwl 3",
+    "description": "A Decoration that boosts Insight skills.",
+    "skills": {
+      "103": "-2",
+      "108": "4"
+    }
+  },
+  {
+    "_id": 14440,
+    "num_slots": 1,
+    "name": "Endurance Jwl 1",
+    "description": "A Decoration that boosts Endurance skills.",
+    "skills": {
+      "108": "-1",
+      "109": "2"
+    }
+  },
+  {
+    "_id": 14442,
+    "num_slots": 1,
+    "name": "Extender Jwl 1",
+    "description": "A Decoration that boosts Prolong SP skills.",
+    "skills": {
+      "108": "-1",
+      "110": "1"
+    }
+  },
+  {
+    "_id": 14444,
+    "num_slots": 2,
+    "name": "Extender Jwl 2",
+    "description": "A Decoration that boosts Prolong SP skills.",
+    "skills": {
+      "108": "-1",
+      "110": "3"
+    }
+  },
+  {
+    "_id": 14446,
+    "num_slots": 1,
+    "name": "Psychic Jwl 1",
+    "description": "A Decoration that boosts Psychic skills.",
+    "skills": {
+      "111": "2"
+    }
+  },
+  {
+    "_id": 14447,
+    "num_slots": 1,
+    "name": "Perception Jwl 1",
+    "description": "A Decoration that boosts Perception skills.",
+    "skills": {
+      "112": "2"
+    }
+  },
+  {
+    "_id": 14448,
+    "num_slots": 1,
+    "name": "Ranger Jwl 1",
+    "description": "A Decoration that boosts Ranger skills.",
+    "skills": {
+      "113": "2"
+    }
+  },
+  {
+    "_id": 14449,
+    "num_slots": 1,
+    "name": "Transportr Jwl 1",
+    "description": "A Decoration that boosts Transporter skills.",
+    "skills": {
+      "114": "2"
+    }
+  },
+  {
+    "_id": 14450,
+    "num_slots": 1,
+    "name": "Protection Jwl 1",
+    "description": "A Decoration that boosts Protection skills.",
+    "skills": {
+      "115": "1"
+    }
+  },
+  {
+    "_id": 14451,
+    "num_slots": 1,
+    "name": "Asylum Jwl 1",
+    "description": "A Decoration that boosts Protection skills.",
+    "skills": {
+      "115": "2"
+    }
+  },
+  {
+    "_id": 14452,
+    "num_slots": 1,
+    "name": "Hero Jwl 1",
+    "description": "A Decoration that boosts Hero Shield skills.",
+    "skills": {
+      "116": "1",
+      "135": "-1"
+    }
+  },
+  {
+    "_id": 14454,
+    "num_slots": 3,
+    "name": "Hero Jwl 3",
+    "description": "A Decoration that boosts Hero Shield skills.",
+    "skills": {
+      "116": "4",
+      "135": "-2"
+    }
+  },
+  {
+    "_id": 14456,
+    "num_slots": 1,
+    "name": "Medicine Jwl 1",
+    "description": "A Decoration that boosts Rec Level skills.",
+    "skills": {
+      "117": "1",
+      "118": "-1"
+    }
+  },
+  {
+    "_id": 14458,
+    "num_slots": 2,
+    "name": "Medicine Jwl 2",
+    "description": "A Decoration that boosts Rec Level skills.",
+    "skills": {
+      "117": "3",
+      "118": "-1"
+    }
+  },
+  {
+    "_id": 14460,
+    "num_slots": 1,
+    "name": "Recovery Jwl 1",
+    "description": "A Decoration that boosts Rec Speed skills.",
+    "skills": {
+      "118": "1",
+      "123": "-1"
+    }
+  },
+  {
+    "_id": 14462,
+    "num_slots": 2,
+    "name": "Recovery Jwl 2",
+    "description": "A Decoration that boosts Rec Speed skills.",
+    "skills": {
+      "118": "3",
+      "123": "-1"
+    }
+  },
+  {
+    "_id": 14464,
+    "num_slots": 1,
+    "name": "Enduring Jwl 1",
+    "description": "A Decoration that boosts Lasting Pwr skills.",
+    "skills": {
+      "119": "2"
+    }
+  },
+  {
+    "_id": 14465,
+    "num_slots": 1,
+    "name": "Friendship Jwl 1",
+    "description": "A Decoration that boosts Wide-Range skills.",
+    "skills": {
+      "103": "-1",
+      "120": "1"
+    }
+  },
+  {
+    "_id": 14467,
+    "num_slots": 2,
+    "name": "Friendship Jwl 2",
+    "description": "A Decoration that boosts Wide-Range skills.",
+    "skills": {
+      "103": "-1",
+      "120": "3"
+    }
+  },
+  {
+    "_id": 14469,
+    "num_slots": 1,
+    "name": "Hungerless Jwl 1",
+    "description": "A Decoration that boosts Hunger skills.",
+    "skills": {
+      "121": "2"
+    }
+  },
+  {
+    "_id": 14470,
+    "num_slots": 1,
+    "name": "Metabolism Jwl 1",
+    "description": "A Decoration that boosts Gluttony skills.",
+    "skills": {
+      "122": "2"
+    }
+  },
+  {
+    "_id": 14471,
+    "num_slots": 1,
+    "name": "Gobbler Jwl 1",
+    "description": "A Decoration that boosts Eating skills.",
+    "skills": {
+      "117": "-1",
+      "123": "1"
+    }
+  },
+  {
+    "_id": 14473,
+    "num_slots": 3,
+    "name": "Gobbler Jwl 3",
+    "description": "A Decoration that boosts Eating skills.",
+    "skills": {
+      "117": "-2",
+      "123": "4"
+    }
+  },
+  {
+    "_id": 14475,
+    "num_slots": 1,
+    "name": "Satiated Jwl 1",
+    "description": "A Decoration that boosts Light Eater skills.",
+    "skills": {
+      "124": "2",
+      "134": "-1"
+    }
+  },
+  {
+    "_id": 14477,
+    "num_slots": 1,
+    "name": "Meateater Jwl 1",
+    "description": "A Decoration that boosts Carnivore skills.",
+    "skills": {
+      "121": "-1",
+      "125": "1"
+    }
+  },
+  {
+    "_id": 14479,
+    "num_slots": 1,
+    "name": "Meatlover Jwl 1",
+    "description": "A Decoration that boosts Carnivore skills.",
+    "skills": {
+      "125": "2"
+    }
+  },
+  {
+    "_id": 14480,
+    "num_slots": 1,
+    "name": "Fungiform Jwl 1",
+    "description": "A Decoration that boosts Mycology skills.",
+    "skills": {
+      "125": "-1",
+      "126": "2"
+    }
+  },
+  {
+    "_id": 14482,
+    "num_slots": 1,
+    "name": "Grass Jwl 1",
+    "description": "A Decoration that boosts Botany skills.",
+    "skills": {
+      "127": "2"
+    }
+  },
+  {
+    "_id": 14483,
+    "num_slots": 1,
+    "name": "Professor Jwl 1",
+    "description": "A Decoration that boosts Combo Rate skills.",
+    "skills": {
+      "128": "2"
+    }
+  },
+  {
+    "_id": 14484,
+    "num_slots": 1,
+    "name": "Factory Jwl 1",
+    "description": "A Decoration that boosts Combo Plus skills.",
+    "skills": {
+      "129": "2"
+    }
+  },
+  {
+    "_id": 14485,
+    "num_slots": 1,
+    "name": "Trapmaster Jwl 1",
+    "description": "A Decoration that boosts Speed Setup skills.",
+    "skills": {
+      "130": "2"
+    }
+  },
+  {
+    "_id": 14486,
+    "num_slots": 1,
+    "name": "Gathering Jwl 1",
+    "description": "A Decoration that boosts Gathering skills.",
+    "skills": {
+      "131": "2"
+    }
+  },
+  {
+    "_id": 14487,
+    "num_slots": 1,
+    "name": "Honeybee Jwl 1",
+    "description": "A Decoration that boosts Honey skills.",
+    "skills": {
+      "132": "1",
+      "134": "-1"
+    }
+  },
+  {
+    "_id": 14489,
+    "num_slots": 1,
+    "name": "Queenbee Jwl 1",
+    "description": "A Decoration that boosts Honey skills.",
+    "skills": {
+      "132": "2"
+    }
+  },
+  {
+    "_id": 14490,
+    "num_slots": 1,
+    "name": "Charmer Jwl 1",
+    "description": "A Decoration that boosts Charmer skills.",
+    "skills": {
+      "133": "1"
+    }
+  },
+  {
+    "_id": 14491,
+    "num_slots": 3,
+    "name": "Charmer Jwl 3",
+    "description": "A Decoration that boosts Charmer skills.",
+    "skills": {
+      "133": "4"
+    }
+  },
+  {
+    "_id": 14492,
+    "num_slots": 1,
+    "name": "Blessing Jwl 1",
+    "description": "A Decoration that boosts Whim skills.",
+    "skills": {
+      "134": "2"
+    }
+  },
+  {
+    "_id": 14493,
+    "num_slots": 1,
+    "name": "Fate Jwl 1",
+    "description": "A Decoration that boosts Fate skills.",
+    "skills": {
+      "134": "-1",
+      "135": "1"
+    }
+  },
+  {
+    "_id": 14495,
+    "num_slots": 3,
+    "name": "Fate Jwl 3",
+    "description": "A Decoration that boosts Fate skills.",
+    "skills": {
+      "134": "-2",
+      "135": "4"
+    }
+  },
+  {
+    "_id": 14497,
+    "num_slots": 1,
+    "name": "Carver Jwl 1",
+    "description": "A Decoration that boosts Carving skills.",
+    "skills": {
+      "135": "-1",
+      "136": "1"
+    }
+  },
+  {
+    "_id": 14499,
+    "num_slots": 3,
+    "name": "Carver Jwl 3",
+    "description": "A Decoration that boosts Carving skills.",
+    "skills": {
+      "135": "-2",
+      "136": "4"
+    }
+  },
+  {
+    "_id": 14501,
+    "num_slots": 1,
+    "name": "Capture Jwl 1",
+    "description": "A Decoration that boosts Capturer skills.",
+    "skills": {
+      "135": "-1",
+      "137": "1"
+    }
+  },
+  {
+    "_id": 14503,
+    "num_slots": 3,
+    "name": "Capture Jwl 3",
+    "description": "A Decoration that boosts Capturer skills.",
+    "skills": {
+      "135": "-2",
+      "137": "4"
+    }
+  },
+  {
+    "_id": 14505,
+    "num_slots": 1,
+    "name": "Bell Jwl 1",
+    "description": "A Decoration that boosts Bherna skills.",
+    "skills": {
+      "138": "2"
+    }
+  },
+  {
+    "_id": 14506,
+    "num_slots": 1,
+    "name": "Novice Jwl 1",
+    "description": "A Decoration that boosts Kokoto skills.",
+    "skills": {
+      "139": "2"
+    }
+  },
+  {
+    "_id": 14507,
+    "num_slots": 1,
+    "name": "Snowflake Jwl 1",
+    "description": "A Decoration that boosts Pokke skills.",
+    "skills": {
+      "140": "2"
+    }
+  },
+  {
+    "_id": 14508,
+    "num_slots": 1,
+    "name": "Springs Jwl 1",
+    "description": "A Decoration that boosts Yukumo skills.",
+    "skills": {
+      "141": "2"
+    }
+  },
+  {
+    "_id": 14509,
+    "num_slots": 1,
+    "name": "Study Jwl 1",
+    "description": "A Decoration that boosts Soaratorium skills.",
+    "skills": {
+      "142": "2"
+    }
+  },
+  {
+    "_id": 14510,
+    "num_slots": 1,
+    "name": "Skyfeast Jwl 1",
+    "description": "A Decoration that boosts Flying Pub skills.",
+    "skills": {
+      "143": "2"
+    }
+  }
+]

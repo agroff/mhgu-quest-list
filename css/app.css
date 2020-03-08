@@ -2,6 +2,10 @@ body {
     padding-top: 50px;
 }
 
+.button-row{
+    text-align:right;
+    padding:0 15px;
+}
 .starter-template {
     padding: 40px 15px;
     text-align: center;
@@ -535,16 +539,9 @@ body {
     color:#888;
 }
 
-.disabled,.disabled:hover{
-    color:#ccc;
-}
 
-.fa-check-circle{
-    color:#fff;
-}
-.fa-check-circle.selected{
-    color:green;
-}
+
+
 
 a.button{
     display: inline-block;
@@ -556,12 +553,189 @@ a.button{
 .container.armor::before{
     display:none;
 }
-.container.armor{
+div.armor{
+    width:100%;
+    overflow:hidden;
+}
+.armor-viewport.step-two{
+    margin-left:-100%;
+}
+
+.armor-viewport.step-three{
+    margin-left:-200%;
+}
+.armor-viewport .available-skills,
+.armor-viewport .charms,
+.armor-viewport .results{
+    padding:15px;
+}
+.armor-viewport{
+    width:100%;
     display:grid;
-    grid-template-columns: 260px 260px 1fr;
+    transition: margin 0.5s;
+    margin-left:0;
+    grid-template-columns: 100% 100% 100%;
+}
+
+@media only screen and (max-width: 5500px){
+    .container.armor{
+        max-width:100%;
+        overflow:hidden;
+    }
 }
 .container.armor h1{
     font-size:18px;
 }
 .container.armor .available-skills{
+}
+
+@media only screen and (min-width: 500px){
+    .skill-container{
+        width:100%;
+        padding:4px;
+        float:left;
+    }
+
+    .selectedSkillsContainer a.skill{
+        width:200px;
+        float:left;
+    }
+
+    #skills{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+a.skill{
+    background: #e8e8e8;
+    color: #6b6b6b;
+    padding: 4px;
+    border-radius: 3px;
+    margin: 2px;
+    display: block;
+    border: 1px solid #bdbdbd;
+}
+a.skill.disabled, a.skill.disabled:hover{
+    color: #d4d4d4;
+    cursor: default;
+    background-color: #f9f9f9;
+    text-decoration: none;
+    border: 1px solid #d8d8d8;
+}
+.fa-check-circle{
+    color:#e8e8e8;
+}
+.fa-check-circle.selected{
+    color:#4cad4c;
+}
+.selectedSkillsContainer{
+    background-color: #696969;
+    padding: 4px;
+    border-radius: 3px;
+    margin-top:20px;
+}
+.selectedSkillsContainer h1{
+    color:white;
+    margin:0;
+    font-size:14px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align:center;
+}
+.selectedSkillsContainer .empty{
+    color:#d2d2d2;
+    text-align:center;
+    padding:10px;
+}
+.button{
+    background:blue;
+    color:white;
+    border-radius: 4px;
+}
+.progress-grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top:-10px;
+}
+#steps{
+    padding: 15px;
+    margin-top: 10px;
+}
+.line{
+    width:100%;
+    background-color: #ccc;
+    height:3px;
+}
+.progress-line{
+    height:3px;
+    background-color: #de4df9;
+}
+.step{
+    width:20px; 
+    height:20px;
+    transition: all 1s;
+    border-radius: 50%;
+    background:#ccc;
+}
+.step-text{
+    transition: all 1s;
+    color:#ccc;
+}
+.step-two{
+    margin: auto;
+}
+.step.step-three{
+    margin-left: calc(100% - 20px);
+}
+.step-text.step-three{
+    text-align: right;
+}
+
+#steps .progress-line{
+    width:2%;
+    transition: width 0.3s;
+}
+#steps.step-two .progress-line{
+    width:50%;
+}
+#steps.step-three .progress-line{
+    width:100%;
+}
+#steps.step-two .step.step-one,
+#steps.step-two .step.step-two,
+#steps.step-three .step,
+#steps.step-one .step.step-one{
+    background-color: #de4df9;
+}
+#steps.step-two .step-text.step-one,
+#steps.step-two .step-text.step-two,
+#steps.step-three .step-text,
+#steps.step-one .step-text.step-one{
+    color: #de4df9;
+}
+
+
+.button-container{
+    display:flex;
+    justify-content: space-between;
+}
+
+#newCharmForm{
+    margin-top:10px;
+    padding:10px;
+    border:1px solid #ddd;
+}
+#newCharmForm h4{
+    margin-top:0;
+}
+#newCharmForm .row{
+    margin-top:8px;
+}
+
+#currentCharms{
+    border: 1px solid #bd8828;
+    padding: 6px;
+    background: #fff7e0;
+    border-radius: 4px;
 }

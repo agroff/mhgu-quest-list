@@ -2,6 +2,7 @@
   {
     "_id": 1572865,
     "name": "Leather Trousers",
+    "num_slots": 1,
     "max_defense": 25,
     "sub_type": "Legs",
     "skills": [
@@ -14,6 +15,7 @@
   {
     "_id": 1572866,
     "name": "Chainmail Trousers",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Legs",
     "skills": [
@@ -26,6 +28,7 @@
   {
     "_id": 1572867,
     "name": "Bherna Greaves",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Legs",
     "skills": [
@@ -38,6 +41,7 @@
   {
     "_id": 1572868,
     "name": "Hunting Greaves",
+    "num_slots": 2,
     "max_defense": 50,
     "sub_type": "Legs",
     "skills": [
@@ -50,6 +54,7 @@
   {
     "_id": 1572869,
     "name": "Hunting Leggings",
+    "num_slots": 2,
     "max_defense": 25,
     "sub_type": "Legs",
     "skills": [
@@ -62,6 +67,7 @@
   {
     "_id": 1572870,
     "name": "Mafumofu Boots",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Legs",
     "skills": [
@@ -74,6 +80,7 @@
   {
     "_id": 1572871,
     "name": "Yukumo Hakama",
+    "num_slots": 2,
     "max_defense": 26,
     "sub_type": "Legs",
     "skills": [
@@ -86,6 +93,7 @@
   {
     "_id": 1572872,
     "name": "Loc Lac Boots",
+    "num_slots": 0,
     "max_defense": 26,
     "sub_type": "Legs",
     "skills": [
@@ -102,6 +110,7 @@
   {
     "_id": 1572873,
     "name": "Hunter's Greaves",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -114,6 +123,7 @@
   {
     "_id": 1572874,
     "name": "Hunter's Leggings",
+    "num_slots": 2,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -126,6 +136,7 @@
   {
     "_id": 1572875,
     "name": "Bone Greaves",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -138,6 +149,7 @@
   {
     "_id": 1572876,
     "name": "Bone Leggings",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -150,6 +162,7 @@
   {
     "_id": 1572881,
     "name": "Trapper's Greaves",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -162,6 +175,7 @@
   {
     "_id": 1572882,
     "name": "Trapper's Boots",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -174,6 +188,7 @@
   {
     "_id": 1572883,
     "name": "Maccao Shinguards",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -186,6 +201,7 @@
   {
     "_id": 1572884,
     "name": "Maccao Boots",
+    "num_slots": 2,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -198,6 +214,7 @@
   {
     "_id": 1572885,
     "name": "Jaggi Shinguards",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -210,6 +227,7 @@
   {
     "_id": 1572886,
     "name": "Jaggi Boots",
+    "num_slots": 2,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -222,6 +240,7 @@
   {
     "_id": 1572887,
     "name": "Jaggi Greaves",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -234,6 +253,7 @@
   {
     "_id": 1572888,
     "name": "Jaggi Leggings",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Legs",
     "skills": [
@@ -246,6 +266,7 @@
   {
     "_id": 1572889,
     "name": "Maccao Greaves",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -258,6 +279,7 @@
   {
     "_id": 1572890,
     "name": "Maccao Leggings",
+    "num_slots": 1,
     "max_defense": 28,
     "sub_type": "Legs",
     "skills": [
@@ -270,6 +292,7 @@
   {
     "_id": 1572891,
     "name": "Velociprey Greaves",
+    "num_slots": 2,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -286,6 +309,7 @@
   {
     "_id": 1572892,
     "name": "Velociprey Leggings",
+    "num_slots": 2,
     "max_defense": 28,
     "sub_type": "Legs",
     "skills": [
@@ -302,6 +326,7 @@
   {
     "_id": 1572895,
     "name": "Genprey Greaves",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -314,6 +339,7 @@
   {
     "_id": 1572896,
     "name": "Genprey Leggings",
+    "num_slots": 0,
     "max_defense": 29,
     "sub_type": "Legs",
     "skills": [
@@ -326,6 +352,7 @@
   {
     "_id": 1572897,
     "name": "Vespoid Greaves",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -342,6 +369,7 @@
   {
     "_id": 1572898,
     "name": "Vespoid Leggings",
+    "num_slots": 2,
     "max_defense": 29,
     "sub_type": "Legs",
     "skills": [
@@ -358,6 +386,7 @@
   {
     "_id": 1572899,
     "name": "Hornetaur Greaves",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -374,6 +403,7 @@
   {
     "_id": 1572900,
     "name": "Hornetaur Leggings",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Legs",
     "skills": [
@@ -390,6 +420,7 @@
   {
     "_id": 1572901,
     "name": "Bnahabra Boots",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -406,6 +437,7 @@
   {
     "_id": 1572902,
     "name": "Bnahabra Pants",
+    "num_slots": 0,
     "max_defense": 29,
     "sub_type": "Legs",
     "skills": [
@@ -422,6 +454,7 @@
   {
     "_id": 1572905,
     "name": "Mosswine Feet",
+    "num_slots": 0,
     "max_defense": 29,
     "sub_type": "Legs",
     "skills": [
@@ -434,6 +467,7 @@
   {
     "_id": 1572906,
     "name": "Rhenoplos Greaves",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -446,6 +480,7 @@
   {
     "_id": 1572907,
     "name": "Rhenoplos Leggings",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -458,6 +493,7 @@
   {
     "_id": 1572908,
     "name": "Bulldrome Greaves",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -470,6 +506,7 @@
   {
     "_id": 1572909,
     "name": "Bulldrome Leggings",
+    "num_slots": 1,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -482,6 +519,7 @@
   {
     "_id": 1572911,
     "name": "Arzuros Greaves",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -502,6 +540,7 @@
   {
     "_id": 1572912,
     "name": "Arzuros Leggings",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -522,6 +561,7 @@
   {
     "_id": 1572913,
     "name": "Cephalos Greaves",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -542,6 +582,7 @@
   {
     "_id": 1572914,
     "name": "Cephalos Leggings",
+    "num_slots": 2,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -562,6 +603,7 @@
   {
     "_id": 1572915,
     "name": "Derring Trousers",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Legs",
     "skills": [
@@ -574,6 +616,7 @@
   {
     "_id": 1572916,
     "name": "Alloy Greaves",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -586,6 +629,7 @@
   {
     "_id": 1572917,
     "name": "Alloy Leggings",
+    "num_slots": 2,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -598,6 +642,7 @@
   {
     "_id": 1572918,
     "name": "Battle Greaves",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -610,6 +655,7 @@
   {
     "_id": 1572919,
     "name": "Battle Leggings",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -622,6 +668,7 @@
   {
     "_id": 1572920,
     "name": "Ingot Greaves",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -638,6 +685,7 @@
   {
     "_id": 1572921,
     "name": "Ingot Leggings",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -654,6 +702,7 @@
   {
     "_id": 1572922,
     "name": "High Metal Greaves",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -670,6 +719,7 @@
   {
     "_id": 1572923,
     "name": "High Metal Leggings",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -686,6 +736,7 @@
   {
     "_id": 1572924,
     "name": "Metal Boots",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -698,6 +749,7 @@
   {
     "_id": 1572925,
     "name": "Metal Feet",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -710,6 +762,7 @@
   {
     "_id": 1572926,
     "name": "Melahoa Roots",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -726,6 +779,7 @@
   {
     "_id": 1572927,
     "name": "Melahoa Taproot",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -742,6 +796,7 @@
   {
     "_id": 1572928,
     "name": "Makluva Pants",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -754,6 +809,7 @@
   {
     "_id": 1572929,
     "name": "Makluva Leggings",
+    "num_slots": 2,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -766,6 +822,7 @@
   {
     "_id": 1572932,
     "name": "Obituary Crura",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -786,6 +843,7 @@
   {
     "_id": 1572933,
     "name": "Obituary Tarsi",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -806,6 +864,7 @@
   {
     "_id": 1572934,
     "name": "Butterfly Crura",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -826,6 +885,7 @@
   {
     "_id": 1572935,
     "name": "Butterfly Tarsi",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -846,6 +906,7 @@
   {
     "_id": 1572936,
     "name": "Death Stench Heel",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -858,6 +919,7 @@
   {
     "_id": 1572937,
     "name": "Death Stench March",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Legs",
     "skills": [
@@ -870,6 +932,7 @@
   {
     "_id": 1572940,
     "name": "Mosgharl Roots",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -886,6 +949,7 @@
   {
     "_id": 1572941,
     "name": "Mosgharl Radicles",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -902,6 +966,7 @@
   {
     "_id": 1572942,
     "name": "Edel Roots",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -918,6 +983,7 @@
   {
     "_id": 1572943,
     "name": "Edel Radicles",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -934,6 +1000,7 @@
   {
     "_id": 1572944,
     "name": "Skalda Crura",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -950,6 +1017,7 @@
   {
     "_id": 1572945,
     "name": "Skalda Tarsi",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -966,6 +1034,7 @@
   {
     "_id": 1572946,
     "name": "Spio Crura",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -982,6 +1051,7 @@
   {
     "_id": 1572947,
     "name": "Spio Tarsi",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -998,6 +1068,7 @@
   {
     "_id": 1572948,
     "name": "Droth Greaves",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -1010,6 +1081,7 @@
   {
     "_id": 1572949,
     "name": "Droth Leggings",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Legs",
     "skills": [
@@ -1022,6 +1094,7 @@
   {
     "_id": 1572957,
     "name": "Velociprey Feet",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -1038,6 +1111,7 @@
   {
     "_id": 1572958,
     "name": "Velociprey Tights",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -1054,6 +1128,7 @@
   {
     "_id": 1572959,
     "name": "Genprey Feet",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -1070,6 +1145,7 @@
   {
     "_id": 1572960,
     "name": "Genprey Tights",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -1086,6 +1162,7 @@
   {
     "_id": 1572961,
     "name": "Ioprey Feet",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -1102,6 +1179,7 @@
   {
     "_id": 1572962,
     "name": "Ioprey Tights",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -1118,6 +1196,7 @@
   {
     "_id": 1572963,
     "name": "Remobra Feet",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -1134,6 +1213,7 @@
   {
     "_id": 1572964,
     "name": "Remobra Tights",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Legs",
     "skills": [
@@ -1150,6 +1230,7 @@
   {
     "_id": 1572965,
     "name": "Ioprey Greaves",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -1166,6 +1247,7 @@
   {
     "_id": 1572966,
     "name": "Ioprey Leggings",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -1182,6 +1264,7 @@
   {
     "_id": 1572967,
     "name": "Kut-Ku Greaves",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -1198,6 +1281,7 @@
   {
     "_id": 1572968,
     "name": "Kut-Ku Leggings",
+    "num_slots": 2,
     "max_defense": 33,
     "sub_type": "Legs",
     "skills": [
@@ -1214,6 +1298,7 @@
   {
     "_id": 1572969,
     "name": "Lagombi Greaves",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -1230,6 +1315,7 @@
   {
     "_id": 1572970,
     "name": "Lagombi Leggings",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -1246,6 +1332,7 @@
   {
     "_id": 1572971,
     "name": "Gypceros Greaves",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -1262,6 +1349,7 @@
   {
     "_id": 1572972,
     "name": "Gypceros Leggings",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Legs",
     "skills": [
@@ -1278,6 +1366,7 @@
   {
     "_id": 1572973,
     "name": "Tetsucabra Greaves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1294,6 +1383,7 @@
   {
     "_id": 1572974,
     "name": "Tetsucabra Leggings",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1310,6 +1400,7 @@
   {
     "_id": 1572977,
     "name": "Volvidon Greaves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1326,6 +1417,7 @@
   {
     "_id": 1572978,
     "name": "Volvidon Leggings",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1342,6 +1434,7 @@
   {
     "_id": 1572979,
     "name": "Ludroth Greaves",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1358,6 +1451,7 @@
   {
     "_id": 1572980,
     "name": "Ludroth Leggings",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1374,6 +1468,7 @@
   {
     "_id": 1572981,
     "name": "Malfestio Greaves",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1386,6 +1481,7 @@
   {
     "_id": 1572982,
     "name": "Malfestio Leggings",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1398,6 +1494,7 @@
   {
     "_id": 1572983,
     "name": "Khezu Greaves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1414,6 +1511,7 @@
   {
     "_id": 1572984,
     "name": "Khezu Leggings",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1430,6 +1528,7 @@
   {
     "_id": 1572985,
     "name": "Rathian Greaves",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1450,6 +1549,7 @@
   {
     "_id": 1572986,
     "name": "Rathian Leggings",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1470,6 +1570,7 @@
   {
     "_id": 1572987,
     "name": "Nibelsnarf Greaves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1490,6 +1591,7 @@
   {
     "_id": 1572988,
     "name": "Nibelsnarf Leggings",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1510,6 +1612,7 @@
   {
     "_id": 1572989,
     "name": "Blango Greaves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1522,6 +1625,7 @@
   {
     "_id": 1572990,
     "name": "Blango Leggings",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1534,6 +1638,7 @@
   {
     "_id": 1572991,
     "name": "Ceanataur Greaves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1554,6 +1659,7 @@
   {
     "_id": 1572992,
     "name": "Ceanataur Leggings",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1574,6 +1680,7 @@
   {
     "_id": 1572993,
     "name": "Najarala Greaves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1586,6 +1693,7 @@
   {
     "_id": 1572994,
     "name": "Najarala Leggings",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1598,6 +1706,7 @@
   {
     "_id": 1572995,
     "name": "Nargacuga Greaves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1610,6 +1719,7 @@
   {
     "_id": 1572996,
     "name": "Nargacuga Leggings",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1622,6 +1732,7 @@
   {
     "_id": 1572997,
     "name": "Scholarly Boots",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -1642,6 +1753,7 @@
   {
     "_id": 1572998,
     "name": "Scholarly Tights",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Legs",
     "skills": [
@@ -1662,6 +1774,7 @@
   {
     "_id": 1572999,
     "name": "Vaik Greaves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1674,6 +1787,7 @@
   {
     "_id": 1573000,
     "name": "Vaik Leggings",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1686,6 +1800,7 @@
   {
     "_id": 1573003,
     "name": "Aelucanth Crura",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1698,6 +1813,7 @@
   {
     "_id": 1573004,
     "name": "Aelucanth Tarsi",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1710,6 +1826,7 @@
   {
     "_id": 1573005,
     "name": "Rhopessa Crura",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1722,6 +1839,7 @@
   {
     "_id": 1573006,
     "name": "Rhopessa Tarsi",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1734,6 +1852,7 @@
   {
     "_id": 1573007,
     "name": "Artian Greaves",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -1746,6 +1865,7 @@
   {
     "_id": 1573008,
     "name": "Artian Leggings",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -1758,6 +1878,7 @@
   {
     "_id": 1573009,
     "name": "Garuga Greaves",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -1774,6 +1895,7 @@
   {
     "_id": 1573010,
     "name": "Garuga Leggings",
+    "num_slots": 1,
     "max_defense": 36,
     "sub_type": "Legs",
     "skills": [
@@ -1790,6 +1912,7 @@
   {
     "_id": 1573012,
     "name": "Uragaan Greaves",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -1802,6 +1925,7 @@
   {
     "_id": 1573013,
     "name": "Uragaan Leggings",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -1814,6 +1938,7 @@
   {
     "_id": 1573014,
     "name": "Rathalos Greaves",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -1830,6 +1955,7 @@
   {
     "_id": 1573015,
     "name": "Rathalos Leggings",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -1846,6 +1972,7 @@
   {
     "_id": 1573016,
     "name": "Lagiacrus Greaves",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -1866,6 +1993,7 @@
   {
     "_id": 1573017,
     "name": "Lagiacrus Leggings",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -1886,6 +2014,7 @@
   {
     "_id": 1573018,
     "name": "Zinogre Greaves",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -1906,6 +2035,7 @@
   {
     "_id": 1573019,
     "name": "Zinogre Leggings",
+    "num_slots": 1,
     "max_defense": 36,
     "sub_type": "Legs",
     "skills": [
@@ -1926,6 +2056,7 @@
   {
     "_id": 1573020,
     "name": "Mizutsune Greaves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -1946,6 +2077,7 @@
   {
     "_id": 1573021,
     "name": "Mizutsune Leggings",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -1966,6 +2098,7 @@
   {
     "_id": 1573022,
     "name": "Astalos Greaves",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -1986,6 +2119,7 @@
   {
     "_id": 1573023,
     "name": "Astalos Leggings",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2006,6 +2140,7 @@
   {
     "_id": 1573024,
     "name": "Gammoth Greaves",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2026,6 +2161,7 @@
   {
     "_id": 1573025,
     "name": "Gammoth Leggings",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2046,6 +2182,7 @@
   {
     "_id": 1573026,
     "name": "Glavenus Greaves",
+    "num_slots": 2,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2066,6 +2203,7 @@
   {
     "_id": 1573027,
     "name": "Glavenus Leggings",
+    "num_slots": 2,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2086,6 +2224,7 @@
   {
     "_id": 1573028,
     "name": "Gore Greaves",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2102,6 +2241,7 @@
   {
     "_id": 1573029,
     "name": "Gore Leggings",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2118,6 +2258,7 @@
   {
     "_id": 1573030,
     "name": "Regios Greaves",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2138,6 +2279,7 @@
   {
     "_id": 1573031,
     "name": "Regios Leggings",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2158,6 +2300,7 @@
   {
     "_id": 1573032,
     "name": "Tigrex Greaves",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2178,6 +2321,7 @@
   {
     "_id": 1573033,
     "name": "Tigrex Leggings",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2198,6 +2342,7 @@
   {
     "_id": 1573034,
     "name": "Kirin Leg Guards",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2218,6 +2363,7 @@
   {
     "_id": 1573035,
     "name": "Kirin Boots",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2238,6 +2384,7 @@
   {
     "_id": 1573036,
     "name": "Brachydios Greaves",
+    "num_slots": 2,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2258,6 +2405,7 @@
   {
     "_id": 1573037,
     "name": "Brachydios Leggings",
+    "num_slots": 2,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2278,6 +2426,7 @@
   {
     "_id": 1573038,
     "name": "Arc Greaves",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2294,6 +2443,7 @@
   {
     "_id": 1573039,
     "name": "Storge Greaves",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2310,6 +2460,7 @@
   {
     "_id": 1573040,
     "name": "Arc Leggings",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2326,6 +2477,7 @@
   {
     "_id": 1573041,
     "name": "Storge Leggings",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2342,6 +2494,7 @@
   {
     "_id": 1573042,
     "name": "Kushala Crus",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2358,6 +2511,7 @@
   {
     "_id": 1573043,
     "name": "Kushala Shank",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2374,6 +2528,7 @@
   {
     "_id": 1573044,
     "name": "Mizuha Gaiters",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2390,6 +2545,7 @@
   {
     "_id": 1573045,
     "name": "Cham Trousers",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2406,6 +2562,7 @@
   {
     "_id": 1573046,
     "name": "Kaiser Greaves",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2422,6 +2579,7 @@
   {
     "_id": 1573047,
     "name": "Kaiser Leggings",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2438,6 +2596,7 @@
   {
     "_id": 1573048,
     "name": "Skeletal Femur",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -2454,6 +2613,7 @@
   {
     "_id": 1573049,
     "name": "Decayed Femur",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Legs",
     "skills": [
@@ -2470,6 +2630,7 @@
   {
     "_id": 1573050,
     "name": "Black Feet",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -2486,6 +2647,7 @@
   {
     "_id": 1573051,
     "name": "Black Legs",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Legs",
     "skills": [
@@ -2502,6 +2664,7 @@
   {
     "_id": 1573052,
     "name": "Black Belt Greaves",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -2514,6 +2677,7 @@
   {
     "_id": 1573053,
     "name": "Black Belt Leggings",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Legs",
     "skills": [
@@ -2526,6 +2690,7 @@
   {
     "_id": 1573054,
     "name": "Guild Bard Boots",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -2546,6 +2711,7 @@
   {
     "_id": 1573055,
     "name": "Guild Bard Gaiters",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -2566,6 +2732,7 @@
   {
     "_id": 1573056,
     "name": "Maiden's Socks",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -2586,6 +2753,7 @@
   {
     "_id": 1573057,
     "name": "French Maid Tights",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -2606,6 +2774,7 @@
   {
     "_id": 1573058,
     "name": "Helper Socks",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -2626,6 +2795,7 @@
   {
     "_id": 1573059,
     "name": "Healer Socks",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -2646,6 +2816,7 @@
   {
     "_id": 1573060,
     "name": "Dianthus Pants",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -2662,6 +2833,7 @@
   {
     "_id": 1573061,
     "name": "Campanile Pants",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -2678,6 +2850,7 @@
   {
     "_id": 1573062,
     "name": "Bath Sandals",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Legs",
     "skills": [
@@ -2690,6 +2863,7 @@
   {
     "_id": 1573063,
     "name": "Gourmew Boots",
+    "num_slots": 2,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -2702,6 +2876,7 @@
   {
     "_id": 1573064,
     "name": "Gourmew Paws",
+    "num_slots": 2,
     "max_defense": 36,
     "sub_type": "Legs",
     "skills": [
@@ -2714,6 +2889,7 @@
   {
     "_id": 1573065,
     "name": "Leather Greaves S",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -2730,6 +2906,7 @@
   {
     "_id": 1573066,
     "name": "Chainmail Greaves S",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -2742,6 +2919,7 @@
   {
     "_id": 1573067,
     "name": "Bherna Greaves S",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -2758,6 +2936,7 @@
   {
     "_id": 1573068,
     "name": "Bherna Leggings S",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Legs",
     "skills": [
@@ -2774,6 +2953,7 @@
   {
     "_id": 1573069,
     "name": "Hunting Greaves S",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -2790,6 +2970,7 @@
   {
     "_id": 1573070,
     "name": "Hunting Leggings S",
+    "num_slots": 2,
     "max_defense": 51,
     "sub_type": "Legs",
     "skills": [
@@ -2806,6 +2987,7 @@
   {
     "_id": 1573071,
     "name": "Mafumofu Boots S",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -2822,6 +3004,7 @@
   {
     "_id": 1573072,
     "name": "Mafumofu Tights S",
+    "num_slots": 0,
     "max_defense": 51,
     "sub_type": "Legs",
     "skills": [
@@ -2838,6 +3021,7 @@
   {
     "_id": 1573073,
     "name": "Yukumo Sky Hakama",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -2854,6 +3038,7 @@
   {
     "_id": 1573074,
     "name": "Yukumo Land Hakama",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Legs",
     "skills": [
@@ -2870,6 +3055,7 @@
   {
     "_id": 1573075,
     "name": "Loc Lac Boots S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Legs",
     "skills": [
@@ -2886,6 +3072,7 @@
   {
     "_id": 1573076,
     "name": "Hunter's Greaves S",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -2902,6 +3089,7 @@
   {
     "_id": 1573077,
     "name": "Hunter's Leggings S",
+    "num_slots": 2,
     "max_defense": 51,
     "sub_type": "Legs",
     "skills": [
@@ -2918,6 +3106,7 @@
   {
     "_id": 1573078,
     "name": "Hunter's Greaves R",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -2938,6 +3127,7 @@
   {
     "_id": 1573079,
     "name": "Hunter's Leggings R",
+    "num_slots": 1,
     "max_defense": 49,
     "sub_type": "Legs",
     "skills": [
@@ -2958,6 +3148,7 @@
   {
     "_id": 1573080,
     "name": "Bone Greaves S",
+    "num_slots": 0,
     "max_defense": 106,
     "sub_type": "Legs",
     "skills": [
@@ -2978,6 +3169,7 @@
   {
     "_id": 1573081,
     "name": "Bone Leggings S",
+    "num_slots": 0,
     "max_defense": 53,
     "sub_type": "Legs",
     "skills": [
@@ -2998,6 +3190,7 @@
   {
     "_id": 1573084,
     "name": "Silver Metal Boots",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3014,6 +3207,7 @@
   {
     "_id": 1573085,
     "name": "Silver Feet",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3030,6 +3224,7 @@
   {
     "_id": 1573088,
     "name": "Melahoa Roots S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3046,6 +3241,7 @@
   {
     "_id": 1573089,
     "name": "Melahoa Taproot S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3062,6 +3258,7 @@
   {
     "_id": 1573090,
     "name": "Melahoa Roots U",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -3078,6 +3275,7 @@
   {
     "_id": 1573091,
     "name": "Melahoa Taproot U",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Legs",
     "skills": [
@@ -3094,6 +3292,7 @@
   {
     "_id": 1573092,
     "name": "Makluva Pants S",
+    "num_slots": 2,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3110,6 +3309,7 @@
   {
     "_id": 1573093,
     "name": "Makluva Leggings S",
+    "num_slots": 2,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3126,6 +3326,7 @@
   {
     "_id": 1573094,
     "name": "Makluva Pants U",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3138,6 +3339,7 @@
   {
     "_id": 1573095,
     "name": "Makluva Leggings U",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3150,6 +3352,7 @@
   {
     "_id": 1573100,
     "name": "Mosgharl Roots S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3166,6 +3369,7 @@
   {
     "_id": 1573101,
     "name": "Mosgharl Radicles S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3182,6 +3386,7 @@
   {
     "_id": 1573102,
     "name": "Edel Roots S",
+    "num_slots": 0,
     "max_defense": 110,
     "sub_type": "Legs",
     "skills": [
@@ -3202,6 +3407,7 @@
   {
     "_id": 1573103,
     "name": "Edel Radicles S",
+    "num_slots": 0,
     "max_defense": 55,
     "sub_type": "Legs",
     "skills": [
@@ -3222,6 +3428,7 @@
   {
     "_id": 1573111,
     "name": "Velociprey Feet S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -3238,6 +3445,7 @@
   {
     "_id": 1573112,
     "name": "Velociprey Tights S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Legs",
     "skills": [
@@ -3254,6 +3462,7 @@
   {
     "_id": 1573113,
     "name": "Genprey Feet S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -3270,6 +3479,7 @@
   {
     "_id": 1573114,
     "name": "Genprey Tights S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Legs",
     "skills": [
@@ -3286,6 +3496,7 @@
   {
     "_id": 1573115,
     "name": "Ioprey Feet S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -3302,6 +3513,7 @@
   {
     "_id": 1573116,
     "name": "Ioprey Tights S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Legs",
     "skills": [
@@ -3318,6 +3530,7 @@
   {
     "_id": 1573117,
     "name": "Remobra Feet S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -3334,6 +3547,7 @@
   {
     "_id": 1573118,
     "name": "Remobra Tights S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Legs",
     "skills": [
@@ -3350,6 +3564,7 @@
   {
     "_id": 1573119,
     "name": "Trapper's Shinguards S",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -3362,6 +3577,7 @@
   {
     "_id": 1573120,
     "name": "Trapper's Boots S",
+    "num_slots": 0,
     "max_defense": 49,
     "sub_type": "Legs",
     "skills": [
@@ -3374,6 +3590,7 @@
   {
     "_id": 1573121,
     "name": "Maccao Shinguards S",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -3386,6 +3603,7 @@
   {
     "_id": 1573122,
     "name": "Maccao Boots S",
+    "num_slots": 2,
     "max_defense": 49,
     "sub_type": "Legs",
     "skills": [
@@ -3398,6 +3616,7 @@
   {
     "_id": 1573123,
     "name": "Jaggi Shinguards S",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -3410,6 +3629,7 @@
   {
     "_id": 1573124,
     "name": "Jaggi Boots S",
+    "num_slots": 2,
     "max_defense": 49,
     "sub_type": "Legs",
     "skills": [
@@ -3422,6 +3642,7 @@
   {
     "_id": 1573125,
     "name": "Mosswine Feet S",
+    "num_slots": 0,
     "max_defense": 57,
     "sub_type": "Legs",
     "skills": [
@@ -3434,6 +3655,7 @@
   {
     "_id": 1573126,
     "name": "Rhenoplos Greaves S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3450,6 +3672,7 @@
   {
     "_id": 1573127,
     "name": "Rhenoplos Leggings S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3466,6 +3689,7 @@
   {
     "_id": 1573128,
     "name": "Jaggi Greaves S",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -3478,6 +3702,7 @@
   {
     "_id": 1573129,
     "name": "Jaggi Leggings S",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Legs",
     "skills": [
@@ -3490,6 +3715,7 @@
   {
     "_id": 1573130,
     "name": "Droth Greaves S",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -3506,6 +3732,7 @@
   {
     "_id": 1573131,
     "name": "Droth Leggings S",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Legs",
     "skills": [
@@ -3522,6 +3749,7 @@
   {
     "_id": 1573134,
     "name": "Maccao Greaves S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Legs",
     "skills": [
@@ -3538,6 +3766,7 @@
   {
     "_id": 1573135,
     "name": "Maccao Leggings S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Legs",
     "skills": [
@@ -3554,6 +3783,7 @@
   {
     "_id": 1573136,
     "name": "Velociprey Greaves S",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Legs",
     "skills": [
@@ -3570,6 +3800,7 @@
   {
     "_id": 1573137,
     "name": "Velociprey Leggings S",
+    "num_slots": 2,
     "max_defense": 53,
     "sub_type": "Legs",
     "skills": [
@@ -3586,6 +3817,7 @@
   {
     "_id": 1573140,
     "name": "Genprey Greaves S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3598,6 +3830,7 @@
   {
     "_id": 1573141,
     "name": "Genprey Leggings S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3610,6 +3843,7 @@
   {
     "_id": 1573142,
     "name": "EX Genprey Greaves",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3630,6 +3864,7 @@
   {
     "_id": 1573143,
     "name": "EX Genprey Leggings",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3650,6 +3885,7 @@
   {
     "_id": 1573144,
     "name": "Ioprey Greaves S",
+    "num_slots": 0,
     "max_defense": 110,
     "sub_type": "Legs",
     "skills": [
@@ -3666,6 +3902,7 @@
   {
     "_id": 1573145,
     "name": "Ioprey Leggings S",
+    "num_slots": 0,
     "max_defense": 55,
     "sub_type": "Legs",
     "skills": [
@@ -3682,6 +3919,7 @@
   {
     "_id": 1573146,
     "name": "EX Ioprey Greaves",
+    "num_slots": 1,
     "max_defense": 114,
     "sub_type": "Legs",
     "skills": [
@@ -3702,6 +3940,7 @@
   {
     "_id": 1573147,
     "name": "EX Ioprey Leggings",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Legs",
     "skills": [
@@ -3722,6 +3961,7 @@
   {
     "_id": 1573148,
     "name": "Vespoid Greaves S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3738,6 +3978,7 @@
   {
     "_id": 1573149,
     "name": "Vespoid Leggings S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3754,6 +3995,7 @@
   {
     "_id": 1573150,
     "name": "EX Vespoid Greaves",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3774,6 +4016,7 @@
   {
     "_id": 1573151,
     "name": "EX Vespoid Leggings",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3794,6 +4037,7 @@
   {
     "_id": 1573152,
     "name": "Hornetaur Greaves S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3810,6 +4054,7 @@
   {
     "_id": 1573153,
     "name": "Hornetaur Leggings S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3826,6 +4071,7 @@
   {
     "_id": 1573154,
     "name": "EX Hornetaur Greaves",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Legs",
     "skills": [
@@ -3846,6 +4092,7 @@
   {
     "_id": 1573155,
     "name": "EX Hornetaur Leggings",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -3866,6 +4113,7 @@
   {
     "_id": 1573156,
     "name": "Hornetaur Greaves R",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3882,6 +4130,7 @@
   {
     "_id": 1573157,
     "name": "Hornetaur Leggings R",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3898,6 +4147,7 @@
   {
     "_id": 1573158,
     "name": "Bnahabra Boots S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -3914,6 +4164,7 @@
   {
     "_id": 1573159,
     "name": "Bnahabra Pants S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -3930,6 +4181,7 @@
   {
     "_id": 1573162,
     "name": "Bulldrome Greaves S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -3942,6 +4194,7 @@
   {
     "_id": 1573163,
     "name": "Bulldrome Leggings S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -3954,6 +4207,7 @@
   {
     "_id": 1573165,
     "name": "Arzuros Greaves S",
+    "num_slots": 0,
     "max_defense": 114,
     "sub_type": "Legs",
     "skills": [
@@ -3974,6 +4228,7 @@
   {
     "_id": 1573166,
     "name": "Arzuros Leggings S",
+    "num_slots": 0,
     "max_defense": 57,
     "sub_type": "Legs",
     "skills": [
@@ -3994,6 +4249,7 @@
   {
     "_id": 1573167,
     "name": "Cephalos Greaves S",
+    "num_slots": 2,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -4014,6 +4270,7 @@
   {
     "_id": 1573168,
     "name": "Cephalos Leggings S",
+    "num_slots": 2,
     "max_defense": 59,
     "sub_type": "Legs",
     "skills": [
@@ -4034,6 +4291,7 @@
   {
     "_id": 1573169,
     "name": "EX Cephalos Greaves",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4054,6 +4312,7 @@
   {
     "_id": 1573170,
     "name": "EX Cephalos Leggings",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4074,6 +4333,7 @@
   {
     "_id": 1573171,
     "name": "Kut-Ku Greaves S",
+    "num_slots": 2,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4090,6 +4350,7 @@
   {
     "_id": 1573172,
     "name": "Kut-Ku Leggings S",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4106,6 +4367,7 @@
   {
     "_id": 1573173,
     "name": "Kecha Greaves",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4122,6 +4384,7 @@
   {
     "_id": 1573174,
     "name": "Kecha Leggings",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4138,6 +4401,7 @@
   {
     "_id": 1573175,
     "name": "Lagombi Greaves S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Legs",
     "skills": [
@@ -4154,6 +4418,7 @@
   {
     "_id": 1573176,
     "name": "Lagombi Leggings S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -4170,6 +4435,7 @@
   {
     "_id": 1573177,
     "name": "Gypceros Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4186,6 +4452,7 @@
   {
     "_id": 1573178,
     "name": "Gypceros Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4202,6 +4469,7 @@
   {
     "_id": 1573179,
     "name": "Gypceros Greaves R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -4218,6 +4486,7 @@
   {
     "_id": 1573180,
     "name": "Gypceros Leggings R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Legs",
     "skills": [
@@ -4234,6 +4503,7 @@
   {
     "_id": 1573181,
     "name": "Tetsucabra Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4254,6 +4524,7 @@
   {
     "_id": 1573182,
     "name": "Tetsucabra Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4274,6 +4545,7 @@
   {
     "_id": 1573183,
     "name": "Hermitaur Greaves S",
+    "num_slots": 3,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4290,6 +4562,7 @@
   {
     "_id": 1573184,
     "name": "Hermitaur Leggings S",
+    "num_slots": 3,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4306,6 +4579,7 @@
   {
     "_id": 1573185,
     "name": "EX Hermitaur Greaves",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -4318,6 +4592,7 @@
   {
     "_id": 1573186,
     "name": "EX Hermitaur Leggings",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -4330,6 +4605,7 @@
   {
     "_id": 1573187,
     "name": "Hermitaur Greaves R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4346,6 +4622,7 @@
   {
     "_id": 1573188,
     "name": "Hermitaur Leggings R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4362,6 +4639,7 @@
   {
     "_id": 1573189,
     "name": "Volvidon Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4378,6 +4656,7 @@
   {
     "_id": 1573190,
     "name": "Volvidon Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4394,6 +4673,7 @@
   {
     "_id": 1573191,
     "name": "Ludroth Greaves S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4414,6 +4694,7 @@
   {
     "_id": 1573192,
     "name": "Ludroth Leggings S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4434,6 +4715,7 @@
   {
     "_id": 1573193,
     "name": "Ludroth Greaves R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -4450,6 +4732,7 @@
   {
     "_id": 1573194,
     "name": "Ludroth Leggings R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Legs",
     "skills": [
@@ -4466,6 +4749,7 @@
   {
     "_id": 1573195,
     "name": "Lecturer's Boots",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4482,6 +4766,7 @@
   {
     "_id": 1573196,
     "name": "Lecturer's Footwear",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4498,6 +4783,7 @@
   {
     "_id": 1573197,
     "name": "Alloy Greaves S",
+    "num_slots": 2,
     "max_defense": 116,
     "sub_type": "Legs",
     "skills": [
@@ -4514,6 +4800,7 @@
   {
     "_id": 1573198,
     "name": "Alloy Leggings S",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -4530,6 +4817,7 @@
   {
     "_id": 1573199,
     "name": "Alloy Greaves R",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -4546,6 +4834,7 @@
   {
     "_id": 1573200,
     "name": "Alloy Leggings R",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -4562,6 +4851,7 @@
   {
     "_id": 1573201,
     "name": "Battle Greaves S",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4578,6 +4868,7 @@
   {
     "_id": 1573202,
     "name": "Battle Leggings S",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4594,6 +4885,7 @@
   {
     "_id": 1573203,
     "name": "Ingot Greaves S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4610,6 +4902,7 @@
   {
     "_id": 1573204,
     "name": "Ingot Leggings S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4626,6 +4919,7 @@
   {
     "_id": 1573205,
     "name": "Ingot Greaves R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4638,6 +4932,7 @@
   {
     "_id": 1573206,
     "name": "Ingot Leggings R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4650,6 +4945,7 @@
   {
     "_id": 1573207,
     "name": "High Metal Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4666,6 +4962,7 @@
   {
     "_id": 1573208,
     "name": "High Metal Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4682,6 +4979,7 @@
   {
     "_id": 1573209,
     "name": "High Metal Greaves U",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -4698,6 +4996,7 @@
   {
     "_id": 1573210,
     "name": "High Metal Leggings U",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Legs",
     "skills": [
@@ -4714,6 +5013,7 @@
   {
     "_id": 1573211,
     "name": "Pink Metal Boots",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4726,6 +5026,7 @@
   {
     "_id": 1573212,
     "name": "Pink Metal Feet",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4738,6 +5039,7 @@
   {
     "_id": 1573213,
     "name": "Lobster Greaves",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4758,6 +5060,7 @@
   {
     "_id": 1573214,
     "name": "Lobster Leggings",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4778,6 +5081,7 @@
   {
     "_id": 1573215,
     "name": "Obituary Crura S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -4798,6 +5102,7 @@
   {
     "_id": 1573216,
     "name": "Obituary Tarsi S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -4818,6 +5123,7 @@
   {
     "_id": 1573217,
     "name": "Butterfly Crura S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -4838,6 +5144,7 @@
   {
     "_id": 1573218,
     "name": "Butterfly Tarsi S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -4858,6 +5165,7 @@
   {
     "_id": 1573219,
     "name": "Death Stench Heel S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4870,6 +5178,7 @@
   {
     "_id": 1573220,
     "name": "Death Stench March S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4882,6 +5191,7 @@
   {
     "_id": 1573221,
     "name": "Death Stench Heel R",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -4898,6 +5208,7 @@
   {
     "_id": 1573222,
     "name": "Death Stench March R",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -4914,6 +5225,7 @@
   {
     "_id": 1573223,
     "name": "Vaik Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -4926,6 +5238,7 @@
   {
     "_id": 1573224,
     "name": "Vaik Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -4938,6 +5251,7 @@
   {
     "_id": 1573225,
     "name": "Aelucanth Crura S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4958,6 +5272,7 @@
   {
     "_id": 1573226,
     "name": "Aelucanth Tarsi S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -4978,6 +5293,7 @@
   {
     "_id": 1573227,
     "name": "Rhopessa Crura S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -4998,6 +5314,7 @@
   {
     "_id": 1573228,
     "name": "Rhopessa Tarsi S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5018,6 +5335,7 @@
   {
     "_id": 1573229,
     "name": "Patissier's Boots",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -5038,6 +5356,7 @@
   {
     "_id": 1573230,
     "name": "Patissier's Footwear",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -5058,6 +5377,7 @@
   {
     "_id": 1573231,
     "name": "Skalda Crura S",
+    "num_slots": 2,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -5078,6 +5398,7 @@
   {
     "_id": 1573232,
     "name": "Skalda Tarsi S",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5098,6 +5419,7 @@
   {
     "_id": 1573233,
     "name": "Spio Crura S",
+    "num_slots": 2,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -5118,6 +5440,7 @@
   {
     "_id": 1573234,
     "name": "Spio Tarsi S",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5138,6 +5461,7 @@
   {
     "_id": 1573235,
     "name": "Malfestio Greaves S",
+    "num_slots": 2,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -5154,6 +5478,7 @@
   {
     "_id": 1573236,
     "name": "Malfestio Leggings S",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -5170,6 +5495,7 @@
   {
     "_id": 1573237,
     "name": "Zamtrios Greaves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -5190,6 +5516,7 @@
   {
     "_id": 1573238,
     "name": "Zamtrios Leggings",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -5210,6 +5537,7 @@
   {
     "_id": 1573239,
     "name": "Khezu Greaves S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5226,6 +5554,7 @@
   {
     "_id": 1573240,
     "name": "Khezu Leggings S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5242,6 +5571,7 @@
   {
     "_id": 1573241,
     "name": "Khezu Greaves R",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -5258,6 +5588,7 @@
   {
     "_id": 1573242,
     "name": "Khezu Leggings R",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -5274,6 +5605,7 @@
   {
     "_id": 1573243,
     "name": "Rathian Greaves S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5294,6 +5626,7 @@
   {
     "_id": 1573244,
     "name": "Rathian Leggings S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5314,6 +5647,7 @@
   {
     "_id": 1573245,
     "name": "EX Rathian Greaves",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -5330,6 +5664,7 @@
   {
     "_id": 1573246,
     "name": "EX Rathian Leggings",
+    "num_slots": 2,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -5346,6 +5681,7 @@
   {
     "_id": 1573247,
     "name": "Rathian Greaves R",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -5358,6 +5694,7 @@
   {
     "_id": 1573248,
     "name": "Rathian Leggings R",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -5370,6 +5707,7 @@
   {
     "_id": 1573249,
     "name": "Nibelsnarf Greaves S",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5386,6 +5724,7 @@
   {
     "_id": 1573250,
     "name": "Nibelsnarf Leggings S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5402,6 +5741,7 @@
   {
     "_id": 1573251,
     "name": "Plesioth Greaves",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -5422,6 +5762,7 @@
   {
     "_id": 1573252,
     "name": "Plesioth Leggings",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -5442,6 +5783,7 @@
   {
     "_id": 1573253,
     "name": "Blango Greaves S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5458,6 +5800,7 @@
   {
     "_id": 1573254,
     "name": "Blango Leggings S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5474,6 +5817,7 @@
   {
     "_id": 1573255,
     "name": "EX Blango Greaves",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -5486,6 +5830,7 @@
   {
     "_id": 1573256,
     "name": "EX Blango Leggings",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -5498,6 +5843,7 @@
   {
     "_id": 1573257,
     "name": "Lavasioth Greaves",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -5510,6 +5856,7 @@
   {
     "_id": 1573258,
     "name": "Lavasioth Leggings",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -5522,6 +5869,7 @@
   {
     "_id": 1573259,
     "name": "EX Lavasioth Greaves",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -5534,6 +5882,7 @@
   {
     "_id": 1573260,
     "name": "EX Lavasioth Leggings",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -5546,6 +5895,7 @@
   {
     "_id": 1573261,
     "name": "Ceanataur Greaves S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -5562,6 +5912,7 @@
   {
     "_id": 1573262,
     "name": "Ceanataur Leggings S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5578,6 +5929,7 @@
   {
     "_id": 1573263,
     "name": "EX Ceanataur Greaves",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -5598,6 +5950,7 @@
   {
     "_id": 1573264,
     "name": "EX Ceanataur Leggings",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -5618,6 +5971,7 @@
   {
     "_id": 1573265,
     "name": "Ceanataur Greaves R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -5634,6 +5988,7 @@
   {
     "_id": 1573266,
     "name": "Ceanataur Leggings R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -5650,6 +6005,7 @@
   {
     "_id": 1573267,
     "name": "Najarala Greaves S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -5666,6 +6022,7 @@
   {
     "_id": 1573268,
     "name": "Najarala Leggings S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -5682,6 +6039,7 @@
   {
     "_id": 1573269,
     "name": "Nargacuga Greaves S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Legs",
     "skills": [
@@ -5698,6 +6056,7 @@
   {
     "_id": 1573270,
     "name": "Nargacuga Leggings S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Legs",
     "skills": [
@@ -5714,6 +6073,7 @@
   {
     "_id": 1573271,
     "name": "Garuga Greaves S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -5730,6 +6090,7 @@
   {
     "_id": 1573272,
     "name": "Garuga Leggings S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -5746,6 +6107,7 @@
   {
     "_id": 1573274,
     "name": "Uragaan Greaves S",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -5762,6 +6124,7 @@
   {
     "_id": 1573275,
     "name": "Uragaan Leggings S",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -5778,6 +6141,7 @@
   {
     "_id": 1573276,
     "name": "Black Belt Greaves S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5790,6 +6154,7 @@
   {
     "_id": 1573277,
     "name": "Black Belt Leggings S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5802,6 +6167,7 @@
   {
     "_id": 1573278,
     "name": "Guardian Boots",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -5818,6 +6184,7 @@
   {
     "_id": 1573279,
     "name": "Guardian Pants",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -5834,6 +6201,7 @@
   {
     "_id": 1573280,
     "name": "Guardian Boots U",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -5854,6 +6222,7 @@
   {
     "_id": 1573281,
     "name": "Guardian Pants U",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -5874,6 +6243,7 @@
   {
     "_id": 1573282,
     "name": "Scholar's Socks",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -5890,6 +6260,7 @@
   {
     "_id": 1573283,
     "name": "Scholar's Sandals",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5906,6 +6277,7 @@
   {
     "_id": 1573284,
     "name": "Sailor Socks",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -5922,6 +6294,7 @@
   {
     "_id": 1573285,
     "name": "Sailor Sandals",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -5938,6 +6311,7 @@
   {
     "_id": 1573286,
     "name": "Luxury Bath Sandals",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Legs",
     "skills": [
@@ -5954,6 +6328,7 @@
   {
     "_id": 1573287,
     "name": "Kita Star Hakama",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -5970,6 +6345,7 @@
   {
     "_id": 1573288,
     "name": "Umi Ocean Hakama",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -5986,6 +6362,7 @@
   {
     "_id": 1573290,
     "name": "Derring Greaves S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -6002,6 +6379,7 @@
   {
     "_id": 1573291,
     "name": "Derring Leggings S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -6018,6 +6396,7 @@
   {
     "_id": 1573292,
     "name": "Dober Greaves",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -6034,6 +6413,7 @@
   {
     "_id": 1573293,
     "name": "Dober Leggings",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -6050,6 +6430,7 @@
   {
     "_id": 1573294,
     "name": "Damascus Greaves",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6070,6 +6451,7 @@
   {
     "_id": 1573295,
     "name": "Damascus Leggings",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6090,6 +6472,7 @@
   {
     "_id": 1573296,
     "name": "Damascus Greaves R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6102,6 +6485,7 @@
   {
     "_id": 1573297,
     "name": "Damascus Leggings R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6114,6 +6498,7 @@
   {
     "_id": 1573300,
     "name": "Dark Metal Boots",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6126,6 +6511,7 @@
   {
     "_id": 1573301,
     "name": "Dark Metal Feet",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6138,6 +6524,7 @@
   {
     "_id": 1573302,
     "name": "Chrome Metal Boots",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6150,6 +6537,7 @@
   {
     "_id": 1573303,
     "name": "Chrome Metal Feet",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6162,6 +6550,7 @@
   {
     "_id": 1573304,
     "name": "Artian Greaves S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6178,6 +6567,7 @@
   {
     "_id": 1573305,
     "name": "Artian Leggings S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6194,6 +6584,7 @@
   {
     "_id": 1573306,
     "name": "Artian Greaves R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6206,6 +6597,7 @@
   {
     "_id": 1573307,
     "name": "Artian Leggings R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6218,6 +6610,7 @@
   {
     "_id": 1573308,
     "name": "Seltas Greaves",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6234,6 +6627,7 @@
   {
     "_id": 1573309,
     "name": "Seltas Leggings",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6250,6 +6644,7 @@
   {
     "_id": 1573310,
     "name": "Rathalos Greaves S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -6262,6 +6657,7 @@
   {
     "_id": 1573311,
     "name": "Rathalos Leggings S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -6274,6 +6670,7 @@
   {
     "_id": 1573312,
     "name": "EX Rathalos Greaves",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -6290,6 +6687,7 @@
   {
     "_id": 1573313,
     "name": "EX Rathalos Leggings",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -6306,6 +6704,7 @@
   {
     "_id": 1573314,
     "name": "Rathalos Greaves R",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -6322,6 +6721,7 @@
   {
     "_id": 1573315,
     "name": "Rathalos Leggings R",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -6338,6 +6738,7 @@
   {
     "_id": 1573316,
     "name": "Lagiacrus Greaves S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -6358,6 +6759,7 @@
   {
     "_id": 1573317,
     "name": "Lagiacrus Leggings S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -6378,6 +6780,7 @@
   {
     "_id": 1573318,
     "name": "Lagiacrus Greaves R",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -6394,6 +6797,7 @@
   {
     "_id": 1573319,
     "name": "Lagiacrus Leggings R",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -6410,6 +6814,7 @@
   {
     "_id": 1573320,
     "name": "Zinogre Greaves S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -6426,6 +6831,7 @@
   {
     "_id": 1573321,
     "name": "Zinogre Leggings S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -6438,6 +6844,7 @@
   {
     "_id": 1573322,
     "name": "EX Zinogre Greaves",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -6458,6 +6865,7 @@
   {
     "_id": 1573323,
     "name": "EX Zinogre Leggings",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -6478,6 +6886,7 @@
   {
     "_id": 1573324,
     "name": "Mizutsune Greaves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -6498,6 +6907,7 @@
   {
     "_id": 1573325,
     "name": "Mizutsune Leggings S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -6518,6 +6928,7 @@
   {
     "_id": 1573326,
     "name": "Astalos Greaves S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -6538,6 +6949,7 @@
   {
     "_id": 1573327,
     "name": "Astalos Leggings S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -6558,6 +6970,7 @@
   {
     "_id": 1573328,
     "name": "Gammoth Greaves S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -6578,6 +6991,7 @@
   {
     "_id": 1573329,
     "name": "Gammoth Leggings S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -6598,6 +7012,7 @@
   {
     "_id": 1573330,
     "name": "Glavenus Greaves S",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6614,6 +7029,7 @@
   {
     "_id": 1573331,
     "name": "Glavenus Leggings S",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6630,6 +7046,7 @@
   {
     "_id": 1573332,
     "name": "Agnaktor Greaves",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6646,6 +7063,7 @@
   {
     "_id": 1573333,
     "name": "Agnaktor Leggings",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6662,6 +7080,7 @@
   {
     "_id": 1573334,
     "name": "Gore Greaves S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6674,6 +7093,7 @@
   {
     "_id": 1573335,
     "name": "Gore Leggings S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6686,6 +7106,7 @@
   {
     "_id": 1573336,
     "name": "EX Gore Greaves",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -6698,6 +7119,7 @@
   {
     "_id": 1573337,
     "name": "EX Gore Leggings",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -6710,6 +7132,7 @@
   {
     "_id": 1573338,
     "name": "Gore Greaves R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6722,6 +7145,7 @@
   {
     "_id": 1573339,
     "name": "Gore Leggings R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6734,6 +7158,7 @@
   {
     "_id": 1573340,
     "name": "Regios Greaves S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6750,6 +7175,7 @@
   {
     "_id": 1573341,
     "name": "Regios Leggings S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6766,6 +7192,7 @@
   {
     "_id": 1573342,
     "name": "Duramboros Greaves",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -6778,6 +7205,7 @@
   {
     "_id": 1573343,
     "name": "Duramboros Leggings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -6790,6 +7218,7 @@
   {
     "_id": 1573344,
     "name": "Tigrex Greaves S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6810,6 +7239,7 @@
   {
     "_id": 1573345,
     "name": "Tigrex Leggings S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6830,6 +7260,7 @@
   {
     "_id": 1573346,
     "name": "EX Tigrex Greaves",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -6850,6 +7281,7 @@
   {
     "_id": 1573347,
     "name": "EX Tigrex Leggings",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -6870,6 +7302,7 @@
   {
     "_id": 1573348,
     "name": "Tigrex Greaves R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -6882,6 +7315,7 @@
   {
     "_id": 1573349,
     "name": "Tigrex Leggings R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -6894,6 +7328,7 @@
   {
     "_id": 1573350,
     "name": "Kirin Leg Guards S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -6914,6 +7349,7 @@
   {
     "_id": 1573351,
     "name": "Kirin Boots S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -6934,6 +7370,7 @@
   {
     "_id": 1573352,
     "name": "Kirin Leg Guards R",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -6946,6 +7383,7 @@
   {
     "_id": 1573353,
     "name": "Kirin Boots R",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -6958,6 +7396,7 @@
   {
     "_id": 1573354,
     "name": "Brachydios Greaves S",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -6974,6 +7413,7 @@
   {
     "_id": 1573355,
     "name": "Brachy Leggings S",
+    "num_slots": 2,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -6990,6 +7430,7 @@
   {
     "_id": 1573356,
     "name": "EX Brachydios Greaves",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7006,6 +7447,7 @@
   {
     "_id": 1573357,
     "name": "EX Brachydios Leggings",
+    "num_slots": 2,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7022,6 +7464,7 @@
   {
     "_id": 1573358,
     "name": "Golden Hakama",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7042,6 +7485,7 @@
   {
     "_id": 1573359,
     "name": "Puppeteer Tabi",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7062,6 +7506,7 @@
   {
     "_id": 1573360,
     "name": "Vangis Greaves",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7082,6 +7527,7 @@
   {
     "_id": 1573361,
     "name": "Vangis Leggings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7102,6 +7548,7 @@
   {
     "_id": 1573362,
     "name": "Guild Knight Boots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7118,6 +7565,7 @@
   {
     "_id": 1573363,
     "name": "Guild Knight Tights",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7134,6 +7582,7 @@
   {
     "_id": 1573364,
     "name": "Maiden's Socks S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7150,6 +7599,7 @@
   {
     "_id": 1573365,
     "name": "French Maid Tights S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7166,6 +7616,7 @@
   {
     "_id": 1573366,
     "name": "Blue Guild Boots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7182,6 +7633,7 @@
   {
     "_id": 1573367,
     "name": "Blue Guild Tights",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7198,6 +7650,7 @@
   {
     "_id": 1573368,
     "name": "Red Guild Boots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7214,6 +7667,7 @@
   {
     "_id": 1573369,
     "name": "Red Guild Tights",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7230,6 +7684,7 @@
   {
     "_id": 1573370,
     "name": "Helper Socks S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7246,6 +7701,7 @@
   {
     "_id": 1573371,
     "name": "Healer Socks S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7262,6 +7718,7 @@
   {
     "_id": 1573372,
     "name": "Helper Socks U",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7282,6 +7739,7 @@
   {
     "_id": 1573373,
     "name": "Healer Socks U",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7302,6 +7760,7 @@
   {
     "_id": 1573374,
     "name": "Guild Bard Boots S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7318,6 +7777,7 @@
   {
     "_id": 1573375,
     "name": "Guild Bard Gaiters S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7334,6 +7794,7 @@
   {
     "_id": 1573379,
     "name": "Dianthus Wealpants",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7354,6 +7815,7 @@
   {
     "_id": 1573380,
     "name": "Campanile Wealpants",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7374,6 +7836,7 @@
   {
     "_id": 1573381,
     "name": "Ace Greaves",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7394,6 +7857,7 @@
   {
     "_id": 1573382,
     "name": "Ace Leggings",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7414,6 +7878,7 @@
   {
     "_id": 1573383,
     "name": "Sororal Greaves",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7434,6 +7899,7 @@
   {
     "_id": 1573384,
     "name": "Sororal Leggings",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7454,6 +7920,7 @@
   {
     "_id": 1573385,
     "name": "Hawkboots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7470,6 +7937,7 @@
   {
     "_id": 1573386,
     "name": "Hawkfeet",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7486,6 +7954,7 @@
   {
     "_id": 1573387,
     "name": "Gourmew Boots S",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -7502,6 +7971,7 @@
   {
     "_id": 1573388,
     "name": "Gourmew Paws S",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -7518,6 +7988,7 @@
   {
     "_id": 1573390,
     "name": "Scholarly Boots S",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -7534,6 +8005,7 @@
   {
     "_id": 1573391,
     "name": "Scholarly Tights S",
+    "num_slots": 2,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -7550,6 +8022,7 @@
   {
     "_id": 1573392,
     "name": "Ranger's Espadrilles",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -7570,6 +8043,7 @@
   {
     "_id": 1573393,
     "name": "Archer's Espadrilles",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -7590,6 +8064,7 @@
   {
     "_id": 1573394,
     "name": "Shinobi Heaven Boots",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -7606,6 +8081,7 @@
   {
     "_id": 1573395,
     "name": "Shinobi Land Boots",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -7622,6 +8098,7 @@
   {
     "_id": 1573396,
     "name": "Shinobi Sky Boots",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -7638,6 +8115,7 @@
   {
     "_id": 1573397,
     "name": "Shinobi Sea Boots",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -7654,6 +8132,7 @@
   {
     "_id": 1573398,
     "name": "Ancient Boots",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7674,6 +8153,7 @@
   {
     "_id": 1573399,
     "name": "Ancient Feet",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7694,6 +8174,7 @@
   {
     "_id": 1573400,
     "name": "Master's Greaves",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7714,6 +8195,7 @@
   {
     "_id": 1573401,
     "name": "Master's Leggings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7734,6 +8216,7 @@
   {
     "_id": 1573402,
     "name": "Black Feet S",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7754,6 +8237,7 @@
   {
     "_id": 1573403,
     "name": "Black Legs S",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7774,6 +8258,7 @@
   {
     "_id": 1573404,
     "name": "Toka Gusoku",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -7794,6 +8279,7 @@
   {
     "_id": 1573405,
     "name": "Mitsuaoi Gusoku",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -7814,6 +8300,7 @@
   {
     "_id": 1573406,
     "name": "EX Rathian Greaves S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -7834,6 +8321,7 @@
   {
     "_id": 1573407,
     "name": "EX Rathian Leggings S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -7854,6 +8342,7 @@
   {
     "_id": 1573408,
     "name": "EX Rathalos Greaves S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -7870,6 +8359,7 @@
   {
     "_id": 1573409,
     "name": "EX Rathalos Leggings S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -7886,6 +8376,7 @@
   {
     "_id": 1573410,
     "name": "EX Tigrex Greaves S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -7902,6 +8393,7 @@
   {
     "_id": 1573411,
     "name": "EX Tigrex Leggings S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -7918,6 +8410,7 @@
   {
     "_id": 1573412,
     "name": "Arc Greaves S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -7938,6 +8431,7 @@
   {
     "_id": 1573413,
     "name": "Storge Greaves S",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -7958,6 +8452,7 @@
   {
     "_id": 1573414,
     "name": "Arc Leggings S",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -7978,6 +8473,7 @@
   {
     "_id": 1573415,
     "name": "Storge Leggings S",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -7998,6 +8494,7 @@
   {
     "_id": 1573416,
     "name": "EX Arc Greaves",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -8018,6 +8515,7 @@
   {
     "_id": 1573417,
     "name": "EX Storge Greaves",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -8038,6 +8536,7 @@
   {
     "_id": 1573418,
     "name": "EX Arc Leggings",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -8058,6 +8557,7 @@
   {
     "_id": 1573419,
     "name": "EX Storge Leggings",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -8078,6 +8578,7 @@
   {
     "_id": 1573420,
     "name": "Arc Greaves R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -8090,6 +8591,7 @@
   {
     "_id": 1573421,
     "name": "Storge Greaves R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -8102,6 +8604,7 @@
   {
     "_id": 1573422,
     "name": "Arc Leggings R",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -8114,6 +8617,7 @@
   {
     "_id": 1573423,
     "name": "Storge Leggings R",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -8126,6 +8630,7 @@
   {
     "_id": 1573424,
     "name": "Kushala Crus S",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -8146,6 +8651,7 @@
   {
     "_id": 1573425,
     "name": "Kushala Shank S",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -8166,6 +8672,7 @@
   {
     "_id": 1573426,
     "name": "EX Kushala Crus",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -8182,6 +8689,7 @@
   {
     "_id": 1573427,
     "name": "EX Kushala Shank",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -8198,6 +8706,7 @@
   {
     "_id": 1573428,
     "name": "Kushala Crus R",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -8218,6 +8727,7 @@
   {
     "_id": 1573429,
     "name": "Kushala Shank R",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -8238,6 +8748,7 @@
   {
     "_id": 1573430,
     "name": "Mizuha Gaiters S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -8258,6 +8769,7 @@
   {
     "_id": 1573431,
     "name": "Cham Trousers S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -8278,6 +8790,7 @@
   {
     "_id": 1573432,
     "name": "EX Mizuha Gaiters",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -8298,6 +8811,7 @@
   {
     "_id": 1573433,
     "name": "EX Cham Trousers",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -8318,6 +8832,7 @@
   {
     "_id": 1573434,
     "name": "Kaiser Greaves S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -8338,6 +8853,7 @@
   {
     "_id": 1573435,
     "name": "Kaiser Leggings S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -8358,6 +8874,7 @@
   {
     "_id": 1573436,
     "name": "EX Kaiser Greaves",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8378,6 +8895,7 @@
   {
     "_id": 1573437,
     "name": "EX Kaiser Leggings",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8398,6 +8916,7 @@
   {
     "_id": 1573438,
     "name": "Silver Solgreaves",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -8418,6 +8937,7 @@
   {
     "_id": 1573439,
     "name": "Silver Solleggings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -8438,6 +8958,7 @@
   {
     "_id": 1573440,
     "name": "EX Silver Solgreaves",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8458,6 +8979,7 @@
   {
     "_id": 1573441,
     "name": "EX Silver Solleggings",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8478,6 +9000,7 @@
   {
     "_id": 1573442,
     "name": "Silver Solgreaves R",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -8498,6 +9021,7 @@
   {
     "_id": 1573443,
     "name": "Silver Solleggings R",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -8518,6 +9042,7 @@
   {
     "_id": 1573444,
     "name": "Golden Lunegreaves",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -8538,6 +9063,7 @@
   {
     "_id": 1573445,
     "name": "Golden Luneleggings",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -8558,6 +9084,7 @@
   {
     "_id": 1573446,
     "name": "EX Golden Lunegreaves",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -8578,6 +9105,7 @@
   {
     "_id": 1573447,
     "name": "EX Golden Luneleggings",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -8598,6 +9126,7 @@
   {
     "_id": 1573448,
     "name": "Divine Ire Hakama",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8618,6 +9147,7 @@
   {
     "_id": 1573449,
     "name": "Mind Crusher Tabi",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8638,6 +9168,7 @@
   {
     "_id": 1573450,
     "name": "Esurient Greaves",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8658,6 +9189,7 @@
   {
     "_id": 1573451,
     "name": "Esurient Leggings",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8678,6 +9210,7 @@
   {
     "_id": 1573452,
     "name": "Esurient Greaves R",
+    "num_slots": 3,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -8690,6 +9223,7 @@
   {
     "_id": 1573453,
     "name": "Esurient Leggings R",
+    "num_slots": 3,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -8702,6 +9236,7 @@
   {
     "_id": 1573454,
     "name": "Akantor Hessian",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -8722,6 +9257,7 @@
   {
     "_id": 1573455,
     "name": "Akantor Boots",
+    "num_slots": 0,
     "max_defense": 73,
     "sub_type": "Legs",
     "skills": [
@@ -8742,6 +9278,7 @@
   {
     "_id": 1573456,
     "name": "Akantor Hessian R",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8754,6 +9291,7 @@
   {
     "_id": 1573457,
     "name": "Akantor Boots R",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8766,6 +9304,7 @@
   {
     "_id": 1573458,
     "name": "Ukanlos Hessian",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -8786,6 +9325,7 @@
   {
     "_id": 1573459,
     "name": "Ukanlos Boots",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -8806,6 +9346,7 @@
   {
     "_id": 1573460,
     "name": "Tempest Hakama",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8826,6 +9367,7 @@
   {
     "_id": 1573461,
     "name": "Welkin Hakama",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8846,6 +9388,7 @@
   {
     "_id": 1573462,
     "name": "Tempest Hakama R",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -8866,6 +9409,7 @@
   {
     "_id": 1573463,
     "name": "Welkin Hakama R",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -8886,6 +9430,7 @@
   {
     "_id": 1573464,
     "name": "Skeletal Femur R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8906,6 +9451,7 @@
   {
     "_id": 1573465,
     "name": "Decayed Femur R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8926,6 +9472,7 @@
   {
     "_id": 1573466,
     "name": "Astral Boots",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -8946,6 +9493,7 @@
   {
     "_id": 1573467,
     "name": "Astral Feet",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -8966,6 +9514,7 @@
   {
     "_id": 1573468,
     "name": "Escadora Sheath",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -8986,6 +9535,7 @@
   {
     "_id": 1573469,
     "name": "Escadora Scala",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Legs",
     "skills": [
@@ -9006,6 +9556,7 @@
   {
     "_id": 1573470,
     "name": "Escadora Sheath R",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -9022,6 +9573,7 @@
   {
     "_id": 1573471,
     "name": "Escadora Scala R",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Legs",
     "skills": [
@@ -9038,6 +9590,7 @@
   {
     "_id": 1573479,
     "name": "Strange Greaves",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -9058,6 +9611,7 @@
   {
     "_id": 1573480,
     "name": "Strange Leggings",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -9078,6 +9632,7 @@
   {
     "_id": 1573481,
     "name": "Redhelm Greaves",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -9102,6 +9657,7 @@
   {
     "_id": 1573482,
     "name": "Redhelm Leggings",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -9126,6 +9682,7 @@
   {
     "_id": 1573483,
     "name": "Snowbaron Greaves",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -9150,6 +9707,7 @@
   {
     "_id": 1573484,
     "name": "Snowbaron Leggings",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -9174,6 +9732,7 @@
   {
     "_id": 1573485,
     "name": "Stonefist Greaves",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -9198,6 +9757,7 @@
   {
     "_id": 1573486,
     "name": "Stonefist Leggings",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -9222,6 +9782,7 @@
   {
     "_id": 1573487,
     "name": "Dreadqueen Greaves",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -9246,6 +9807,7 @@
   {
     "_id": 1573488,
     "name": "Dreadqueen Leggings",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -9270,6 +9832,7 @@
   {
     "_id": 1573489,
     "name": "Drilltusk Greaves",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -9294,6 +9857,7 @@
   {
     "_id": 1573490,
     "name": "Drilltusk Leggings",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -9318,6 +9882,7 @@
   {
     "_id": 1573491,
     "name": "Silverwind Greaves",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -9342,6 +9907,7 @@
   {
     "_id": 1573492,
     "name": "Silverwind Leggings",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Legs",
     "skills": [
@@ -9366,6 +9932,7 @@
   {
     "_id": 1573493,
     "name": "Crystalbeard Greaves",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Legs",
     "skills": [
@@ -9390,6 +9957,7 @@
   {
     "_id": 1573494,
     "name": "Crystalbeard Leggings",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -9414,6 +9982,7 @@
   {
     "_id": 1573495,
     "name": "Deadeye Greaves",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Legs",
     "skills": [
@@ -9438,6 +10007,7 @@
   {
     "_id": 1573496,
     "name": "Deadeye Leggings",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -9462,6 +10032,7 @@
   {
     "_id": 1573497,
     "name": "Dreadking Greaves",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -9486,6 +10057,7 @@
   {
     "_id": 1573498,
     "name": "Dreadking Leggings",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -9510,6 +10082,7 @@
   {
     "_id": 1573499,
     "name": "Thunderlord Greaves",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Legs",
     "skills": [
@@ -9534,6 +10107,7 @@
   {
     "_id": 1573500,
     "name": "Thunderlord Leggings",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -9558,6 +10132,7 @@
   {
     "_id": 1573501,
     "name": "Grimclaw Greaves",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Legs",
     "skills": [
@@ -9582,6 +10157,7 @@
   {
     "_id": 1573502,
     "name": "Grimclaw Leggings",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -9606,6 +10182,7 @@
   {
     "_id": 1573503,
     "name": "Hellblade Greaves",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Legs",
     "skills": [
@@ -9630,6 +10207,7 @@
   {
     "_id": 1573504,
     "name": "Hellblade Leggings",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -9654,6 +10232,7 @@
   {
     "_id": 1573506,
     "name": "Black Leather Chaps",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -9670,6 +10249,7 @@
   {
     "_id": 1573507,
     "name": "Black Leather Pants",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -9686,6 +10266,7 @@
   {
     "_id": 1573518,
     "name": "Booyah Jeans",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -9706,6 +10287,7 @@
   {
     "_id": 1573519,
     "name": "Booyah Denim",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -9726,6 +10308,7 @@
   {
     "_id": 1573522,
     "name": "Ultimate Pleats",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -9746,6 +10329,7 @@
   {
     "_id": 1573523,
     "name": "Ultimate Walkers",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -9766,6 +10350,7 @@
   {
     "_id": 1573524,
     "name": "Champion's Shorts",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -9786,6 +10371,7 @@
   {
     "_id": 1573525,
     "name": "Strongman's Shorts",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -9806,6 +10392,7 @@
   {
     "_id": 1573526,
     "name": "Zodias Greaves",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -9826,6 +10413,7 @@
   {
     "_id": 1573527,
     "name": "Zodias Leggings",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Legs",
     "skills": [
@@ -9846,6 +10434,7 @@
   {
     "_id": 1573528,
     "name": "Pirate Boots J",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -9866,6 +10455,7 @@
   {
     "_id": 1573529,
     "name": "Pirate Pants J",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -9886,6 +10476,7 @@
   {
     "_id": 1573530,
     "name": "Buccaneer Boots J",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -9906,6 +10497,7 @@
   {
     "_id": 1573531,
     "name": "Buccaneer Pants J",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -9926,6 +10518,7 @@
   {
     "_id": 1573532,
     "name": "Dynaqlo Cargo Pants",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -9946,6 +10539,7 @@
   {
     "_id": 1573533,
     "name": "Dynaqlo Combats",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -9966,6 +10560,7 @@
   {
     "_id": 1573546,
     "name": "Hero's Boots",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -9986,6 +10581,7 @@
   {
     "_id": 1573547,
     "name": "Hero's Leggings",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -10006,6 +10602,7 @@
   {
     "_id": 1573548,
     "name": "Varia Suit Leg Guards",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -10026,6 +10623,7 @@
   {
     "_id": 1573549,
     "name": "Varia Suit Legs",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -10046,6 +10644,7 @@
   {
     "_id": 1573550,
     "name": "Zero Suit Boots",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -10066,6 +10665,7 @@
   {
     "_id": 1573551,
     "name": "Zero Suit Tights",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -10086,6 +10686,7 @@
   {
     "_id": 1573552,
     "name": "Greaves of Rage",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -10106,6 +10707,7 @@
   {
     "_id": 1573553,
     "name": "Leggings of Rage",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -10126,6 +10728,7 @@
   {
     "_id": 1573554,
     "name": "Greaves of Anat",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -10146,6 +10749,7 @@
   {
     "_id": 1573555,
     "name": "Leggings of Anat",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -10166,6 +10770,7 @@
   {
     "_id": 1573558,
     "name": "Mosgharl Roots",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -10182,6 +10787,7 @@
   {
     "_id": 1573559,
     "name": "Mosgharl Radicles",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Legs",
     "skills": [
@@ -10198,6 +10804,7 @@
   {
     "_id": 1573564,
     "name": "Leather Leggings S",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -10214,6 +10821,7 @@
   {
     "_id": 1573565,
     "name": "Chainmail Leggings S",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -10226,6 +10834,7 @@
   {
     "_id": 1573566,
     "name": "Mosgharl Roots S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Legs",
     "skills": [
@@ -10242,6 +10851,7 @@
   {
     "_id": 1573567,
     "name": "Mosgharl Radicles S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Legs",
     "skills": [
@@ -10258,6 +10868,7 @@
   {
     "_id": 1573570,
     "name": "Blue Guild Boots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10274,6 +10885,7 @@
   {
     "_id": 1573571,
     "name": "Blue Guild Tights",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -10290,6 +10902,7 @@
   {
     "_id": 1573572,
     "name": "Red Guild Boots",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10306,6 +10919,7 @@
   {
     "_id": 1573573,
     "name": "Red Guild Tights",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -10322,6 +10936,7 @@
   {
     "_id": 1573574,
     "name": "Gourmew Boots S",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -10338,6 +10953,7 @@
   {
     "_id": 1573575,
     "name": "Gourmew Paws S",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Legs",
     "skills": [
@@ -10354,6 +10970,7 @@
   {
     "_id": 1573582,
     "name": "Conga Greaves",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -10374,6 +10991,7 @@
   {
     "_id": 1573583,
     "name": "Conga Leggings",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Legs",
     "skills": [
@@ -10394,6 +11012,7 @@
   {
     "_id": 1573584,
     "name": "Giaprey Feet",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -10410,6 +11029,7 @@
   {
     "_id": 1573585,
     "name": "Giaprey Tights",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Legs",
     "skills": [
@@ -10426,6 +11046,7 @@
   {
     "_id": 1573586,
     "name": "Barroth Greaves",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Legs",
     "skills": [
@@ -10446,6 +11067,7 @@
   {
     "_id": 1573587,
     "name": "Barroth Leggings",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Legs",
     "skills": [
@@ -10466,6 +11088,7 @@
   {
     "_id": 1573588,
     "name": "Basarios Greaves",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -10482,6 +11105,7 @@
   {
     "_id": 1573589,
     "name": "Basarios Leggings",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Legs",
     "skills": [
@@ -10498,6 +11122,7 @@
   {
     "_id": 1573590,
     "name": "Nerscylla Greaves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10518,6 +11143,7 @@
   {
     "_id": 1573591,
     "name": "Nerscylla Leggings",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -10538,6 +11164,7 @@
   {
     "_id": 1573592,
     "name": "Barioth Greaves",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Legs",
     "skills": [
@@ -10558,6 +11185,7 @@
   {
     "_id": 1573593,
     "name": "Barioth Leggings",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Legs",
     "skills": [
@@ -10578,6 +11206,7 @@
   {
     "_id": 1573594,
     "name": "Gravios Greaves",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -10594,6 +11223,7 @@
   {
     "_id": 1573595,
     "name": "Gravios Leggings",
+    "num_slots": 2,
     "max_defense": 65,
     "sub_type": "Legs",
     "skills": [
@@ -10610,6 +11240,7 @@
   {
     "_id": 1573596,
     "name": "Cheerful Boots",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -10630,6 +11261,7 @@
   {
     "_id": 1573597,
     "name": "Cheerful Feet",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -10650,6 +11282,7 @@
   {
     "_id": 1573598,
     "name": "Mariner Socks",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10670,6 +11303,7 @@
   {
     "_id": 1573599,
     "name": "Mariner Sandals",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Legs",
     "skills": [
@@ -10690,6 +11324,7 @@
   {
     "_id": 1573602,
     "name": "Diablos Greaves",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -10710,6 +11345,7 @@
   {
     "_id": 1573603,
     "name": "Diablos Leggings",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -10730,6 +11366,7 @@
   {
     "_id": 1573604,
     "name": "Diablos Greaves R",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -10742,6 +11379,7 @@
   {
     "_id": 1573605,
     "name": "Diablos Leggings R",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [
@@ -10754,6 +11392,7 @@
   {
     "_id": 1573606,
     "name": "Valstrax Greaves",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -10778,6 +11417,7 @@
   {
     "_id": 1573607,
     "name": "Valstrax Leggings",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -10802,6 +11442,7 @@
   {
     "_id": 1573608,
     "name": "Wisdom Boots",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -10826,6 +11467,7 @@
   {
     "_id": 1573609,
     "name": "Wisdom Feet",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -10850,6 +11492,7 @@
   {
     "_id": 1573615,
     "name": "Bherna Greaves X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10866,6 +11509,7 @@
   {
     "_id": 1573616,
     "name": "Bherna Leggings X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -10882,6 +11526,7 @@
   {
     "_id": 1573617,
     "name": "Hunting Greaves X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10898,6 +11543,7 @@
   {
     "_id": 1573618,
     "name": "Hunting Leggings X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -10914,6 +11560,7 @@
   {
     "_id": 1573619,
     "name": "Mafumofu Boots X",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10934,6 +11581,7 @@
   {
     "_id": 1573620,
     "name": "Mafumofu Tights X",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -10954,6 +11602,7 @@
   {
     "_id": 1573621,
     "name": "Yukumo Sky Hakama Goku",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Legs",
     "skills": [
@@ -10970,6 +11619,7 @@
   {
     "_id": 1573622,
     "name": "Yukumo Land Hakama Goku",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Legs",
     "skills": [
@@ -10986,6 +11636,7 @@
   {
     "_id": 1573627,
     "name": "Velociprey Feet X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -11002,6 +11653,7 @@
   {
     "_id": 1573628,
     "name": "Velociprey Tights X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Legs",
     "skills": [
@@ -11018,6 +11670,7 @@
   {
     "_id": 1573629,
     "name": "Genprey Feet X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -11034,6 +11687,7 @@
   {
     "_id": 1573630,
     "name": "Genprey Tights X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Legs",
     "skills": [
@@ -11050,6 +11704,7 @@
   {
     "_id": 1573631,
     "name": "Ioprey Feet X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -11066,6 +11721,7 @@
   {
     "_id": 1573632,
     "name": "Ioprey Tights X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -11082,6 +11738,7 @@
   {
     "_id": 1573633,
     "name": "Remobra Feet X",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -11098,6 +11755,7 @@
   {
     "_id": 1573634,
     "name": "Remobra Tights X",
+    "num_slots": 0,
     "max_defense": 75,
     "sub_type": "Legs",
     "skills": [
@@ -11114,6 +11772,7 @@
   {
     "_id": 1573635,
     "name": "Trapper's Greaves X",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Legs",
     "skills": [
@@ -11126,6 +11785,7 @@
   {
     "_id": 1573636,
     "name": "Trapper's Boots X",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Legs",
     "skills": [
@@ -11138,6 +11798,7 @@
   {
     "_id": 1573637,
     "name": "Mosswine Feet X",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -11154,6 +11815,7 @@
   {
     "_id": 1573638,
     "name": "Rhenoplos Greaves X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -11170,6 +11832,7 @@
   {
     "_id": 1573639,
     "name": "Rhenoplos Leggings X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Legs",
     "skills": [
@@ -11186,6 +11849,7 @@
   {
     "_id": 1573640,
     "name": "Jaggi Greaves X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -11202,6 +11866,7 @@
   {
     "_id": 1573641,
     "name": "Jaggi Leggings X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Legs",
     "skills": [
@@ -11218,6 +11883,7 @@
   {
     "_id": 1573644,
     "name": "Droth Greaves X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -11234,6 +11900,7 @@
   {
     "_id": 1573645,
     "name": "Droth Leggings X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -11250,6 +11917,7 @@
   {
     "_id": 1573648,
     "name": "Maccao Greaves X",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -11270,6 +11938,7 @@
   {
     "_id": 1573649,
     "name": "Maccao Leggings X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -11290,6 +11959,7 @@
   {
     "_id": 1573650,
     "name": "Velociprey Greaves X",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -11306,6 +11976,7 @@
   {
     "_id": 1573651,
     "name": "Velociprey Leggings X",
+    "num_slots": 2,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -11322,6 +11993,7 @@
   {
     "_id": 1573652,
     "name": "Giaprey Greaves X",
+    "num_slots": 3,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -11338,6 +12010,7 @@
   {
     "_id": 1573653,
     "name": "Giaprey Leggings X",
+    "num_slots": 3,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -11354,6 +12027,7 @@
   {
     "_id": 1573654,
     "name": "Genprey Greaves X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -11370,6 +12044,7 @@
   {
     "_id": 1573655,
     "name": "Genprey Leggings X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Legs",
     "skills": [
@@ -11386,6 +12061,7 @@
   {
     "_id": 1573656,
     "name": "Ioprey Greaves X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11402,6 +12078,7 @@
   {
     "_id": 1573657,
     "name": "Ioprey Leggings X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11418,6 +12095,7 @@
   {
     "_id": 1573658,
     "name": "Vespoid Greaves X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -11434,6 +12112,7 @@
   {
     "_id": 1573659,
     "name": "Vespoid Leggings X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Legs",
     "skills": [
@@ -11450,6 +12129,7 @@
   {
     "_id": 1573660,
     "name": "Hornetaur Greaves X",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -11466,6 +12146,7 @@
   {
     "_id": 1573661,
     "name": "Hornetaur Leggings X",
+    "num_slots": 2,
     "max_defense": 84,
     "sub_type": "Legs",
     "skills": [
@@ -11482,6 +12163,7 @@
   {
     "_id": 1573662,
     "name": "Bnahabra Boots X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -11494,6 +12176,7 @@
   {
     "_id": 1573663,
     "name": "Bnahabra Pants X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Legs",
     "skills": [
@@ -11506,6 +12189,7 @@
   {
     "_id": 1573666,
     "name": "Bulldrome Greaves X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -11518,6 +12202,7 @@
   {
     "_id": 1573667,
     "name": "Bulldrome Leggings X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Legs",
     "skills": [
@@ -11530,6 +12215,7 @@
   {
     "_id": 1573669,
     "name": "Arzuros Greaves X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -11550,6 +12236,7 @@
   {
     "_id": 1573670,
     "name": "Arzuros Leggings X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -11570,6 +12257,7 @@
   {
     "_id": 1573671,
     "name": "Cephalos Greaves X",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -11590,6 +12278,7 @@
   {
     "_id": 1573672,
     "name": "Cephalos Leggings X",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -11610,6 +12299,7 @@
   {
     "_id": 1573673,
     "name": "Kut-Ku Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11626,6 +12316,7 @@
   {
     "_id": 1573674,
     "name": "Kut-Ku Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11642,6 +12333,7 @@
   {
     "_id": 1573675,
     "name": "Kecha Greaves X",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -11662,6 +12354,7 @@
   {
     "_id": 1573676,
     "name": "Kecha Leggings X",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -11682,6 +12375,7 @@
   {
     "_id": 1573677,
     "name": "Lagombi Greaves X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -11698,6 +12392,7 @@
   {
     "_id": 1573678,
     "name": "Lagombi Leggings X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Legs",
     "skills": [
@@ -11714,6 +12409,7 @@
   {
     "_id": 1573679,
     "name": "Gypceros Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11730,6 +12426,7 @@
   {
     "_id": 1573680,
     "name": "Gypceros Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11746,6 +12443,7 @@
   {
     "_id": 1573681,
     "name": "Tetsucabra Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11766,6 +12464,7 @@
   {
     "_id": 1573682,
     "name": "Tetsucabra Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11786,6 +12485,7 @@
   {
     "_id": 1573683,
     "name": "Hermitaur Greaves X",
+    "num_slots": 3,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -11802,6 +12502,7 @@
   {
     "_id": 1573684,
     "name": "Hermitaur Leggings X",
+    "num_slots": 3,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -11818,6 +12519,7 @@
   {
     "_id": 1573685,
     "name": "Ludroth Greaves X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11838,6 +12540,7 @@
   {
     "_id": 1573686,
     "name": "Ludroth Leggings X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11858,6 +12561,7 @@
   {
     "_id": 1573687,
     "name": "Gourmew Boots X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -11878,6 +12582,7 @@
   {
     "_id": 1573688,
     "name": "Gourmew Paws X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -11898,6 +12603,7 @@
   {
     "_id": 1573689,
     "name": "Gourmew Boots X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -11918,6 +12624,7 @@
   {
     "_id": 1573690,
     "name": "Gourmew Paws X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -11938,6 +12645,7 @@
   {
     "_id": 1573693,
     "name": "Edel Roots X",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -11954,6 +12662,7 @@
   {
     "_id": 1573694,
     "name": "Edel Radicles X",
+    "num_slots": 0,
     "max_defense": 79,
     "sub_type": "Legs",
     "skills": [
@@ -11970,6 +12679,7 @@
   {
     "_id": 1573697,
     "name": "Death Stench Heel X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -11982,6 +12692,7 @@
   {
     "_id": 1573698,
     "name": "Death Stench March X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -11994,6 +12705,7 @@
   {
     "_id": 1573699,
     "name": "Skalda Crura X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12014,6 +12726,7 @@
   {
     "_id": 1573700,
     "name": "Skalda Tarsi X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12034,6 +12747,7 @@
   {
     "_id": 1573701,
     "name": "Spio Crura X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12054,6 +12768,7 @@
   {
     "_id": 1573702,
     "name": "Spio Tarsi X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12074,6 +12789,7 @@
   {
     "_id": 1573703,
     "name": "Hunter's Greaves XR",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Legs",
     "skills": [
@@ -12094,6 +12810,7 @@
   {
     "_id": 1573704,
     "name": "Hunter's Leggings XR",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Legs",
     "skills": [
@@ -12114,6 +12831,7 @@
   {
     "_id": 1573705,
     "name": "Volvidon Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12130,6 +12848,7 @@
   {
     "_id": 1573706,
     "name": "Volvidon Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12146,6 +12865,7 @@
   {
     "_id": 1573707,
     "name": "Conga Greaves X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -12166,6 +12886,7 @@
   {
     "_id": 1573708,
     "name": "Conga Leggings X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -12186,6 +12907,7 @@
   {
     "_id": 1573709,
     "name": "Barroth Greaves X",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -12206,6 +12928,7 @@
   {
     "_id": 1573710,
     "name": "Barroth Leggings X",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Legs",
     "skills": [
@@ -12226,6 +12949,7 @@
   {
     "_id": 1573711,
     "name": "Basarios Greaves X",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -12246,6 +12970,7 @@
   {
     "_id": 1573712,
     "name": "Basarios Leggings X",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -12266,6 +12991,7 @@
   {
     "_id": 1573713,
     "name": "Malfestio Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12286,6 +13012,7 @@
   {
     "_id": 1573714,
     "name": "Malfestio Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12306,6 +13033,7 @@
   {
     "_id": 1573715,
     "name": "Zamtrios Greaves X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12326,6 +13054,7 @@
   {
     "_id": 1573716,
     "name": "Zamtrios Leggings X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12346,6 +13075,7 @@
   {
     "_id": 1573717,
     "name": "Khezu Greaves X",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -12366,6 +13096,7 @@
   {
     "_id": 1573718,
     "name": "Khezu Leggings X",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -12386,6 +13117,7 @@
   {
     "_id": 1573719,
     "name": "Nerscylla Greaves X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -12406,6 +13138,7 @@
   {
     "_id": 1573720,
     "name": "Nerscylla Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -12426,6 +13159,7 @@
   {
     "_id": 1573721,
     "name": "Rathian Greaves X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -12446,6 +13180,7 @@
   {
     "_id": 1573722,
     "name": "Rathian Leggings X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -12466,6 +13201,7 @@
   {
     "_id": 1573723,
     "name": "Nibelsnarf Greaves X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -12486,6 +13222,7 @@
   {
     "_id": 1573724,
     "name": "Nibelsnarf Leggings X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -12502,6 +13239,7 @@
   {
     "_id": 1573725,
     "name": "Plesioth Greaves X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -12526,6 +13264,7 @@
   {
     "_id": 1573726,
     "name": "Plesioth Leggings X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -12550,6 +13289,7 @@
   {
     "_id": 1573727,
     "name": "Blango Greaves X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -12566,6 +13306,7 @@
   {
     "_id": 1573728,
     "name": "Blango Leggings X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -12582,6 +13323,7 @@
   {
     "_id": 1573729,
     "name": "Ceanataur Greaves X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -12598,6 +13340,7 @@
   {
     "_id": 1573730,
     "name": "Ceanataur Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -12614,6 +13357,7 @@
   {
     "_id": 1573731,
     "name": "Najarala Greaves X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -12630,6 +13374,7 @@
   {
     "_id": 1573732,
     "name": "Najarala Leggings X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -12646,6 +13391,7 @@
   {
     "_id": 1573733,
     "name": "Nargacuga Greaves X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -12662,6 +13408,7 @@
   {
     "_id": 1573734,
     "name": "Nargacuga Leggings X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -12678,6 +13425,7 @@
   {
     "_id": 1573735,
     "name": "Gypceros Greaves XR",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -12694,6 +13442,7 @@
   {
     "_id": 1573736,
     "name": "Gypceros Leggings XR",
+    "num_slots": 0,
     "max_defense": 84,
     "sub_type": "Legs",
     "skills": [
@@ -12710,6 +13459,7 @@
   {
     "_id": 1573737,
     "name": "Hermitaur Greaves XR",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12726,6 +13476,7 @@
   {
     "_id": 1573738,
     "name": "Hermitaur Leggings XR",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12742,6 +13493,7 @@
   {
     "_id": 1573739,
     "name": "Ludroth Greaves XR",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -12758,6 +13510,7 @@
   {
     "_id": 1573740,
     "name": "Ludroth Leggings XR",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -12774,6 +13527,7 @@
   {
     "_id": 1573741,
     "name": "Strange Greaves X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -12798,6 +13552,7 @@
   {
     "_id": 1573742,
     "name": "Strange Leggings X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -12822,6 +13577,7 @@
   {
     "_id": 1573745,
     "name": "Lecturer's Boots X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12838,6 +13594,7 @@
   {
     "_id": 1573746,
     "name": "Lecturer's Footwear X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12854,6 +13611,7 @@
   {
     "_id": 1573747,
     "name": "Patissier's Boots X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12874,6 +13632,7 @@
   {
     "_id": 1573748,
     "name": "Patissier's Footwear X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12894,6 +13653,7 @@
   {
     "_id": 1573749,
     "name": "Posh Bath Sandals",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Legs",
     "skills": [
@@ -12914,6 +13674,7 @@
   {
     "_id": 1573750,
     "name": "Maiden's Socks X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12934,6 +13695,7 @@
   {
     "_id": 1573751,
     "name": "French Maid Tights X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -12954,6 +13716,7 @@
   {
     "_id": 1573752,
     "name": "Dianthus Masapants",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -12978,6 +13741,7 @@
   {
     "_id": 1573753,
     "name": "Campanile Masapants",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -13002,6 +13766,7 @@
   {
     "_id": 1573754,
     "name": "Conga Greaves GX",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -13022,6 +13787,7 @@
   {
     "_id": 1573755,
     "name": "Conga Leggings GX",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -13042,6 +13808,7 @@
   {
     "_id": 1573756,
     "name": "Alloy Greaves XR",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -13054,6 +13821,7 @@
   {
     "_id": 1573757,
     "name": "Alloy Leggings XR",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -13066,6 +13834,7 @@
   {
     "_id": 1573758,
     "name": "Ingot Greaves XR",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -13078,6 +13847,7 @@
   {
     "_id": 1573759,
     "name": "Ingot Leggings XR",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -13090,6 +13860,7 @@
   {
     "_id": 1573760,
     "name": "Artian Greaves X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -13110,6 +13881,7 @@
   {
     "_id": 1573761,
     "name": "Artian Leggings X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -13130,6 +13902,7 @@
   {
     "_id": 1573762,
     "name": "Lobster Boots X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -13154,6 +13927,7 @@
   {
     "_id": 1573763,
     "name": "Lobster Feet X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -13178,6 +13952,7 @@
   {
     "_id": 1573764,
     "name": "Khezu Greaves XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -13194,6 +13969,7 @@
   {
     "_id": 1573765,
     "name": "Khezu Leggings XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -13210,6 +13986,7 @@
   {
     "_id": 1573766,
     "name": "Ceanataur Greaves XR",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -13226,6 +14003,7 @@
   {
     "_id": 1573767,
     "name": "Ceanataur Leggings XR",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -13242,6 +14020,7 @@
   {
     "_id": 1573768,
     "name": "Rathian Greaves XR",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -13254,6 +14033,7 @@
   {
     "_id": 1573769,
     "name": "Rathian Leggings XR",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Legs",
     "skills": [
@@ -13266,6 +14046,7 @@
   {
     "_id": 1573770,
     "name": "Lava Greaves X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -13282,6 +14063,7 @@
   {
     "_id": 1573771,
     "name": "Lava Leggings X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -13298,6 +14080,7 @@
   {
     "_id": 1573772,
     "name": "Garuga Greaves X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13318,6 +14101,7 @@
   {
     "_id": 1573773,
     "name": "Garuga Leggings X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13338,6 +14122,7 @@
   {
     "_id": 1573774,
     "name": "Uragaan Greaves X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -13358,6 +14143,7 @@
   {
     "_id": 1573775,
     "name": "Uragaan Leggings X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -13378,6 +14164,7 @@
   {
     "_id": 1573776,
     "name": "Barioth Greaves X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -13398,6 +14185,7 @@
   {
     "_id": 1573777,
     "name": "Barioth Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -13418,6 +14206,7 @@
   {
     "_id": 1573778,
     "name": "Seltas Greaves X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -13438,6 +14227,7 @@
   {
     "_id": 1573779,
     "name": "Seltas Leggings X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -13458,6 +14248,7 @@
   {
     "_id": 1573780,
     "name": "Rathalos Greaves X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13474,6 +14265,7 @@
   {
     "_id": 1573781,
     "name": "Rathalos Leggings X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13490,6 +14282,7 @@
   {
     "_id": 1573782,
     "name": "Lagiacrus Greaves X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13510,6 +14303,7 @@
   {
     "_id": 1573783,
     "name": "Lagiacrus Leggings X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13530,6 +14324,7 @@
   {
     "_id": 1573784,
     "name": "Zinogre Greaves X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13550,6 +14345,7 @@
   {
     "_id": 1573785,
     "name": "Zinogre Leggings X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13566,6 +14362,7 @@
   {
     "_id": 1573786,
     "name": "Gravios Greaves X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13586,6 +14383,7 @@
   {
     "_id": 1573787,
     "name": "Gravios Leggings X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13606,6 +14404,7 @@
   {
     "_id": 1573788,
     "name": "Mizutsune Greaves X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -13626,6 +14425,7 @@
   {
     "_id": 1573789,
     "name": "Mizutsune Leggings X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -13646,6 +14446,7 @@
   {
     "_id": 1573790,
     "name": "Astalos Greaves X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13666,6 +14467,7 @@
   {
     "_id": 1573791,
     "name": "Astalos Leggings X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13686,6 +14488,7 @@
   {
     "_id": 1573792,
     "name": "Gammoth Greaves X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -13706,6 +14509,7 @@
   {
     "_id": 1573793,
     "name": "Gammoth Leggings X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -13726,6 +14530,7 @@
   {
     "_id": 1573794,
     "name": "Glavenus Greaves X",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -13742,6 +14547,7 @@
   {
     "_id": 1573795,
     "name": "Glavenus Leggings X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -13762,6 +14568,7 @@
   {
     "_id": 1573796,
     "name": "Gore Greaves X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -13778,6 +14585,7 @@
   {
     "_id": 1573797,
     "name": "Gore Leggings X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -13794,6 +14602,7 @@
   {
     "_id": 1573798,
     "name": "Kirin Leg Guards X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -13818,6 +14627,7 @@
   {
     "_id": 1573799,
     "name": "Kirin Boots X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -13842,6 +14652,7 @@
   {
     "_id": 1573800,
     "name": "Kirin Leg Guards XR",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13854,6 +14665,7 @@
   {
     "_id": 1573801,
     "name": "Kirin Boots XR",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13866,6 +14678,7 @@
   {
     "_id": 1573802,
     "name": "Auroros Pants",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13886,6 +14699,7 @@
   {
     "_id": 1573803,
     "name": "Borealis Hakama",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -13906,6 +14720,7 @@
   {
     "_id": 1573804,
     "name": "Genesis Pants",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13926,6 +14741,7 @@
   {
     "_id": 1573805,
     "name": "Glyph Hakama",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -13946,6 +14762,7 @@
   {
     "_id": 1573806,
     "name": "Auroros Pants GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -13966,6 +14783,7 @@
   {
     "_id": 1573807,
     "name": "Borealis Hakama GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -13986,6 +14804,7 @@
   {
     "_id": 1573808,
     "name": "Genesis Pants GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -14006,6 +14825,7 @@
   {
     "_id": 1573809,
     "name": "Glyph Hakama GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -14026,6 +14846,7 @@
   {
     "_id": 1573810,
     "name": "Auroros Pants XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -14042,6 +14863,7 @@
   {
     "_id": 1573811,
     "name": "Borealis Hakama XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -14058,6 +14880,7 @@
   {
     "_id": 1573812,
     "name": "Genesis Pants XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -14074,6 +14897,7 @@
   {
     "_id": 1573813,
     "name": "Glyph Hakama XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -14090,6 +14914,7 @@
   {
     "_id": 1573814,
     "name": "Scholar's Socks X",
+    "num_slots": 3,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -14106,6 +14931,7 @@
   {
     "_id": 1573815,
     "name": "Scholar's Sandals X",
+    "num_slots": 3,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -14122,6 +14948,7 @@
   {
     "_id": 1573816,
     "name": "Sailor Socks X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -14138,6 +14965,7 @@
   {
     "_id": 1573817,
     "name": "Sailor Sandals X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -14154,6 +14982,7 @@
   {
     "_id": 1573818,
     "name": "Hawkboots X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -14170,6 +14999,7 @@
   {
     "_id": 1573819,
     "name": "Hawkfeet X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -14186,6 +15016,7 @@
   {
     "_id": 1573820,
     "name": "Scholarly Boots X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -14202,6 +15033,7 @@
   {
     "_id": 1573821,
     "name": "Scholarly Tights X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -14218,6 +15050,7 @@
   {
     "_id": 1573822,
     "name": "Research Boots",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -14242,6 +15075,7 @@
   {
     "_id": 1573823,
     "name": "Research Tights",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -14266,6 +15100,7 @@
   {
     "_id": 1573824,
     "name": "Rathalos Greaves XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -14282,6 +15117,7 @@
   {
     "_id": 1573825,
     "name": "Rathalos Leggings XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -14298,6 +15134,7 @@
   {
     "_id": 1573826,
     "name": "Lagiacrus Greaves XR",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -14314,6 +15151,7 @@
   {
     "_id": 1573827,
     "name": "Lagiacrus Leggings XR",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -14330,6 +15168,7 @@
   {
     "_id": 1573828,
     "name": "Gore Greaves XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -14342,6 +15181,7 @@
   {
     "_id": 1573829,
     "name": "Gore Leggings XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -14354,6 +15194,7 @@
   {
     "_id": 1573830,
     "name": "Agnaktor Greaves X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -14374,6 +15215,7 @@
   {
     "_id": 1573831,
     "name": "Agnaktor Leggings X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -14394,6 +15236,7 @@
   {
     "_id": 1573832,
     "name": "Regios Greaves X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -14414,6 +15257,7 @@
   {
     "_id": 1573833,
     "name": "Regios Leggings X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -14434,6 +15278,7 @@
   {
     "_id": 1573834,
     "name": "Duramboros Greaves X",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -14450,6 +15295,7 @@
   {
     "_id": 1573835,
     "name": "Duramboros Leggings X",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -14466,6 +15312,7 @@
   {
     "_id": 1573836,
     "name": "Tigrex Greaves X",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -14486,6 +15333,7 @@
   {
     "_id": 1573837,
     "name": "Tigrex Leggings X",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -14506,6 +15354,7 @@
   {
     "_id": 1573838,
     "name": "Tigrex Greaves XR",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -14518,6 +15367,7 @@
   {
     "_id": 1573839,
     "name": "Tigrex Leggings XR",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -14530,6 +15380,7 @@
   {
     "_id": 1573840,
     "name": "Diablos Greaves X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -14550,6 +15401,7 @@
   {
     "_id": 1573841,
     "name": "Diablos Leggings X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -14570,6 +15422,7 @@
   {
     "_id": 1573842,
     "name": "Diablos Greaves XR",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -14582,6 +15435,7 @@
   {
     "_id": 1573843,
     "name": "Diablos Leggings XR",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -14594,6 +15448,7 @@
   {
     "_id": 1573844,
     "name": "Brachydios Greaves X",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -14610,6 +15465,7 @@
   {
     "_id": 1573845,
     "name": "Brachydios Leggings X",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -14626,6 +15482,7 @@
   {
     "_id": 1573846,
     "name": "Arc Greaves X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -14646,6 +15503,7 @@
   {
     "_id": 1573847,
     "name": "Storge Greaves X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -14666,6 +15524,7 @@
   {
     "_id": 1573848,
     "name": "Arc Leggings X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -14686,6 +15545,7 @@
   {
     "_id": 1573849,
     "name": "Storge Leggings X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -14706,6 +15566,7 @@
   {
     "_id": 1573850,
     "name": "Arc Greaves XR",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -14718,6 +15579,7 @@
   {
     "_id": 1573851,
     "name": "Storge Greaves XR",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -14730,6 +15592,7 @@
   {
     "_id": 1573852,
     "name": "Arc Leggings XR",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -14742,6 +15605,7 @@
   {
     "_id": 1573853,
     "name": "Storge Leggings XR",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -14754,6 +15618,7 @@
   {
     "_id": 1573854,
     "name": "Valstrax Greaves X",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -14778,6 +15643,7 @@
   {
     "_id": 1573855,
     "name": "Valstrax Leggings X",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -14802,6 +15668,7 @@
   {
     "_id": 1573856,
     "name": "Grand God's Peer Feet",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -14826,6 +15693,7 @@
   {
     "_id": 1573857,
     "name": "Grand Hermit Feet",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -14850,6 +15718,7 @@
   {
     "_id": 1573858,
     "name": "Vangis Greaves X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -14870,6 +15739,7 @@
   {
     "_id": 1573859,
     "name": "Vangis Leggings X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -14890,6 +15760,7 @@
   {
     "_id": 1573860,
     "name": "Kushala Crus X",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -14910,6 +15781,7 @@
   {
     "_id": 1573861,
     "name": "Kushala Shank X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -14930,6 +15802,7 @@
   {
     "_id": 1573862,
     "name": "Kushala Crus XR",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -14950,6 +15823,7 @@
   {
     "_id": 1573863,
     "name": "Kushala Shank XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -14970,6 +15844,7 @@
   {
     "_id": 1573864,
     "name": "Grand Mizuha Leg Wrap",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -14990,6 +15865,7 @@
   {
     "_id": 1573865,
     "name": "Grand Cham Trousers",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -15010,6 +15886,7 @@
   {
     "_id": 1573866,
     "name": "Kaiser Greaves X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -15030,6 +15907,7 @@
   {
     "_id": 1573867,
     "name": "Kaiser Leggings X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -15050,6 +15928,7 @@
   {
     "_id": 1573868,
     "name": "Silver Solgreaves Z",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -15070,6 +15949,7 @@
   {
     "_id": 1573869,
     "name": "Silver Solleggings Z",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -15090,6 +15970,7 @@
   {
     "_id": 1573870,
     "name": "Golden Lunegreaves Z",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15114,6 +15995,7 @@
   {
     "_id": 1573871,
     "name": "Golden Luneleggings Z",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -15138,6 +16020,7 @@
   {
     "_id": 1573872,
     "name": "Yaksha Boots",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -15162,6 +16045,7 @@
   {
     "_id": 1573873,
     "name": "Carnage Boots",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -15186,6 +16070,7 @@
   {
     "_id": 1573874,
     "name": "Guardian Boots X",
+    "num_slots": 3,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15202,6 +16087,7 @@
   {
     "_id": 1573875,
     "name": "Guardian Pants X",
+    "num_slots": 3,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -15218,6 +16104,7 @@
   {
     "_id": 1573876,
     "name": "Blue Guild Boots X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -15238,6 +16125,7 @@
   {
     "_id": 1573877,
     "name": "Blue Guild Boots X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -15258,6 +16146,7 @@
   {
     "_id": 1573878,
     "name": "Blue Guild Tights X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -15278,6 +16167,7 @@
   {
     "_id": 1573879,
     "name": "Blue Guild Tights X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -15298,6 +16188,7 @@
   {
     "_id": 1573880,
     "name": "Red Guild Boots X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -15318,6 +16209,7 @@
   {
     "_id": 1573881,
     "name": "Red Guild Boots X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -15338,6 +16230,7 @@
   {
     "_id": 1573882,
     "name": "Red Guild Tights X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -15358,6 +16251,7 @@
   {
     "_id": 1573883,
     "name": "Red Guild Tights X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -15378,6 +16272,7 @@
   {
     "_id": 1573884,
     "name": "G. Knight Boots X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -15398,6 +16293,7 @@
   {
     "_id": 1573885,
     "name": "G. Knight Tights X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -15418,6 +16314,7 @@
   {
     "_id": 1573886,
     "name": "Guild Bard Boots X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -15438,6 +16335,7 @@
   {
     "_id": 1573887,
     "name": "Guild Bard Gaiters X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -15458,6 +16356,7 @@
   {
     "_id": 1573888,
     "name": "Ace Greaves X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -15482,6 +16381,7 @@
   {
     "_id": 1573889,
     "name": "Ace Leggings X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -15506,6 +16406,7 @@
   {
     "_id": 1573890,
     "name": "Sororal Greaves X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -15530,6 +16431,7 @@
   {
     "_id": 1573891,
     "name": "Sororal Leggings X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -15554,6 +16456,7 @@
   {
     "_id": 1573892,
     "name": "Shinobi Heaven Boots Goku",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15574,6 +16477,7 @@
   {
     "_id": 1573893,
     "name": "Shinobi Land Boots Goku",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -15594,6 +16498,7 @@
   {
     "_id": 1573894,
     "name": "Kaiserin Greaves",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15618,6 +16523,7 @@
   {
     "_id": 1573895,
     "name": "Kaiserin Leggings",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -15642,6 +16548,7 @@
   {
     "_id": 1573896,
     "name": "Barmaid's Boots",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -15662,6 +16569,7 @@
   {
     "_id": 1573897,
     "name": "Barmaid's Tights",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -15682,6 +16590,7 @@
   {
     "_id": 1573898,
     "name": "Barman's Boots",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -15702,6 +16611,7 @@
   {
     "_id": 1573899,
     "name": "Barman's Pants",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -15722,6 +16632,7 @@
   {
     "_id": 1573900,
     "name": "Helios Greaves X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -15746,6 +16657,7 @@
   {
     "_id": 1573901,
     "name": "Selene Greaves X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -15770,6 +16682,7 @@
   {
     "_id": 1573902,
     "name": "Helios Leggings X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -15794,6 +16707,7 @@
   {
     "_id": 1573903,
     "name": "Selene Leggings X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -15818,6 +16732,7 @@
   {
     "_id": 1573904,
     "name": "Strider's Espadrilles",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -15842,6 +16757,7 @@
   {
     "_id": 1573905,
     "name": "Deadeye's Espadrilles",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -15866,6 +16782,7 @@
   {
     "_id": 1573906,
     "name": "Damascus Greaves X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -15890,6 +16807,7 @@
   {
     "_id": 1573907,
     "name": "Damascus Leggings X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -15914,6 +16832,7 @@
   {
     "_id": 1573908,
     "name": "Chaos Greaves",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15938,6 +16857,7 @@
   {
     "_id": 1573909,
     "name": "Nephilim Greaves",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -15962,6 +16882,7 @@
   {
     "_id": 1573910,
     "name": "Chaos Leggings",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -15986,6 +16907,7 @@
   {
     "_id": 1573911,
     "name": "Nephilim Leggings",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -16010,6 +16932,7 @@
   {
     "_id": 1573912,
     "name": "Grand Divine Ire Hakama",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -16030,6 +16953,7 @@
   {
     "_id": 1573913,
     "name": "Grand Mind Crusher Tabi",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -16050,6 +16974,7 @@
   {
     "_id": 1573914,
     "name": "Esurient Greaves Z",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -16070,6 +16995,7 @@
   {
     "_id": 1573915,
     "name": "Esurient Leggings Z",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -16090,6 +17016,7 @@
   {
     "_id": 1573916,
     "name": "Brachydium Greaves",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -16114,6 +17041,7 @@
   {
     "_id": 1573917,
     "name": "Brachydium Leggings",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -16138,6 +17066,7 @@
   {
     "_id": 1573918,
     "name": "Akantor Hessian X",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -16162,6 +17091,7 @@
   {
     "_id": 1573919,
     "name": "Akantor Boots X",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -16186,6 +17116,7 @@
   {
     "_id": 1573920,
     "name": "Akantor Hessian XR",
+    "num_slots": 2,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -16198,6 +17129,7 @@
   {
     "_id": 1573921,
     "name": "Akantor Boots XR",
+    "num_slots": 2,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -16210,6 +17142,7 @@
   {
     "_id": 1573922,
     "name": "Ukanlos Hessian X",
+    "num_slots": 1,
     "max_defense": 174,
     "sub_type": "Legs",
     "skills": [
@@ -16234,6 +17167,7 @@
   {
     "_id": 1573923,
     "name": "Ukanlos Boots X",
+    "num_slots": 1,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -16258,6 +17192,7 @@
   {
     "_id": 1573924,
     "name": "Grand Tempest Hakama",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -16278,6 +17213,7 @@
   {
     "_id": 1573925,
     "name": "Grand Welkin Hakama",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -16298,6 +17234,7 @@
   {
     "_id": 1573926,
     "name": "Grand Skeletal Femur",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -16322,6 +17259,7 @@
   {
     "_id": 1573927,
     "name": "Grand Decayed Femur",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -16346,6 +17284,7 @@
   {
     "_id": 1573928,
     "name": "Astral Boots X",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -16370,6 +17309,7 @@
   {
     "_id": 1573929,
     "name": "Astral Feet X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -16394,6 +17334,7 @@
   {
     "_id": 1573930,
     "name": "Neset Boots",
+    "num_slots": 3,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -16410,6 +17351,7 @@
   {
     "_id": 1573931,
     "name": "Neset Feet",
+    "num_slots": 3,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -16426,6 +17368,7 @@
   {
     "_id": 1573932,
     "name": "Black Feet X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -16450,6 +17393,7 @@
   {
     "_id": 1573933,
     "name": "Black Legs X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -16474,6 +17418,7 @@
   {
     "_id": 1573934,
     "name": "Escadora Sheath X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Legs",
     "skills": [
@@ -16498,6 +17443,7 @@
   {
     "_id": 1573935,
     "name": "Escadora Scala X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -16522,6 +17468,7 @@
   {
     "_id": 1573936,
     "name": "Escadora Sheath XR",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -16538,6 +17485,7 @@
   {
     "_id": 1573937,
     "name": "Escadora Scala XR",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -16554,6 +17502,7 @@
   {
     "_id": 1573938,
     "name": "Fatalis Crimsonfeet",
+    "num_slots": 1,
     "max_defense": 176,
     "sub_type": "Legs",
     "skills": [
@@ -16578,6 +17527,7 @@
   {
     "_id": 1573939,
     "name": "Fatalis Crimsonlegs",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Legs",
     "skills": [
@@ -16602,6 +17552,7 @@
   {
     "_id": 1573940,
     "name": "GX Fatalis Crimsonfeet",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -16626,6 +17577,7 @@
   {
     "_id": 1573941,
     "name": "GX Fatalis Crimsonlegs",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -16650,6 +17602,7 @@
   {
     "_id": 1573942,
     "name": "Fatalis Crimsonfeet XR",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -16666,6 +17619,7 @@
   {
     "_id": 1573943,
     "name": "Fatalis Crimsonlegs XR",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -16682,6 +17636,7 @@
   {
     "_id": 1573944,
     "name": "Old Fatalis Feet",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Legs",
     "skills": [
@@ -16706,6 +17661,7 @@
   {
     "_id": 1573945,
     "name": "Old Fatalis Legs",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -16730,6 +17686,7 @@
   {
     "_id": 1573946,
     "name": "GX Old Fatalis Feet",
+    "num_slots": 1,
     "max_defense": 178,
     "sub_type": "Legs",
     "skills": [
@@ -16754,6 +17711,7 @@
   {
     "_id": 1573947,
     "name": "GX Old Fatalis Legs",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -16778,6 +17736,7 @@
   {
     "_id": 1573948,
     "name": "Helper Socks X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -16798,6 +17757,7 @@
   {
     "_id": 1573949,
     "name": "Healer Socks X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -16818,6 +17778,7 @@
   {
     "_id": 1573950,
     "name": "Ancient Boots X",
+    "num_slots": 2,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -16842,6 +17803,7 @@
   {
     "_id": 1573951,
     "name": "Ancient Feet X",
+    "num_slots": 2,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -16866,6 +17828,7 @@
   {
     "_id": 1573952,
     "name": "Master's Greaves X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -16890,6 +17853,7 @@
   {
     "_id": 1573953,
     "name": "Master's Leggings X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -16914,6 +17878,7 @@
   {
     "_id": 1573954,
     "name": "Grand Toka Gusoku",
+    "num_slots": 2,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -16938,6 +17903,7 @@
   {
     "_id": 1573955,
     "name": "Grand Mitsuaoi Gusoku",
+    "num_slots": 2,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -16962,6 +17928,7 @@
   {
     "_id": 1573960,
     "name": "Black Belt Greaves X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -16974,6 +17941,7 @@
   {
     "_id": 1573961,
     "name": "Black Belt Leggings X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -16986,6 +17954,7 @@
   {
     "_id": 1573964,
     "name": "Auroros Pants R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -17010,6 +17979,7 @@
   {
     "_id": 1573965,
     "name": "Borealis Hakama R",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -17034,6 +18004,7 @@
   {
     "_id": 1573966,
     "name": "Genesis Pants R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -17058,6 +18029,7 @@
   {
     "_id": 1573967,
     "name": "Glyph Hakama R",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -17082,6 +18054,7 @@
   {
     "_id": 1573968,
     "name": "Silver Solgreaves XR",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -17098,6 +18071,7 @@
   {
     "_id": 1573969,
     "name": "Silver Solleggings XR",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -17114,6 +18088,7 @@
   {
     "_id": 1573970,
     "name": "Esurient Greaves XR",
+    "num_slots": 3,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -17126,6 +18101,7 @@
   {
     "_id": 1573971,
     "name": "Esurient Leggings XR",
+    "num_slots": 3,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -17138,6 +18114,7 @@
   {
     "_id": 1573972,
     "name": "Rustrazor Greaves",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -17162,6 +18139,7 @@
   {
     "_id": 1573973,
     "name": "Rustrazor Leggings",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -17186,6 +18164,7 @@
   {
     "_id": 1573974,
     "name": "Nightcloak Greaves",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -17210,6 +18189,7 @@
   {
     "_id": 1573975,
     "name": "Nightcloak Leggings",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -17234,6 +18214,7 @@
   {
     "_id": 1573976,
     "name": "Soulseer Greaves",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Legs",
     "skills": [
@@ -17258,6 +18239,7 @@
   {
     "_id": 1573977,
     "name": "Soulseer Leggings",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -17282,6 +18264,7 @@
   {
     "_id": 1573978,
     "name": "Boltreaver Greaves",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Legs",
     "skills": [
@@ -17306,6 +18289,7 @@
   {
     "_id": 1573979,
     "name": "Boltreaver Leggings",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Legs",
     "skills": [
@@ -17330,6 +18314,7 @@
   {
     "_id": 1573980,
     "name": "Elderfrost Greaves",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Legs",
     "skills": [
@@ -17354,6 +18339,7 @@
   {
     "_id": 1573981,
     "name": "Elderfrost Leggings",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -17378,6 +18364,7 @@
   {
     "_id": 1573982,
     "name": "Bloodbath Greaves",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Legs",
     "skills": [
@@ -17402,6 +18389,7 @@
   {
     "_id": 1573983,
     "name": "Bloodbath Leggings",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Legs",
     "skills": [
@@ -17426,6 +18414,7 @@
   {
     "_id": 1573986,
     "name": "Genprey Greaves GX",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -17446,6 +18435,7 @@
   {
     "_id": 1573987,
     "name": "Genprey Leggings GX",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -17466,6 +18456,7 @@
   {
     "_id": 1573988,
     "name": "Ioprey Greaves GX",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -17486,6 +18477,7 @@
   {
     "_id": 1573989,
     "name": "Ioprey Leggings GX",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -17506,6 +18498,7 @@
   {
     "_id": 1573990,
     "name": "Vespoid Greaves GX",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -17522,6 +18515,7 @@
   {
     "_id": 1573991,
     "name": "Vespoid Leggings GX",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -17538,6 +18532,7 @@
   {
     "_id": 1573992,
     "name": "Hornetaur Greaves XR",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -17554,6 +18549,7 @@
   {
     "_id": 1573993,
     "name": "Hornetaur Leggings XR",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Legs",
     "skills": [
@@ -17570,6 +18566,7 @@
   {
     "_id": 1573994,
     "name": "Hornetaur Greaves GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Legs",
     "skills": [
@@ -17590,6 +18587,7 @@
   {
     "_id": 1573995,
     "name": "Hornetaur Leggings GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Legs",
     "skills": [
@@ -17610,6 +18608,7 @@
   {
     "_id": 1573996,
     "name": "Cephalos Greaves GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -17630,6 +18629,7 @@
   {
     "_id": 1573997,
     "name": "Cephalos Leggings GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -17650,6 +18650,7 @@
   {
     "_id": 1573998,
     "name": "Hermitaur Greaves GX",
+    "num_slots": 0,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -17662,6 +18663,7 @@
   {
     "_id": 1573999,
     "name": "Hermitaur Leggings GX",
+    "num_slots": 0,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -17674,6 +18676,7 @@
   {
     "_id": 1574000,
     "name": "Rathian Greaves GX",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -17690,6 +18693,7 @@
   {
     "_id": 1574001,
     "name": "Rathian Leggings GX",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -17706,6 +18710,7 @@
   {
     "_id": 1574002,
     "name": "Ceanataur Greaves GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -17726,6 +18731,7 @@
   {
     "_id": 1574003,
     "name": "Ceanataur Leggings GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -17746,6 +18752,7 @@
   {
     "_id": 1574004,
     "name": "Blango Greaves GX",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -17758,6 +18765,7 @@
   {
     "_id": 1574005,
     "name": "Blango Leggings GX",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -17770,6 +18778,7 @@
   {
     "_id": 1574006,
     "name": "Gore Greaves GX",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -17786,6 +18795,7 @@
   {
     "_id": 1574007,
     "name": "Gore Leggings GX",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -17802,6 +18812,7 @@
   {
     "_id": 1574008,
     "name": "Zinogre Greaves GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -17822,6 +18833,7 @@
   {
     "_id": 1574009,
     "name": "Zinogre Leggings GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -17842,6 +18854,7 @@
   {
     "_id": 1574010,
     "name": "Tigrex Greaves GX",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Legs",
     "skills": [
@@ -17862,6 +18875,7 @@
   {
     "_id": 1574011,
     "name": "Tigrex Leggings GX",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -17882,6 +18896,7 @@
   {
     "_id": 1574012,
     "name": "Brachydios Greaves GX",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -17898,6 +18913,7 @@
   {
     "_id": 1574013,
     "name": "Brachydios Leggings GX",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -17914,6 +18930,7 @@
   {
     "_id": 1574014,
     "name": "Rathalos Greaves GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -17930,6 +18947,7 @@
   {
     "_id": 1574015,
     "name": "Rathalos Leggings GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -17946,6 +18964,7 @@
   {
     "_id": 1574016,
     "name": "Arc Greaves GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -17966,6 +18985,7 @@
   {
     "_id": 1574017,
     "name": "Arc Leggings GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -17986,6 +19006,7 @@
   {
     "_id": 1574018,
     "name": "Storge Greaves GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -18006,6 +19027,7 @@
   {
     "_id": 1574019,
     "name": "Storge Leggings GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -18026,6 +19048,7 @@
   {
     "_id": 1574020,
     "name": "Kushala Crus GX",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -18046,6 +19069,7 @@
   {
     "_id": 1574021,
     "name": "Kushala Shank GX",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -18066,6 +19090,7 @@
   {
     "_id": 1574022,
     "name": "Mizuha Gaiters GX",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -18090,6 +19115,7 @@
   {
     "_id": 1574023,
     "name": "Cham Trousers GX",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -18114,6 +19140,7 @@
   {
     "_id": 1574024,
     "name": "Kaiser Greaves GX",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -18134,6 +19161,7 @@
   {
     "_id": 1574025,
     "name": "Kaiser Leggings GX",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -18154,6 +19182,7 @@
   {
     "_id": 1574026,
     "name": "Lavasioth Greaves GX",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -18170,6 +19199,7 @@
   {
     "_id": 1574027,
     "name": "Lavasioth Leggings GX",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Legs",
     "skills": [
@@ -18186,6 +19216,7 @@
   {
     "_id": 1574028,
     "name": "GX Silver Solgreaves",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -18206,6 +19237,7 @@
   {
     "_id": 1574029,
     "name": "GX Silver Solleggings",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -18226,6 +19258,7 @@
   {
     "_id": 1574030,
     "name": "GX Gold Lunegreaves",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Legs",
     "skills": [
@@ -18246,6 +19279,7 @@
   {
     "_id": 1574031,
     "name": "GX Gold Luneleggings",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Legs",
     "skills": [
@@ -18266,6 +19300,7 @@
   {
     "_id": 1574032,
     "name": "Tempest Hakama XR",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -18282,6 +19317,7 @@
   {
     "_id": 1574033,
     "name": "Welkin Hakama XR",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -18298,6 +19334,7 @@
   {
     "_id": 1574034,
     "name": "Leather Greaves X",
+    "num_slots": 2,
     "max_defense": 118,
     "sub_type": "Legs",
     "skills": [
@@ -18314,6 +19351,7 @@
   {
     "_id": 1574035,
     "name": "Leather Leggings X",
+    "num_slots": 2,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -18330,6 +19368,7 @@
   {
     "_id": 1574036,
     "name": "Chainmail Greaves X",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -18342,6 +19381,7 @@
   {
     "_id": 1574037,
     "name": "Chainmail Leggings X",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -18354,6 +19394,7 @@
   {
     "_id": 1574038,
     "name": "Loc Lac Boots X",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Legs",
     "skills": [
@@ -18370,6 +19411,7 @@
   {
     "_id": 1574039,
     "name": "Hunter's Greaves X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -18386,6 +19428,7 @@
   {
     "_id": 1574040,
     "name": "Hunter's Leggings X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -18402,6 +19445,7 @@
   {
     "_id": 1574041,
     "name": "Bone Greaves X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -18422,6 +19466,7 @@
   {
     "_id": 1574042,
     "name": "Bone Leggings X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -18442,6 +19487,7 @@
   {
     "_id": 1574043,
     "name": "Dober Greaves X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -18462,6 +19508,7 @@
   {
     "_id": 1574044,
     "name": "Dober Leggings X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -18482,6 +19529,7 @@
   {
     "_id": 1574045,
     "name": "Alloy Greaves X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18498,6 +19546,7 @@
   {
     "_id": 1574046,
     "name": "Alloy Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18514,6 +19563,7 @@
   {
     "_id": 1574047,
     "name": "Ingot Greaves X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -18530,6 +19580,7 @@
   {
     "_id": 1574048,
     "name": "Ingot Leggings X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Legs",
     "skills": [
@@ -18546,6 +19597,7 @@
   {
     "_id": 1574049,
     "name": "Damascus Greaves XR",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18558,6 +19610,7 @@
   {
     "_id": 1574050,
     "name": "Damascus Leggings XR",
+    "num_slots": 1,
     "max_defense": 92,
     "sub_type": "Legs",
     "skills": [
@@ -18570,6 +19623,7 @@
   {
     "_id": 1574051,
     "name": "Battle Greaves X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18586,6 +19640,7 @@
   {
     "_id": 1574052,
     "name": "Battle Leggings X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18602,6 +19657,7 @@
   {
     "_id": 1574053,
     "name": "High Metal Greaves X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18622,6 +19678,7 @@
   {
     "_id": 1574054,
     "name": "Hi Metal Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18642,6 +19699,7 @@
   {
     "_id": 1574055,
     "name": "High Metal Greaves Z",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18658,6 +19716,7 @@
   {
     "_id": 1574056,
     "name": "Hi Metal Leggings Z",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18674,6 +19733,7 @@
   {
     "_id": 1574057,
     "name": "Mosgharl Roots X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -18690,6 +19750,7 @@
   {
     "_id": 1574058,
     "name": "Mosgharl Radicles X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -18706,6 +19767,7 @@
   {
     "_id": 1574059,
     "name": "Mosgharl Roots X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -18722,6 +19784,7 @@
   {
     "_id": 1574060,
     "name": "Mosgharl Radicles X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Legs",
     "skills": [
@@ -18738,6 +19801,7 @@
   {
     "_id": 1574061,
     "name": "Obituary Crura X",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -18758,6 +19822,7 @@
   {
     "_id": 1574062,
     "name": "Obituary Tarsi X",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -18778,6 +19843,7 @@
   {
     "_id": 1574063,
     "name": "Butterfly Crura X",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Legs",
     "skills": [
@@ -18798,6 +19864,7 @@
   {
     "_id": 1574064,
     "name": "Butterfly Tarsi X",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Legs",
     "skills": [
@@ -18818,6 +19885,7 @@
   {
     "_id": 1574065,
     "name": "Aelucanth Crura X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18838,6 +19906,7 @@
   {
     "_id": 1574066,
     "name": "Aelucanth Tarsi X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18858,6 +19927,7 @@
   {
     "_id": 1574067,
     "name": "Rhopessa Crura X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18878,6 +19948,7 @@
   {
     "_id": 1574068,
     "name": "Rhopessa Tarsi X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18898,6 +19969,7 @@
   {
     "_id": 1574069,
     "name": "Vaik Greaves X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -18910,6 +19982,7 @@
   {
     "_id": 1574070,
     "name": "Vaik Leggings X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -18922,6 +19995,7 @@
   {
     "_id": 1574071,
     "name": "Guardian Boots Z",
+    "num_slots": 2,
     "max_defense": 166,
     "sub_type": "Legs",
     "skills": [
@@ -18942,6 +20016,7 @@
   {
     "_id": 1574072,
     "name": "Guardian Pants Z",
+    "num_slots": 2,
     "max_defense": 100,
     "sub_type": "Legs",
     "skills": [
@@ -18962,6 +20037,7 @@
   {
     "_id": 1574073,
     "name": "Helper Socks Z",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Legs",
     "skills": [
@@ -18986,6 +20062,7 @@
   {
     "_id": 1574074,
     "name": "Healer Socks Z",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Legs",
     "skills": [
@@ -19010,6 +20087,7 @@
   {
     "_id": 1574075,
     "name": "Death Stench Heel XR",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -19026,6 +20104,7 @@
   {
     "_id": 1574076,
     "name": "Death Stench March XR",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Legs",
     "skills": [
@@ -19042,6 +20121,7 @@
   {
     "_id": 1574077,
     "name": "Makluva Pants X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Legs",
     "skills": [
@@ -19058,6 +20138,7 @@
   {
     "_id": 1574078,
     "name": "Makluva Leggings X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Legs",
     "skills": [
@@ -19074,6 +20155,7 @@
   {
     "_id": 1574079,
     "name": "Makluva Pants Z",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Legs",
     "skills": [
@@ -19090,6 +20172,7 @@
   {
     "_id": 1574080,
     "name": "Makluva Leggings Z",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Legs",
     "skills": [
@@ -19106,6 +20189,7 @@
   {
     "_id": 1574081,
     "name": "Melahoa Roots X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -19122,6 +20206,7 @@
   {
     "_id": 1574082,
     "name": "Melahoa Taproot X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Legs",
     "skills": [
@@ -19138,6 +20223,7 @@
   {
     "_id": 1574083,
     "name": "Melahoa Roots Z",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -19154,6 +20240,7 @@
   {
     "_id": 1574084,
     "name": "Melahoa Taproot Z",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Legs",
     "skills": [
@@ -19170,6 +20257,7 @@
   {
     "_id": 1574085,
     "name": "Derring Greaves X",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -19186,6 +20274,7 @@
   {
     "_id": 1574086,
     "name": "Derring Leggings X",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Legs",
     "skills": [
@@ -19202,6 +20291,7 @@
   {
     "_id": 1574087,
     "name": "GX Kita Star Hakama",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Legs",
     "skills": [
@@ -19214,6 +20304,7 @@
   {
     "_id": 1574088,
     "name": "GX Umi Ocean Hakama",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Legs",
     "skills": [
@@ -19226,6 +20317,7 @@
   {
     "_id": 1574091,
     "name": "Wisdom Boots X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -19250,6 +20342,7 @@
   {
     "_id": 1574092,
     "name": "Wisdom Feet X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -19274,6 +20367,7 @@
   {
     "_id": 1574093,
     "name": "Cheerful Boots X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Legs",
     "skills": [
@@ -19294,6 +20388,7 @@
   {
     "_id": 1574094,
     "name": "Cheerful Feet X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -19314,6 +20409,7 @@
   {
     "_id": 1574095,
     "name": "Mariner Socks X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Legs",
     "skills": [
@@ -19334,6 +20430,7 @@
   {
     "_id": 1574096,
     "name": "Mariner Sandals X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Legs",
     "skills": [
@@ -19354,6 +20451,7 @@
   {
     "_id": 1574097,
     "name": "Silver Boots X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Legs",
     "skills": [
@@ -19370,6 +20468,7 @@
   {
     "_id": 1574098,
     "name": "Metal Feet X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Legs",
     "skills": [
@@ -19386,6 +20485,7 @@
   {
     "_id": 1574099,
     "name": "Dark Metal Boots X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -19398,6 +20498,7 @@
   {
     "_id": 1574100,
     "name": "Dark Metal Feet X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -19410,6 +20511,7 @@
   {
     "_id": 1574101,
     "name": "Pink Metal Boots X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Legs",
     "skills": [
@@ -19422,6 +20524,7 @@
   {
     "_id": 1574102,
     "name": "Pink Metal Feet X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Legs",
     "skills": [
@@ -19434,6 +20537,7 @@
   {
     "_id": 1574103,
     "name": "Chrome Metal Boots X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Legs",
     "skills": [
@@ -19446,6 +20550,7 @@
   {
     "_id": 1574104,
     "name": "Chrome Metal Feet X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Legs",
     "skills": [
@@ -19458,6 +20563,7 @@
   {
     "_id": 1574105,
     "name": "Giaprey Feet X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -19474,6 +20580,7 @@
   {
     "_id": 1574106,
     "name": "Giaprey Tights X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -19490,6 +20597,7 @@
   {
     "_id": 1574111,
     "name": "Maccao Shinguards X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -19502,6 +20610,7 @@
   {
     "_id": 1574112,
     "name": "Maccao Boots X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -19514,6 +20623,7 @@
   {
     "_id": 1574113,
     "name": "Jaggi Shinguards X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Legs",
     "skills": [
@@ -19526,6 +20636,7 @@
   {
     "_id": 1574114,
     "name": "Jaggi Boots X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Legs",
     "skills": [
@@ -19538,6 +20649,7 @@
   {
     "_id": 1574115,
     "name": "Artian Greaves XR",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Legs",
     "skills": [
@@ -19554,6 +20666,7 @@
   {
     "_id": 1574116,
     "name": "Artian Leggings XR",
+    "num_slots": 0,
     "max_defense": 90,
     "sub_type": "Legs",
     "skills": [
@@ -19570,6 +20683,7 @@
   {
     "_id": 1574117,
     "name": "Dragonfeet",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -19590,6 +20704,7 @@
   {
     "_id": 1574118,
     "name": "Dragonlegs",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -19610,6 +20725,7 @@
   {
     "_id": 1574119,
     "name": "Criminal Legs",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Legs",
     "skills": [
@@ -19630,6 +20746,7 @@
   {
     "_id": 1574120,
     "name": "Criminal Feet",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Legs",
     "skills": [
@@ -19650,6 +20767,7 @@
   {
     "_id": 1574135,
     "name": "Garo Guards",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Legs",
     "skills": [
@@ -19674,6 +20792,7 @@
   {
     "_id": 1574136,
     "name": "Garo Greaves",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Legs",
     "skills": [
@@ -19698,6 +20817,7 @@
   {
     "_id": 1574137,
     "name": "Varia Suit Leg Guards",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Legs",
     "skills": [
@@ -19718,6 +20838,7 @@
   {
     "_id": 1574138,
     "name": "Varia Suit Legs",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Legs",
     "skills": [
@@ -19738,6 +20859,7 @@
   {
     "_id": 1574139,
     "name": "Zero Suit Boots",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Legs",
     "skills": [
@@ -19758,6 +20880,7 @@
   {
     "_id": 1574140,
     "name": "Zero Suit Tights",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Legs",
     "skills": [
@@ -19778,6 +20901,7 @@
   {
     "_id": 1574141,
     "name": "Lodestar Boots",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Legs",
     "skills": [
@@ -19798,6 +20922,7 @@
   {
     "_id": 1574142,
     "name": "Lodestar Greaves",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Legs",
     "skills": [
@@ -19818,6 +20943,7 @@
   {
     "_id": 1574143,
     "name": "Hylian Footwear",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Legs",
     "skills": [
@@ -19842,6 +20968,7 @@
   {
     "_id": 1574144,
     "name": "Hylian Boots",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Legs",
     "skills": [
@@ -19866,6 +20993,7 @@
   {
     "_id": 1574145,
     "name": "Hiryu Sky Boots",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Legs",
     "skills": [
@@ -19886,6 +21014,7 @@
   {
     "_id": 1574146,
     "name": "Hiryu Land Boots",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Legs",
     "skills": [

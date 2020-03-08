@@ -67,6 +67,10 @@ class ArmorWorker {
 
     matches = [];
 
+    skillMap = {};
+
+    decorationMap = {};
+
     armor = {
         head: [],
         arms: [],
@@ -111,9 +115,30 @@ class ArmorWorker {
         });
     }
 
+    async loadDecorations(){
+        const decorations = await this.getJson('../json/decorations.json');
+        for(let decoration of decorations){
+            for(let skillId in decoration.skills){
+                if(!this.decorationMap[skillId]){
+                    this.decorationMap[skillId] = {
+                        name: this.skillMap[skillId].name,
+                        decorations: []
+                    }
+                }
+
+                this.decorationMap[skillId].decorations.push(decoration);
+            }
+        }
+
+        console.log(this.decorationMap);
+    }
+
+    async loadSkills(){
+        this.skillMap = await this.getJson('../json/skills.json');
+    }
+
     async loadArmor(type) {
         const armor = await this.getJson('../json/armor/' + type + '-light.json');
-        // console.log(armor)
         return armor;
     }
 
@@ -135,7 +160,7 @@ class ArmorWorker {
             return false;
         };
 
-        const getValue = (item) => {
+        const getValueOld = (item) => {
             let value = 0;
             for (let skill of item.skills) {
                 if (skillIds.includes(skill.skill_tree)) {
@@ -149,6 +174,23 @@ class ArmorWorker {
             return value;
         };
 
+        const getValue = (item) => {
+            let points = 0;
+            for (let skill of item.skills) {
+                if (skillIds.includes(skill.skill_tree)) {
+                    const currentValue = parseInt(skill.points);
+                    points += currentValue * 10;
+                }
+            }
+
+            const defensePoints = (item.max_defense / 200) * 100;
+            points += Math.floor(defensePoints);
+
+            item.points = points;
+
+            return points;
+        };
+
         const sorter = (a, b) => {
             let aVal = getValue(a);
             let bVal = getValue(b);
@@ -156,6 +198,15 @@ class ArmorWorker {
             if (aVal < bVal) return 1;
             if (a.max_defense > b.max_defense) return -1;
             if (a.max_defense < b.max_defense) return 1;
+        };
+
+        const maxPieces = 8;
+        return {
+            head: this.armor.head.sort(sorter).slice(0, maxPieces),
+            arms: this.armor.arms.sort(sorter).slice(0, maxPieces),
+            body: this.armor.body.sort(sorter).slice(0, maxPieces),
+            waist: this.armor.waist.sort(sorter).slice(0, maxPieces),
+            legs: this.armor.legs.sort(sorter).slice(0, maxPieces),
         };
 
         return {
@@ -196,6 +247,8 @@ class ArmorWorker {
         const armor = this.getFilteredArmor(skillIds);
 
         console.log("searching for skills: ", skillTrees);
+        console.log(armor);
+        //return;
 
         //this.generateIndex
 
@@ -239,11 +292,18 @@ class ArmorWorker {
             this.handleMessage(type, e.data);
         }
 
+        
+    }
+
+    async initialize(self) {
+        this.listen(self);
         this.loadAllArmor();
+        await this.loadSkills();
+        this.loadDecorations();
     }
 }
 
 
 const worker = new ArmorWorker();
 
-worker.listen(this);
+worker.initialize(this);

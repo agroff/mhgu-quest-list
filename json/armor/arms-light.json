@@ -2,6 +2,7 @@
   {
     "_id": 1441793,
     "name": "Leather Gloves",
+    "num_slots": 1,
     "max_defense": 25,
     "sub_type": "Arms",
     "skills": [
@@ -14,6 +15,7 @@
   {
     "_id": 1441794,
     "name": "Chainmail Gloves",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Arms",
     "skills": [
@@ -26,6 +28,7 @@
   {
     "_id": 1441795,
     "name": "Bherna Braces",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Arms",
     "skills": [
@@ -38,6 +41,7 @@
   {
     "_id": 1441796,
     "name": "Hunting Braces",
+    "num_slots": 0,
     "max_defense": 50,
     "sub_type": "Arms",
     "skills": [
@@ -50,6 +54,7 @@
   {
     "_id": 1441797,
     "name": "Hunting Guards",
+    "num_slots": 0,
     "max_defense": 25,
     "sub_type": "Arms",
     "skills": [
@@ -62,6 +67,7 @@
   {
     "_id": 1441798,
     "name": "Mafumofu Mittens",
+    "num_slots": 2,
     "max_defense": 26,
     "sub_type": "Arms",
     "skills": [
@@ -74,6 +80,7 @@
   {
     "_id": 1441799,
     "name": "Yukumo Kote",
+    "num_slots": 1,
     "max_defense": 26,
     "sub_type": "Arms",
     "skills": [
@@ -90,6 +97,7 @@
   {
     "_id": 1441801,
     "name": "Hunter's Vambraces",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -102,6 +110,7 @@
   {
     "_id": 1441802,
     "name": "Hunter's Guards",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -114,6 +123,7 @@
   {
     "_id": 1441803,
     "name": "Bone Vambraces",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -126,6 +136,7 @@
   {
     "_id": 1441804,
     "name": "Bone Guards",
+    "num_slots": 2,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -138,6 +149,7 @@
   {
     "_id": 1441809,
     "name": "Trapper's Gauntlets",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -150,6 +162,7 @@
   {
     "_id": 1441810,
     "name": "Trapper's Gloves",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -162,6 +175,7 @@
   {
     "_id": 1441811,
     "name": "Maccao Gauntlets",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -174,6 +188,7 @@
   {
     "_id": 1441812,
     "name": "Maccao Gloves",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -186,6 +201,7 @@
   {
     "_id": 1441813,
     "name": "Jaggi Gauntlets",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -198,6 +214,7 @@
   {
     "_id": 1441814,
     "name": "Jaggi Gloves",
+    "num_slots": 0,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -210,6 +227,7 @@
   {
     "_id": 1441815,
     "name": "Jaggi Vambraces",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -222,6 +240,7 @@
   {
     "_id": 1441816,
     "name": "Jaggi Guards",
+    "num_slots": 1,
     "max_defense": 27,
     "sub_type": "Arms",
     "skills": [
@@ -234,6 +253,7 @@
   {
     "_id": 1441817,
     "name": "Maccao Braces",
+    "num_slots": 2,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -246,6 +266,7 @@
   {
     "_id": 1441818,
     "name": "Maccao Guards",
+    "num_slots": 2,
     "max_defense": 28,
     "sub_type": "Arms",
     "skills": [
@@ -258,6 +279,7 @@
   {
     "_id": 1441819,
     "name": "Velociprey Braces",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -270,6 +292,7 @@
   {
     "_id": 1441820,
     "name": "Velociprey Guards",
+    "num_slots": 1,
     "max_defense": 28,
     "sub_type": "Arms",
     "skills": [
@@ -282,6 +305,7 @@
   {
     "_id": 1441821,
     "name": "Giaprey Vambraces",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -298,6 +322,7 @@
   {
     "_id": 1441822,
     "name": "Giaprey Guards",
+    "num_slots": 1,
     "max_defense": 28,
     "sub_type": "Arms",
     "skills": [
@@ -314,6 +339,7 @@
   {
     "_id": 1441823,
     "name": "Genprey Vambraces",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -330,6 +356,7 @@
   {
     "_id": 1441824,
     "name": "Genprey Guards",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Arms",
     "skills": [
@@ -346,6 +373,7 @@
   {
     "_id": 1441825,
     "name": "Vespoid Vambraces",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -358,6 +386,7 @@
   {
     "_id": 1441826,
     "name": "Vespoid Guards",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Arms",
     "skills": [
@@ -370,6 +399,7 @@
   {
     "_id": 1441827,
     "name": "Hornetaur Braces",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -382,6 +412,7 @@
   {
     "_id": 1441828,
     "name": "Hornetaur Guards",
+    "num_slots": 2,
     "max_defense": 29,
     "sub_type": "Arms",
     "skills": [
@@ -394,6 +425,7 @@
   {
     "_id": 1441829,
     "name": "Bnahabra Gloves",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -410,6 +442,7 @@
   {
     "_id": 1441830,
     "name": "Bnahabra Sleeves",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Arms",
     "skills": [
@@ -426,6 +459,7 @@
   {
     "_id": 1441831,
     "name": "Konchu Braces",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -442,6 +476,7 @@
   {
     "_id": 1441832,
     "name": "Konchu Guards",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -458,6 +493,7 @@
   {
     "_id": 1441833,
     "name": "Mosswine Gloves",
+    "num_slots": 1,
     "max_defense": 29,
     "sub_type": "Arms",
     "skills": [
@@ -470,6 +506,7 @@
   {
     "_id": 1441834,
     "name": "Rhenoplos Vambraces",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -482,6 +519,7 @@
   {
     "_id": 1441835,
     "name": "Rhenoplos Guards",
+    "num_slots": 2,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -494,6 +532,7 @@
   {
     "_id": 1441836,
     "name": "Bulldrome Braces",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -506,6 +545,7 @@
   {
     "_id": 1441837,
     "name": "Bulldrome Guards",
+    "num_slots": 1,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -518,6 +558,7 @@
   {
     "_id": 1441839,
     "name": "Arzuros Vambraces",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -538,6 +579,7 @@
   {
     "_id": 1441840,
     "name": "Arzuros Guards",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Arms",
     "skills": [
@@ -558,6 +600,7 @@
   {
     "_id": 1441841,
     "name": "Cephalos Braces",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -574,6 +617,7 @@
   {
     "_id": 1441842,
     "name": "Cephalos Guards",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Arms",
     "skills": [
@@ -590,6 +634,7 @@
   {
     "_id": 1441843,
     "name": "Derring Gloves",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Arms",
     "skills": [
@@ -602,6 +647,7 @@
   {
     "_id": 1441844,
     "name": "Alloy Vambraces",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -618,6 +664,7 @@
   {
     "_id": 1441845,
     "name": "Alloy Guards",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Arms",
     "skills": [
@@ -634,6 +681,7 @@
   {
     "_id": 1441846,
     "name": "Battle Vambraces",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -650,6 +698,7 @@
   {
     "_id": 1441847,
     "name": "Battle Guards",
+    "num_slots": 1,
     "max_defense": 31,
     "sub_type": "Arms",
     "skills": [
@@ -666,6 +715,7 @@
   {
     "_id": 1441848,
     "name": "Ingot Vambraces",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -678,6 +728,7 @@
   {
     "_id": 1441849,
     "name": "Ingot Guards",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -690,6 +741,7 @@
   {
     "_id": 1441850,
     "name": "High Metal Braces",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -710,6 +762,7 @@
   {
     "_id": 1441851,
     "name": "High Metal Guards",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -730,6 +783,7 @@
   {
     "_id": 1441854,
     "name": "Melahoa Branch",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -746,6 +800,7 @@
   {
     "_id": 1441855,
     "name": "Melahoa Petal",
+    "num_slots": 0,
     "max_defense": 31,
     "sub_type": "Arms",
     "skills": [
@@ -762,6 +817,7 @@
   {
     "_id": 1441856,
     "name": "Makluva Sleeves",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -774,6 +830,7 @@
   {
     "_id": 1441857,
     "name": "Makluva Sucker",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -786,6 +843,7 @@
   {
     "_id": 1441860,
     "name": "Obituary Brachia",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -798,6 +856,7 @@
   {
     "_id": 1441861,
     "name": "Obituary Manus",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -810,6 +869,7 @@
   {
     "_id": 1441862,
     "name": "Butterfly Brachia",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -822,6 +882,7 @@
   {
     "_id": 1441863,
     "name": "Butterfly Manus",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -834,6 +895,7 @@
   {
     "_id": 1441864,
     "name": "Death Stench Grip",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -850,6 +912,7 @@
   {
     "_id": 1441865,
     "name": "Death Stench Grasp",
+    "num_slots": 1,
     "max_defense": 33,
     "sub_type": "Arms",
     "skills": [
@@ -866,6 +929,7 @@
   {
     "_id": 1441868,
     "name": "Mosgharl Creeper",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -882,6 +946,7 @@
   {
     "_id": 1441869,
     "name": "Mosgharl Tendril",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -898,6 +963,7 @@
   {
     "_id": 1441870,
     "name": "Edel Creeper",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -910,6 +976,7 @@
   {
     "_id": 1441871,
     "name": "Edel Tendril",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -922,6 +989,7 @@
   {
     "_id": 1441872,
     "name": "Skalda Brachia",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -938,6 +1006,7 @@
   {
     "_id": 1441873,
     "name": "Skalda Manus",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -954,6 +1023,7 @@
   {
     "_id": 1441874,
     "name": "Spio Brachia",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -970,6 +1040,7 @@
   {
     "_id": 1441875,
     "name": "Spio Manus",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -986,6 +1057,7 @@
   {
     "_id": 1441882,
     "name": "Moofah Claws",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -998,6 +1070,7 @@
   {
     "_id": 1441883,
     "name": "Moofah Sleeves",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -1010,6 +1083,7 @@
   {
     "_id": 1441885,
     "name": "Velociprey Claws",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -1026,6 +1100,7 @@
   {
     "_id": 1441886,
     "name": "Velociprey Gloves",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -1042,6 +1117,7 @@
   {
     "_id": 1441887,
     "name": "Genprey Claws",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -1058,6 +1134,7 @@
   {
     "_id": 1441888,
     "name": "Genprey Gloves",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -1074,6 +1151,7 @@
   {
     "_id": 1441889,
     "name": "Ioprey Claws",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -1090,6 +1168,7 @@
   {
     "_id": 1441890,
     "name": "Ioprey Gloves",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -1106,6 +1185,7 @@
   {
     "_id": 1441891,
     "name": "Remobra Gloves",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -1122,6 +1202,7 @@
   {
     "_id": 1441892,
     "name": "Remobra Hands",
+    "num_slots": 0,
     "max_defense": 30,
     "sub_type": "Arms",
     "skills": [
@@ -1138,6 +1219,7 @@
   {
     "_id": 1441893,
     "name": "Ioprey Vambraces",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -1158,6 +1240,7 @@
   {
     "_id": 1441894,
     "name": "Ioprey Guards",
+    "num_slots": 0,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -1178,6 +1261,7 @@
   {
     "_id": 1441895,
     "name": "Kut-Ku Vambraces",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -1190,6 +1274,7 @@
   {
     "_id": 1441896,
     "name": "Kut-Ku Guards",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Arms",
     "skills": [
@@ -1202,6 +1287,7 @@
   {
     "_id": 1441897,
     "name": "Lagombi Vambraces",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -1222,6 +1308,7 @@
   {
     "_id": 1441898,
     "name": "Lagombi Guards",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -1242,6 +1329,7 @@
   {
     "_id": 1441899,
     "name": "Gypceros Braces",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -1262,6 +1350,7 @@
   {
     "_id": 1441900,
     "name": "Gypceros Guards",
+    "num_slots": 0,
     "max_defense": 33,
     "sub_type": "Arms",
     "skills": [
@@ -1282,6 +1371,7 @@
   {
     "_id": 1441901,
     "name": "Tetsucabra Braces",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1294,6 +1384,7 @@
   {
     "_id": 1441902,
     "name": "Tetsucabra Guards",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1306,6 +1397,7 @@
   {
     "_id": 1441903,
     "name": "Hermitaur Braces",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1326,6 +1418,7 @@
   {
     "_id": 1441904,
     "name": "Hermitaur Guards",
+    "num_slots": 2,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1346,6 +1439,7 @@
   {
     "_id": 1441905,
     "name": "Volvidon Vambraces",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1366,6 +1460,7 @@
   {
     "_id": 1441906,
     "name": "Volvidon Guards",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1386,6 +1481,7 @@
   {
     "_id": 1441907,
     "name": "Ludroth Braces",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1402,6 +1498,7 @@
   {
     "_id": 1441908,
     "name": "Ludroth Guards",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1418,6 +1515,7 @@
   {
     "_id": 1441909,
     "name": "Malfestio Braces",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1434,6 +1532,7 @@
   {
     "_id": 1441910,
     "name": "Malfestio Guards",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1450,6 +1549,7 @@
   {
     "_id": 1441911,
     "name": "Khezu Vambraces",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1462,6 +1562,7 @@
   {
     "_id": 1441912,
     "name": "Khezu Guards",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1474,6 +1575,7 @@
   {
     "_id": 1441913,
     "name": "Rathian Braces",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1494,6 +1596,7 @@
   {
     "_id": 1441914,
     "name": "Rathian Guards",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1514,6 +1617,7 @@
   {
     "_id": 1441915,
     "name": "Nibelsnarf Braces",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1534,6 +1638,7 @@
   {
     "_id": 1441916,
     "name": "Nibelsnarf Guards",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1554,6 +1659,7 @@
   {
     "_id": 1441917,
     "name": "Blango Vambraces",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1574,6 +1680,7 @@
   {
     "_id": 1441918,
     "name": "Blango Guards",
+    "num_slots": 1,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1594,6 +1701,7 @@
   {
     "_id": 1441919,
     "name": "Ceanataur Braces",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1610,6 +1718,7 @@
   {
     "_id": 1441920,
     "name": "Ceanataur Guards",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1626,6 +1735,7 @@
   {
     "_id": 1441921,
     "name": "Najarala Braces",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1646,6 +1756,7 @@
   {
     "_id": 1441922,
     "name": "Najarala Guards",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1666,6 +1777,7 @@
   {
     "_id": 1441923,
     "name": "Nargacuga Braces",
+    "num_slots": 2,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1686,6 +1798,7 @@
   {
     "_id": 1441924,
     "name": "Nargacuga Guards",
+    "num_slots": 2,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1706,6 +1819,7 @@
   {
     "_id": 1441925,
     "name": "Scholarly Grips",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -1726,6 +1840,7 @@
   {
     "_id": 1441926,
     "name": "Scholarly Cuffs",
+    "num_slots": 0,
     "max_defense": 34,
     "sub_type": "Arms",
     "skills": [
@@ -1746,6 +1861,7 @@
   {
     "_id": 1441927,
     "name": "Vaik Braces",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1758,6 +1874,7 @@
   {
     "_id": 1441928,
     "name": "Vaik Guards",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1770,6 +1887,7 @@
   {
     "_id": 1441931,
     "name": "Aelucanth Brachia",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1786,6 +1904,7 @@
   {
     "_id": 1441932,
     "name": "Aelucanth Manus",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1802,6 +1921,7 @@
   {
     "_id": 1441933,
     "name": "Rhopessa Brachia",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -1818,6 +1938,7 @@
   {
     "_id": 1441934,
     "name": "Rhopessa Manus",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -1834,6 +1955,7 @@
   {
     "_id": 1441935,
     "name": "Artian Braces",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -1850,6 +1972,7 @@
   {
     "_id": 1441936,
     "name": "Artian Guards",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -1866,6 +1989,7 @@
   {
     "_id": 1441937,
     "name": "Garuga Vambraces",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -1886,6 +2010,7 @@
   {
     "_id": 1441938,
     "name": "Garuga Guards",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Arms",
     "skills": [
@@ -1906,6 +2031,7 @@
   {
     "_id": 1441940,
     "name": "Uragaan Vambraces",
+    "num_slots": 2,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -1922,6 +2048,7 @@
   {
     "_id": 1441941,
     "name": "Uragaan Guards",
+    "num_slots": 2,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -1938,6 +2065,7 @@
   {
     "_id": 1441942,
     "name": "Rathalos Braces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -1958,6 +2086,7 @@
   {
     "_id": 1441943,
     "name": "Rathalos Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -1978,6 +2107,7 @@
   {
     "_id": 1441944,
     "name": "Lagiacrus Braces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -1998,6 +2128,7 @@
   {
     "_id": 1441945,
     "name": "Lagiacrus Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2018,6 +2149,7 @@
   {
     "_id": 1441946,
     "name": "Zinogre Braces",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -2038,6 +2170,7 @@
   {
     "_id": 1441947,
     "name": "Zinogre Guards",
+    "num_slots": 1,
     "max_defense": 36,
     "sub_type": "Arms",
     "skills": [
@@ -2058,6 +2191,7 @@
   {
     "_id": 1441948,
     "name": "Mizutsune Braces",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -2078,6 +2212,7 @@
   {
     "_id": 1441949,
     "name": "Mizutsune Guards",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2098,6 +2233,7 @@
   {
     "_id": 1441950,
     "name": "Astalos Braces",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2118,6 +2254,7 @@
   {
     "_id": 1441951,
     "name": "Astalos Guards",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2138,6 +2275,7 @@
   {
     "_id": 1441952,
     "name": "Gammoth Braces",
+    "num_slots": 2,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2154,6 +2292,7 @@
   {
     "_id": 1441953,
     "name": "Gammoth Guards",
+    "num_slots": 2,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2170,6 +2309,7 @@
   {
     "_id": 1441954,
     "name": "Glavenus Braces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2190,6 +2330,7 @@
   {
     "_id": 1441955,
     "name": "Glavenus Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2210,6 +2351,7 @@
   {
     "_id": 1441956,
     "name": "Gore Braces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2226,6 +2368,7 @@
   {
     "_id": 1441957,
     "name": "Gore Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2242,6 +2385,7 @@
   {
     "_id": 1441958,
     "name": "Regios Vambraces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2262,6 +2406,7 @@
   {
     "_id": 1441959,
     "name": "Regios Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2282,6 +2427,7 @@
   {
     "_id": 1441960,
     "name": "Tigrex Braces",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2302,6 +2448,7 @@
   {
     "_id": 1441961,
     "name": "Tigrex Guards",
+    "num_slots": 1,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2322,6 +2469,7 @@
   {
     "_id": 1441962,
     "name": "Kirin Longarms",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2342,6 +2490,7 @@
   {
     "_id": 1441963,
     "name": "Kirin Gloves",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2362,6 +2511,7 @@
   {
     "_id": 1441964,
     "name": "Brachydios Braces",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2382,6 +2532,7 @@
   {
     "_id": 1441965,
     "name": "Brachydios Guards",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2402,6 +2553,7 @@
   {
     "_id": 1441966,
     "name": "Arc Vambraces",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2418,6 +2570,7 @@
   {
     "_id": 1441967,
     "name": "Storge Braces",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2434,6 +2587,7 @@
   {
     "_id": 1441968,
     "name": "Arc Guards",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2450,6 +2604,7 @@
   {
     "_id": 1441969,
     "name": "Storge Guards",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2466,6 +2621,7 @@
   {
     "_id": 1441970,
     "name": "Kushala Grip",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2482,6 +2638,7 @@
   {
     "_id": 1441971,
     "name": "Kushala Embrace",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2498,6 +2655,7 @@
   {
     "_id": 1441972,
     "name": "Mizuha Sleeves",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2514,6 +2672,7 @@
   {
     "_id": 1441973,
     "name": "Cham Sleeves",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2530,6 +2689,7 @@
   {
     "_id": 1441974,
     "name": "Kaiser Vambraces",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2546,6 +2706,7 @@
   {
     "_id": 1441975,
     "name": "Kaiser Guards",
+    "num_slots": 0,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2562,6 +2723,7 @@
   {
     "_id": 1441976,
     "name": "Skeletal Humerus",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -2578,6 +2740,7 @@
   {
     "_id": 1441977,
     "name": "Decayed Humerus",
+    "num_slots": 1,
     "max_defense": 38,
     "sub_type": "Arms",
     "skills": [
@@ -2594,6 +2757,7 @@
   {
     "_id": 1441978,
     "name": "Black Claw",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -2610,6 +2774,7 @@
   {
     "_id": 1441979,
     "name": "Black Fist",
+    "num_slots": 0,
     "max_defense": 37,
     "sub_type": "Arms",
     "skills": [
@@ -2626,6 +2791,7 @@
   {
     "_id": 1441980,
     "name": "Black Belt Braces",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -2638,6 +2804,7 @@
   {
     "_id": 1441981,
     "name": "Black Belt Guards",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Arms",
     "skills": [
@@ -2650,6 +2817,7 @@
   {
     "_id": 1441982,
     "name": "Guild Bard Braces",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -2670,6 +2838,7 @@
   {
     "_id": 1441983,
     "name": "Guild Bard Sleeves",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2690,6 +2859,7 @@
   {
     "_id": 1441984,
     "name": "Maiden's Gloves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -2710,6 +2880,7 @@
   {
     "_id": 1441985,
     "name": "French Maid Sleeves",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2730,6 +2901,7 @@
   {
     "_id": 1441986,
     "name": "Helper Sleeves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -2750,6 +2922,7 @@
   {
     "_id": 1441987,
     "name": "Healer Sleeves",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2770,6 +2943,7 @@
   {
     "_id": 1441988,
     "name": "Dianthus Sleeves",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -2786,6 +2960,7 @@
   {
     "_id": 1441989,
     "name": "Campanile Sleeves",
+    "num_slots": 1,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2802,6 +2977,7 @@
   {
     "_id": 1441990,
     "name": "Bath Sleeves",
+    "num_slots": 0,
     "max_defense": 35,
     "sub_type": "Arms",
     "skills": [
@@ -2814,6 +2990,7 @@
   {
     "_id": 1441991,
     "name": "Gourmew Gloves",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -2826,6 +3003,7 @@
   {
     "_id": 1441992,
     "name": "Gourmew Mitts",
+    "num_slots": 0,
     "max_defense": 36,
     "sub_type": "Arms",
     "skills": [
@@ -2838,6 +3016,7 @@
   {
     "_id": 1441993,
     "name": "Leather Braces S",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -2854,6 +3033,7 @@
   {
     "_id": 1441994,
     "name": "Chainmail Braces S",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -2870,6 +3050,7 @@
   {
     "_id": 1441995,
     "name": "Bherna Braces S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -2886,6 +3067,7 @@
   {
     "_id": 1441996,
     "name": "Bherna Guards S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Arms",
     "skills": [
@@ -2902,6 +3084,7 @@
   {
     "_id": 1441997,
     "name": "Hunting Braces S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -2914,6 +3097,7 @@
   {
     "_id": 1441998,
     "name": "Hunting Guards S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Arms",
     "skills": [
@@ -2926,6 +3110,7 @@
   {
     "_id": 1441999,
     "name": "Mafumofu Grips S",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -2942,6 +3127,7 @@
   {
     "_id": 1442000,
     "name": "Mafumofu Mittens S",
+    "num_slots": 2,
     "max_defense": 51,
     "sub_type": "Arms",
     "skills": [
@@ -2958,6 +3144,7 @@
   {
     "_id": 1442001,
     "name": "Yukumo Sky Kote",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -2974,6 +3161,7 @@
   {
     "_id": 1442002,
     "name": "Yukumo Land Kote",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Arms",
     "skills": [
@@ -2990,6 +3178,7 @@
   {
     "_id": 1442004,
     "name": "Hunter's Vambraces S",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -3006,6 +3195,7 @@
   {
     "_id": 1442005,
     "name": "Hunter's Guards S",
+    "num_slots": 1,
     "max_defense": 51,
     "sub_type": "Arms",
     "skills": [
@@ -3022,6 +3212,7 @@
   {
     "_id": 1442006,
     "name": "Hunter's Braces R",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -3042,6 +3233,7 @@
   {
     "_id": 1442007,
     "name": "Hunter's Guards R",
+    "num_slots": 0,
     "max_defense": 49,
     "sub_type": "Arms",
     "skills": [
@@ -3062,6 +3254,7 @@
   {
     "_id": 1442008,
     "name": "Bone Vambraces S",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Arms",
     "skills": [
@@ -3082,6 +3275,7 @@
   {
     "_id": 1442009,
     "name": "Bone Guards S",
+    "num_slots": 2,
     "max_defense": 53,
     "sub_type": "Arms",
     "skills": [
@@ -3102,6 +3296,7 @@
   {
     "_id": 1442016,
     "name": "Melahoa Branch S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3118,6 +3313,7 @@
   {
     "_id": 1442017,
     "name": "Melahoa Petal S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3134,6 +3330,7 @@
   {
     "_id": 1442018,
     "name": "Melahoa Branch U",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -3150,6 +3347,7 @@
   {
     "_id": 1442019,
     "name": "Melahoa Petal U",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Arms",
     "skills": [
@@ -3166,6 +3364,7 @@
   {
     "_id": 1442020,
     "name": "Makluva Sleeves S",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -3178,6 +3377,7 @@
   {
     "_id": 1442021,
     "name": "Makluva Sucker S",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -3190,6 +3390,7 @@
   {
     "_id": 1442022,
     "name": "Makluva Sleeves U",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3206,6 +3407,7 @@
   {
     "_id": 1442023,
     "name": "Makluva Sucker U",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3222,6 +3424,7 @@
   {
     "_id": 1442028,
     "name": "Mosgharl Creeper S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -3238,6 +3441,7 @@
   {
     "_id": 1442029,
     "name": "Mosgharl Tendril S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -3254,6 +3458,7 @@
   {
     "_id": 1442030,
     "name": "Edel Creeper S",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Arms",
     "skills": [
@@ -3270,6 +3475,7 @@
   {
     "_id": 1442031,
     "name": "Edel Tendril S",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Arms",
     "skills": [
@@ -3286,6 +3492,7 @@
   {
     "_id": 1442032,
     "name": "Moofah Claws S",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3302,6 +3509,7 @@
   {
     "_id": 1442033,
     "name": "Moofah Sleeves S",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3318,6 +3526,7 @@
   {
     "_id": 1442039,
     "name": "Velociprey Claws S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -3334,6 +3543,7 @@
   {
     "_id": 1442040,
     "name": "Velociprey Gloves S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Arms",
     "skills": [
@@ -3350,6 +3560,7 @@
   {
     "_id": 1442041,
     "name": "Genprey Claws S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -3366,6 +3577,7 @@
   {
     "_id": 1442042,
     "name": "Genprey Gloves S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Arms",
     "skills": [
@@ -3382,6 +3594,7 @@
   {
     "_id": 1442043,
     "name": "Ioprey Claws S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -3398,6 +3611,7 @@
   {
     "_id": 1442044,
     "name": "Ioprey Gloves S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Arms",
     "skills": [
@@ -3414,6 +3628,7 @@
   {
     "_id": 1442045,
     "name": "Remobra Gloves S",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -3430,6 +3645,7 @@
   {
     "_id": 1442046,
     "name": "Remobra Hands S",
+    "num_slots": 0,
     "max_defense": 48,
     "sub_type": "Arms",
     "skills": [
@@ -3446,6 +3662,7 @@
   {
     "_id": 1442047,
     "name": "Trapper's Gauntlets S",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -3458,6 +3675,7 @@
   {
     "_id": 1442048,
     "name": "Trapper's Gloves S",
+    "num_slots": 1,
     "max_defense": 49,
     "sub_type": "Arms",
     "skills": [
@@ -3470,6 +3688,7 @@
   {
     "_id": 1442049,
     "name": "Maccao Gauntlets S",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -3482,6 +3701,7 @@
   {
     "_id": 1442050,
     "name": "Maccao Gloves S",
+    "num_slots": 0,
     "max_defense": 49,
     "sub_type": "Arms",
     "skills": [
@@ -3494,6 +3714,7 @@
   {
     "_id": 1442051,
     "name": "Jaggi Gauntlets S",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -3506,6 +3727,7 @@
   {
     "_id": 1442052,
     "name": "Jaggi Gloves S",
+    "num_slots": 0,
     "max_defense": 49,
     "sub_type": "Arms",
     "skills": [
@@ -3518,6 +3740,7 @@
   {
     "_id": 1442053,
     "name": "Mosswine Gloves S",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Arms",
     "skills": [
@@ -3530,6 +3753,7 @@
   {
     "_id": 1442054,
     "name": "Rhenoplos Braces S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3542,6 +3766,7 @@
   {
     "_id": 1442055,
     "name": "Rhenoplos Guards S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3554,6 +3779,7 @@
   {
     "_id": 1442056,
     "name": "Jaggi Vambraces S",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -3566,6 +3792,7 @@
   {
     "_id": 1442057,
     "name": "Jaggi Guards S",
+    "num_slots": 1,
     "max_defense": 52,
     "sub_type": "Arms",
     "skills": [
@@ -3578,6 +3805,7 @@
   {
     "_id": 1442062,
     "name": "Maccao Braces S",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Arms",
     "skills": [
@@ -3590,6 +3818,7 @@
   {
     "_id": 1442063,
     "name": "Maccao Guards S",
+    "num_slots": 2,
     "max_defense": 53,
     "sub_type": "Arms",
     "skills": [
@@ -3602,6 +3831,7 @@
   {
     "_id": 1442064,
     "name": "Velociprey Braces S",
+    "num_slots": 2,
     "max_defense": 106,
     "sub_type": "Arms",
     "skills": [
@@ -3622,6 +3852,7 @@
   {
     "_id": 1442065,
     "name": "Velociprey Guards S",
+    "num_slots": 2,
     "max_defense": 53,
     "sub_type": "Arms",
     "skills": [
@@ -3642,6 +3873,7 @@
   {
     "_id": 1442066,
     "name": "Giaprey Braces S",
+    "num_slots": 1,
     "max_defense": 106,
     "sub_type": "Arms",
     "skills": [
@@ -3662,6 +3894,7 @@
   {
     "_id": 1442067,
     "name": "Giaprey Guards S",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Arms",
     "skills": [
@@ -3682,6 +3915,7 @@
   {
     "_id": 1442068,
     "name": "Genprey Vambraces S",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3702,6 +3936,7 @@
   {
     "_id": 1442069,
     "name": "Genprey Guards S",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3722,6 +3957,7 @@
   {
     "_id": 1442070,
     "name": "EX Genprey Braces",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -3742,6 +3978,7 @@
   {
     "_id": 1442071,
     "name": "EX Genprey Guards",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -3762,6 +3999,7 @@
   {
     "_id": 1442072,
     "name": "Ioprey Vambraces S",
+    "num_slots": 1,
     "max_defense": 110,
     "sub_type": "Arms",
     "skills": [
@@ -3782,6 +4020,7 @@
   {
     "_id": 1442073,
     "name": "Ioprey Guards S",
+    "num_slots": 1,
     "max_defense": 55,
     "sub_type": "Arms",
     "skills": [
@@ -3802,6 +4041,7 @@
   {
     "_id": 1442074,
     "name": "EX Ioprey Vambraces",
+    "num_slots": 1,
     "max_defense": 114,
     "sub_type": "Arms",
     "skills": [
@@ -3822,6 +4062,7 @@
   {
     "_id": 1442075,
     "name": "EX Ioprey Guards",
+    "num_slots": 1,
     "max_defense": 57,
     "sub_type": "Arms",
     "skills": [
@@ -3842,6 +4083,7 @@
   {
     "_id": 1442076,
     "name": "Vespoid Vambraces S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3854,6 +4096,7 @@
   {
     "_id": 1442077,
     "name": "Vespoid Guards S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -3866,6 +4109,7 @@
   {
     "_id": 1442078,
     "name": "EX Vespoid Vambraces",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -3886,6 +4130,7 @@
   {
     "_id": 1442079,
     "name": "EX Vespoid Guards",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -3906,6 +4151,7 @@
   {
     "_id": 1442080,
     "name": "Hornetaur Braces S",
+    "num_slots": 2,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -3922,6 +4168,7 @@
   {
     "_id": 1442081,
     "name": "Hornetaur Guards S",
+    "num_slots": 2,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -3938,6 +4185,7 @@
   {
     "_id": 1442082,
     "name": "EX Hornetaur Braces",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Arms",
     "skills": [
@@ -3958,6 +4206,7 @@
   {
     "_id": 1442083,
     "name": "EX Hornetaur Guards",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -3978,6 +4227,7 @@
   {
     "_id": 1442084,
     "name": "Hornetaur Braces R",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -3994,6 +4244,7 @@
   {
     "_id": 1442085,
     "name": "Hornetaur Guards R",
+    "num_slots": 0,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -4010,6 +4261,7 @@
   {
     "_id": 1442086,
     "name": "Bnahabra Gloves S",
+    "num_slots": 2,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -4026,6 +4278,7 @@
   {
     "_id": 1442087,
     "name": "Bnahabra Sleeves S",
+    "num_slots": 2,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -4042,6 +4295,7 @@
   {
     "_id": 1442088,
     "name": "Konchu Braces S",
+    "num_slots": 0,
     "max_defense": 116,
     "sub_type": "Arms",
     "skills": [
@@ -4062,6 +4316,7 @@
   {
     "_id": 1442089,
     "name": "Konchu Guards S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -4082,6 +4337,7 @@
   {
     "_id": 1442090,
     "name": "Bulldrome Braces S",
+    "num_slots": 2,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -4094,6 +4350,7 @@
   {
     "_id": 1442091,
     "name": "Bulldrome Guards S",
+    "num_slots": 2,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -4106,6 +4363,7 @@
   {
     "_id": 1442093,
     "name": "Arzuros Vambraces S",
+    "num_slots": 0,
     "max_defense": 114,
     "sub_type": "Arms",
     "skills": [
@@ -4126,6 +4384,7 @@
   {
     "_id": 1442094,
     "name": "Arzuros Guards S",
+    "num_slots": 0,
     "max_defense": 57,
     "sub_type": "Arms",
     "skills": [
@@ -4146,6 +4405,7 @@
   {
     "_id": 1442095,
     "name": "Cephalos Vambraces S",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -4162,6 +4422,7 @@
   {
     "_id": 1442096,
     "name": "Cephalos Guards S",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Arms",
     "skills": [
@@ -4178,6 +4439,7 @@
   {
     "_id": 1442097,
     "name": "EX Cephalos Braces",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4198,6 +4460,7 @@
   {
     "_id": 1442098,
     "name": "EX Cephalos Guards",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4218,6 +4481,7 @@
   {
     "_id": 1442099,
     "name": "Kut-Ku Vambraces S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4230,6 +4494,7 @@
   {
     "_id": 1442100,
     "name": "Kut-Ku Guards S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4242,6 +4507,7 @@
   {
     "_id": 1442101,
     "name": "Kecha Vambraces",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4262,6 +4528,7 @@
   {
     "_id": 1442102,
     "name": "Kecha Guards",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4282,6 +4549,7 @@
   {
     "_id": 1442103,
     "name": "Lagombi Vambraces S",
+    "num_slots": 1,
     "max_defense": 116,
     "sub_type": "Arms",
     "skills": [
@@ -4302,6 +4570,7 @@
   {
     "_id": 1442104,
     "name": "Lagombi Guards S",
+    "num_slots": 1,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -4322,6 +4591,7 @@
   {
     "_id": 1442105,
     "name": "Gypceros Braces S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4342,6 +4612,7 @@
   {
     "_id": 1442106,
     "name": "Gypceros Guards S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4362,6 +4633,7 @@
   {
     "_id": 1442107,
     "name": "Gypceros Braces R",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -4378,6 +4650,7 @@
   {
     "_id": 1442108,
     "name": "Gypceros Guards R",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Arms",
     "skills": [
@@ -4394,6 +4667,7 @@
   {
     "_id": 1442109,
     "name": "Tetsucabra Braces S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4406,6 +4680,7 @@
   {
     "_id": 1442110,
     "name": "Tetsucabra Guards S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4418,6 +4693,7 @@
   {
     "_id": 1442111,
     "name": "Hermitaur Braces S",
+    "num_slots": 2,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -4438,6 +4714,7 @@
   {
     "_id": 1442112,
     "name": "Hermitaur Guards S",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -4458,6 +4735,7 @@
   {
     "_id": 1442113,
     "name": "EX Hermitaur Braces",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -4478,6 +4756,7 @@
   {
     "_id": 1442114,
     "name": "EX Hermitaur Guards",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -4498,6 +4777,7 @@
   {
     "_id": 1442115,
     "name": "Hermitaur Braces R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4514,6 +4794,7 @@
   {
     "_id": 1442116,
     "name": "Hermitaur Guards R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4530,6 +4811,7 @@
   {
     "_id": 1442117,
     "name": "Volvidon Vambraces S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4550,6 +4832,7 @@
   {
     "_id": 1442118,
     "name": "Volvidon Guards S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4570,6 +4853,7 @@
   {
     "_id": 1442119,
     "name": "Ludroth Braces S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4590,6 +4874,7 @@
   {
     "_id": 1442120,
     "name": "Ludroth Guards S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4610,6 +4895,7 @@
   {
     "_id": 1442121,
     "name": "Ludroth Braces R",
+    "num_slots": 0,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -4626,6 +4912,7 @@
   {
     "_id": 1442122,
     "name": "Ludroth Guards R",
+    "num_slots": 0,
     "max_defense": 59,
     "sub_type": "Arms",
     "skills": [
@@ -4642,6 +4929,7 @@
   {
     "_id": 1442123,
     "name": "Lecturer's Braces",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4662,6 +4950,7 @@
   {
     "_id": 1442124,
     "name": "Lecturer's Guards",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4682,6 +4971,7 @@
   {
     "_id": 1442125,
     "name": "Alloy Vambraces S",
+    "num_slots": 0,
     "max_defense": 116,
     "sub_type": "Arms",
     "skills": [
@@ -4702,6 +4992,7 @@
   {
     "_id": 1442126,
     "name": "Alloy Guards S",
+    "num_slots": 0,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -4722,6 +5013,7 @@
   {
     "_id": 1442127,
     "name": "Alloy Braces R",
+    "num_slots": 0,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -4738,6 +5030,7 @@
   {
     "_id": 1442128,
     "name": "Alloy Guards R",
+    "num_slots": 0,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -4754,6 +5047,7 @@
   {
     "_id": 1442129,
     "name": "Battle Vambraces S",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4774,6 +5068,7 @@
   {
     "_id": 1442130,
     "name": "Battle Guards S",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4794,6 +5089,7 @@
   {
     "_id": 1442131,
     "name": "Ingot Vambraces S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -4806,6 +5102,7 @@
   {
     "_id": 1442132,
     "name": "Ingot Guards S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -4818,6 +5115,7 @@
   {
     "_id": 1442133,
     "name": "Ingot Vambraces R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -4838,6 +5136,7 @@
   {
     "_id": 1442134,
     "name": "Ingot Guards R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -4858,6 +5157,7 @@
   {
     "_id": 1442135,
     "name": "High Metal Braces S",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -4878,6 +5178,7 @@
   {
     "_id": 1442136,
     "name": "High Metal Guards S",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -4898,6 +5199,7 @@
   {
     "_id": 1442137,
     "name": "High Metal Braces U",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -4918,6 +5220,7 @@
   {
     "_id": 1442138,
     "name": "High Metal Guards U",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Arms",
     "skills": [
@@ -4938,6 +5241,7 @@
   {
     "_id": 1442141,
     "name": "Lobster Vambraces",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -4958,6 +5262,7 @@
   {
     "_id": 1442142,
     "name": "Lobster Guards",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -4978,6 +5283,7 @@
   {
     "_id": 1442143,
     "name": "Obituary Brachia S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -4990,6 +5296,7 @@
   {
     "_id": 1442144,
     "name": "Obituary Manus S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5002,6 +5309,7 @@
   {
     "_id": 1442145,
     "name": "Butterfly Brachia S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -5014,6 +5322,7 @@
   {
     "_id": 1442146,
     "name": "Butterfly Manus S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5026,6 +5335,7 @@
   {
     "_id": 1442147,
     "name": "Death Stench Grip S",
+    "num_slots": 2,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5042,6 +5352,7 @@
   {
     "_id": 1442148,
     "name": "Death Stench Grasp S",
+    "num_slots": 2,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5058,6 +5369,7 @@
   {
     "_id": 1442149,
     "name": "Death Stench Grip R",
+    "num_slots": 2,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -5078,6 +5390,7 @@
   {
     "_id": 1442150,
     "name": "Death Stench Grasp R",
+    "num_slots": 2,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -5098,6 +5411,7 @@
   {
     "_id": 1442151,
     "name": "Vaik Braces S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -5114,6 +5428,7 @@
   {
     "_id": 1442152,
     "name": "Vaik Guards S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -5130,6 +5445,7 @@
   {
     "_id": 1442153,
     "name": "Aelucanth Brachia S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5150,6 +5466,7 @@
   {
     "_id": 1442154,
     "name": "Aelucanth Manus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5170,6 +5487,7 @@
   {
     "_id": 1442155,
     "name": "Rhopessa Brachia S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5190,6 +5508,7 @@
   {
     "_id": 1442156,
     "name": "Rhopessa Manus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5210,6 +5529,7 @@
   {
     "_id": 1442157,
     "name": "Patissier's Gloves",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -5230,6 +5550,7 @@
   {
     "_id": 1442158,
     "name": "Patissier's Mitts",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -5250,6 +5571,7 @@
   {
     "_id": 1442159,
     "name": "Skalda Brachia S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5270,6 +5592,7 @@
   {
     "_id": 1442160,
     "name": "Skalda Manus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5290,6 +5613,7 @@
   {
     "_id": 1442161,
     "name": "Spio Brachia S",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5310,6 +5634,7 @@
   {
     "_id": 1442162,
     "name": "Spio Manus S",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5330,6 +5655,7 @@
   {
     "_id": 1442163,
     "name": "Malfestio Braces S",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -5350,6 +5676,7 @@
   {
     "_id": 1442164,
     "name": "Malfestio Guards S",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -5370,6 +5697,7 @@
   {
     "_id": 1442165,
     "name": "Zamtrios Braces",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -5390,6 +5718,7 @@
   {
     "_id": 1442166,
     "name": "Zamtrios Guards",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -5410,6 +5739,7 @@
   {
     "_id": 1442167,
     "name": "Khezu Vambraces S",
+    "num_slots": 2,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -5422,6 +5752,7 @@
   {
     "_id": 1442168,
     "name": "Khezu Guards S",
+    "num_slots": 2,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5434,6 +5765,7 @@
   {
     "_id": 1442169,
     "name": "Khezu Braces R",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -5450,6 +5782,7 @@
   {
     "_id": 1442170,
     "name": "Khezu Guards R",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -5466,6 +5799,7 @@
   {
     "_id": 1442171,
     "name": "Rathian Braces S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -5486,6 +5820,7 @@
   {
     "_id": 1442172,
     "name": "Rathian Guards S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5506,6 +5841,7 @@
   {
     "_id": 1442173,
     "name": "EX Rathian Braces",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -5526,6 +5862,7 @@
   {
     "_id": 1442174,
     "name": "EX Rathian Guards",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -5546,6 +5883,7 @@
   {
     "_id": 1442175,
     "name": "Rathian Braces R",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -5558,6 +5896,7 @@
   {
     "_id": 1442176,
     "name": "Rathian Guards R",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -5570,6 +5909,7 @@
   {
     "_id": 1442177,
     "name": "Nibelsnarf Braces S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -5586,6 +5926,7 @@
   {
     "_id": 1442178,
     "name": "Nibelsnarf Guards S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5602,6 +5943,7 @@
   {
     "_id": 1442179,
     "name": "Plesioth Vambraces",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -5622,6 +5964,7 @@
   {
     "_id": 1442180,
     "name": "Plesioth Guards",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -5642,6 +5985,7 @@
   {
     "_id": 1442181,
     "name": "Blango Vambraces S",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -5662,6 +6006,7 @@
   {
     "_id": 1442182,
     "name": "Blango Guards S",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -5682,6 +6027,7 @@
   {
     "_id": 1442183,
     "name": "EX Blango Braces",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -5702,6 +6048,7 @@
   {
     "_id": 1442184,
     "name": "EX Blango Guards",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -5722,6 +6069,7 @@
   {
     "_id": 1442185,
     "name": "Lavasioth Braces",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -5738,6 +6086,7 @@
   {
     "_id": 1442186,
     "name": "Lavasioth Guards",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -5754,6 +6103,7 @@
   {
     "_id": 1442187,
     "name": "EX Lavasioth Braces",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -5770,6 +6120,7 @@
   {
     "_id": 1442188,
     "name": "EX Lavasioth Guards",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -5786,6 +6137,7 @@
   {
     "_id": 1442189,
     "name": "Ceanataur Braces S",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -5802,6 +6154,7 @@
   {
     "_id": 1442190,
     "name": "Ceanataur Guards S",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -5818,6 +6171,7 @@
   {
     "_id": 1442191,
     "name": "EX Ceanataur Braces",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -5834,6 +6188,7 @@
   {
     "_id": 1442192,
     "name": "EX Ceanataur Guards",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -5850,6 +6205,7 @@
   {
     "_id": 1442193,
     "name": "Ceanataur Braces R",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -5866,6 +6222,7 @@
   {
     "_id": 1442194,
     "name": "Ceanataur Guards R",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -5882,6 +6239,7 @@
   {
     "_id": 1442195,
     "name": "Najarala Braces S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -5902,6 +6260,7 @@
   {
     "_id": 1442196,
     "name": "Najarala Guards S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -5922,6 +6281,7 @@
   {
     "_id": 1442197,
     "name": "Nargacuga Braces S",
+    "num_slots": 2,
     "max_defense": 116,
     "sub_type": "Arms",
     "skills": [
@@ -5942,6 +6302,7 @@
   {
     "_id": 1442198,
     "name": "Nargacuga Guards S",
+    "num_slots": 2,
     "max_defense": 58,
     "sub_type": "Arms",
     "skills": [
@@ -5962,6 +6323,7 @@
   {
     "_id": 1442199,
     "name": "Garuga Vambraces S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -5982,6 +6344,7 @@
   {
     "_id": 1442200,
     "name": "Garuga Guards S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6002,6 +6365,7 @@
   {
     "_id": 1442202,
     "name": "Uragaan Vambraces S",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -6022,6 +6386,7 @@
   {
     "_id": 1442203,
     "name": "Uragaan Guards S",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -6042,6 +6407,7 @@
   {
     "_id": 1442204,
     "name": "Black Belt Braces S",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -6054,6 +6420,7 @@
   {
     "_id": 1442205,
     "name": "Black Belt Guards S",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -6066,6 +6433,7 @@
   {
     "_id": 1442206,
     "name": "Guardian Braces",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -6086,6 +6454,7 @@
   {
     "_id": 1442207,
     "name": "Guardian Guards",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -6106,6 +6475,7 @@
   {
     "_id": 1442208,
     "name": "Guardian Braces U",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -6126,6 +6496,7 @@
   {
     "_id": 1442209,
     "name": "Guardian Guards U",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -6146,6 +6517,7 @@
   {
     "_id": 1442210,
     "name": "Scholar's Gloves",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -6166,6 +6538,7 @@
   {
     "_id": 1442211,
     "name": "Scholar's Sleeves",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -6186,6 +6559,7 @@
   {
     "_id": 1442212,
     "name": "Sailor Gloves",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -6206,6 +6580,7 @@
   {
     "_id": 1442213,
     "name": "Sailor Sleeves",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -6226,6 +6601,7 @@
   {
     "_id": 1442214,
     "name": "Luxury Bath Sleeves",
+    "num_slots": 1,
     "max_defense": 53,
     "sub_type": "Arms",
     "skills": [
@@ -6242,6 +6618,7 @@
   {
     "_id": 1442215,
     "name": "Kita Star Sleeves",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -6258,6 +6635,7 @@
   {
     "_id": 1442216,
     "name": "Umi Ocean Sleeves",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -6274,6 +6652,7 @@
   {
     "_id": 1442218,
     "name": "Derring Vambraces S",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -6290,6 +6669,7 @@
   {
     "_id": 1442219,
     "name": "Derring Guards S",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -6306,6 +6686,7 @@
   {
     "_id": 1442220,
     "name": "Dober Vambraces",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -6322,6 +6703,7 @@
   {
     "_id": 1442221,
     "name": "Dober Guards",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -6338,6 +6720,7 @@
   {
     "_id": 1442222,
     "name": "Damascus Vambraces",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6358,6 +6741,7 @@
   {
     "_id": 1442223,
     "name": "Damascus Guards",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6378,6 +6762,7 @@
   {
     "_id": 1442224,
     "name": "Damascus Braces R",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -6394,6 +6779,7 @@
   {
     "_id": 1442225,
     "name": "Damascus Guards R",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -6410,6 +6796,7 @@
   {
     "_id": 1442232,
     "name": "Artian Braces S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6430,6 +6817,7 @@
   {
     "_id": 1442233,
     "name": "Artian Guards S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6450,6 +6838,7 @@
   {
     "_id": 1442234,
     "name": "Artian Braces R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -6466,6 +6855,7 @@
   {
     "_id": 1442235,
     "name": "Artian Guards R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -6482,6 +6872,7 @@
   {
     "_id": 1442236,
     "name": "Seltas Vambraces",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6502,6 +6893,7 @@
   {
     "_id": 1442237,
     "name": "Seltas Guards",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6522,6 +6914,7 @@
   {
     "_id": 1442238,
     "name": "Rathalos Braces S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -6538,6 +6931,7 @@
   {
     "_id": 1442239,
     "name": "Rathalos Guards S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -6554,6 +6948,7 @@
   {
     "_id": 1442240,
     "name": "EX Rathalos Braces",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -6574,6 +6969,7 @@
   {
     "_id": 1442241,
     "name": "EX Rathalos Guards",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -6594,6 +6990,7 @@
   {
     "_id": 1442242,
     "name": "Rathalos Braces R",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -6606,6 +7003,7 @@
   {
     "_id": 1442243,
     "name": "Rathalos Guards R",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -6618,6 +7016,7 @@
   {
     "_id": 1442244,
     "name": "Lagiacrus Braces S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -6638,6 +7037,7 @@
   {
     "_id": 1442245,
     "name": "Lagiacrus Guards S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -6658,6 +7058,7 @@
   {
     "_id": 1442246,
     "name": "Lagiacrus Braces R",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -6674,6 +7075,7 @@
   {
     "_id": 1442247,
     "name": "Lagiacrus Guards R",
+    "num_slots": 0,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -6690,6 +7092,7 @@
   {
     "_id": 1442248,
     "name": "Zinogre Braces S",
+    "num_slots": 0,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -6702,6 +7105,7 @@
   {
     "_id": 1442249,
     "name": "Zinogre Guards S",
+    "num_slots": 0,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -6714,6 +7118,7 @@
   {
     "_id": 1442250,
     "name": "EX Zinogre Braces",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -6734,6 +7139,7 @@
   {
     "_id": 1442251,
     "name": "EX Zinogre Guards",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -6754,6 +7160,7 @@
   {
     "_id": 1442252,
     "name": "Mizutsune Braces S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -6774,6 +7181,7 @@
   {
     "_id": 1442253,
     "name": "Mizutsune Guards S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -6794,6 +7202,7 @@
   {
     "_id": 1442254,
     "name": "Astalos Braces S",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -6814,6 +7223,7 @@
   {
     "_id": 1442255,
     "name": "Astalos Guards S",
+    "num_slots": 1,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -6834,6 +7244,7 @@
   {
     "_id": 1442256,
     "name": "Gammoth Braces S",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -6850,6 +7261,7 @@
   {
     "_id": 1442257,
     "name": "Gammoth Guards S",
+    "num_slots": 2,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -6866,6 +7278,7 @@
   {
     "_id": 1442258,
     "name": "Glavenus Braces S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6882,6 +7295,7 @@
   {
     "_id": 1442259,
     "name": "Glavenus Guards S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6898,6 +7312,7 @@
   {
     "_id": 1442260,
     "name": "Agnaktor Vambraces",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6910,6 +7325,7 @@
   {
     "_id": 1442261,
     "name": "Agnaktor Guards",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6922,6 +7338,7 @@
   {
     "_id": 1442262,
     "name": "Gore Braces S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -6934,6 +7351,7 @@
   {
     "_id": 1442263,
     "name": "Gore Guards S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -6946,6 +7364,7 @@
   {
     "_id": 1442264,
     "name": "EX Gore Braces",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -6962,6 +7381,7 @@
   {
     "_id": 1442265,
     "name": "EX Gore Guards",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -6978,6 +7398,7 @@
   {
     "_id": 1442266,
     "name": "Gore Braces R",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -6990,6 +7411,7 @@
   {
     "_id": 1442267,
     "name": "Gore Guards R",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -7002,6 +7424,7 @@
   {
     "_id": 1442268,
     "name": "Regios Vambraces S",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -7018,6 +7441,7 @@
   {
     "_id": 1442269,
     "name": "Regios Guards S",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -7034,6 +7458,7 @@
   {
     "_id": 1442270,
     "name": "Duramboros Braces",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7046,6 +7471,7 @@
   {
     "_id": 1442271,
     "name": "Duramboros Guards",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -7058,6 +7484,7 @@
   {
     "_id": 1442272,
     "name": "Tigrex Braces S",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -7078,6 +7505,7 @@
   {
     "_id": 1442273,
     "name": "Tigrex Guards S",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -7098,6 +7526,7 @@
   {
     "_id": 1442274,
     "name": "EX Tigrex Braces",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -7118,6 +7547,7 @@
   {
     "_id": 1442275,
     "name": "EX Tigrex Guards",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -7138,6 +7568,7 @@
   {
     "_id": 1442276,
     "name": "Tigrex Braces R",
+    "num_slots": 2,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -7154,6 +7585,7 @@
   {
     "_id": 1442277,
     "name": "Tigrex Guards R",
+    "num_slots": 2,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -7170,6 +7602,7 @@
   {
     "_id": 1442278,
     "name": "Kirin Longarms S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -7190,6 +7623,7 @@
   {
     "_id": 1442279,
     "name": "Kirin Gloves S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -7210,6 +7644,7 @@
   {
     "_id": 1442280,
     "name": "Kirin Longarms R",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -7222,6 +7657,7 @@
   {
     "_id": 1442281,
     "name": "Kirin Gloves R",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -7234,6 +7670,7 @@
   {
     "_id": 1442282,
     "name": "Brachydios Braces S",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -7250,6 +7687,7 @@
   {
     "_id": 1442283,
     "name": "Brachydios Guards S",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -7266,6 +7704,7 @@
   {
     "_id": 1442284,
     "name": "EX Brachydios Braces",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7282,6 +7721,7 @@
   {
     "_id": 1442285,
     "name": "EX Brachydios Guards",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -7298,6 +7738,7 @@
   {
     "_id": 1442286,
     "name": "Golden Kote",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7318,6 +7759,7 @@
   {
     "_id": 1442287,
     "name": "Puppeteer Gloves",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -7338,6 +7780,7 @@
   {
     "_id": 1442288,
     "name": "Vangis Vambraces",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7358,6 +7801,7 @@
   {
     "_id": 1442289,
     "name": "Vangis Guards",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -7378,6 +7822,7 @@
   {
     "_id": 1442290,
     "name": "Guild Knight Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7394,6 +7839,7 @@
   {
     "_id": 1442291,
     "name": "Guild Knight Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7410,6 +7856,7 @@
   {
     "_id": 1442292,
     "name": "Maiden's Gloves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7426,6 +7873,7 @@
   {
     "_id": 1442293,
     "name": "French Maid Sleeves S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7442,6 +7890,7 @@
   {
     "_id": 1442294,
     "name": "Blue Guild Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7458,6 +7907,7 @@
   {
     "_id": 1442295,
     "name": "Blue Guild Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7474,6 +7924,7 @@
   {
     "_id": 1442296,
     "name": "Red Guild Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7490,6 +7941,7 @@
   {
     "_id": 1442297,
     "name": "Red Guild Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7506,6 +7958,7 @@
   {
     "_id": 1442298,
     "name": "Helper Sleeves S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7522,6 +7975,7 @@
   {
     "_id": 1442299,
     "name": "Healer Sleeves S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7538,6 +7992,7 @@
   {
     "_id": 1442300,
     "name": "Helper Sleeves U",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7558,6 +8013,7 @@
   {
     "_id": 1442301,
     "name": "Healer Sleeves U",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7578,6 +8034,7 @@
   {
     "_id": 1442302,
     "name": "Guild Bard Braces S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7594,6 +8051,7 @@
   {
     "_id": 1442303,
     "name": "Guild Bard Sleeves S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7610,6 +8068,7 @@
   {
     "_id": 1442307,
     "name": "Dianthus Wealsleeves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7630,6 +8089,7 @@
   {
     "_id": 1442308,
     "name": "Campanile Wealsleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7650,6 +8110,7 @@
   {
     "_id": 1442309,
     "name": "Ace Vambraces",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7670,6 +8131,7 @@
   {
     "_id": 1442310,
     "name": "Ace Guards",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7690,6 +8152,7 @@
   {
     "_id": 1442311,
     "name": "Sororal Vambraces",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7710,6 +8173,7 @@
   {
     "_id": 1442312,
     "name": "Sororal Guards",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7730,6 +8194,7 @@
   {
     "_id": 1442313,
     "name": "Hawkbraces",
+    "num_slots": 0,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7750,6 +8215,7 @@
   {
     "_id": 1442314,
     "name": "Hawkguards",
+    "num_slots": 0,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7770,6 +8236,7 @@
   {
     "_id": 1442315,
     "name": "Gourmew Gloves S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -7786,6 +8253,7 @@
   {
     "_id": 1442316,
     "name": "Gourmew Mitts S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -7802,6 +8270,7 @@
   {
     "_id": 1442318,
     "name": "Scholarly Grips S",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -7818,6 +8287,7 @@
   {
     "_id": 1442319,
     "name": "Scholarly Cuffs S",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -7834,6 +8304,7 @@
   {
     "_id": 1442320,
     "name": "Ranger's Gauntlets",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -7854,6 +8325,7 @@
   {
     "_id": 1442321,
     "name": "Archer's Gauntlets",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -7874,6 +8346,7 @@
   {
     "_id": 1442322,
     "name": "Shinobi Heaven Kote",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -7890,6 +8363,7 @@
   {
     "_id": 1442323,
     "name": "Shinobi Land Kote",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -7906,6 +8380,7 @@
   {
     "_id": 1442324,
     "name": "Shinobi Sky Kote",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -7922,6 +8397,7 @@
   {
     "_id": 1442325,
     "name": "Shinobi Sea Kote",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -7938,6 +8414,7 @@
   {
     "_id": 1442326,
     "name": "Ancient Arms",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7958,6 +8435,7 @@
   {
     "_id": 1442327,
     "name": "Ancient Guards",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -7978,6 +8456,7 @@
   {
     "_id": 1442328,
     "name": "Master's Gauntlets",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -7998,6 +8477,7 @@
   {
     "_id": 1442329,
     "name": "Master's Guards",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8018,6 +8498,7 @@
   {
     "_id": 1442330,
     "name": "Black Claw S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -8038,6 +8519,7 @@
   {
     "_id": 1442331,
     "name": "Black Fist S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8058,6 +8540,7 @@
   {
     "_id": 1442332,
     "name": "Toka Kote",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -8078,6 +8561,7 @@
   {
     "_id": 1442333,
     "name": "Mitsuaoi Kote",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8098,6 +8582,7 @@
   {
     "_id": 1442334,
     "name": "EX Rathian Braces S",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8118,6 +8603,7 @@
   {
     "_id": 1442335,
     "name": "EX Rathian Guards S",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8138,6 +8624,7 @@
   {
     "_id": 1442336,
     "name": "EX Rathalos Braces S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8158,6 +8645,7 @@
   {
     "_id": 1442337,
     "name": "EX Rathalos Guards S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8178,6 +8666,7 @@
   {
     "_id": 1442338,
     "name": "EX Tigrex Braces S",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8198,6 +8687,7 @@
   {
     "_id": 1442339,
     "name": "EX Tigrex Guards S",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8218,6 +8708,7 @@
   {
     "_id": 1442340,
     "name": "Arc Vambraces S",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -8238,6 +8729,7 @@
   {
     "_id": 1442341,
     "name": "Storge Braces S",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -8258,6 +8750,7 @@
   {
     "_id": 1442342,
     "name": "Arc Guards S",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -8278,6 +8771,7 @@
   {
     "_id": 1442343,
     "name": "Storge Guards S",
+    "num_slots": 2,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -8298,6 +8792,7 @@
   {
     "_id": 1442344,
     "name": "EX Arc Vambraces",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -8318,6 +8813,7 @@
   {
     "_id": 1442345,
     "name": "EX Storge Vambraces",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -8338,6 +8834,7 @@
   {
     "_id": 1442346,
     "name": "EX Arc Guards",
+    "num_slots": 2,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -8358,6 +8855,7 @@
   {
     "_id": 1442347,
     "name": "EX Storge Guards",
+    "num_slots": 2,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -8378,6 +8876,7 @@
   {
     "_id": 1442348,
     "name": "Arc Braces R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8390,6 +8889,7 @@
   {
     "_id": 1442349,
     "name": "Storge Braces R",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8402,6 +8902,7 @@
   {
     "_id": 1442350,
     "name": "Arc Guards R",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8414,6 +8915,7 @@
   {
     "_id": 1442351,
     "name": "Storge Guards R",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8426,6 +8928,7 @@
   {
     "_id": 1442352,
     "name": "Kushala Grip S",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -8446,6 +8949,7 @@
   {
     "_id": 1442353,
     "name": "Kushala Embrace S",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -8466,6 +8970,7 @@
   {
     "_id": 1442354,
     "name": "EX Kushala Grip",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -8486,6 +8991,7 @@
   {
     "_id": 1442355,
     "name": "EX Kushala Embrace",
+    "num_slots": 1,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -8506,6 +9012,7 @@
   {
     "_id": 1442356,
     "name": "Kushala Grip R",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -8522,6 +9029,7 @@
   {
     "_id": 1442357,
     "name": "Kushala Embrace R",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -8538,6 +9046,7 @@
   {
     "_id": 1442358,
     "name": "Mizuha Sleeves S",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -8558,6 +9067,7 @@
   {
     "_id": 1442359,
     "name": "Cham Sleeves S",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -8578,6 +9088,7 @@
   {
     "_id": 1442360,
     "name": "EX Mizuha Sleeves",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -8598,6 +9109,7 @@
   {
     "_id": 1442361,
     "name": "EX Cham Sleeves",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -8618,6 +9130,7 @@
   {
     "_id": 1442362,
     "name": "Kaiser Vambraces S",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -8638,6 +9151,7 @@
   {
     "_id": 1442363,
     "name": "Kaiser Guards S",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8658,6 +9172,7 @@
   {
     "_id": 1442364,
     "name": "EX Kaiser Vambraces",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -8678,6 +9193,7 @@
   {
     "_id": 1442365,
     "name": "EX Kaiser Guards",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -8698,6 +9214,7 @@
   {
     "_id": 1442366,
     "name": "Silver Solbraces",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -8718,6 +9235,7 @@
   {
     "_id": 1442367,
     "name": "Silver Solguards",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8738,6 +9256,7 @@
   {
     "_id": 1442368,
     "name": "EX Silver Solbraces",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -8758,6 +9277,7 @@
   {
     "_id": 1442369,
     "name": "EX Silver Solguards",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -8778,6 +9298,7 @@
   {
     "_id": 1442370,
     "name": "Silver Solbraces R",
+    "num_slots": 0,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -8794,6 +9315,7 @@
   {
     "_id": 1442371,
     "name": "Silver Solguards R",
+    "num_slots": 0,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -8810,6 +9332,7 @@
   {
     "_id": 1442372,
     "name": "Golden Lunebraces",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -8830,6 +9353,7 @@
   {
     "_id": 1442373,
     "name": "Golden Luneguards",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -8846,6 +9370,7 @@
   {
     "_id": 1442374,
     "name": "EX Golden Lunebraces",
+    "num_slots": 0,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -8866,6 +9391,7 @@
   {
     "_id": 1442375,
     "name": "EX Golden Luneguards",
+    "num_slots": 0,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -8886,6 +9412,7 @@
   {
     "_id": 1442376,
     "name": "Divine Ire Kote",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -8906,6 +9433,7 @@
   {
     "_id": 1442377,
     "name": "Crusher Braces",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -8926,6 +9454,7 @@
   {
     "_id": 1442378,
     "name": "Esurient Vambraces",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -8946,6 +9475,7 @@
   {
     "_id": 1442379,
     "name": "Esurient Guards",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -8966,6 +9496,7 @@
   {
     "_id": 1442380,
     "name": "Esurient Braces R",
+    "num_slots": 3,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -8978,6 +9509,7 @@
   {
     "_id": 1442381,
     "name": "Esurient Guards R",
+    "num_slots": 3,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -8990,6 +9522,7 @@
   {
     "_id": 1442382,
     "name": "Akantor Claws",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -9010,6 +9543,7 @@
   {
     "_id": 1442383,
     "name": "Akantor Gauntlets",
+    "num_slots": 0,
     "max_defense": 73,
     "sub_type": "Arms",
     "skills": [
@@ -9030,6 +9564,7 @@
   {
     "_id": 1442384,
     "name": "Akantor Claws R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -9050,6 +9585,7 @@
   {
     "_id": 1442385,
     "name": "Akantor Gauntlets R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -9070,6 +9606,7 @@
   {
     "_id": 1442386,
     "name": "Ukanlos Claws",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -9090,6 +9627,7 @@
   {
     "_id": 1442387,
     "name": "Ukanlos Gauntlets",
+    "num_slots": 0,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -9110,6 +9648,7 @@
   {
     "_id": 1442388,
     "name": "Tempest Sleeves",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -9130,6 +9669,7 @@
   {
     "_id": 1442389,
     "name": "Welkin Sleeves",
+    "num_slots": 0,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -9150,6 +9690,7 @@
   {
     "_id": 1442390,
     "name": "Tempest Sleeves R",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -9170,6 +9711,7 @@
   {
     "_id": 1442391,
     "name": "Welkin Sleeves R",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -9190,6 +9732,7 @@
   {
     "_id": 1442392,
     "name": "Skeletal Humerus R",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -9210,6 +9753,7 @@
   {
     "_id": 1442393,
     "name": "Decayed Humerus R",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -9230,6 +9774,7 @@
   {
     "_id": 1442394,
     "name": "Astral Vambraces",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -9250,6 +9795,7 @@
   {
     "_id": 1442395,
     "name": "Astral Guards",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -9270,6 +9816,7 @@
   {
     "_id": 1442396,
     "name": "Escadora Armguards",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -9290,6 +9837,7 @@
   {
     "_id": 1442397,
     "name": "Escadora Arma",
+    "num_slots": 0,
     "max_defense": 74,
     "sub_type": "Arms",
     "skills": [
@@ -9310,6 +9858,7 @@
   {
     "_id": 1442398,
     "name": "Escadora Armguards R",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -9326,6 +9875,7 @@
   {
     "_id": 1442399,
     "name": "Escadora Arma R",
+    "num_slots": 1,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -9342,6 +9892,7 @@
   {
     "_id": 1442400,
     "name": "Caravaneer's Armlets",
+    "num_slots": 0,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -9354,6 +9905,7 @@
   {
     "_id": 1442407,
     "name": "Strange Vambraces",
+    "num_slots": 0,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -9374,6 +9926,7 @@
   {
     "_id": 1442408,
     "name": "Strange Guards",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -9394,6 +9947,7 @@
   {
     "_id": 1442409,
     "name": "Redhelm Vambraces",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -9418,6 +9972,7 @@
   {
     "_id": 1442410,
     "name": "Redhelm Guards",
+    "num_slots": 0,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -9442,6 +9997,7 @@
   {
     "_id": 1442411,
     "name": "Snowbaron Vambraces",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -9466,6 +10022,7 @@
   {
     "_id": 1442412,
     "name": "Snowbaron Guards",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -9490,6 +10047,7 @@
   {
     "_id": 1442413,
     "name": "Stonefist Vambraces",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -9514,6 +10072,7 @@
   {
     "_id": 1442414,
     "name": "Stonefist Guards",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -9538,6 +10097,7 @@
   {
     "_id": 1442415,
     "name": "Dreadqueen Braces",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -9562,6 +10122,7 @@
   {
     "_id": 1442416,
     "name": "Dreadqueen Guards",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -9586,6 +10147,7 @@
   {
     "_id": 1442417,
     "name": "Drilltusk Braces",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -9610,6 +10172,7 @@
   {
     "_id": 1442418,
     "name": "Drilltusk Guards",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -9634,6 +10197,7 @@
   {
     "_id": 1442419,
     "name": "Silverwind Braces",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -9658,6 +10222,7 @@
   {
     "_id": 1442420,
     "name": "Silverwind Guards",
+    "num_slots": 0,
     "max_defense": 92,
     "sub_type": "Arms",
     "skills": [
@@ -9682,6 +10247,7 @@
   {
     "_id": 1442421,
     "name": "Crystalbeard Braces",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Arms",
     "skills": [
@@ -9706,6 +10272,7 @@
   {
     "_id": 1442422,
     "name": "Crystalbeard Guards",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -9730,6 +10297,7 @@
   {
     "_id": 1442423,
     "name": "Deadeye Vambraces",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Arms",
     "skills": [
@@ -9754,6 +10322,7 @@
   {
     "_id": 1442424,
     "name": "Deadeye Guards",
+    "num_slots": 0,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -9778,6 +10347,7 @@
   {
     "_id": 1442425,
     "name": "Dreadking Braces",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -9802,6 +10372,7 @@
   {
     "_id": 1442426,
     "name": "Dreadking Guards",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -9826,6 +10397,7 @@
   {
     "_id": 1442427,
     "name": "Thunderlord Braces",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Arms",
     "skills": [
@@ -9850,6 +10422,7 @@
   {
     "_id": 1442428,
     "name": "Thunderlord Guards",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -9874,6 +10447,7 @@
   {
     "_id": 1442429,
     "name": "Grimclaw Braces",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Arms",
     "skills": [
@@ -9898,6 +10472,7 @@
   {
     "_id": 1442430,
     "name": "Grimclaw Guards",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -9922,6 +10497,7 @@
   {
     "_id": 1442431,
     "name": "Hellblade Braces",
+    "num_slots": 0,
     "max_defense": 178,
     "sub_type": "Arms",
     "skills": [
@@ -9946,6 +10522,7 @@
   {
     "_id": 1442432,
     "name": "Hellblade Guards",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -9970,6 +10547,7 @@
   {
     "_id": 1442452,
     "name": "Champion's Wraps",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -9990,6 +10568,7 @@
   {
     "_id": 1442453,
     "name": "Strongman's Wraps",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -10010,6 +10589,7 @@
   {
     "_id": 1442454,
     "name": "Zodias Vambraces",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -10030,6 +10610,7 @@
   {
     "_id": 1442455,
     "name": "Zodias Guards",
+    "num_slots": 1,
     "max_defense": 70,
     "sub_type": "Arms",
     "skills": [
@@ -10050,6 +10631,7 @@
   {
     "_id": 1442456,
     "name": "Pirate Gloves J",
+    "num_slots": 0,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -10070,6 +10652,7 @@
   {
     "_id": 1442457,
     "name": "Pirate Cuffs J",
+    "num_slots": 0,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -10090,6 +10673,7 @@
   {
     "_id": 1442458,
     "name": "Buccaneer Gloves J",
+    "num_slots": 3,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -10110,6 +10694,7 @@
   {
     "_id": 1442459,
     "name": "Buccaneer Cuffs J",
+    "num_slots": 3,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -10130,6 +10715,7 @@
   {
     "_id": 1442460,
     "name": "Dynaqlo Glovelettes",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -10150,6 +10736,7 @@
   {
     "_id": 1442461,
     "name": "Dynaqlo Gloves",
+    "num_slots": 1,
     "max_defense": 63,
     "sub_type": "Arms",
     "skills": [
@@ -10170,6 +10757,7 @@
   {
     "_id": 1442474,
     "name": "Hero's Braces",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -10190,6 +10778,7 @@
   {
     "_id": 1442475,
     "name": "Hero's Gloves",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -10210,6 +10799,7 @@
   {
     "_id": 1442476,
     "name": "Varia Suit Guards",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -10230,6 +10820,7 @@
   {
     "_id": 1442477,
     "name": "Varia Suit Shield",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -10250,6 +10841,7 @@
   {
     "_id": 1442478,
     "name": "Zero Suit Gloves",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -10270,6 +10862,7 @@
   {
     "_id": 1442479,
     "name": "Zero Suit Hands",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -10290,6 +10883,7 @@
   {
     "_id": 1442480,
     "name": "Braces of Rage",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -10310,6 +10904,7 @@
   {
     "_id": 1442481,
     "name": "Guards of Rage",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -10330,6 +10925,7 @@
   {
     "_id": 1442482,
     "name": "Braces of Anat",
+    "num_slots": 0,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -10350,6 +10946,7 @@
   {
     "_id": 1442483,
     "name": "Guards of Anat",
+    "num_slots": 0,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -10370,6 +10967,7 @@
   {
     "_id": 1442486,
     "name": "Mosgharl Creeper",
+    "num_slots": 1,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -10386,6 +10984,7 @@
   {
     "_id": 1442487,
     "name": "Mosgharl Tendril",
+    "num_slots": 1,
     "max_defense": 32,
     "sub_type": "Arms",
     "skills": [
@@ -10402,6 +11001,7 @@
   {
     "_id": 1442492,
     "name": "Leather Guards S",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -10418,6 +11018,7 @@
   {
     "_id": 1442493,
     "name": "Chainmail Guards S",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -10434,6 +11035,7 @@
   {
     "_id": 1442494,
     "name": "Mosgharl Creeper S",
+    "num_slots": 1,
     "max_defense": 112,
     "sub_type": "Arms",
     "skills": [
@@ -10450,6 +11052,7 @@
   {
     "_id": 1442495,
     "name": "Mosgharl Tendril S",
+    "num_slots": 1,
     "max_defense": 56,
     "sub_type": "Arms",
     "skills": [
@@ -10466,6 +11069,7 @@
   {
     "_id": 1442498,
     "name": "Blue Guild Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -10482,6 +11086,7 @@
   {
     "_id": 1442499,
     "name": "Blue Guild Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -10498,6 +11103,7 @@
   {
     "_id": 1442500,
     "name": "Red Guild Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -10514,6 +11120,7 @@
   {
     "_id": 1442501,
     "name": "Red Guild Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -10530,6 +11137,7 @@
   {
     "_id": 1442502,
     "name": "Gourmew Gloves S",
+    "num_slots": 0,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -10546,6 +11154,7 @@
   {
     "_id": 1442503,
     "name": "Gourmew Mitts S",
+    "num_slots": 0,
     "max_defense": 64,
     "sub_type": "Arms",
     "skills": [
@@ -10562,6 +11171,7 @@
   {
     "_id": 1442510,
     "name": "Conga Vambraces",
+    "num_slots": 1,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -10582,6 +11192,7 @@
   {
     "_id": 1442511,
     "name": "Conga Guards",
+    "num_slots": 1,
     "max_defense": 54,
     "sub_type": "Arms",
     "skills": [
@@ -10602,6 +11213,7 @@
   {
     "_id": 1442512,
     "name": "Giaprey Claws",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -10618,6 +11230,7 @@
   {
     "_id": 1442513,
     "name": "Giaprey Gloves",
+    "num_slots": 0,
     "max_defense": 52,
     "sub_type": "Arms",
     "skills": [
@@ -10634,6 +11247,7 @@
   {
     "_id": 1442514,
     "name": "Barroth Vambraces",
+    "num_slots": 2,
     "max_defense": 110,
     "sub_type": "Arms",
     "skills": [
@@ -10650,6 +11264,7 @@
   {
     "_id": 1442515,
     "name": "Barroth Guards",
+    "num_slots": 2,
     "max_defense": 55,
     "sub_type": "Arms",
     "skills": [
@@ -10666,6 +11281,7 @@
   {
     "_id": 1442516,
     "name": "Basarios Vambraces",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -10678,6 +11294,7 @@
   {
     "_id": 1442517,
     "name": "Basarios Guards",
+    "num_slots": 1,
     "max_defense": 59,
     "sub_type": "Arms",
     "skills": [
@@ -10690,6 +11307,7 @@
   {
     "_id": 1442518,
     "name": "Nerscylla Vambraces",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -10710,6 +11328,7 @@
   {
     "_id": 1442519,
     "name": "Nerscylla Guards",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -10730,6 +11349,7 @@
   {
     "_id": 1442520,
     "name": "Barioth Vambraces",
+    "num_slots": 1,
     "max_defense": 124,
     "sub_type": "Arms",
     "skills": [
@@ -10754,6 +11374,7 @@
   {
     "_id": 1442521,
     "name": "Barioth Guards",
+    "num_slots": 1,
     "max_defense": 62,
     "sub_type": "Arms",
     "skills": [
@@ -10778,6 +11399,7 @@
   {
     "_id": 1442522,
     "name": "Gravios Vambraces",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -10794,6 +11416,7 @@
   {
     "_id": 1442523,
     "name": "Gravios Guards",
+    "num_slots": 2,
     "max_defense": 65,
     "sub_type": "Arms",
     "skills": [
@@ -10810,6 +11433,7 @@
   {
     "_id": 1442524,
     "name": "Cheerful Braces",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -10826,6 +11450,7 @@
   {
     "_id": 1442525,
     "name": "Cheerful Guards",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -10842,6 +11467,7 @@
   {
     "_id": 1442526,
     "name": "Mariner Gloves",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -10862,6 +11488,7 @@
   {
     "_id": 1442527,
     "name": "Mariner Sleeves",
+    "num_slots": 1,
     "max_defense": 61,
     "sub_type": "Arms",
     "skills": [
@@ -10882,6 +11509,7 @@
   {
     "_id": 1442530,
     "name": "Diablos Vambraces",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -10898,6 +11526,7 @@
   {
     "_id": 1442531,
     "name": "Diablos Guards",
+    "num_slots": 1,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -10914,6 +11543,7 @@
   {
     "_id": 1442532,
     "name": "Diablos Vambraces R",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -10934,6 +11564,7 @@
   {
     "_id": 1442533,
     "name": "Diablos Guards R",
+    "num_slots": 1,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
@@ -10954,6 +11585,7 @@
   {
     "_id": 1442534,
     "name": "Valstrax Braces",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -10978,6 +11610,7 @@
   {
     "_id": 1442535,
     "name": "Valstrax Guards",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -11002,6 +11635,7 @@
   {
     "_id": 1442536,
     "name": "Wisdom Sleeves",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -11026,6 +11660,7 @@
   {
     "_id": 1442537,
     "name": "Wisdom Cuffs",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -11050,6 +11685,7 @@
   {
     "_id": 1442543,
     "name": "Bherna Braces X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -11066,6 +11702,7 @@
   {
     "_id": 1442544,
     "name": "Bherna Guards X",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -11082,6 +11719,7 @@
   {
     "_id": 1442545,
     "name": "Hunting Braces X",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -11098,6 +11736,7 @@
   {
     "_id": 1442546,
     "name": "Hunting Guards X",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -11114,6 +11753,7 @@
   {
     "_id": 1442547,
     "name": "Mafumofu Grips X",
+    "num_slots": 2,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -11134,6 +11774,7 @@
   {
     "_id": 1442548,
     "name": "Mafumofu Mittens X",
+    "num_slots": 2,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -11154,6 +11795,7 @@
   {
     "_id": 1442549,
     "name": "Yukumo Sky Kote Goku",
+    "num_slots": 1,
     "max_defense": 122,
     "sub_type": "Arms",
     "skills": [
@@ -11170,6 +11812,7 @@
   {
     "_id": 1442550,
     "name": "Yukumo Land Kote Goku",
+    "num_slots": 1,
     "max_defense": 71,
     "sub_type": "Arms",
     "skills": [
@@ -11186,6 +11829,7 @@
   {
     "_id": 1442555,
     "name": "Velociprey Claws X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -11202,6 +11846,7 @@
   {
     "_id": 1442556,
     "name": "Velociprey Gloves X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Arms",
     "skills": [
@@ -11218,6 +11863,7 @@
   {
     "_id": 1442557,
     "name": "Genprey Claws X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -11234,6 +11880,7 @@
   {
     "_id": 1442558,
     "name": "Genprey Gloves X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Arms",
     "skills": [
@@ -11250,6 +11897,7 @@
   {
     "_id": 1442559,
     "name": "Ioprey Claws X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -11266,6 +11914,7 @@
   {
     "_id": 1442560,
     "name": "Ioprey Gloves X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Arms",
     "skills": [
@@ -11282,6 +11931,7 @@
   {
     "_id": 1442561,
     "name": "Remobra Gloves X",
+    "num_slots": 1,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -11298,6 +11948,7 @@
   {
     "_id": 1442562,
     "name": "Remobra Hands X",
+    "num_slots": 1,
     "max_defense": 75,
     "sub_type": "Arms",
     "skills": [
@@ -11314,6 +11965,7 @@
   {
     "_id": 1442563,
     "name": "Trapper's Gauntlets X",
+    "num_slots": 1,
     "max_defense": 128,
     "sub_type": "Arms",
     "skills": [
@@ -11326,6 +11978,7 @@
   {
     "_id": 1442564,
     "name": "Trapper's Gloves X",
+    "num_slots": 1,
     "max_defense": 76,
     "sub_type": "Arms",
     "skills": [
@@ -11338,6 +11991,7 @@
   {
     "_id": 1442565,
     "name": "Mosswine Gloves X",
+    "num_slots": 1,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -11354,6 +12008,7 @@
   {
     "_id": 1442566,
     "name": "Rhenoplos Braces X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -11366,6 +12021,7 @@
   {
     "_id": 1442567,
     "name": "Rhenoplos Guards X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Arms",
     "skills": [
@@ -11378,6 +12034,7 @@
   {
     "_id": 1442568,
     "name": "Jaggi Vambraces X",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -11398,6 +12055,7 @@
   {
     "_id": 1442569,
     "name": "Jaggi Guards X",
+    "num_slots": 2,
     "max_defense": 79,
     "sub_type": "Arms",
     "skills": [
@@ -11418,6 +12076,7 @@
   {
     "_id": 1442576,
     "name": "Maccao Braces X",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -11434,6 +12093,7 @@
   {
     "_id": 1442577,
     "name": "Maccao Guards X",
+    "num_slots": 2,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -11450,6 +12110,7 @@
   {
     "_id": 1442578,
     "name": "Velociprey Braces X",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -11470,6 +12131,7 @@
   {
     "_id": 1442579,
     "name": "Velociprey Guards X",
+    "num_slots": 2,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -11490,6 +12152,7 @@
   {
     "_id": 1442580,
     "name": "Giaprey Braces X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -11510,6 +12173,7 @@
   {
     "_id": 1442581,
     "name": "Giaprey Guards X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -11530,6 +12194,7 @@
   {
     "_id": 1442582,
     "name": "Genprey Vambraces X",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -11550,6 +12215,7 @@
   {
     "_id": 1442583,
     "name": "Genprey Guards X",
+    "num_slots": 1,
     "max_defense": 81,
     "sub_type": "Arms",
     "skills": [
@@ -11570,6 +12236,7 @@
   {
     "_id": 1442584,
     "name": "Ioprey Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -11590,6 +12257,7 @@
   {
     "_id": 1442585,
     "name": "Ioprey Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -11610,6 +12278,7 @@
   {
     "_id": 1442586,
     "name": "Vespoid Vambraces X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -11626,6 +12295,7 @@
   {
     "_id": 1442587,
     "name": "Vespoid Guards X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Arms",
     "skills": [
@@ -11642,6 +12312,7 @@
   {
     "_id": 1442588,
     "name": "Hornetaur Braces X",
+    "num_slots": 2,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -11658,6 +12329,7 @@
   {
     "_id": 1442589,
     "name": "Hornetaur Guards X",
+    "num_slots": 2,
     "max_defense": 84,
     "sub_type": "Arms",
     "skills": [
@@ -11674,6 +12346,7 @@
   {
     "_id": 1442590,
     "name": "Bnahabra Gloves X",
+    "num_slots": 2,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -11690,6 +12363,7 @@
   {
     "_id": 1442591,
     "name": "Bnahabra Sleeves X",
+    "num_slots": 2,
     "max_defense": 81,
     "sub_type": "Arms",
     "skills": [
@@ -11706,6 +12380,7 @@
   {
     "_id": 1442592,
     "name": "Konchu Vambraces X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -11726,6 +12401,7 @@
   {
     "_id": 1442593,
     "name": "Konchu Guards X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Arms",
     "skills": [
@@ -11746,6 +12422,7 @@
   {
     "_id": 1442594,
     "name": "Bulldrome Braces X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -11758,6 +12435,7 @@
   {
     "_id": 1442595,
     "name": "Bulldrome Guards X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Arms",
     "skills": [
@@ -11770,6 +12448,7 @@
   {
     "_id": 1442597,
     "name": "Arzuros Vambraces X",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -11790,6 +12469,7 @@
   {
     "_id": 1442598,
     "name": "Arzuros Guards X",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -11810,6 +12490,7 @@
   {
     "_id": 1442599,
     "name": "Cephalos Vambraces X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -11826,6 +12507,7 @@
   {
     "_id": 1442600,
     "name": "Cephalos Guards X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -11842,6 +12524,7 @@
   {
     "_id": 1442601,
     "name": "Kut-Ku Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -11854,6 +12537,7 @@
   {
     "_id": 1442602,
     "name": "Kut-Ku Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -11866,6 +12550,7 @@
   {
     "_id": 1442603,
     "name": "Kecha Braces X",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -11890,6 +12575,7 @@
   {
     "_id": 1442604,
     "name": "Kecha Guards X",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -11914,6 +12600,7 @@
   {
     "_id": 1442605,
     "name": "Lagombi Vambraces X",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -11934,6 +12621,7 @@
   {
     "_id": 1442606,
     "name": "Lagombi Guards X",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Arms",
     "skills": [
@@ -11954,6 +12642,7 @@
   {
     "_id": 1442607,
     "name": "Gypceros Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -11974,6 +12663,7 @@
   {
     "_id": 1442608,
     "name": "Gypceros Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -11994,6 +12684,7 @@
   {
     "_id": 1442609,
     "name": "Tetsucabra Braces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12010,6 +12701,7 @@
   {
     "_id": 1442610,
     "name": "Tetsucabra Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12026,6 +12718,7 @@
   {
     "_id": 1442611,
     "name": "Hermitaur Braces X",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -12046,6 +12739,7 @@
   {
     "_id": 1442612,
     "name": "Hermitaur Guards X",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -12066,6 +12760,7 @@
   {
     "_id": 1442613,
     "name": "Ludroth Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12086,6 +12781,7 @@
   {
     "_id": 1442614,
     "name": "Ludroth Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12106,6 +12802,7 @@
   {
     "_id": 1442615,
     "name": "Gourmew Gloves X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -12126,6 +12823,7 @@
   {
     "_id": 1442616,
     "name": "Gourmew Mitts X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -12146,6 +12844,7 @@
   {
     "_id": 1442617,
     "name": "Gourmew Gloves X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -12166,6 +12865,7 @@
   {
     "_id": 1442618,
     "name": "Gourmew Mitts X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -12186,6 +12886,7 @@
   {
     "_id": 1442619,
     "name": "Moofah Claws X",
+    "num_slots": 0,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -12206,6 +12907,7 @@
   {
     "_id": 1442620,
     "name": "Moofah Sleeves X",
+    "num_slots": 0,
     "max_defense": 79,
     "sub_type": "Arms",
     "skills": [
@@ -12226,6 +12928,7 @@
   {
     "_id": 1442621,
     "name": "Edel Creeper X",
+    "num_slots": 1,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -12242,6 +12945,7 @@
   {
     "_id": 1442622,
     "name": "Edel Tendril X",
+    "num_slots": 1,
     "max_defense": 79,
     "sub_type": "Arms",
     "skills": [
@@ -12258,6 +12962,7 @@
   {
     "_id": 1442625,
     "name": "Death Stench Grip X",
+    "num_slots": 2,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12270,6 +12975,7 @@
   {
     "_id": 1442626,
     "name": "Death Stench Grasp X",
+    "num_slots": 2,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12282,6 +12988,7 @@
   {
     "_id": 1442627,
     "name": "Skalda Brachia X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12302,6 +13009,7 @@
   {
     "_id": 1442628,
     "name": "Skalda Manus X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12322,6 +13030,7 @@
   {
     "_id": 1442629,
     "name": "Spio Brachia X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12342,6 +13051,7 @@
   {
     "_id": 1442630,
     "name": "Spio Manus X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12362,6 +13072,7 @@
   {
     "_id": 1442631,
     "name": "Hunter's Vambraces XR",
+    "num_slots": 0,
     "max_defense": 126,
     "sub_type": "Arms",
     "skills": [
@@ -12382,6 +13093,7 @@
   {
     "_id": 1442632,
     "name": "Hunter's Guards XR",
+    "num_slots": 0,
     "max_defense": 75,
     "sub_type": "Arms",
     "skills": [
@@ -12402,6 +13114,7 @@
   {
     "_id": 1442633,
     "name": "Volvidon Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12422,6 +13135,7 @@
   {
     "_id": 1442634,
     "name": "Volvidon Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12442,6 +13156,7 @@
   {
     "_id": 1442635,
     "name": "Conga Vambraces X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -12462,6 +13177,7 @@
   {
     "_id": 1442636,
     "name": "Conga Guards X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -12482,6 +13198,7 @@
   {
     "_id": 1442637,
     "name": "Barroth Vambraces X",
+    "num_slots": 2,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -12502,6 +13219,7 @@
   {
     "_id": 1442638,
     "name": "Barroth Guards X",
+    "num_slots": 2,
     "max_defense": 90,
     "sub_type": "Arms",
     "skills": [
@@ -12522,6 +13240,7 @@
   {
     "_id": 1442639,
     "name": "Basarios Vambraces X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -12538,6 +13257,7 @@
   {
     "_id": 1442640,
     "name": "Basarios Guards X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -12554,6 +13274,7 @@
   {
     "_id": 1442641,
     "name": "Malfestio Braces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12578,6 +13299,7 @@
   {
     "_id": 1442642,
     "name": "Malfestio Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12602,6 +13324,7 @@
   {
     "_id": 1442643,
     "name": "Zamtrios Braces X",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -12622,6 +13345,7 @@
   {
     "_id": 1442644,
     "name": "Zamtrios Guards X",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -12642,6 +13366,7 @@
   {
     "_id": 1442645,
     "name": "Khezu Vambraces X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -12658,6 +13383,7 @@
   {
     "_id": 1442646,
     "name": "Khezu Guards X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -12674,6 +13400,7 @@
   {
     "_id": 1442647,
     "name": "Nerscylla Braces X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -12694,6 +13421,7 @@
   {
     "_id": 1442648,
     "name": "Nerscylla Guards X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -12714,6 +13442,7 @@
   {
     "_id": 1442649,
     "name": "Rathian Vambraces X",
+    "num_slots": 0,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -12734,6 +13463,7 @@
   {
     "_id": 1442650,
     "name": "Rathian Guards X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -12754,6 +13484,7 @@
   {
     "_id": 1442651,
     "name": "Nibelsnarf Braces X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -12770,6 +13501,7 @@
   {
     "_id": 1442652,
     "name": "Nibelsnarf Guards X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -12786,6 +13518,7 @@
   {
     "_id": 1442653,
     "name": "Plesioth Vambraces X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -12810,6 +13543,7 @@
   {
     "_id": 1442654,
     "name": "Plesioth Guards X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -12834,6 +13568,7 @@
   {
     "_id": 1442655,
     "name": "Blango Vambraces X",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -12854,6 +13589,7 @@
   {
     "_id": 1442656,
     "name": "Blango Guards X",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -12874,6 +13610,7 @@
   {
     "_id": 1442657,
     "name": "Ceanataur Braces X",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -12890,6 +13627,7 @@
   {
     "_id": 1442658,
     "name": "Ceanataur Guards X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -12906,6 +13644,7 @@
   {
     "_id": 1442659,
     "name": "Najarala Braces X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -12926,6 +13665,7 @@
   {
     "_id": 1442660,
     "name": "Najarala Guards X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -12946,6 +13686,7 @@
   {
     "_id": 1442661,
     "name": "Nargacuga Braces X",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -12966,6 +13707,7 @@
   {
     "_id": 1442662,
     "name": "Nargacuga Guards X",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -12986,6 +13728,7 @@
   {
     "_id": 1442663,
     "name": "Gypceros Braces XR",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -13006,6 +13749,7 @@
   {
     "_id": 1442664,
     "name": "Gypceros Guards XR",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Arms",
     "skills": [
@@ -13026,6 +13770,7 @@
   {
     "_id": 1442665,
     "name": "Hermitaur Braces XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13042,6 +13787,7 @@
   {
     "_id": 1442666,
     "name": "Hermitaur Guards XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13058,6 +13804,7 @@
   {
     "_id": 1442667,
     "name": "Ludroth Braces XR",
+    "num_slots": 0,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -13074,6 +13821,7 @@
   {
     "_id": 1442668,
     "name": "Ludroth Guards XR",
+    "num_slots": 0,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -13090,6 +13838,7 @@
   {
     "_id": 1442669,
     "name": "Strange Vambraces X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -13114,6 +13863,7 @@
   {
     "_id": 1442670,
     "name": "Strange Guards X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -13138,6 +13888,7 @@
   {
     "_id": 1442673,
     "name": "Lecturer's Braces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13158,6 +13909,7 @@
   {
     "_id": 1442674,
     "name": "Lecturer's Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13178,6 +13930,7 @@
   {
     "_id": 1442675,
     "name": "Patissier's Gloves X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13198,6 +13951,7 @@
   {
     "_id": 1442676,
     "name": "Patissier's Mitts X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13218,6 +13972,7 @@
   {
     "_id": 1442677,
     "name": "Posh Bath Sleeves",
+    "num_slots": 2,
     "max_defense": 69,
     "sub_type": "Arms",
     "skills": [
@@ -13238,6 +13993,7 @@
   {
     "_id": 1442678,
     "name": "Maiden's Gloves X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13258,6 +14014,7 @@
   {
     "_id": 1442679,
     "name": "French Maid Sleeves X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13278,6 +14035,7 @@
   {
     "_id": 1442680,
     "name": "Dianthus Masasleeves",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13302,6 +14060,7 @@
   {
     "_id": 1442681,
     "name": "Campanile Masasleeves",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13326,6 +14085,7 @@
   {
     "_id": 1442682,
     "name": "Conga Vambraces GX",
+    "num_slots": 2,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -13346,6 +14106,7 @@
   {
     "_id": 1442683,
     "name": "Conga Guards GX",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -13366,6 +14127,7 @@
   {
     "_id": 1442684,
     "name": "Alloy Vambraces XR",
+    "num_slots": 0,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13378,6 +14140,7 @@
   {
     "_id": 1442685,
     "name": "Alloy Guards XR",
+    "num_slots": 0,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13390,6 +14153,7 @@
   {
     "_id": 1442686,
     "name": "Ingot Vambraces XR",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -13410,6 +14174,7 @@
   {
     "_id": 1442687,
     "name": "Ingot Guards XR",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -13430,6 +14195,7 @@
   {
     "_id": 1442688,
     "name": "Artian Vambraces X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -13446,6 +14212,7 @@
   {
     "_id": 1442689,
     "name": "Artian Guards X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -13462,6 +14229,7 @@
   {
     "_id": 1442690,
     "name": "Lobster Vambraces X",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13486,6 +14254,7 @@
   {
     "_id": 1442691,
     "name": "Lobster Guards X",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13510,6 +14279,7 @@
   {
     "_id": 1442692,
     "name": "Khezu Vambraces XR",
+    "num_slots": 1,
     "max_defense": 144,
     "sub_type": "Arms",
     "skills": [
@@ -13526,6 +14296,7 @@
   {
     "_id": 1442693,
     "name": "Khezu Guards XR",
+    "num_slots": 1,
     "max_defense": 88,
     "sub_type": "Arms",
     "skills": [
@@ -13542,6 +14313,7 @@
   {
     "_id": 1442694,
     "name": "Ceanataur Braces XR",
+    "num_slots": 0,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -13558,6 +14330,7 @@
   {
     "_id": 1442695,
     "name": "Ceanataur Guards XR",
+    "num_slots": 0,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -13574,6 +14347,7 @@
   {
     "_id": 1442696,
     "name": "Rathian Braces XR",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -13586,6 +14360,7 @@
   {
     "_id": 1442697,
     "name": "Rathian Guards XR",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Arms",
     "skills": [
@@ -13598,6 +14373,7 @@
   {
     "_id": 1442698,
     "name": "Lava Vambraces X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -13618,6 +14394,7 @@
   {
     "_id": 1442699,
     "name": "Lava Guards X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -13638,6 +14415,7 @@
   {
     "_id": 1442700,
     "name": "Garuga Vambraces X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -13662,6 +14440,7 @@
   {
     "_id": 1442701,
     "name": "Garuga Guards X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -13686,6 +14465,7 @@
   {
     "_id": 1442702,
     "name": "Uragaan Vambraces X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -13710,6 +14490,7 @@
   {
     "_id": 1442703,
     "name": "Uragaan Guards X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -13734,6 +14515,7 @@
   {
     "_id": 1442704,
     "name": "Barioth Vambraces X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -13758,6 +14540,7 @@
   {
     "_id": 1442705,
     "name": "Barioth Guards X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -13782,6 +14565,7 @@
   {
     "_id": 1442706,
     "name": "Seltas Vambraces X",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -13806,6 +14590,7 @@
   {
     "_id": 1442707,
     "name": "Seltas Guards X",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -13830,6 +14615,7 @@
   {
     "_id": 1442708,
     "name": "Rathalos Vambraces X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -13850,6 +14636,7 @@
   {
     "_id": 1442709,
     "name": "Rathalos Guards X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -13870,6 +14657,7 @@
   {
     "_id": 1442710,
     "name": "Lagiacrus Braces X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -13890,6 +14678,7 @@
   {
     "_id": 1442711,
     "name": "Lagiacrus Guards X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -13910,6 +14699,7 @@
   {
     "_id": 1442712,
     "name": "Zinogre Vambraces X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -13926,6 +14716,7 @@
   {
     "_id": 1442713,
     "name": "Zinogre Guards X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -13942,6 +14733,7 @@
   {
     "_id": 1442714,
     "name": "Gravios Vambraces X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -13962,6 +14754,7 @@
   {
     "_id": 1442715,
     "name": "Gravios Guards X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -13982,6 +14775,7 @@
   {
     "_id": 1442716,
     "name": "Mizutsune Braces X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14002,6 +14796,7 @@
   {
     "_id": 1442717,
     "name": "Mizutsune Guards X",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -14022,6 +14817,7 @@
   {
     "_id": 1442718,
     "name": "Astalos Braces X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14042,6 +14838,7 @@
   {
     "_id": 1442719,
     "name": "Astalos Guards X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14062,6 +14859,7 @@
   {
     "_id": 1442720,
     "name": "Gammoth Braces X",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -14078,6 +14876,7 @@
   {
     "_id": 1442721,
     "name": "Gammoth Guards X",
+    "num_slots": 2,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -14094,6 +14893,7 @@
   {
     "_id": 1442722,
     "name": "Glavenus Braces X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -14110,6 +14910,7 @@
   {
     "_id": 1442723,
     "name": "Glavenus Guards X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -14130,6 +14931,7 @@
   {
     "_id": 1442724,
     "name": "Gore Braces X",
+    "num_slots": 2,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -14142,6 +14944,7 @@
   {
     "_id": 1442725,
     "name": "Gore Guards X",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -14154,6 +14957,7 @@
   {
     "_id": 1442726,
     "name": "Kirin Longarms X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -14178,6 +14982,7 @@
   {
     "_id": 1442727,
     "name": "Kirin Gloves X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -14202,6 +15007,7 @@
   {
     "_id": 1442728,
     "name": "Kirin Longarms XR",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14214,6 +15020,7 @@
   {
     "_id": 1442729,
     "name": "Kirin Gloves XR",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14226,6 +15033,7 @@
   {
     "_id": 1442730,
     "name": "Auroros Gauntlets",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14246,6 +15054,7 @@
   {
     "_id": 1442731,
     "name": "Borealis Gauntlets",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14266,6 +15075,7 @@
   {
     "_id": 1442732,
     "name": "Genesis Gauntlets",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14286,6 +15096,7 @@
   {
     "_id": 1442733,
     "name": "Glyph Gauntlets",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14306,6 +15117,7 @@
   {
     "_id": 1442734,
     "name": "Auroros Gauntlets GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -14326,6 +15138,7 @@
   {
     "_id": 1442735,
     "name": "Borealis Gauntlets GX",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -14346,6 +15159,7 @@
   {
     "_id": 1442736,
     "name": "Genesis Gauntlets GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -14366,6 +15180,7 @@
   {
     "_id": 1442737,
     "name": "Glyph Gauntlets GX",
+    "num_slots": 0,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -14386,6 +15201,7 @@
   {
     "_id": 1442738,
     "name": "Auroros Gauntlets XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -14406,6 +15222,7 @@
   {
     "_id": 1442739,
     "name": "Borealis Gauntlets XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -14426,6 +15243,7 @@
   {
     "_id": 1442740,
     "name": "Genesis Gauntlets XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -14446,6 +15264,7 @@
   {
     "_id": 1442741,
     "name": "Glyph Gauntlets XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -14466,6 +15285,7 @@
   {
     "_id": 1442742,
     "name": "Scholar's Gloves X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14486,6 +15306,7 @@
   {
     "_id": 1442743,
     "name": "Scholar's Sleeves X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -14506,6 +15327,7 @@
   {
     "_id": 1442744,
     "name": "Sailor Gloves X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14526,6 +15348,7 @@
   {
     "_id": 1442745,
     "name": "Sailor Sleeves X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -14546,6 +15369,7 @@
   {
     "_id": 1442746,
     "name": "Hawkbraces X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14566,6 +15390,7 @@
   {
     "_id": 1442747,
     "name": "Hawkguards X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -14586,6 +15411,7 @@
   {
     "_id": 1442748,
     "name": "Scholarly Grips X",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14602,6 +15428,7 @@
   {
     "_id": 1442749,
     "name": "Scholarly Cuffs X",
+    "num_slots": 2,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -14618,6 +15445,7 @@
   {
     "_id": 1442750,
     "name": "Research Grips",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -14642,6 +15470,7 @@
   {
     "_id": 1442751,
     "name": "Research Cuffs",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -14666,6 +15495,7 @@
   {
     "_id": 1442752,
     "name": "Rathalos Braces XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -14678,6 +15508,7 @@
   {
     "_id": 1442753,
     "name": "Rathalos Guards XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -14690,6 +15521,7 @@
   {
     "_id": 1442754,
     "name": "Lagiacrus Braces XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -14706,6 +15538,7 @@
   {
     "_id": 1442755,
     "name": "Lagiacrus Guards XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -14722,6 +15555,7 @@
   {
     "_id": 1442756,
     "name": "Gore Braces XR",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -14734,6 +15568,7 @@
   {
     "_id": 1442757,
     "name": "Gore Guards XR",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -14746,6 +15581,7 @@
   {
     "_id": 1442758,
     "name": "Agnaktor Vambraces X",
+    "num_slots": 3,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -14762,6 +15598,7 @@
   {
     "_id": 1442759,
     "name": "Agnaktor Guards X",
+    "num_slots": 3,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -14778,6 +15615,7 @@
   {
     "_id": 1442760,
     "name": "Regios Vambraces X",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14798,6 +15636,7 @@
   {
     "_id": 1442761,
     "name": "Regios Guards X",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14818,6 +15657,7 @@
   {
     "_id": 1442762,
     "name": "Duramboros Braces X",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -14834,6 +15674,7 @@
   {
     "_id": 1442763,
     "name": "Duramboros Guards X",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -14850,6 +15691,7 @@
   {
     "_id": 1442764,
     "name": "Tigrex Vambraces X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -14870,6 +15712,7 @@
   {
     "_id": 1442765,
     "name": "Tigrex Guards X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -14890,6 +15733,7 @@
   {
     "_id": 1442766,
     "name": "Tigrex Braces XR",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -14906,6 +15750,7 @@
   {
     "_id": 1442767,
     "name": "Tigrex Guards XR",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -14922,6 +15767,7 @@
   {
     "_id": 1442768,
     "name": "Diablos Vambraces X",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -14942,6 +15788,7 @@
   {
     "_id": 1442769,
     "name": "Diablos Guards X",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -14962,6 +15809,7 @@
   {
     "_id": 1442770,
     "name": "Diablos Vambraces XR",
+    "num_slots": 2,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -14978,6 +15826,7 @@
   {
     "_id": 1442771,
     "name": "Diablos Guards XR",
+    "num_slots": 2,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -14994,6 +15843,7 @@
   {
     "_id": 1442772,
     "name": "Brachydios Braces X",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -15014,6 +15864,7 @@
   {
     "_id": 1442773,
     "name": "Brachydios Guards X",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -15034,6 +15885,7 @@
   {
     "_id": 1442774,
     "name": "Arc Vambraces X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15054,6 +15906,7 @@
   {
     "_id": 1442775,
     "name": "Storge Vambraces X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15074,6 +15927,7 @@
   {
     "_id": 1442776,
     "name": "Arc Guards X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15094,6 +15948,7 @@
   {
     "_id": 1442777,
     "name": "Storge Guards X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15114,6 +15969,7 @@
   {
     "_id": 1442778,
     "name": "Arc Vambraces XR",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -15126,6 +15982,7 @@
   {
     "_id": 1442779,
     "name": "Storge Braces XR",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -15138,6 +15995,7 @@
   {
     "_id": 1442780,
     "name": "Arc Guards XR",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -15150,6 +16008,7 @@
   {
     "_id": 1442781,
     "name": "Storge Guards XR",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -15162,6 +16021,7 @@
   {
     "_id": 1442782,
     "name": "Valstrax Braces X",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -15186,6 +16046,7 @@
   {
     "_id": 1442783,
     "name": "Valstrax Guards X",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -15210,6 +16071,7 @@
   {
     "_id": 1442784,
     "name": "Grand God's Peer Arms",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -15234,6 +16096,7 @@
   {
     "_id": 1442785,
     "name": "Grand Hermit Arms",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -15258,6 +16121,7 @@
   {
     "_id": 1442786,
     "name": "Vangis Vambraces X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -15278,6 +16142,7 @@
   {
     "_id": 1442787,
     "name": "Vangis Guards X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -15298,6 +16163,7 @@
   {
     "_id": 1442788,
     "name": "Kushala Grip X",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -15318,6 +16184,7 @@
   {
     "_id": 1442789,
     "name": "Kushala Embrace X",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -15338,6 +16205,7 @@
   {
     "_id": 1442790,
     "name": "Kushala Grip XR",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -15354,6 +16222,7 @@
   {
     "_id": 1442791,
     "name": "Kushala Embrace XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -15370,6 +16239,7 @@
   {
     "_id": 1442792,
     "name": "Grand Mizuha Sleeves",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -15390,6 +16260,7 @@
   {
     "_id": 1442793,
     "name": "Grand Cham Sleeves",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -15410,6 +16281,7 @@
   {
     "_id": 1442794,
     "name": "Kaiser Vambraces X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -15430,6 +16302,7 @@
   {
     "_id": 1442795,
     "name": "Kaiser Guards X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -15450,6 +16323,7 @@
   {
     "_id": 1442796,
     "name": "Silver Solbraces Z",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15470,6 +16344,7 @@
   {
     "_id": 1442797,
     "name": "Silver Solguards Z",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15490,6 +16365,7 @@
   {
     "_id": 1442798,
     "name": "Golden Lunebraces Z",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -15510,6 +16386,7 @@
   {
     "_id": 1442799,
     "name": "Golden Luneguards Z",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -15530,6 +16407,7 @@
   {
     "_id": 1442800,
     "name": "Yaksha Braces",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -15554,6 +16432,7 @@
   {
     "_id": 1442801,
     "name": "Carnage Vambraces",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -15578,6 +16457,7 @@
   {
     "_id": 1442802,
     "name": "Guardian Vambraces X",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -15598,6 +16478,7 @@
   {
     "_id": 1442803,
     "name": "Guardian Guards X",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -15618,6 +16499,7 @@
   {
     "_id": 1442804,
     "name": "Blue Guild Gloves X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15638,6 +16520,7 @@
   {
     "_id": 1442805,
     "name": "Blue Guild Gloves X",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15658,6 +16541,7 @@
   {
     "_id": 1442806,
     "name": "Blue Guild Sleeves X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15678,6 +16562,7 @@
   {
     "_id": 1442807,
     "name": "Blue Guild Sleeves X",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15698,6 +16583,7 @@
   {
     "_id": 1442808,
     "name": "Red Guild Gloves X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15718,6 +16604,7 @@
   {
     "_id": 1442809,
     "name": "Red Guild Gloves X",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -15738,6 +16625,7 @@
   {
     "_id": 1442810,
     "name": "Red Guild Sleeves X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15758,6 +16646,7 @@
   {
     "_id": 1442811,
     "name": "Red Guild Sleeves X",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -15778,6 +16667,7 @@
   {
     "_id": 1442812,
     "name": "G. Knight Gloves X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -15798,6 +16688,7 @@
   {
     "_id": 1442813,
     "name": "G. Knight Sleeves X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -15818,6 +16709,7 @@
   {
     "_id": 1442814,
     "name": "Guild Bard Braces X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -15838,6 +16730,7 @@
   {
     "_id": 1442815,
     "name": "Guild Bard Sleeves X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -15858,6 +16751,7 @@
   {
     "_id": 1442816,
     "name": "Ace Vambraces X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -15882,6 +16776,7 @@
   {
     "_id": 1442817,
     "name": "Ace Guards X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -15906,6 +16801,7 @@
   {
     "_id": 1442818,
     "name": "Sororal Vambraces X",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -15930,6 +16826,7 @@
   {
     "_id": 1442819,
     "name": "Sororal Guards X",
+    "num_slots": 0,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -15954,6 +16851,7 @@
   {
     "_id": 1442820,
     "name": "Shinobi Heaven Kote Goku",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -15974,6 +16872,7 @@
   {
     "_id": 1442821,
     "name": "Shinobi Land Kote Goku",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -15994,6 +16893,7 @@
   {
     "_id": 1442822,
     "name": "Kaiserin Arms",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -16018,6 +16918,7 @@
   {
     "_id": 1442823,
     "name": "Kaisrein Guards",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -16042,6 +16943,7 @@
   {
     "_id": 1442824,
     "name": "Barmaid's Gloves",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -16062,6 +16964,7 @@
   {
     "_id": 1442825,
     "name": "Barmaid's Sleeves",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -16082,6 +16985,7 @@
   {
     "_id": 1442826,
     "name": "Barman's Gloves",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -16102,6 +17006,7 @@
   {
     "_id": 1442827,
     "name": "Barman's Sleeves",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -16122,6 +17027,7 @@
   {
     "_id": 1442828,
     "name": "Helios Vambraces X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -16146,6 +17052,7 @@
   {
     "_id": 1442829,
     "name": "Selene Vambraces X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -16170,6 +17077,7 @@
   {
     "_id": 1442830,
     "name": "Helios Guards X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -16194,6 +17102,7 @@
   {
     "_id": 1442831,
     "name": "Selene Guards X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -16218,6 +17127,7 @@
   {
     "_id": 1442832,
     "name": "Strider's Gauntlets",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -16242,6 +17152,7 @@
   {
     "_id": 1442833,
     "name": "Deadeye's Gauntlets",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -16266,6 +17177,7 @@
   {
     "_id": 1442834,
     "name": "Damascus Vambraces X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -16290,6 +17202,7 @@
   {
     "_id": 1442835,
     "name": "Damascus Guards X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -16314,6 +17227,7 @@
   {
     "_id": 1442836,
     "name": "Chaos Vambraces",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -16338,6 +17252,7 @@
   {
     "_id": 1442837,
     "name": "Nephilim Vambraces",
+    "num_slots": 0,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -16362,6 +17277,7 @@
   {
     "_id": 1442838,
     "name": "Chaos Guards",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -16386,6 +17302,7 @@
   {
     "_id": 1442839,
     "name": "Nephilim Guards",
+    "num_slots": 0,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -16410,6 +17327,7 @@
   {
     "_id": 1442840,
     "name": "Grand Divine Ire Kote",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -16434,6 +17352,7 @@
   {
     "_id": 1442841,
     "name": "Grand Crusher Braces",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -16458,6 +17377,7 @@
   {
     "_id": 1442842,
     "name": "Esurient Vambraces Z",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -16478,6 +17398,7 @@
   {
     "_id": 1442843,
     "name": "Esurient Guards Z",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -16498,6 +17419,7 @@
   {
     "_id": 1442844,
     "name": "Brachydium Vambraces",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -16522,6 +17444,7 @@
   {
     "_id": 1442845,
     "name": "Brachydium Guards",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -16546,6 +17469,7 @@
   {
     "_id": 1442846,
     "name": "Akantor Claws X",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -16570,6 +17494,7 @@
   {
     "_id": 1442847,
     "name": "Akantor Gauntlets X",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -16594,6 +17519,7 @@
   {
     "_id": 1442848,
     "name": "Akantor Claws XR",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -16614,6 +17540,7 @@
   {
     "_id": 1442849,
     "name": "Akantor Gauntlets XR",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -16634,6 +17561,7 @@
   {
     "_id": 1442850,
     "name": "Ukanlos Claws X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Arms",
     "skills": [
@@ -16658,6 +17586,7 @@
   {
     "_id": 1442851,
     "name": "Ukanlos Gauntlets X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -16682,6 +17611,7 @@
   {
     "_id": 1442852,
     "name": "Grand Tempest Sleeves",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -16702,6 +17632,7 @@
   {
     "_id": 1442853,
     "name": "Grand Welkin Sleeves",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -16722,6 +17653,7 @@
   {
     "_id": 1442854,
     "name": "Grand Skeletal Humerus",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -16746,6 +17678,7 @@
   {
     "_id": 1442855,
     "name": "Grand Decayed Humerus",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -16770,6 +17703,7 @@
   {
     "_id": 1442856,
     "name": "Astral Vambraces X",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -16794,6 +17728,7 @@
   {
     "_id": 1442857,
     "name": "Astral Guards X",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -16818,6 +17753,7 @@
   {
     "_id": 1442858,
     "name": "Neset Gloves",
+    "num_slots": 3,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -16834,6 +17770,7 @@
   {
     "_id": 1442859,
     "name": "Neset Brachia",
+    "num_slots": 3,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -16850,6 +17787,7 @@
   {
     "_id": 1442860,
     "name": "Black Claw X",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -16874,6 +17812,7 @@
   {
     "_id": 1442861,
     "name": "Black Fist X",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -16898,6 +17837,7 @@
   {
     "_id": 1442862,
     "name": "Escadora Arms X",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Arms",
     "skills": [
@@ -16922,6 +17862,7 @@
   {
     "_id": 1442863,
     "name": "Escadora Arma X",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -16946,6 +17887,7 @@
   {
     "_id": 1442864,
     "name": "Escadora Armguards XR",
+    "num_slots": 2,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -16962,6 +17904,7 @@
   {
     "_id": 1442865,
     "name": "Escadora Arma XR",
+    "num_slots": 2,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -16978,6 +17921,7 @@
   {
     "_id": 1442866,
     "name": "Fatalis Crimsonclaws",
+    "num_slots": 3,
     "max_defense": 176,
     "sub_type": "Arms",
     "skills": [
@@ -16998,6 +17942,7 @@
   {
     "_id": 1442867,
     "name": "Fatalis Crimsonfists",
+    "num_slots": 3,
     "max_defense": 106,
     "sub_type": "Arms",
     "skills": [
@@ -17018,6 +17963,7 @@
   {
     "_id": 1442868,
     "name": "GX Fatalis Crimsonclaws",
+    "num_slots": 3,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -17038,6 +17984,7 @@
   {
     "_id": 1442869,
     "name": "GX Fatalis Crimsonfists",
+    "num_slots": 3,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -17058,6 +18005,7 @@
   {
     "_id": 1442870,
     "name": "Fatalis Crimsonclaws XR",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -17074,6 +18022,7 @@
   {
     "_id": 1442871,
     "name": "Fatalis Crimsonfists XR",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -17090,6 +18039,7 @@
   {
     "_id": 1442872,
     "name": "Old Fatalis Claw",
+    "num_slots": 1,
     "max_defense": 174,
     "sub_type": "Arms",
     "skills": [
@@ -17110,6 +18060,7 @@
   {
     "_id": 1442873,
     "name": "Old Fatalis Fist",
+    "num_slots": 1,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -17130,6 +18081,7 @@
   {
     "_id": 1442874,
     "name": "GX Old Fatalis Claw",
+    "num_slots": 3,
     "max_defense": 178,
     "sub_type": "Arms",
     "skills": [
@@ -17150,6 +18102,7 @@
   {
     "_id": 1442875,
     "name": "GX Old Fatalis Fist",
+    "num_slots": 3,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -17170,6 +18123,7 @@
   {
     "_id": 1442876,
     "name": "Helper Sleeves X",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -17190,6 +18144,7 @@
   {
     "_id": 1442877,
     "name": "Healer Sleeves X",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -17210,6 +18165,7 @@
   {
     "_id": 1442878,
     "name": "Ancient Arms X",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -17234,6 +18190,7 @@
   {
     "_id": 1442879,
     "name": "Ancient Guards X",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -17258,6 +18215,7 @@
   {
     "_id": 1442880,
     "name": "Master's Gauntlets X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -17282,6 +18240,7 @@
   {
     "_id": 1442881,
     "name": "Master's Guards X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -17306,6 +18265,7 @@
   {
     "_id": 1442882,
     "name": "Grand Toka Kote",
+    "num_slots": 0,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -17330,6 +18290,7 @@
   {
     "_id": 1442883,
     "name": "Grand Mitsuaoi Kote",
+    "num_slots": 0,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -17354,6 +18315,7 @@
   {
     "_id": 1442888,
     "name": "Black Belt Braces X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -17366,6 +18328,7 @@
   {
     "_id": 1442889,
     "name": "Black Belt Guards X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -17378,6 +18341,7 @@
   {
     "_id": 1442892,
     "name": "Auroros Gauntlets R",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -17402,6 +18366,7 @@
   {
     "_id": 1442893,
     "name": "Borealis Gauntlets R",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -17426,6 +18391,7 @@
   {
     "_id": 1442894,
     "name": "Genesis Gauntlets R",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -17450,6 +18416,7 @@
   {
     "_id": 1442895,
     "name": "Glyph Gauntlets R",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -17474,6 +18441,7 @@
   {
     "_id": 1442896,
     "name": "Silver Solbraces XR",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -17486,6 +18454,7 @@
   {
     "_id": 1442897,
     "name": "Silver Solguards XR",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -17498,6 +18467,7 @@
   {
     "_id": 1442898,
     "name": "Esurient Vambraces XR",
+    "num_slots": 3,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -17510,6 +18480,7 @@
   {
     "_id": 1442899,
     "name": "Esurient Guards XR",
+    "num_slots": 3,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -17522,6 +18493,7 @@
   {
     "_id": 1442900,
     "name": "Rustrazor Vambraces",
+    "num_slots": 0,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -17546,6 +18518,7 @@
   {
     "_id": 1442901,
     "name": "Rustrazor Guards",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -17570,6 +18543,7 @@
   {
     "_id": 1442902,
     "name": "Nightcloak Vambraces",
+    "num_slots": 0,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -17594,6 +18568,7 @@
   {
     "_id": 1442903,
     "name": "Nightcloak Guards",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -17618,6 +18593,7 @@
   {
     "_id": 1442904,
     "name": "Soulseer Vambraces",
+    "num_slots": 0,
     "max_defense": 174,
     "sub_type": "Arms",
     "skills": [
@@ -17642,6 +18618,7 @@
   {
     "_id": 1442905,
     "name": "Soulseer Guards",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -17666,6 +18643,7 @@
   {
     "_id": 1442906,
     "name": "Boltreaver Vambraces",
+    "num_slots": 0,
     "max_defense": 176,
     "sub_type": "Arms",
     "skills": [
@@ -17690,6 +18668,7 @@
   {
     "_id": 1442907,
     "name": "Boltreaver Guards",
+    "num_slots": 0,
     "max_defense": 105,
     "sub_type": "Arms",
     "skills": [
@@ -17714,6 +18693,7 @@
   {
     "_id": 1442908,
     "name": "Elderfrost Vambraces",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Arms",
     "skills": [
@@ -17738,6 +18718,7 @@
   {
     "_id": 1442909,
     "name": "Elderfrost Guards",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -17762,6 +18743,7 @@
   {
     "_id": 1442910,
     "name": "Bloodbath Vambraces",
+    "num_slots": 0,
     "max_defense": 180,
     "sub_type": "Arms",
     "skills": [
@@ -17786,6 +18768,7 @@
   {
     "_id": 1442911,
     "name": "Bloodbath Guards",
+    "num_slots": 0,
     "max_defense": 108,
     "sub_type": "Arms",
     "skills": [
@@ -17810,6 +18793,7 @@
   {
     "_id": 1442914,
     "name": "Genprey Vambraces GX",
+    "num_slots": 2,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -17830,6 +18814,7 @@
   {
     "_id": 1442915,
     "name": "Genprey Guards GX",
+    "num_slots": 2,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -17850,6 +18835,7 @@
   {
     "_id": 1442916,
     "name": "Ioprey Vambraces GX",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -17870,6 +18856,7 @@
   {
     "_id": 1442917,
     "name": "Ioprey Guards GX",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -17890,6 +18877,7 @@
   {
     "_id": 1442918,
     "name": "Vespoid Vambraces GX",
+    "num_slots": 2,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -17906,6 +18894,7 @@
   {
     "_id": 1442919,
     "name": "Vespoid Guards GX",
+    "num_slots": 2,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -17922,6 +18911,7 @@
   {
     "_id": 1442920,
     "name": "Hornetaur Braces XR",
+    "num_slots": 0,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -17938,6 +18928,7 @@
   {
     "_id": 1442921,
     "name": "Hornetaur Guards XR",
+    "num_slots": 0,
     "max_defense": 81,
     "sub_type": "Arms",
     "skills": [
@@ -17954,6 +18945,7 @@
   {
     "_id": 1442922,
     "name": "Hornetaur Braces GX",
+    "num_slots": 1,
     "max_defense": 142,
     "sub_type": "Arms",
     "skills": [
@@ -17974,6 +18966,7 @@
   {
     "_id": 1442923,
     "name": "Hornetaur Guards GX",
+    "num_slots": 1,
     "max_defense": 87,
     "sub_type": "Arms",
     "skills": [
@@ -17994,6 +18987,7 @@
   {
     "_id": 1442924,
     "name": "Cephalos Braces GX",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -18014,6 +19008,7 @@
   {
     "_id": 1442925,
     "name": "Cephalos Guards GX",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -18034,6 +19029,7 @@
   {
     "_id": 1442926,
     "name": "Hermitaur Braces GX",
+    "num_slots": 2,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -18054,6 +19050,7 @@
   {
     "_id": 1442927,
     "name": "Hermitaur Guards GX",
+    "num_slots": 2,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -18074,6 +19071,7 @@
   {
     "_id": 1442928,
     "name": "Rathian Braces GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -18094,6 +19092,7 @@
   {
     "_id": 1442929,
     "name": "Rathian Guards GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -18114,6 +19113,7 @@
   {
     "_id": 1442930,
     "name": "Ceanataur Braces GX",
+    "num_slots": 1,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -18130,6 +19130,7 @@
   {
     "_id": 1442931,
     "name": "Ceanataur Guards GX",
+    "num_slots": 1,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -18146,6 +19147,7 @@
   {
     "_id": 1442932,
     "name": "Blango Vambraces GX",
+    "num_slots": 1,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -18166,6 +19168,7 @@
   {
     "_id": 1442933,
     "name": "Blango Guards GX",
+    "num_slots": 1,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -18186,6 +19189,7 @@
   {
     "_id": 1442934,
     "name": "Gore Braces GX",
+    "num_slots": 1,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -18206,6 +19210,7 @@
   {
     "_id": 1442935,
     "name": "Gore Guards GX",
+    "num_slots": 1,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -18226,6 +19231,7 @@
   {
     "_id": 1442936,
     "name": "Zinogre Braces GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -18246,6 +19252,7 @@
   {
     "_id": 1442937,
     "name": "Zinogre Guards GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -18266,6 +19273,7 @@
   {
     "_id": 1442938,
     "name": "Tigrex Braces GX",
+    "num_slots": 2,
     "max_defense": 164,
     "sub_type": "Arms",
     "skills": [
@@ -18286,6 +19294,7 @@
   {
     "_id": 1442939,
     "name": "Tigrex Guards GX",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -18306,6 +19315,7 @@
   {
     "_id": 1442940,
     "name": "Brachydios Braces GX",
+    "num_slots": 1,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -18322,6 +19332,7 @@
   {
     "_id": 1442941,
     "name": "Brachydios Guards GX",
+    "num_slots": 1,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -18338,6 +19349,7 @@
   {
     "_id": 1442942,
     "name": "Rathalos Braces GX",
+    "num_slots": 1,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -18358,6 +19370,7 @@
   {
     "_id": 1442943,
     "name": "Rathalos Guards GX",
+    "num_slots": 1,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -18378,6 +19391,7 @@
   {
     "_id": 1442944,
     "name": "Arc Vambraces GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -18398,6 +19412,7 @@
   {
     "_id": 1442945,
     "name": "Arc Guards GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -18418,6 +19433,7 @@
   {
     "_id": 1442946,
     "name": "Storge Braces GX",
+    "num_slots": 2,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -18438,6 +19454,7 @@
   {
     "_id": 1442947,
     "name": "Storge Guards GX",
+    "num_slots": 2,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -18458,6 +19475,7 @@
   {
     "_id": 1442948,
     "name": "Kushala Grip GX",
+    "num_slots": 1,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -18482,6 +19500,7 @@
   {
     "_id": 1442949,
     "name": "Kushala Embrace GX",
+    "num_slots": 1,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -18506,6 +19525,7 @@
   {
     "_id": 1442950,
     "name": "Mizuha Sleeves GX",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -18530,6 +19550,7 @@
   {
     "_id": 1442951,
     "name": "Cham Sleeves GX",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -18554,6 +19575,7 @@
   {
     "_id": 1442952,
     "name": "Kaiser Vambraces GX",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -18574,6 +19596,7 @@
   {
     "_id": 1442953,
     "name": "Kaiser Guards GX",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -18594,6 +19617,7 @@
   {
     "_id": 1442954,
     "name": "Lavasioth Braces GX",
+    "num_slots": 2,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -18614,6 +19638,7 @@
   {
     "_id": 1442955,
     "name": "Lavasioth Guards GX",
+    "num_slots": 2,
     "max_defense": 99,
     "sub_type": "Arms",
     "skills": [
@@ -18634,6 +19659,7 @@
   {
     "_id": 1442956,
     "name": "GX Silver Solbraces",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -18654,6 +19680,7 @@
   {
     "_id": 1442957,
     "name": "GX Silver Solguards",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -18674,6 +19701,7 @@
   {
     "_id": 1442958,
     "name": "GX Golden Lunebraces",
+    "num_slots": 0,
     "max_defense": 168,
     "sub_type": "Arms",
     "skills": [
@@ -18694,6 +19722,7 @@
   {
     "_id": 1442959,
     "name": "GX Golden Luneguards",
+    "num_slots": 0,
     "max_defense": 102,
     "sub_type": "Arms",
     "skills": [
@@ -18714,6 +19743,7 @@
   {
     "_id": 1442960,
     "name": "Tempest Sleeves XR",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -18730,6 +19760,7 @@
   {
     "_id": 1442961,
     "name": "Welkin Sleeves XR",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -18746,6 +19777,7 @@
   {
     "_id": 1442962,
     "name": "Leather Braces X",
+    "num_slots": 1,
     "max_defense": 118,
     "sub_type": "Arms",
     "skills": [
@@ -18762,6 +19794,7 @@
   {
     "_id": 1442963,
     "name": "Leather Guards X",
+    "num_slots": 1,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -18778,6 +19811,7 @@
   {
     "_id": 1442964,
     "name": "Chain Vambraces X",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -18794,6 +19828,7 @@
   {
     "_id": 1442965,
     "name": "Chainmail Guards X",
+    "num_slots": 1,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -18810,6 +19845,7 @@
   {
     "_id": 1442967,
     "name": "Hunter's Vambraces X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -18826,6 +19862,7 @@
   {
     "_id": 1442968,
     "name": "Hunter's Guards X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Arms",
     "skills": [
@@ -18842,6 +19879,7 @@
   {
     "_id": 1442969,
     "name": "Bone Vambraces X",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -18862,6 +19900,7 @@
   {
     "_id": 1442970,
     "name": "Bone Guards X",
+    "num_slots": 2,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -18882,6 +19921,7 @@
   {
     "_id": 1442971,
     "name": "Dober Vambraces X",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -18902,6 +19942,7 @@
   {
     "_id": 1442972,
     "name": "Dober Guards X",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -18922,6 +19963,7 @@
   {
     "_id": 1442973,
     "name": "Alloy Vambraces X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -18942,6 +19984,7 @@
   {
     "_id": 1442974,
     "name": "Alloy Guards X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -18962,6 +20005,7 @@
   {
     "_id": 1442975,
     "name": "Ingot Vambraces X",
+    "num_slots": 1,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -18974,6 +20018,7 @@
   {
     "_id": 1442976,
     "name": "Ingot Guards X",
+    "num_slots": 1,
     "max_defense": 94,
     "sub_type": "Arms",
     "skills": [
@@ -18986,6 +20031,7 @@
   {
     "_id": 1442977,
     "name": "Damascus VambracesXR",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19002,6 +20048,7 @@
   {
     "_id": 1442978,
     "name": "Damascus Guards XR",
+    "num_slots": 1,
     "max_defense": 92,
     "sub_type": "Arms",
     "skills": [
@@ -19018,6 +20065,7 @@
   {
     "_id": 1442979,
     "name": "Battle Vambraces X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19038,6 +20086,7 @@
   {
     "_id": 1442980,
     "name": "Battle Guards X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19058,6 +20107,7 @@
   {
     "_id": 1442981,
     "name": "High Metal Braces X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19078,6 +20128,7 @@
   {
     "_id": 1442982,
     "name": "High Metal Guards X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19098,6 +20149,7 @@
   {
     "_id": 1442983,
     "name": "High Metal Braces Z",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19118,6 +20170,7 @@
   {
     "_id": 1442984,
     "name": "High Metal Guards Z",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19138,6 +20191,7 @@
   {
     "_id": 1442985,
     "name": "Mosgharl Creeper X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -19154,6 +20208,7 @@
   {
     "_id": 1442986,
     "name": "Mosgharl Tendril X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -19170,6 +20225,7 @@
   {
     "_id": 1442987,
     "name": "Mosgharl Creeper X",
+    "num_slots": 1,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -19186,6 +20242,7 @@
   {
     "_id": 1442988,
     "name": "Mosgharl Tendril X",
+    "num_slots": 1,
     "max_defense": 80,
     "sub_type": "Arms",
     "skills": [
@@ -19202,6 +20259,7 @@
   {
     "_id": 1442989,
     "name": "Obituary Brachia X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -19218,6 +20276,7 @@
   {
     "_id": 1442990,
     "name": "Obituary Manus X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -19234,6 +20293,7 @@
   {
     "_id": 1442991,
     "name": "Butterfly Brachia X",
+    "num_slots": 1,
     "max_defense": 146,
     "sub_type": "Arms",
     "skills": [
@@ -19250,6 +20310,7 @@
   {
     "_id": 1442992,
     "name": "Butterfly Manus X",
+    "num_slots": 1,
     "max_defense": 89,
     "sub_type": "Arms",
     "skills": [
@@ -19266,6 +20327,7 @@
   {
     "_id": 1442993,
     "name": "Aelucanth Brachia X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19286,6 +20348,7 @@
   {
     "_id": 1442994,
     "name": "Aelucanth Manus X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19306,6 +20369,7 @@
   {
     "_id": 1442995,
     "name": "Rhopessa Brachia X",
+    "num_slots": 0,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19326,6 +20390,7 @@
   {
     "_id": 1442996,
     "name": "Rhopessa Manus X",
+    "num_slots": 0,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19346,6 +20411,7 @@
   {
     "_id": 1442997,
     "name": "Vaik Braces X",
+    "num_slots": 1,
     "max_defense": 152,
     "sub_type": "Arms",
     "skills": [
@@ -19366,6 +20432,7 @@
   {
     "_id": 1442998,
     "name": "Vaik Guards X",
+    "num_slots": 1,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19386,6 +20453,7 @@
   {
     "_id": 1442999,
     "name": "Guardian Vambraces Z",
+    "num_slots": 1,
     "max_defense": 166,
     "sub_type": "Arms",
     "skills": [
@@ -19406,6 +20474,7 @@
   {
     "_id": 1443000,
     "name": "Guardian Guards Z",
+    "num_slots": 1,
     "max_defense": 100,
     "sub_type": "Arms",
     "skills": [
@@ -19426,6 +20495,7 @@
   {
     "_id": 1443001,
     "name": "Helper Sleeves Z",
+    "num_slots": 0,
     "max_defense": 162,
     "sub_type": "Arms",
     "skills": [
@@ -19450,6 +20520,7 @@
   {
     "_id": 1443002,
     "name": "Healer Sleeves Z",
+    "num_slots": 0,
     "max_defense": 98,
     "sub_type": "Arms",
     "skills": [
@@ -19474,6 +20545,7 @@
   {
     "_id": 1443003,
     "name": "Death Stench Grip XR",
+    "num_slots": 2,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -19494,6 +20566,7 @@
   {
     "_id": 1443004,
     "name": "Death Stench Grasp XR",
+    "num_slots": 2,
     "max_defense": 85,
     "sub_type": "Arms",
     "skills": [
@@ -19514,6 +20587,7 @@
   {
     "_id": 1443005,
     "name": "Makluva Sleeves X",
+    "num_slots": 1,
     "max_defense": 140,
     "sub_type": "Arms",
     "skills": [
@@ -19530,6 +20604,7 @@
   {
     "_id": 1443006,
     "name": "Makluva Sucker X",
+    "num_slots": 1,
     "max_defense": 85,
     "sub_type": "Arms",
     "skills": [
@@ -19546,6 +20621,7 @@
   {
     "_id": 1443007,
     "name": "Makluva Sleeves Z",
+    "num_slots": 1,
     "max_defense": 150,
     "sub_type": "Arms",
     "skills": [
@@ -19562,6 +20638,7 @@
   {
     "_id": 1443008,
     "name": "Makluva Sucker Z",
+    "num_slots": 1,
     "max_defense": 91,
     "sub_type": "Arms",
     "skills": [
@@ -19578,6 +20655,7 @@
   {
     "_id": 1443009,
     "name": "Melahoa Branch X",
+    "num_slots": 1,
     "max_defense": 138,
     "sub_type": "Arms",
     "skills": [
@@ -19594,6 +20672,7 @@
   {
     "_id": 1443010,
     "name": "Melahoa Petal X",
+    "num_slots": 1,
     "max_defense": 84,
     "sub_type": "Arms",
     "skills": [
@@ -19610,6 +20689,7 @@
   {
     "_id": 1443011,
     "name": "Melahoa Branch Z",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -19626,6 +20706,7 @@
   {
     "_id": 1443012,
     "name": "Melahoa Petal Z",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Arms",
     "skills": [
@@ -19642,6 +20723,7 @@
   {
     "_id": 1443013,
     "name": "Derring Vambraces X",
+    "num_slots": 0,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -19662,6 +20744,7 @@
   {
     "_id": 1443014,
     "name": "Derring Guards X",
+    "num_slots": 0,
     "max_defense": 90,
     "sub_type": "Arms",
     "skills": [
@@ -19682,6 +20765,7 @@
   {
     "_id": 1443015,
     "name": "GX Kita Star Sleeves",
+    "num_slots": 3,
     "max_defense": 160,
     "sub_type": "Arms",
     "skills": [
@@ -19694,6 +20778,7 @@
   {
     "_id": 1443016,
     "name": "GX Umi Ocean Sleeves",
+    "num_slots": 2,
     "max_defense": 97,
     "sub_type": "Arms",
     "skills": [
@@ -19706,6 +20791,7 @@
   {
     "_id": 1443019,
     "name": "Wisdom Sleeves X",
+    "num_slots": 2,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -19730,6 +20816,7 @@
   {
     "_id": 1443020,
     "name": "Wisdom Cuffs X",
+    "num_slots": 2,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -19754,6 +20841,7 @@
   {
     "_id": 1443021,
     "name": "Cheerful Braces X",
+    "num_slots": 2,
     "max_defense": 154,
     "sub_type": "Arms",
     "skills": [
@@ -19770,6 +20858,7 @@
   {
     "_id": 1443022,
     "name": "Cheerful Guards X",
+    "num_slots": 2,
     "max_defense": 93,
     "sub_type": "Arms",
     "skills": [
@@ -19786,6 +20875,7 @@
   {
     "_id": 1443023,
     "name": "Mariner Gloves X",
+    "num_slots": 1,
     "max_defense": 156,
     "sub_type": "Arms",
     "skills": [
@@ -19806,6 +20896,7 @@
   {
     "_id": 1443024,
     "name": "Mariner Sleeves X",
+    "num_slots": 1,
     "max_defense": 95,
     "sub_type": "Arms",
     "skills": [
@@ -19826,6 +20917,7 @@
   {
     "_id": 1443033,
     "name": "Giaprey Claws X",
+    "num_slots": 1,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -19842,6 +20934,7 @@
   {
     "_id": 1443034,
     "name": "Giaprey Gloves X",
+    "num_slots": 1,
     "max_defense": 78,
     "sub_type": "Arms",
     "skills": [
@@ -19858,6 +20951,7 @@
   {
     "_id": 1443037,
     "name": "Caravaneer's Armlets X",
+    "num_slots": 0,
     "max_defense": 72,
     "sub_type": "Arms",
     "skills": [
@@ -19870,6 +20964,7 @@
   {
     "_id": 1443039,
     "name": "Maccao Gauntlets X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -19882,6 +20977,7 @@
   {
     "_id": 1443040,
     "name": "Maccao Gloves X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Arms",
     "skills": [
@@ -19894,6 +20990,7 @@
   {
     "_id": 1443041,
     "name": "Jaggi Gauntlets X",
+    "num_slots": 2,
     "max_defense": 130,
     "sub_type": "Arms",
     "skills": [
@@ -19906,6 +21003,7 @@
   {
     "_id": 1443042,
     "name": "Jaggi Gloves X",
+    "num_slots": 2,
     "max_defense": 78,
     "sub_type": "Arms",
     "skills": [
@@ -19918,6 +21016,7 @@
   {
     "_id": 1443043,
     "name": "Artian Braces XR",
+    "num_slots": 1,
     "max_defense": 148,
     "sub_type": "Arms",
     "skills": [
@@ -19934,6 +21033,7 @@
   {
     "_id": 1443044,
     "name": "Artian Guards XR",
+    "num_slots": 1,
     "max_defense": 90,
     "sub_type": "Arms",
     "skills": [
@@ -19950,6 +21050,7 @@
   {
     "_id": 1443045,
     "name": "Dragonclaws",
+    "num_slots": 2,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -19966,6 +21067,7 @@
   {
     "_id": 1443046,
     "name": "Dragonfists",
+    "num_slots": 2,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -19982,6 +21084,7 @@
   {
     "_id": 1443047,
     "name": "Criminal Braces",
+    "num_slots": 0,
     "max_defense": 158,
     "sub_type": "Arms",
     "skills": [
@@ -20002,6 +21105,7 @@
   {
     "_id": 1443048,
     "name": "Criminal Hands",
+    "num_slots": 0,
     "max_defense": 96,
     "sub_type": "Arms",
     "skills": [
@@ -20022,6 +21126,7 @@
   {
     "_id": 1443063,
     "name": "Garo Gauntlets",
+    "num_slots": 1,
     "max_defense": 170,
     "sub_type": "Arms",
     "skills": [
@@ -20046,6 +21151,7 @@
   {
     "_id": 1443064,
     "name": "Garo Vambraces",
+    "num_slots": 1,
     "max_defense": 103,
     "sub_type": "Arms",
     "skills": [
@@ -20070,6 +21176,7 @@
   {
     "_id": 1443065,
     "name": "Varia Suit Guards",
+    "num_slots": 1,
     "max_defense": 136,
     "sub_type": "Arms",
     "skills": [
@@ -20090,6 +21197,7 @@
   {
     "_id": 1443066,
     "name": "Varia Suit Shield",
+    "num_slots": 0,
     "max_defense": 68,
     "sub_type": "Arms",
     "skills": [
@@ -20110,6 +21218,7 @@
   {
     "_id": 1443067,
     "name": "Zero Suit Gloves",
+    "num_slots": 1,
     "max_defense": 120,
     "sub_type": "Arms",
     "skills": [
@@ -20130,6 +21239,7 @@
   {
     "_id": 1443068,
     "name": "Zero Suit Hands",
+    "num_slots": 0,
     "max_defense": 60,
     "sub_type": "Arms",
     "skills": [
@@ -20150,6 +21260,7 @@
   {
     "_id": 1443069,
     "name": "Lodestar Armguards",
+    "num_slots": 2,
     "max_defense": 134,
     "sub_type": "Arms",
     "skills": [
@@ -20170,6 +21281,7 @@
   {
     "_id": 1443070,
     "name": "Lodestar Cuffs",
+    "num_slots": 2,
     "max_defense": 67,
     "sub_type": "Arms",
     "skills": [
@@ -20190,6 +21302,7 @@
   {
     "_id": 1443071,
     "name": "Hylian Bracers",
+    "num_slots": 0,
     "max_defense": 172,
     "sub_type": "Arms",
     "skills": [
@@ -20214,6 +21327,7 @@
   {
     "_id": 1443072,
     "name": "Hylian Gloves",
+    "num_slots": 0,
     "max_defense": 104,
     "sub_type": "Arms",
     "skills": [
@@ -20238,6 +21352,7 @@
   {
     "_id": 1443073,
     "name": "Hiryu Sky Kote",
+    "num_slots": 2,
     "max_defense": 132,
     "sub_type": "Arms",
     "skills": [
@@ -20258,6 +21373,7 @@
   {
     "_id": 1443074,
     "name": "Hiryu Land Kote",
+    "num_slots": 2,
     "max_defense": 66,
     "sub_type": "Arms",
     "skills": [
